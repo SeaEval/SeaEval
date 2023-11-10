@@ -41,7 +41,7 @@ DATASET=cross_mmlu
 bash evaluate.sh $DATASET $MODEL_NAME $GPU $BZ $PROMPT_INDEX $EVAL_MODE
 ```
 
-The example is doing inference on one llama-2-7b-chat model. The expected results are:
+The example is doing inference on one llama-2-7b-chat model with the frist prompt and cross-mmlu dataset. The expected results are:
 ```
 {
     "Accuracy": 0.375,
@@ -72,11 +72,13 @@ Run the following command:
 bash evaluate_all_datasets.sh
 ```
 
-You are expected to get evaluation results stored in folder [log](log/) as similar to [expected_log](expected_log/). To display the results, you can run the following command:
+You are expected to get evaluation results stored in folder `log` as similar to [expected_log](expected_log/). To display the performance on all datasets, you can run the following command:
 
 ```
 python gather_results.py
 ```
+
+To add your own model: adapt `model.py` accordingly.
 
 
 ## References
