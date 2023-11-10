@@ -10,6 +10,8 @@ SeaEval is a library for evaluating the capability of multilingual large languag
 
 [[Leaderboard]](https://binwang.xyz/SeaEval) & [[Datasets]](https://huggingface.co/datasets/binwang/SeaEval_v1.0) & [[Paper]](https://arxiv.org/abs/2309.04766)
 
+To mitigate the influence of random variations induced by prompts, we employ the median value derived from five distinct prompts are shown on the above leaderboard.
+
 ## Dependencies
 This code is written in python. To use it you will need:
 PYTHON 3.10
@@ -20,13 +22,13 @@ pip install -r requirements.txt
 
 ## How to use for one task
 
-Run the following command one by one...
-
 The dataset can be chosen from 
 DATASET={cross_mmlu, cross_logiqa, sg_eval, us_eval, cn_eval, sing2eng, flores_ind2eng, flores_vie2eng, flores_zho2eng, flores_zsm2eng, mmlu, c_eval, cmmlu, zbench, ind_emotion, ocnli, c3, dream, samsum, dialogsum, sst2, cola, qqp, mnli, qnli, wnli, rte, mrpc}.
 
 The prompt can be chosen from 
 PROMPT_INDEX={1,2,3,4,5}.
+
+Run the following command one by one...
 
 ```
 MODEL_NAME=binwang/llama-2-7b-chat-own
@@ -39,6 +41,28 @@ DATASET=cross_mmlu
 bash evaluate.sh $DATASET $MODEL_NAME $GPU $BZ $PROMPT_INDEX $EVAL_MODE
 ```
 
+The example is doing inference on one llama-2-7b-chat model. The expected results are:
+```
+{
+    "Accuracy": 0.375,
+    "Consistency": {
+        "consistency_3": 0.3178571428571429,
+    },
+    "AC3": {
+        "AC3_3": 0.3440721644518547,
+    },
+    "Lang_Acc": {
+        "Accuracy_english": 0.5,
+        "Accuracy_chinese": 0.325,
+        "Accuracy_indonesian": 0.45,
+        "Accuracy_vietnamese": 0.475,
+        "Accuracy_spanish": 0.4,
+        "Accuracy_malay": 0.275,
+        "Accuracy_filipino": 0.2
+    }
+}
+```
+
 
 
 ## How to evaluate all tasks and diverse prompts
@@ -46,6 +70,12 @@ bash evaluate.sh $DATASET $MODEL_NAME $GPU $BZ $PROMPT_INDEX $EVAL_MODE
 Run the following command:
 ```
 bash evaluate_all_datasets.sh
+```
+
+You are expected to get evaluation results stored in folder [log](log/) as similar to [expected_log](expected_log/). To display the results, you can run the following command:
+
+```
+python gather_results.py
 ```
 
 
