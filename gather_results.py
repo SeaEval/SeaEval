@@ -19,7 +19,7 @@ import os
 import json
 
 
-MODEL_NAME='Llama-2-7b-chat-hf'
+MODEL_NAME='llama-2-7b-chat-own'
 
 datasets = [
     'cross_mmlu',
@@ -37,19 +37,19 @@ datasets = [
     'cmmlu',
     'zbench',
     'ind_emotion',
-    'ocnli_mc',
-    'c3_mc',
+    'ocnli',
+    'c3',
     'dream',
     'samsum',
     'dialogsum',
-    'sst2_mc',
-    'cola_mc',
-    'qqp_mc',
-    'mnli_mc',
-    'qnli_mc',
-    'wnli_mc',
-    'rte_mc',
-    'mrpc_mc',
+    'sst2',
+    'cola',
+    'qqp',
+    'mnli',
+    'qnli',
+    'wnli',
+    'rte',
+    'mrpc',
 ]
 
 print('Model name: ', MODEL_NAME)
@@ -106,17 +106,17 @@ for dataset in datasets:
                          'cmmlu',
                          'zbench',
                          'ind_emotion',
-                         'ocnli_mc',
-                         'c3_mc',
+                         'ocnli',
+                         'c3',
                          'dream',
-                         'sst2_mc',
-                         'cola_mc',
-                         'qqp_mc',
-                         'mnli_mc',
-                         'qnli_mc',
-                         'wnli_mc',
-                         'rte_mc',
-                         'mrpc_mc',
+                         'sst2',
+                         'cola',
+                         'qqp',
+                         'mnli',
+                         'qnli',
+                         'wnli',
+                         'rte',
+                         'mrpc',
                          ]:
             result = {
                 'Accuracy': full_result['Accuracy']*100,
