@@ -21,10 +21,13 @@ pip install -r requirements.txt
 
 ## How to use SeaEval to evaluate just one task?
 
-The dataset variable can be chosen from 
+The dataset variable can be chosen from
+
 `DATASET`={cross_mmlu, cross_logiqa, sg_eval, us_eval, cn_eval, sing2eng, flores_ind2eng, flores_vie2eng, flores_zho2eng, flores_zsm2eng, mmlu, c_eval, cmmlu, zbench, ind_emotion, ocnli, c3, dream, samsum, dialogsum, sst2, cola, qqp, mnli, qnli, wnli, rte, mrpc}.
 
-The prompt variable can be chosen from `PROMPT_INDEX`={1, 2, 3, 4, 5}.
+The prompt variable can be chosen from 
+
+`PROMPT_INDEX`={1, 2, 3, 4, 5}.
 
 Run the following command line by line
 
