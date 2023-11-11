@@ -79,7 +79,7 @@ You are expected to get evaluation results stored in folder `log` as similar to 
 python gather_results.py
 ```
 
-To use SeaEval with customized model: Adapt `model.py` accordingly.
+To use SeaEval with customized model: adapt `model.py` accordingly.
 
 
 ## References
