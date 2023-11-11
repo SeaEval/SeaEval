@@ -13,14 +13,13 @@ SeaEval is a library for evaluating the capability of multilingual large languag
 To mitigate the influence of random variations induced by prompts, we employ the median value derived from five distinct prompts are shown on the above leaderboard.
 
 ## Dependencies
-This code is written in python. To use it you will need:
-PYTHON 3.10
+This code is written in python. To use it, you will need: PYTHON 3.10
 ```
 pip install -r requirements.txt
 ```
 
 
-## How to use for one task
+## How to use SeaEval to evaluate just one task?
 
 The dataset can be chosen from 
 DATASET={cross_mmlu, cross_logiqa, sg_eval, us_eval, cn_eval, sing2eng, flores_ind2eng, flores_vie2eng, flores_zho2eng, flores_zsm2eng, mmlu, c_eval, cmmlu, zbench, ind_emotion, ocnli, c3, dream, samsum, dialogsum, sst2, cola, qqp, mnli, qnli, wnli, rte, mrpc}.
@@ -41,7 +40,9 @@ DATASET=cross_mmlu
 bash evaluate.sh $DATASET $MODEL_NAME $GPU $BZ $PROMPT_INDEX $EVAL_MODE
 ```
 
-The example is doing inference on one llama-2-7b-chat model with the frist prompt and cross-mmlu dataset. The expected results are:
+The above example is doing inference using `llama-2-7b-chat` model with the 1st prompt on Cross-MMLU dataset. 
+
+The expected output is as follows:
 ```
 {
     "Accuracy": 0.375,
@@ -65,7 +66,7 @@ The example is doing inference on one llama-2-7b-chat model with the frist promp
 
 
 
-## How to evaluate all tasks and diverse prompts
+## How to use SeaEval to evaluate all 28 tasks?
 
 Run the following command:
 ```
@@ -78,7 +79,7 @@ You are expected to get evaluation results stored in folder `log` as similar to 
 python gather_results.py
 ```
 
-To add your own model: adapt `model.py` accordingly.
+To use SeaEval with customized model: Adapt `model.py` accordingly.
 
 
 ## References
@@ -89,7 +90,7 @@ Please consider citing our paper if you find this code useful for your research:
 ```
 @article{SeaEval2023,
   title={SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning},
-  author={Wang, Bin and Liu, Zhengyuan and Huang, Xin and Jiao, Fangkai and Ding, Yang and Aw, Ai Ti and Chen, Nancy F},
+  author={Wang, Bin and Liu, Zhengyuan and Huang, Xin and Jiao, Fangkai and Ding, Yang and Aw, Ai Ti and Chen, Nancy F.},
   journal={arXiv preprint arXiv:2309.04766},
   year={2023}
 }
