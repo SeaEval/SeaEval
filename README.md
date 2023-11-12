@@ -6,7 +6,7 @@
 
 
 
-SeaEval is a library for evaluating the capability of multilingual large language models (LLMs). We assess their generalization ability by evaluating their performance on a wide range of tasks in a zero-shot setting. The tasks are available in 7 languages over 28 datasets: English & Chinese & Indonesian & Spanish & Vietnamese & Malay & Pilipino.
+SeaEval is a library for evaluating the capability of multilingual large language models (LLMs). We assess their generalization ability by evaluating their performance on a wide range of tasks in a zero-shot setting. The tasks are available in 7 languages over 28 datasets: English & Chinese & Indonesian & Spanish & Vietnamese & Malay & Filipino.
 
 [[Leaderboard]](https://seaeval.github.io/) & [[Datasets]](https://huggingface.co/datasets/binwang/SeaEval_v1.0) & [[Paper]](https://arxiv.org/abs/2309.04766)
 
