@@ -8,12 +8,12 @@
 
 SeaEval is a library for evaluating the capability of multilingual large language models (LLMs). We assess their generalization ability by evaluating their performance on a wide range of tasks in a zero-shot setting. The tasks are available in 7 languages over 28 datasets: English & Chinese & Indonesian & Spanish & Vietnamese & Malay & Pilipino.
 
-[[Leaderboard]](https://binwang.xyz/SeaEval) & [[Datasets]](https://huggingface.co/datasets/binwang/SeaEval_v1.0) & [[Paper]](https://arxiv.org/abs/2309.04766)
+[[Leaderboard]](https://seaeval.github.io/) & [[Datasets]](https://huggingface.co/datasets/binwang/SeaEval_v1.0) & [[Paper]](https://arxiv.org/abs/2309.04766)
 
 To mitigate the influence of random variations induced by prompts, we employ the median value derived from five distinct prompts are shown on the above leaderboard.
 
 ## Dependencies
-This code is written in python. To use it, you will need: PYTHON 3.10
+This code is written in python. To use it, you will need: Python 3.10
 ```
 pip install -r requirements.txt
 ```
@@ -23,11 +23,11 @@ pip install -r requirements.txt
 
 The dataset variable can be chosen from
 
-`DATASET`={cross_mmlu, cross_logiqa, sg_eval, us_eval, cn_eval, sing2eng, flores_ind2eng, flores_vie2eng, flores_zho2eng, flores_zsm2eng, mmlu, c_eval, cmmlu, zbench, ind_emotion, ocnli, c3, dream, samsum, dialogsum, sst2, cola, qqp, mnli, qnli, wnli, rte, mrpc}.
+`DATASET` = {cross_mmlu, cross_logiqa, sg_eval, us_eval, cn_eval, sing2eng, flores_ind2eng, flores_vie2eng, flores_zho2eng, flores_zsm2eng, mmlu, c_eval, cmmlu, zbench, ind_emotion, ocnli, c3, dream, samsum, dialogsum, sst2, cola, qqp, mnli, qnli, wnli, rte, mrpc}.
 
 The prompt variable can be chosen from 
 
-`PROMPT_INDEX`={1, 2, 3, 4, 5}.
+`PROMPT_INDEX` = {1, 2, 3, 4, 5}.
 
 Run the following command line by line
 
