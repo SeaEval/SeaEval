@@ -47,21 +47,21 @@ The above example is doing inference using `llama-2-7b-chat` model with the 1st 
 The expected output is as follows:
 ```
 {
-    "Accuracy": 0.375,
+    "Accuracy": 0.33214285714285713,
     "Consistency": {
-        "consistency_3": 0.3178571428571429,
+        "consistency_3": 0.37928571428571417,
     },
     "AC3": {
-        "AC3_3": 0.3440721644518547,
+        "AC3_3": 0.35415232308222994,
     },
     "Lang_Acc": {
-        "Accuracy_english": 0.5,
-        "Accuracy_chinese": 0.325,
-        "Accuracy_indonesian": 0.45,
-        "Accuracy_vietnamese": 0.475,
+        "Accuracy_english": 0.525,
+        "Accuracy_chinese": 0.225,
+        "Accuracy_indonesian": 0.3,
+        "Accuracy_vietnamese": 0.3,
         "Accuracy_spanish": 0.4,
-        "Accuracy_malay": 0.275,
-        "Accuracy_filipino": 0.2
+        "Accuracy_malay": 0.3,
+        "Accuracy_filipino": 0.275
     }
 }
 ```
