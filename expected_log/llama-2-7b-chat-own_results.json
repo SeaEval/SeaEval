@@ -1,0 +1,512 @@
+{
+    "cross_mmlu_p1.json": {
+        "Overall_Accuracy": 37.5,
+        "Consistency": 31.78571428571429,
+        "AC3": 34.40721644518547,
+        "Accuracy_english": 50.0,
+        "Accuracy_chinese": 32.5,
+        "Accuracy_indonesian": 45.0,
+        "Accuracy_spanish": 40.0,
+        "Accuracy_vietnamese": 47.5,
+        "Accuracy_malay": 27.500000000000004,
+        "Accuracy_filipino": 20.0
+    },
+    "cross_mmlu_p2.json": {
+        "Overall_Accuracy": 40.0,
+        "Consistency": 20.28571428571429,
+        "AC3": 26.91943123496777,
+        "Accuracy_english": 57.49999999999999,
+        "Accuracy_chinese": 45.0,
+        "Accuracy_indonesian": 42.5,
+        "Accuracy_spanish": 35.0,
+        "Accuracy_vietnamese": 47.5,
+        "Accuracy_malay": 32.5,
+        "Accuracy_filipino": 20.0
+    },
+    "cross_mmlu_p3.json": {
+        "Overall_Accuracy": 37.857142857142854,
+        "Consistency": 16.714285714285715,
+        "AC3": 23.18997751921059,
+        "Accuracy_english": 55.00000000000001,
+        "Accuracy_chinese": 37.5,
+        "Accuracy_indonesian": 47.5,
+        "Accuracy_spanish": 37.5,
+        "Accuracy_vietnamese": 42.5,
+        "Accuracy_malay": 25.0,
+        "Accuracy_filipino": 20.0
+    },
+    "cross_mmlu_p4.json": {
+        "Overall_Accuracy": 37.857142857142854,
+        "Consistency": 24.071428571428573,
+        "AC3": 29.429889555377674,
+        "Accuracy_english": 47.5,
+        "Accuracy_chinese": 40.0,
+        "Accuracy_indonesian": 42.5,
+        "Accuracy_spanish": 37.5,
+        "Accuracy_vietnamese": 35.0,
+        "Accuracy_malay": 35.0,
+        "Accuracy_filipino": 27.500000000000004
+    },
+    "cross_mmlu_p5.json": {
+        "Overall_Accuracy": 34.64285714285714,
+        "Consistency": 26.21428571428572,
+        "AC3": 29.84490270079141,
+        "Accuracy_english": 47.5,
+        "Accuracy_chinese": 35.0,
+        "Accuracy_indonesian": 37.5,
+        "Accuracy_spanish": 35.0,
+        "Accuracy_vietnamese": 35.0,
+        "Accuracy_malay": 30.0,
+        "Accuracy_filipino": 22.5
+    },
+    "cross_logiqa_p1.json": {
+        "Overall_Accuracy": 37.857142857142854,
+        "Consistency": 39.85714285714286,
+        "AC3": 38.83140751305832,
+        "Accuracy_english": 37.5,
+        "Accuracy_chinese": 37.5,
+        "Accuracy_indonesian": 40.0,
+        "Accuracy_spanish": 37.5,
+        "Accuracy_vietnamese": 35.0,
+        "Accuracy_malay": 40.0,
+        "Accuracy_filipino": 37.5
+    },
+    "cross_logiqa_p2.json": {
+        "Overall_Accuracy": 38.21428571428571,
+        "Consistency": 42.07142857142857,
+        "AC3": 40.0502033054789,
+        "Accuracy_english": 40.0,
+        "Accuracy_chinese": 40.0,
+        "Accuracy_indonesian": 42.5,
+        "Accuracy_spanish": 37.5,
+        "Accuracy_vietnamese": 35.0,
+        "Accuracy_malay": 45.0,
+        "Accuracy_filipino": 27.500000000000004
+    },
+    "cross_logiqa_p3.json": {
+        "Overall_Accuracy": 36.78571428571429,
+        "Consistency": 30.78571428571429,
+        "AC3": 33.51932945809584,
+        "Accuracy_english": 45.0,
+        "Accuracy_chinese": 40.0,
+        "Accuracy_indonesian": 40.0,
+        "Accuracy_spanish": 27.500000000000004,
+        "Accuracy_vietnamese": 37.5,
+        "Accuracy_malay": 37.5,
+        "Accuracy_filipino": 30.0
+    },
+    "cross_logiqa_p4.json": {
+        "Overall_Accuracy": 37.857142857142854,
+        "Consistency": 39.42857142857143,
+        "AC3": 38.626881386513936,
+        "Accuracy_english": 35.0,
+        "Accuracy_chinese": 40.0,
+        "Accuracy_indonesian": 45.0,
+        "Accuracy_spanish": 35.0,
+        "Accuracy_vietnamese": 37.5,
+        "Accuracy_malay": 42.5,
+        "Accuracy_filipino": 30.0
+    },
+    "cross_logiqa_p5.json": {
+        "Overall_Accuracy": 36.78571428571429,
+        "Consistency": 38.357142857142854,
+        "AC3": 37.55499723410661,
+        "Accuracy_english": 35.0,
+        "Accuracy_chinese": 37.5,
+        "Accuracy_indonesian": 40.0,
+        "Accuracy_spanish": 40.0,
+        "Accuracy_vietnamese": 35.0,
+        "Accuracy_malay": 37.5,
+        "Accuracy_filipino": 32.5
+    },
+    "sing2eng_p1.json": {
+        "BLEU Score": 28.321360933468547
+    },
+    "sing2eng_p2.json": {
+        "BLEU Score": 28.75614972738378
+    },
+    "sing2eng_p3.json": {
+        "BLEU Score": 33.53786073319304
+    },
+    "sing2eng_p4.json": {
+        "BLEU Score": 31.367172930946545
+    },
+    "sing2eng_p5.json": {
+        "BLEU Score": 30.253907540153918
+    },
+    "sg_eval_p1.json": {
+        "Accuracy": 30.0
+    },
+    "sg_eval_p2.json": {
+        "Accuracy": 27.500000000000004
+    },
+    "sg_eval_p3.json": {
+        "Accuracy": 30.0
+    },
+    "sg_eval_p4.json": {
+        "Accuracy": 32.5
+    },
+    "sg_eval_p5.json": {
+        "Accuracy": 35.0
+    },
+    "us_eval_p1.json": {
+        "Accuracy": 42.5
+    },
+    "us_eval_p2.json": {
+        "Accuracy": 52.5
+    },
+    "us_eval_p3.json": {
+        "Accuracy": 55.00000000000001
+    },
+    "us_eval_p4.json": {
+        "Accuracy": 47.5
+    },
+    "us_eval_p5.json": {
+        "Accuracy": 42.5
+    },
+    "cn_eval_p1.json": {
+        "Accuracy": 22.5
+    },
+    "cn_eval_p2.json": {
+        "Accuracy": 22.5
+    },
+    "cn_eval_p3.json": {
+        "Accuracy": 27.500000000000004
+    },
+    "cn_eval_p4.json": {
+        "Accuracy": 27.500000000000004
+    },
+    "cn_eval_p5.json": {
+        "Accuracy": 30.0
+    },
+    "flores_ind2eng_p1.json": {
+        "BLEU Score": 11.988422063978149
+    },
+    "flores_ind2eng_p2.json": {
+        "BLEU Score": 19.804114924363972
+    },
+    "flores_ind2eng_p3.json": {
+        "BLEU Score": 19.79026205183944
+    },
+    "flores_ind2eng_p4.json": {
+        "BLEU Score": 16.760014380290418
+    },
+    "flores_ind2eng_p5.json": {
+        "BLEU Score": 17.421339732534566
+    },
+    "flores_vie2eng_p1.json": {
+        "BLEU Score": 7.148088682401614
+    },
+    "flores_vie2eng_p2.json": {
+        "BLEU Score": 14.47992080381092
+    },
+    "flores_vie2eng_p3.json": {
+        "BLEU Score": 14.987006731647224
+    },
+    "flores_vie2eng_p4.json": {
+        "BLEU Score": 12.333745911003595
+    },
+    "flores_vie2eng_p5.json": {
+        "BLEU Score": 13.543307704368715
+    },
+    "flores_zho2eng_p1.json": {
+        "BLEU Score": 6.680127960790083
+    },
+    "flores_zho2eng_p2.json": {
+        "BLEU Score": 11.305967335112868
+    },
+    "flores_zho2eng_p3.json": {
+        "BLEU Score": 10.369394303905521
+    },
+    "flores_zho2eng_p4.json": {
+        "BLEU Score": 9.197128763342844
+    },
+    "flores_zho2eng_p5.json": {
+        "BLEU Score": 14.48937371784952
+    },
+    "flores_zsm2eng_p1.json": {
+        "BLEU Score": 9.233799397882033
+    },
+    "flores_zsm2eng_p2.json": {
+        "BLEU Score": 16.922288988451005
+    },
+    "flores_zsm2eng_p3.json": {
+        "BLEU Score": 16.423223516998284
+    },
+    "flores_zsm2eng_p4.json": {
+        "BLEU Score": 14.972605432426414
+    },
+    "flores_zsm2eng_p5.json": {
+        "BLEU Score": 13.878399794924388
+    },
+    "mmlu_p1.json": {
+        "Accuracy": 37.0
+    },
+    "mmlu_p2.json": {
+        "Accuracy": 40.0
+    },
+    "mmlu_p3.json": {
+        "Accuracy": 45.0
+    },
+    "mmlu_p4.json": {
+        "Accuracy": 35.0
+    },
+    "mmlu_p5.json": {
+        "Accuracy": 38.0
+    },
+    "c_eval_p1.json": {
+        "Accuracy": 30.0
+    },
+    "c_eval_p2.json": {
+        "Accuracy": 25.0
+    },
+    "c_eval_p3.json": {
+        "Accuracy": 31.0
+    },
+    "c_eval_p4.json": {
+        "Accuracy": 30.0
+    },
+    "c_eval_p5.json": {
+        "Accuracy": 33.0
+    },
+    "cmmlu_p1.json": {
+        "Accuracy": 28.000000000000004
+    },
+    "cmmlu_p2.json": {
+        "Accuracy": 28.999999999999996
+    },
+    "cmmlu_p3.json": {
+        "Accuracy": 24.0
+    },
+    "cmmlu_p4.json": {
+        "Accuracy": 24.0
+    },
+    "cmmlu_p5.json": {
+        "Accuracy": 30.0
+    },
+    "zbench_p1.json": {
+        "Accuracy": 40.0
+    },
+    "zbench_p2.json": {
+        "Accuracy": 50.0
+    },
+    "zbench_p3.json": {
+        "Accuracy": 40.0
+    },
+    "zbench_p4.json": {
+        "Accuracy": 40.0
+    },
+    "zbench_p5.json": {
+        "Accuracy": 40.0
+    },
+    "ind_emotion_p1.json": {
+        "Accuracy": 31.0
+    },
+    "ind_emotion_p2.json": {
+        "Accuracy": 38.0
+    },
+    "ind_emotion_p3.json": {
+        "Accuracy": 38.0
+    },
+    "ind_emotion_p4.json": {
+        "Accuracy": 39.0
+    },
+    "ind_emotion_p5.json": {
+        "Accuracy": 32.0
+    },
+    "ocnli_p1.json": {
+        "Accuracy": 36.0
+    },
+    "ocnli_p2.json": {
+        "Accuracy": 34.0
+    },
+    "ocnli_p3.json": {
+        "Accuracy": 35.0
+    },
+    "ocnli_p4.json": {
+        "Accuracy": 32.0
+    },
+    "ocnli_p5.json": {
+        "Accuracy": 38.0
+    },
+    "c3_p1.json": {
+        "Accuracy": 61.0
+    },
+    "c3_p2.json": {
+        "Accuracy": 59.0
+    },
+    "c3_p3.json": {
+        "Accuracy": 67.0
+    },
+    "c3_p4.json": {
+        "Accuracy": 64.0
+    },
+    "c3_p5.json": {
+        "Accuracy": 56.99999999999999
+    },
+    "dream_p1.json": {
+        "Accuracy": 57.99999999999999
+    },
+    "dream_p2.json": {
+        "Accuracy": 59.0
+    },
+    "dream_p3.json": {
+        "Accuracy": 62.0
+    },
+    "dream_p4.json": {
+        "Accuracy": 61.0
+    },
+    "dream_p5.json": {
+        "Accuracy": 59.0
+    },
+    "samsum_p1.json": {
+        "avg_rouge": 21.24875481665542
+    },
+    "samsum_p2.json": {
+        "avg_rouge": 23.249295832219005
+    },
+    "samsum_p3.json": {
+        "avg_rouge": 23.41528001724313
+    },
+    "samsum_p4.json": {
+        "avg_rouge": 23.260536518104914
+    },
+    "samsum_p5.json": {
+        "avg_rouge": 22.926092554529838
+    },
+    "dialogsum_p1.json": {
+        "avg_rouge": 18.45923763858761
+    },
+    "dialogsum_p2.json": {
+        "avg_rouge": 20.470657696676053
+    },
+    "dialogsum_p3.json": {
+        "avg_rouge": 20.911188275027744
+    },
+    "dialogsum_p4.json": {
+        "avg_rouge": 20.100772461854774
+    },
+    "dialogsum_p5.json": {
+        "avg_rouge": 21.39877628728702
+    },
+    "sst2_p1.json": {
+        "Accuracy": 59.0
+    },
+    "sst2_p2.json": {
+        "Accuracy": 64.0
+    },
+    "sst2_p3.json": {
+        "Accuracy": 63.0
+    },
+    "sst2_p4.json": {
+        "Accuracy": 52.0
+    },
+    "sst2_p5.json": {
+        "Accuracy": 82.0
+    },
+    "cola_p1.json": {
+        "Accuracy": 77.0
+    },
+    "cola_p2.json": {
+        "Accuracy": 74.0
+    },
+    "cola_p3.json": {
+        "Accuracy": 75.0
+    },
+    "cola_p4.json": {
+        "Accuracy": 80.0
+    },
+    "cola_p5.json": {
+        "Accuracy": 72.0
+    },
+    "qqp_p1.json": {
+        "Accuracy": 57.99999999999999
+    },
+    "qqp_p2.json": {
+        "Accuracy": 63.0
+    },
+    "qqp_p3.json": {
+        "Accuracy": 51.0
+    },
+    "qqp_p4.json": {
+        "Accuracy": 59.0
+    },
+    "qqp_p5.json": {
+        "Accuracy": 63.0
+    },
+    "mnli_p1.json": {
+        "Accuracy": 46.0
+    },
+    "mnli_p2.json": {
+        "Accuracy": 38.0
+    },
+    "mnli_p3.json": {
+        "Accuracy": 44.0
+    },
+    "mnli_p4.json": {
+        "Accuracy": 38.0
+    },
+    "mnli_p5.json": {
+        "Accuracy": 40.0
+    },
+    "qnli_p1.json": {
+        "Accuracy": 53.0
+    },
+    "qnli_p2.json": {
+        "Accuracy": 55.00000000000001
+    },
+    "qnli_p3.json": {
+        "Accuracy": 63.0
+    },
+    "qnli_p4.json": {
+        "Accuracy": 51.0
+    },
+    "qnli_p5.json": {
+        "Accuracy": 62.0
+    },
+    "wnli_p1.json": {
+        "Accuracy": 55.00000000000001
+    },
+    "wnli_p2.json": {
+        "Accuracy": 50.0
+    },
+    "wnli_p3.json": {
+        "Accuracy": 45.0
+    },
+    "wnli_p4.json": {
+        "Accuracy": 50.0
+    },
+    "wnli_p5.json": {
+        "Accuracy": 50.0
+    },
+    "rte_p1.json": {
+        "Accuracy": 59.0
+    },
+    "rte_p2.json": {
+        "Accuracy": 59.0
+    },
+    "rte_p3.json": {
+        "Accuracy": 62.0
+    },
+    "rte_p4.json": {
+        "Accuracy": 59.0
+    },
+    "rte_p5.json": {
+        "Accuracy": 60.0
+    },
+    "mrpc_p1.json": {
+        "Accuracy": 60.0
+    },
+    "mrpc_p2.json": {
+        "Accuracy": 44.0
+    },
+    "mrpc_p3.json": {
+        "Accuracy": 41.0
+    },
+    "mrpc_p4.json": {
+        "Accuracy": 62.0
+    },
+    "mrpc_p5.json": {
+        "Accuracy": 44.0
+    }
+}

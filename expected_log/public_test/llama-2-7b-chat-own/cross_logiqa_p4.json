@@ -1,0 +1,28 @@
+{
+    "Accuracy": 0.37857142857142856,
+    "Consistency": {
+        "consistency_2": 0.5499999999999999,
+        "consistency_3": 0.3942857142857143,
+        "consistency_4": 0.31214285714285717,
+        "consistency_5": 0.2595238095238096,
+        "consistency_6": 0.225,
+        "consistency_7": 0.2
+    },
+    "AC3": {
+        "AC3_2": 0.44846153797857985,
+        "AC3_3": 0.3862688138651394,
+        "AC3_4": 0.3421628005092044,
+        "AC3_5": 0.30794243022102846,
+        "AC3_6": 0.2822485202424285,
+        "AC3_7": 0.2617283946093584
+    },
+    "Lang_Acc": {
+        "Accuracy_english": 0.35,
+        "Accuracy_chinese": 0.4,
+        "Accuracy_indonesian": 0.45,
+        "Accuracy_vietnamese": 0.375,
+        "Accuracy_spanish": 0.35,
+        "Accuracy_malay": 0.425,
+        "Accuracy_filipino": 0.3
+    }
+}
