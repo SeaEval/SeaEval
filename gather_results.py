@@ -24,7 +24,7 @@ MODEL_NAME='llama-2-7b-chat-own'
 datasets = [
     'cross_mmlu',
     'cross_logiqa',
-    'sing2eng',
+    #'sing2eng',
     'sg_eval',
     'us_eval',
     'cn_eval',
