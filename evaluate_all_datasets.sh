@@ -48,11 +48,12 @@ bash evaluate.sh $DATASET $MODEL_NAME $GPU $BZ $PROMPT_INDEX $EVAL_MODE
 done
 
 # =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =
-DATASET=sing2eng
-for ((PROMPT_INDEX=1; PROMPT_INDEX<=5; PROMPT_INDEX++))
-do
-bash evaluate.sh $DATASET $MODEL_NAME $GPU $BZ $PROMPT_INDEX $EVAL_MODE
-done
+# Comment as the dataset is not released.
+#DATASET=sing2eng
+#for ((PROMPT_INDEX=1; PROMPT_INDEX<=5; PROMPT_INDEX++))
+#do
+#bash evaluate.sh $DATASET $MODEL_NAME $GPU $BZ $PROMPT_INDEX $EVAL_MODE
+#done
 
 # =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =
 DATASET=flores_ind2eng
