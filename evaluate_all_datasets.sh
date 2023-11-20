@@ -2,7 +2,7 @@
 
 
 
-MODEL_NAME=binwang/llama-2-7b-chat-own
+MODEL_NAME=SeaEval/llama-2-7b-chat-own
 GPU=0
 BZ=1
 EVAL_MODE=public_test
