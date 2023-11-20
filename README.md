@@ -8,7 +8,7 @@
 
 SeaEval is a library for evaluating the capability of multilingual large language models (LLMs). We assess their generalization ability by evaluating their performance on a wide range of tasks in a zero-shot setting. The tasks are available in 7 languages over 28 datasets: English & Chinese & Indonesian & Spanish & Vietnamese & Malay & Filipino.
 
-[[Leaderboard]](https://seaeval.github.io/) & [[Datasets]](https://huggingface.co/datasets/binwang/SeaEval_v1.0) & [[Paper]](https://arxiv.org/abs/2309.04766)
+[[Leaderboard]](https://seaeval.github.io/) & [[Datasets]](https://huggingface.co/datasets/SeaEval/SeaEval_v1.0) & [[Paper]](https://arxiv.org/abs/2309.04766)
 
 To mitigate the influence of random variations induced by prompts, we employ the median value derived from five distinct prompts are shown on the above leaderboard.
 
@@ -32,7 +32,7 @@ The prompt variable can be chosen from
 Run the following command line by line
 
 ```
-MODEL_NAME=binwang/llama-2-7b-chat-own
+MODEL_NAME=SeaEval/llama-2-7b-chat-own
 GPU=0
 BZ=1
 EVAL_MODE=public_test
