@@ -1,28 +1,28 @@
 {
-    "Accuracy": 0.375,
+    "Accuracy": 0.33214285714285713,
     "Consistency": {
-        "consistency_2": 0.5035714285714286,
-        "consistency_3": 0.3178571428571429,
-        "consistency_4": 0.2271428571428571,
-        "consistency_5": 0.1714285714285714,
-        "consistency_6": 0.13214285714285715,
-        "consistency_7": 0.1
+        "consistency_2": 0.5559523809523811,
+        "consistency_3": 0.37928571428571417,
+        "consistency_4": 0.2835714285714286,
+        "consistency_5": 0.22380952380952382,
+        "consistency_6": 0.18214285714285716,
+        "consistency_7": 0.15
     },
     "AC3": {
-        "AC3_2": 0.42987804829119575,
-        "AC3_3": 0.3440721644518547,
-        "AC3_4": 0.28291814899633994,
-        "AC3_5": 0.2352941172164552,
-        "AC3_6": 0.19542253482592745,
-        "AC3_7": 0.15789473650969532
+        "AC3_2": 0.4158464185283077,
+        "AC3_3": 0.35415232308222994,
+        "AC3_4": 0.3059413319525647,
+        "AC3_5": 0.26742122925284895,
+        "AC3_6": 0.2352678566853919,
+        "AC3_7": 0.20666666623802468
     },
     "Lang_Acc": {
-        "Accuracy_english": 0.5,
-        "Accuracy_chinese": 0.325,
-        "Accuracy_indonesian": 0.45,
-        "Accuracy_vietnamese": 0.475,
+        "Accuracy_english": 0.525,
+        "Accuracy_chinese": 0.225,
+        "Accuracy_indonesian": 0.3,
+        "Accuracy_vietnamese": 0.3,
         "Accuracy_spanish": 0.4,
-        "Accuracy_malay": 0.275,
-        "Accuracy_filipino": 0.2
+        "Accuracy_malay": 0.3,
+        "Accuracy_filipino": 0.275
     }
 }

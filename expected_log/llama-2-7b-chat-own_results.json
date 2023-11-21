@@ -1,62 +1,62 @@
 {
     "cross_mmlu_p1.json": {
-        "Overall_Accuracy": 37.5,
-        "Consistency": 31.78571428571429,
-        "AC3": 34.40721644518547,
-        "Accuracy_english": 50.0,
-        "Accuracy_chinese": 32.5,
-        "Accuracy_indonesian": 45.0,
+        "Overall_Accuracy": 33.214285714285715,
+        "Consistency": 37.928571428571416,
+        "AC3": 35.415232308223,
+        "Accuracy_english": 52.5,
+        "Accuracy_chinese": 22.5,
+        "Accuracy_indonesian": 30.0,
         "Accuracy_spanish": 40.0,
-        "Accuracy_vietnamese": 47.5,
-        "Accuracy_malay": 27.500000000000004,
-        "Accuracy_filipino": 20.0
-    },
-    "cross_mmlu_p2.json": {
-        "Overall_Accuracy": 40.0,
-        "Consistency": 20.28571428571429,
-        "AC3": 26.91943123496777,
-        "Accuracy_english": 57.49999999999999,
-        "Accuracy_chinese": 45.0,
-        "Accuracy_indonesian": 42.5,
-        "Accuracy_spanish": 35.0,
-        "Accuracy_vietnamese": 47.5,
-        "Accuracy_malay": 32.5,
-        "Accuracy_filipino": 20.0
-    },
-    "cross_mmlu_p3.json": {
-        "Overall_Accuracy": 37.857142857142854,
-        "Consistency": 16.714285714285715,
-        "AC3": 23.18997751921059,
-        "Accuracy_english": 55.00000000000001,
-        "Accuracy_chinese": 37.5,
-        "Accuracy_indonesian": 47.5,
-        "Accuracy_spanish": 37.5,
-        "Accuracy_vietnamese": 42.5,
-        "Accuracy_malay": 25.0,
-        "Accuracy_filipino": 20.0
-    },
-    "cross_mmlu_p4.json": {
-        "Overall_Accuracy": 37.857142857142854,
-        "Consistency": 24.071428571428573,
-        "AC3": 29.429889555377674,
-        "Accuracy_english": 47.5,
-        "Accuracy_chinese": 40.0,
-        "Accuracy_indonesian": 42.5,
-        "Accuracy_spanish": 37.5,
-        "Accuracy_vietnamese": 35.0,
-        "Accuracy_malay": 35.0,
+        "Accuracy_vietnamese": 30.0,
+        "Accuracy_malay": 30.0,
         "Accuracy_filipino": 27.500000000000004
     },
-    "cross_mmlu_p5.json": {
-        "Overall_Accuracy": 34.64285714285714,
-        "Consistency": 26.21428571428572,
-        "AC3": 29.84490270079141,
-        "Accuracy_english": 47.5,
-        "Accuracy_chinese": 35.0,
+    "cross_mmlu_p2.json": {
+        "Overall_Accuracy": 36.78571428571429,
+        "Consistency": 30.5,
+        "AC3": 33.349256850648665,
+        "Accuracy_english": 60.0,
+        "Accuracy_chinese": 27.500000000000004,
         "Accuracy_indonesian": 37.5,
+        "Accuracy_spanish": 45.0,
+        "Accuracy_vietnamese": 32.5,
+        "Accuracy_malay": 30.0,
+        "Accuracy_filipino": 25.0
+    },
+    "cross_mmlu_p3.json": {
+        "Overall_Accuracy": 32.857142857142854,
+        "Consistency": 26.42857142857143,
+        "AC3": 29.294320088281527,
+        "Accuracy_english": 42.5,
+        "Accuracy_chinese": 27.500000000000004,
+        "Accuracy_indonesian": 35.0,
+        "Accuracy_spanish": 37.5,
+        "Accuracy_vietnamese": 30.0,
+        "Accuracy_malay": 27.500000000000004,
+        "Accuracy_filipino": 30.0
+    },
+    "cross_mmlu_p4.json": {
+        "Overall_Accuracy": 35.0,
+        "Consistency": 25.428571428571427,
+        "AC3": 29.45626472666812,
+        "Accuracy_english": 40.0,
+        "Accuracy_chinese": 32.5,
+        "Accuracy_indonesian": 35.0,
         "Accuracy_spanish": 35.0,
         "Accuracy_vietnamese": 35.0,
-        "Accuracy_malay": 30.0,
+        "Accuracy_malay": 32.5,
+        "Accuracy_filipino": 35.0
+    },
+    "cross_mmlu_p5.json": {
+        "Overall_Accuracy": 34.285714285714285,
+        "Consistency": 28.07142857142857,
+        "AC3": 30.86892484004002,
+        "Accuracy_english": 50.0,
+        "Accuracy_chinese": 30.0,
+        "Accuracy_indonesian": 32.5,
+        "Accuracy_spanish": 42.5,
+        "Accuracy_vietnamese": 30.0,
+        "Accuracy_malay": 32.5,
         "Accuracy_filipino": 22.5
     },
     "cross_logiqa_p1.json": {
@@ -118,21 +118,6 @@
         "Accuracy_vietnamese": 35.0,
         "Accuracy_malay": 37.5,
         "Accuracy_filipino": 32.5
-    },
-    "sing2eng_p1.json": {
-        "BLEU Score": 28.321360933468547
-    },
-    "sing2eng_p2.json": {
-        "BLEU Score": 28.75614972738378
-    },
-    "sing2eng_p3.json": {
-        "BLEU Score": 33.53786073319304
-    },
-    "sing2eng_p4.json": {
-        "BLEU Score": 31.367172930946545
-    },
-    "sing2eng_p5.json": {
-        "BLEU Score": 30.253907540153918
     },
     "sg_eval_p1.json": {
         "Accuracy": 30.0
@@ -345,19 +330,19 @@
         "Accuracy": 56.99999999999999
     },
     "dream_p1.json": {
-        "Accuracy": 57.99999999999999
+        "Accuracy": 72.0
     },
     "dream_p2.json": {
-        "Accuracy": 59.0
+        "Accuracy": 75.0
     },
     "dream_p3.json": {
-        "Accuracy": 62.0
+        "Accuracy": 78.0
     },
     "dream_p4.json": {
-        "Accuracy": 61.0
+        "Accuracy": 71.0
     },
     "dream_p5.json": {
-        "Accuracy": 59.0
+        "Accuracy": 80.0
     },
     "samsum_p1.json": {
         "avg_rouge": 21.24875481665542
