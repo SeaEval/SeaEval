@@ -25,7 +25,7 @@ from model   import Model
 from metric  import Metric
 
 from transformers import set_seed
-set_seed(42) # ensure reproducability
+set_seed(1234) # ensure reproducability
 
 MODEL_LANG = [
             'english',
