@@ -42,7 +42,7 @@ class Dataset(object):
         self.prompt_template = PROMPT_TEMPLATE[dataset_name][prompt_index-1]
         
         self.dataset_name    = dataset_name
-        self.data_path       = 'binwang/SeaEval_v1.0'
+        self.data_path       = 'SeaEval/SeaEval_v1.0'
         self.eval_model      = eval_mode
         self.data_split      = DATASET_SPLIT[dataset_name]
 
