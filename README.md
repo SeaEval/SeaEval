@@ -1,4 +1,4 @@
-## SeaEval Benchmark
+## SeaEval Benchmark: Multilingual Evaluation with New Cross-Lingual Consistency and Cultural Reasoning Datasets
 
 <p align="center">
   <img src="img/seaeval_overall.png" width="300" title="hover text">
