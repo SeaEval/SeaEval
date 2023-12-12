@@ -15,6 +15,21 @@ SeaEval is a library for evaluating the capability of multilingual large languag
 
 We employ the median value derived from **5 distinct prompts** shown on the above leaderboard to mitigate the influence of random variations induced by prompts.
 
+## Citation
+
+Please cite our paper if you find this code useful:
+
+[SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning](https://arxiv.org/abs/2309.04766)
+```
+@article{SeaEval2023,
+  title={SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning},
+  author={Wang, Bin and Liu, Zhengyuan and Huang, Xin and Jiao, Fangkai and Ding, Yang and Aw, Ai Ti and Chen, Nancy F.},
+  journal={arXiv preprint arXiv:2309.04766},
+  year={2023}
+}
+```
+
+
 ## Dependencies
 Python 3.10
 ```
@@ -87,18 +102,6 @@ python gather_results.py
 To use SeaEval with customized model: adapt `model.py` accordingly.
 
 
-## References
+## Contact
 
-Please consider citing our paper if you find this code useful for your research:
-
-[SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning](https://arxiv.org/abs/2309.04766)
-```
-@article{SeaEval2023,
-  title={SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning},
-  author={Wang, Bin and Liu, Zhengyuan and Huang, Xin and Jiao, Fangkai and Ding, Yang and Aw, Ai Ti and Chen, Nancy F.},
-  journal={arXiv preprint arXiv:2309.04766},
-  year={2023}
-}
-```
-
-Contact: seaeval_help@googlegroups.com.
+```seaeval_help@googlegroups.com```
