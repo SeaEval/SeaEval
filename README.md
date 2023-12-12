@@ -1,7 +1,8 @@
-## SeaEval Benchmark: Multilingual Evaluation with New Cross-Lingual Consistency and Cultural Reasoning Datasets
+## SeaEval Benchmark: Multilingual Evaluation of LLMs 
+(**Cross-Lingual Consistency** and **Cultural Awareness**)
 
 <p align="center">
-  <img src="img/seaeval_overall.png" width="300" title="hover text">
+  <img src="img/seaeval_overall.png" width="400" title="hover text">
 </p>
 
 
