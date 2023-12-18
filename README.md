@@ -7,6 +7,8 @@
 
 
 
+
+
 SeaEval is a library for evaluating the capability of multilingual large language models (LLMs). We assess their generalization ability by evaluating their performance on a wide range of tasks in a zero-shot setting. The tasks are available in 7 languages over 28 datasets: 
 
 1) **English** 2) **中文** 3) **Bahasa Indonesia** 4) **Español** 5) **Tiếng Việt** 6) **Bahasa Melayu** 7) **Wikang Filipino** 8) **Singlish**.
@@ -14,6 +16,15 @@ SeaEval is a library for evaluating the capability of multilingual large languag
 [[Leaderboard]](https://seaeval.github.io/) & [[Datasets]](https://huggingface.co/datasets/SeaEval/SeaEval_v1.0) & [[Paper]](https://arxiv.org/abs/2309.04766)
 
 We employ the median value derived from **5 distinct prompts** shown on the above leaderboard to mitigate the influence of random variations induced by prompts.
+
+
+
+| Datasets         | LLaMa-2-7B-Chat | Mistral-7B |
+| :-------------   |:-------------:| :-----:|
+| **Cross-MMLU**   | 0.00 (AC3) 0.00 (Overall Accuracy) 0.00 (Consistency3) | 0.00 (AC3) 0.00 (Overall Accuracy) 0.00 (Consistency3) |
+| **Cross-LogiQA** | 0.00 (AC3) 0.00 (Overall Accuracy) 0.00 (Consistency3)      |   0.00 (AC3) 0.00 (Overall Accuracy) 0.00 (Consistency3) |
+| **SG_Eval**      | 0.00      |    0.00 |
+
 
 ## Citation
 
