@@ -14,7 +14,7 @@ Special focus on: **Cross-Lingual Consistency** and **Cultural Reasoning**
 
 **Cross-Lingual Consistency**: 2 new datasets with parallel questions in 7 different languages.
 
-**Cross-Lingual Consistency**: 4 new datasets focusing on regions 
+**Cultural Reasoning**: 4 new datasets focusing on regions 
 including Singaproe, US, China, and the Philipines.
 
 <p align="center">
@@ -85,7 +85,6 @@ SeaEval is an advanced concept that extends beyond mere multilingual language un
 ## Citation
 
 Please cite our paper if you find this code useful:
-
 [SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning](https://arxiv.org/abs/2309.04766)
 ```
 @article{SeaEval2023,
@@ -159,16 +158,16 @@ The expected output is as follows:
 
 
 ```
-`DATASET` = {cross_mmlu, cross_logiqa, sg_eval, us_eval, cn_eval, ph_eval, sing2eng, flores_ind2eng, flores_vie2eng, flores_zho2eng, flores_zsm2eng, mmlu, mmlu_full, c_eval, c_eval_full, cmmlu, cmmlu_full, zbench, ind_emotion, ocnli, c3, dream, samsum, dialogsum, sst2, cola, qqp, mnli, qnli, wnli, rte, mrpc}.
+DATASET = {cross_mmlu, cross_logiqa, sg_eval, us_eval, cn_eval, ph_eval, sing2eng, flores_ind2eng, flores_vie2eng, flores_zho2eng, flores_zsm2eng, mmlu, mmlu_full, c_eval, c_eval_full, cmmlu, cmmlu_full, zbench, ind_emotion, ocnli, c3, dream, samsum, dialogsum, sst2, cola, qqp, mnli, qnli, wnli, rte, mrpc}.
 
-`PROMPT_INDEX` = {1, 2, 3, 4, 5}.
+PROMPT_INDEX = {1, 2, 3, 4, 5}.
 
-`EVAL_MODE` = {zero_shot, five_shot}
+EVAL_MODE = {zero_shot, five_shot}
 ```
 
 
 
-## How to use SeaEval to evaluate all 28 tasks?
+## How to use SeaEval to evaluate all tasks?
 
 Run the following command:
 ```
