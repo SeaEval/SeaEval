@@ -28,6 +28,8 @@ including Singaproe, US, China, and the Philipines.
 **English** & **中文** & **Bahasa Indonesia** & **Español** & **Tiếng Việt** & **Bahasa Melayu** & **Wikang Filipino** & **Singlish**.
 
 ## Resources
+  
+[\[**Leaderboard**\]](https://huggingface.co/spaces/SeaEval/SeaEval_Leaderboard),
 [\[**Website**\]](https://seaeval.github.io/),
 [\[**Datasets**\]](https://huggingface.co/datasets/SeaEval/SeaEval_datasets),
 [\[**Paper**\]](https://arxiv.org/abs/2309.04766)
