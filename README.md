@@ -1,5 +1,9 @@
 ## SeaEval Benchmark: Multilingual Evaluation of LLMs 
 
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-red.svg)](#python)
+[![arxiv](https://img.shields.io/badge/arXiv-2309.04766-b31b1b.svg)](https://arxiv.org/abs/2309.04766)
+
+
 SeaEval is a toolkit for evaluating the capability of multilingual large language models (LLMs). Details are presented in paper [SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning
 ](https://arxiv.org/abs/2309.04766).
 
@@ -18,7 +22,10 @@ Special focus on: **Cross-Lingual Consistency** and **Cultural Reasoning**
 **English** & **中文** & **Bahasa Indonesia** & **Español** & **Tiếng Việt** & **Bahasa Melayu** & **Wikang Filipino** & **Singlish**.
 
 ## Resources
-[[Website]](https://seaeval.github.io/) & [[Datasets]](https://huggingface.co/datasets/SeaEval/SeaEval_datasets) & [[Paper]](https://arxiv.org/abs/2309.04766)
+[\[**Website**\]](https://seaeval.github.io/),
+[\[**Datasets**\]](https://huggingface.co/datasets/SeaEval/SeaEval_datasets),
+[\[**Paper**\]](https://arxiv.org/abs/2309.04766)
+
 
 
 ## Exemplary Evaluation Results
