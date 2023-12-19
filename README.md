@@ -1,29 +1,44 @@
 ## SeaEval Benchmark: Multilingual Evaluation of LLMs 
-(**Cross-Lingual Consistency** and **Cultural Awareness**)
 
-<p align="center">
-  <img src="img/seaeval_overall.png" width="400" title="hover text">
-</p>
+SeaEval is a toolkit for evaluating the capability of multilingual large language models (LLMs). Details are presented in paper [SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning
+](https://arxiv.org/abs/2309.04766).
 
-
+We assess their generalization ability by evaluating their performance on a wide range of tasks in a zero-shot and five-shot setting. The tasks are available in 7 languages over 28 datasets.
 
 
+Special focus on: **Cross-Lingual Consistency** and **Cultural Reasoning** 
 
-SeaEval is a library for evaluating the capability of multilingual large language models (LLMs). We assess their generalization ability by evaluating their performance on a wide range of tasks in a zero-shot setting. The tasks are available in 7 languages over 28 datasets: 
+**Cross-Lingual Consistency**: 2 new datasets with parallel questions in 7 different languages.
 
-1) **English** 2) **中文** 3) **Bahasa Indonesia** 4) **Español** 5) **Tiếng Việt** 6) **Bahasa Melayu** 7) **Wikang Filipino** 8) **Singlish**.
+**Cross-Lingual Consistency**: 4 new datasets focusing on regions including Singaproe, US, China, and the Philipines.
 
-[[Leaderboard]](https://seaeval.github.io/) & [[Datasets]](https://huggingface.co/datasets/SeaEval/SeaEval_v1.0) & [[Paper]](https://arxiv.org/abs/2309.04766)
 
+## Supported Languages: 
+
+**English** & **中文** & **Bahasa Indonesia** & **Español** & **Tiếng Việt** & **Bahasa Melayu** & **Wikang Filipino** & **Singlish**.
+
+## Resources
+[[Website]](https://seaeval.github.io/) & [[Datasets]](https://huggingface.co/datasets/SeaEval/SeaEval_datasets) & [[Paper]](https://arxiv.org/abs/2309.04766)
+
+
+## Exemplary Evaluation Results
 We employ the median value derived from **5 distinct prompts** shown on the above leaderboard to mitigate the influence of random variations induced by prompts.
 
 
 
-| Datasets         | LLaMa-2-7B-Chat | Mistral-7B |
+| Datasets         | LLaMa-2-7B-Chat | xxx |
 | :-------------   |:-------------:| :-----:|
 | **Cross-MMLU**   | 0.00 (AC3) 0.00 (Overall Accuracy) 0.00 (Consistency3) | 0.00 (AC3) 0.00 (Overall Accuracy) 0.00 (Consistency3) |
 | **Cross-LogiQA** | 0.00 (AC3) 0.00 (Overall Accuracy) 0.00 (Consistency3)      |   0.00 (AC3) 0.00 (Overall Accuracy) 0.00 (Consistency3) |
 | **SG_Eval**      | 0.00      |    0.00 |
+
+## Concept of SeaEval
+
+SeaEval is an advanced concept that extends beyond mere multilingual language understanding to encompass broader aspects such as reasoning, cultural understanding and cross-lingual consistency.
+
+<p align="center">
+  <img src="img/seaeval_overall.png" width="400" title="hover text">
+</p>
 
 
 ## Citation
@@ -48,6 +63,7 @@ pip install -r requirements.txt
 ```
 
 
+# update / remove the follling content
 ## How to use SeaEval to evaluate just one task?
 
 The dataset variable can be chosen from
