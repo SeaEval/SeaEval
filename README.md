@@ -14,7 +14,13 @@ Special focus on: **Cross-Lingual Consistency** and **Cultural Reasoning**
 
 **Cross-Lingual Consistency**: 2 new datasets with parallel questions in 7 different languages.
 
-**Cross-Lingual Consistency**: 4 new datasets focusing on regions including Singaproe, US, China, and the Philipines.
+**Cross-Lingual Consistency**: 4 new datasets focusing on regions 
+including Singaproe, US, China, and the Philipines.
+
+<p align="center">
+  <img src="img/seaeval.png" width="200" title="hover text">
+</p>
+
 
 
 ## Supported Languages: 
@@ -33,11 +39,11 @@ We employ the median value derived from **5 distinct prompts** shown on the abov
 
 
 
-| Datasets         | LLaMa-2-7B-Chat | xxx |
-| :-------------   |:-------------:| :-----:|
-| **Cross-MMLU**   | 0.00 (AC3) 0.00 (Overall Accuracy) 0.00 (Consistency3) | 0.00 (AC3) 0.00 (Overall Accuracy) 0.00 (Consistency3) |
-| **Cross-LogiQA** | 0.00 (AC3) 0.00 (Overall Accuracy) 0.00 (Consistency3)      |   0.00 (AC3) 0.00 (Overall Accuracy) 0.00 (Consistency3) |
-| **SG_Eval**      | 0.00      |    0.00 |
+| Index | Datasets         | LLaMa-2-7B-Chat | xxx |
+| :-------------   |:-------------   |:-------------:| :-----:|
+| 1 | **Cross-MMLU**   | 0.00 (AC3) 0.00 (Overall Accuracy) 0.00 (Consistency3) | 0.00 (AC3) 0.00 (Overall Accuracy) 0.00 (Consistency3) |
+| 2 | **Cross-LogiQA** | 0.00 (AC3) 0.00 (Overall Accuracy) 0.00 (Consistency3)      |   0.00 (AC3) 0.00 (Overall Accuracy) 0.00 (Consistency3) |
+| 3 | **SG_Eval**      | 0.00      |    0.00 |
 
 ## Concept of SeaEval
 
