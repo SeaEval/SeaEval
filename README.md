@@ -39,11 +39,39 @@ We employ the median value derived from **5 distinct prompts** shown on the abov
 
 
 
-| Index | Datasets         | LLaMa-2-7B-Chat | xxx |
+| Index | Datasets | LLaMa-2-7B-Chat | xxx |
 | :-------------   |:-------------   |:-------------:| :-----:|
-| 1 | **Cross-MMLU**   | 0.00 (AC3) 0.00 (Overall Accuracy) 0.00 (Consistency3) | 0.00 (AC3) 0.00 (Overall Accuracy) 0.00 (Consistency3) |
-| 2 | **Cross-LogiQA** | 0.00 (AC3) 0.00 (Overall Accuracy) 0.00 (Consistency3)      |   0.00 (AC3) 0.00 (Overall Accuracy) 0.00 (Consistency3) |
-| 3 | **SG_Eval**      | 0.00      |    0.00 |
+| 1 | **Cross-MMLU**   | 0.00 | 0.00 |
+| 2 | **Cross-LogiQA** | 0.00 | 0.00 |
+| 3 | **SG_Eval**      | 0.00 | 0.00 |
+| 4 | **CN_Eval**      | 0.00 | 0.00 |
+| 5 | **US_Eval**      | 0.00 | 0.00 |
+| 6 | **PH_Eval**      | 0.00 | 0.00 |
+| 7 | **FLoRes_ind2eng**      | 0.00 | 0.00 |
+| 8 | **FLoRes_vie2eng**      | 0.00 | 0.00 |
+| 9 | **FLoRes_zho2eng**      | 0.00 | 0.00 |
+| 10 | **FLoRes_zsm2eng**      | 0.00 | 0.00 |
+| 11 | **MMLU**      | 0.00 | 0.00 |
+| 12 | **MMLU_Full**      | 0.00 | 0.00 |
+| 13 | **C_Eval**      | 0.00 | 0.00 |
+| 14 | **C_Eval_Full**      | 0.00 | 0.00 |
+| 15 | **CMMLU**      | 0.00 | 0.00 |
+| 16 | **CMMLU_Full**      | 0.00 | 0.00 |
+| 17 | **Zbench**      | 0.00 | 0.00 |
+| 18 | **Ind_Emotion**      | 0.00 | 0.00 |
+| 19 | **OCNLI**      | 0.00 | 0.00 |
+| 20 | **C3**      | 0.00 | 0.00 |
+| 21 | **DREAM**      | 0.00 | 0.00 |
+| 22 | **SAMSum**      | 0.00 | 0.00 |
+| 23 | **DialogSum**      | 0.00 | 0.00 |
+| 24 | **SST2**      | 0.00 | 0.00 |
+| 25 | **COLA**      | 0.00 | 0.00 |
+| 26 | **QQP**      | 0.00 | 0.00 |
+| 27 | **MNLI**      | 0.00 | 0.00 |
+| 28 | **QNLI**      | 0.00 | 0.00 |
+| 29 | **WNLI**      | 0.00 | 0.00 |
+| 30 | **RTE**      | 0.00 | 0.00 |
+| 31 | **MRPC**      | 0.00 | 0.00 |
 
 ## Concept of SeaEval
 
@@ -70,58 +98,72 @@ Please cite our paper if you find this code useful:
 
 
 ## Dependencies
-Python 3.10
+We tested using python 3.10
 ```
 pip install -r requirements.txt
 ```
 
+## How to use SeaEval to evaluate one specific task?
 
-# update / remove the follling content
-## How to use SeaEval to evaluate just one task?
-
-The dataset variable can be chosen from
-
-`DATASET` = {cross_mmlu, cross_logiqa, sg_eval, us_eval, cn_eval, sing2eng, flores_ind2eng, flores_vie2eng, flores_zho2eng, flores_zsm2eng, mmlu, c_eval, cmmlu, zbench, ind_emotion, ocnli, c3, dream, samsum, dialogsum, sst2, cola, qqp, mnli, qnli, wnli, rte, mrpc}.
-
-The prompt variable can be chosen from 
-
-`PROMPT_INDEX` = {1, 2, 3, 4, 5}.
-
-Run the following command line by line
+Now, start to evaluate the model on one specific task. Here, we take the example of evaluating `llama-2-7b-chat` model on the 1st prompt of Cross-MMLU dataset.
 
 ```
-MODEL_NAME=SeaEval/llama-2-7b-chat-own
-GPU=0
-BZ=1
-EVAL_MODE=public_test
-PROMPT_INDEX=1
-DATASET=cross_mmlu
-
-bash evaluate.sh $DATASET $MODEL_NAME $GPU $BZ $PROMPT_INDEX $EVAL_MODE
+bash eval_example_cross_mmlu.sh
 ```
-
-The above example is doing inference using `llama-2-7b-chat` model with the 1st prompt on Cross-MMLU dataset. 
 
 The expected output is as follows:
 ```
 {
-    "Accuracy": 0.325,
-    "Consistency": {
-        "consistency_3": 0.3428571428571429,
+    "overall_acc": 0.38761904761904764,
+    "language_acc": {
+        "Malay": 0.3333333333333333,
+        "Spanish": 0.44,
+        "Chinese": 0.38,
+        "Indonesian": 0.29333333333333333,
+        "Filipino": 0.38,
+        "Vietnamese": 0.35333333333333333,
+        "English": 0.5333333333333333
     },
-    "AC3": {
-        "AC3_3": 0.33368983907255,
+    "consistency_score_3": 0.33771428571428574,
+    "detailed_consistency_score": {
+        "2_combine": {
+            "Malay,Spanish": 0.44666666666666666,
+            "Malay,Chinese": 0.52,
+            "Malay,Indonesian": 0.5466666666666666,
+            "Malay,Filipino": 0.5333333333333333,
+            "Malay,Vietnamese": 0.5333333333333333,
+            "Malay,English": 0.44666666666666666,
+            "Spanish,Chinese": 0.48,
+            "Spanish,Indonesian": 0.5533333333333333,
+            "Spanish,Filipino": 0.5333333333333333,
+            "Spanish,Vietnamese": 0.5,
+            "Spanish,English": 0.58,
+            "Chinese,Indonesian": 0.52,
+            "Chinese,Filipino": 0.4666666666666667,
+            "Chinese,Vietnamese": 0.54,
+            "Chinese,English": 0.48,
+            "Indonesian,Filipino": 0.54,
+            "Indonesian,Vietnamese": 0.5666666666666667,
+            "Indonesian,English": 0.4533333333333333,
+            "Filipino,Vietnamese": 0.4866666666666667,
+            "Filipino,English": 0.4533333333333333,
+            "Vietnamese,English": 0.47333333333333333
+        },
+        ...
     },
-    "Lang_Acc": {
-        "Accuracy_english": 0.475,
-        "Accuracy_chinese": 0.225,
-        "Accuracy_indonesian": 0.275,
-        "Accuracy_vietnamese": 0.325,
-        "Accuracy_spanish": 0.35,
-        "Accuracy_malay": 0.3,
-        "Accuracy_filipino": 0.325
-    }
+    "AC3_3": 0.36094987990221755,
 }
+```
+
+### To Evaluate on other tasks, you can change the following variables.
+
+
+```
+`DATASET` = {cross_mmlu, cross_logiqa, sg_eval, us_eval, cn_eval, ph_eval, sing2eng, flores_ind2eng, flores_vie2eng, flores_zho2eng, flores_zsm2eng, mmlu, mmlu_full, c_eval, c_eval_full, cmmlu, cmmlu_full, zbench, ind_emotion, ocnli, c3, dream, samsum, dialogsum, sst2, cola, qqp, mnli, qnli, wnli, rte, mrpc}.
+
+`PROMPT_INDEX` = {1, 2, 3, 4, 5}.
+
+`EVAL_MODE` = {zero_shot, five_shot}
 ```
 
 
@@ -130,16 +172,13 @@ The expected output is as follows:
 
 Run the following command:
 ```
-bash evaluate_all_datasets.sh
+bash eval_example_all_datasets.sh
 ```
 
-You are expected to get evaluation results stored in folder `log` as similar to [expected_log](expected_log/). To display the performance on all datasets, you can run the following command:
 
-```
-python gather_results.py
-```
+## How to evaluate your own model?
 
-To use SeaEval with customized model: adapt `model.py` accordingly.
+To use SeaEval to evaluate your own model, you can simply adapt `model.py` accordingly.
 
 
 ## Contact

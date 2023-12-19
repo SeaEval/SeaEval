@@ -12,13 +12,18 @@
 # ----------			---	----------------------------------------------------------
 ###
 
+import os
+
+# add parent directory to sys.path
 import sys
 sys.path.append('.')
 
+import time
 import logging
 
 import torch
 import transformers
+
 
 # =  =  =  =  =  =  =  =  =  =  =  Logging Setup  =  =  =  =  =  =  =  =  =  =  =  =  = 
 logger = logging.getLogger(__name__)
@@ -29,24 +34,26 @@ logging.basicConfig(
 )
 # =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  = 
 
+
 class Model(object):
 
     def __init__(self, model_name_or_path, max_new_tokens=128):
         
+        self.model_name     = model_name_or_path
         self.model_path     = model_name_or_path
         self.max_new_tokens = max_new_tokens
 
         self.load_model()
 
     def load_model(self):
-        logger.info("Loading model: {}".format(self.model_path))
 
+        logger.info("Loading model: {}".format(self.model_path))
         self._load_model_llama_family()
-        
+
     def generate(self, batch_input):
 
         return self._generate_llama_2_chat(batch_input)
-        
+
 
     # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     # - - - - - - - - - - - - - - - Load Model  - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -92,4 +99,3 @@ class Model(object):
         output_ids = output_ids[:, input_ids.shape[-1]:]
         outputs    = self.tokenizer.batch_decode(output_ids, skip_special_tokens=True)
         return outputs
-
