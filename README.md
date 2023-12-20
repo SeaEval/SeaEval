@@ -1,7 +1,9 @@
-## SeaEval Benchmark: Multilingual Evaluation of LLMs 
+# SeaEval Benchmark: Multilingual Evaluation of LLMs 
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-red.svg)](#python)
-[![arxiv](https://img.shields.io/badge/arXiv-2309.04766-b31b1b.svg)](https://arxiv.org/abs/2309.04766)
+[![arXiv](https://img.shields.io/badge/arXiv-2309.04766-b31b1b.svg)](https://arxiv.org/abs/2309.04766)
+[![Leaderboard](https://img.shields.io/badge/Leaderboard-Models-1bb3b3.svg)]([https://arxiv.org/abs/2309.04766](https://huggingface.co/spaces/SeaEval/SeaEval_Leaderboard))
+
 
 
 SeaEval is a toolkit for evaluating the capability of multilingual large language models (LLMs). Details are presented in paper [SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning
@@ -23,7 +25,7 @@ including Singaproe, US, China, and the Philipines.
 
 
 
-## Supported Languages: 
+## ✍️ Supported Languages: 
 
 **English** & **中文** & **Bahasa Indonesia** & **Español** & **Tiếng Việt** & **Bahasa Melayu** & **Wikang Filipino** & **Singlish**.
 
@@ -39,43 +41,9 @@ including Singaproe, US, China, and the Philipines.
 ## Exemplary Evaluation Results
 We employ the median value derived from **5 distinct prompts** shown on the above leaderboard to mitigate the influence of random variations induced by prompts.
 
+For full set of leaderboard results: [![Leaderboard](https://img.shields.io/badge/Leaderboard-Models-1bb3b3.svg)]([https://arxiv.org/abs/2309.04766](https://huggingface.co/spaces/SeaEval/SeaEval_Leaderboard))
 
-
-| Index | Datasets | LLaMa-2-7B-Chat | xxx |
-| :-------------   |:-------------   |:-------------:| :-----:|
-| 1 | **Cross-MMLU**   | 0.00 | 0.00 |
-| 2 | **Cross-LogiQA** | 0.00 | 0.00 |
-| 3 | **SG_Eval**      | 0.00 | 0.00 |
-| 4 | **CN_Eval**      | 0.00 | 0.00 |
-| 5 | **US_Eval**      | 0.00 | 0.00 |
-| 6 | **PH_Eval**      | 0.00 | 0.00 |
-| 7 | **FLoRes_ind2eng**      | 0.00 | 0.00 |
-| 8 | **FLoRes_vie2eng**      | 0.00 | 0.00 |
-| 9 | **FLoRes_zho2eng**      | 0.00 | 0.00 |
-| 10 | **FLoRes_zsm2eng**      | 0.00 | 0.00 |
-| 11 | **MMLU**      | 0.00 | 0.00 |
-| 12 | **MMLU_Full**      | 0.00 | 0.00 |
-| 13 | **C_Eval**      | 0.00 | 0.00 |
-| 14 | **C_Eval_Full**      | 0.00 | 0.00 |
-| 15 | **CMMLU**      | 0.00 | 0.00 |
-| 16 | **CMMLU_Full**      | 0.00 | 0.00 |
-| 17 | **Zbench**      | 0.00 | 0.00 |
-| 18 | **Ind_Emotion**      | 0.00 | 0.00 |
-| 19 | **OCNLI**      | 0.00 | 0.00 |
-| 20 | **C3**      | 0.00 | 0.00 |
-| 21 | **DREAM**      | 0.00 | 0.00 |
-| 22 | **SAMSum**      | 0.00 | 0.00 |
-| 23 | **DialogSum**      | 0.00 | 0.00 |
-| 24 | **SST2**      | 0.00 | 0.00 |
-| 25 | **COLA**      | 0.00 | 0.00 |
-| 26 | **QQP**      | 0.00 | 0.00 |
-| 27 | **MNLI**      | 0.00 | 0.00 |
-| 28 | **QNLI**      | 0.00 | 0.00 |
-| 29 | **WNLI**      | 0.00 | 0.00 |
-| 30 | **RTE**      | 0.00 | 0.00 |
-| 31 | **MRPC**      | 0.00 | 0.00 |
-
-## Concept of SeaEval
+## 🎓 Concept of SeaEval
 
 SeaEval is an advanced concept that extends beyond mere multilingual language understanding to encompass broader aspects such as reasoning, cultural understanding and cross-lingual consistency.
 
@@ -84,7 +52,7 @@ SeaEval is an advanced concept that extends beyond mere multilingual language un
 </p>
 
 
-## Citation
+## 📚 Citation
 
 Please cite our paper if you find this code useful:
 [SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning](https://arxiv.org/abs/2309.04766)
