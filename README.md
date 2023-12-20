@@ -98,7 +98,7 @@ Please cite our paper if you find this code useful:
 ```
 
 
-## Dependencies
+## 📀 Dependencies
 We tested using python 3.10
 ```
 pip install -r requirements.txt
