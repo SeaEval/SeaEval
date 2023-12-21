@@ -70,6 +70,10 @@ class sing2eng_dataset(object):
                 input += 'Source Text:\n{}\n\nTranslation in English:\n'.format(sample['context'])
                 data_plain.append(input)
 
+        print('\n=  =  =  Dataset Sample  =  =  =')
+        print(random.sample(data_plain,1)[0])
+        print('=  =  =  =  =  =  =  =  =  =  =  =\n')
+        
         return self.filtered_data, data_plain
 
 

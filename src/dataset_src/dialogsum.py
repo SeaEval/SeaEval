@@ -70,6 +70,10 @@ class dialogsum_dataset(object):
                 input += 'Dialogue:\n{}\n\nSummary:\n'.format(sample['context'])
                 data_plain.append(input)
 
+        print('\n=  =  =  Dataset Sample  =  =  =')
+        print(random.sample(data_plain,1)[0])
+        print('=  =  =  =  =  =  =  =  =  =  =  =\n')
+        
         return self.filtered_data, data_plain
 
 

@@ -49,7 +49,7 @@ class wnli_dataset(object):
         if self.eval_mode=='zero_shot':
             data_plain = []
             for sample in self.filtered_data:
-                input = self.prompt.format(sample['context'], sample['choices'])
+                input = self.prompt.format(sample['context'], "\n".join(sample['choices']))
                 data_plain.append(input)
 
         elif self.eval_mode=='five_shot':
@@ -61,14 +61,18 @@ class wnli_dataset(object):
                 input = ''
                 for shot_sample in five_plus_one_samples:
                     if sample['context'] != shot_sample['context']: # Filter out the sample with the same context
-                        input += 'Context:\n{}\n\nChoices:\n{}\n\nAnswer:\n{}\n\n'.format(shot_sample['context'], shot_sample['choices'], shot_sample['answer'])
+                        input += 'Context:\n{}\n\nChoices:\n{}\n\nAnswer:\n{}\n\n'.format(shot_sample['context'], "\n".join(shot_sample['choices']), shot_sample['answer'])
                         count += 1
                     if count == 5:
                         break
                 
-                input += 'Context:\n{}\n\nChoices:\n{}\n\nAnswer:\n'.format(sample['context'], sample['choices'])
+                input += 'Context:\n{}\n\nChoices:\n{}\n\nAnswer:\n'.format(sample['context'], "\n".join(sample['choices']))
                 data_plain.append(input)
 
+        print('\n=  =  =  Dataset Sample  =  =  =')
+        print(random.sample(data_plain,1)[0])
+        print('=  =  =  =  =  =  =  =  =  =  =  =\n')
+        
         return self.filtered_data, data_plain
 
 

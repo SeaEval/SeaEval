@@ -62,7 +62,7 @@ class cross_logiqa_dataset(object):
                 for key in sample_set:
                     if key == 'id':
                         continue
-                    input = self.prompt.format(sample_set[key]['context'], sample_set[key]['question'], sample_set[key]['choices'])
+                    input = self.prompt.format(sample_set[key]['context'], sample_set[key]['question'], "\n".join(sample_set[key]['choices']))
                     data_plain.append(input)
 
         elif self.eval_mode=='five_shot':
@@ -86,14 +86,18 @@ class cross_logiqa_dataset(object):
                     input = ''
                     for sample in five_plus_one_samples:
                         if sample['context'] != sample_set[key]['context']: # Filter out the sample with the same context
-                            input += 'Context:\n{}\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n{}\n\n'.format(sample['context'], sample['question'], sample['choices'], sample['answer'])
+                            input += 'Context:\n{}\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n{}\n\n'.format(sample['context'], sample['question'], "\n".join(sample['choices']), sample['answer'])
                             count += 1
                         if count == 5:
                             break
                     
-                    input += 'Context:\n{}\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n'.format(sample_set[key]['context'], sample_set[key]['question'], sample_set[key]['choices'])
+                    input += 'Context:\n{}\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n'.format(sample_set[key]['context'], sample_set[key]['question'], "\n".join(sample_set[key]['choices']))
                     data_plain.append(input)
 
+        print('\n=  =  =  Dataset Sample  =  =  =')
+        print(random.sample(data_plain,1)[0])
+        print('=  =  =  =  =  =  =  =  =  =  =  =\n')
+        
         return filtered_data, data_plain
 
     def format_model_predictions(self, data_plain, model_predictions):

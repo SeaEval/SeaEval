@@ -20,11 +20,11 @@ import tiger_eval
 max_number_of_sample = 2000
 
 prompt_template = [
-    'Assess the semantic similarity between the following two questions and choose the appropriate answer from the provided choices.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n',
-    'Do the following two questions have the same meaning? Choose the correct answer from the available choices.\n{}\nChoices:\n{}\nAnswer:\n',
-    'Choose the correct answer from the provided choices by assessing the semantic similarity of the two sentences.\n{}\nChoices:\n{}\nAnswer:\n',
-    'Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n',
-    'Respond to the following question by choosing the most suitable option.\n\nQuestion:\nDo the following two questions have the same meaning?\n\n{}\n\nChoices:\n{}\n\nAnswer:\n'
+    'Assess whether the question can be answered based on the paragraph and choose the correct answer from the provided choices.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n',
+    'Based on the paragraph, can the question be answered? Choose the correct option from the provided choices.\n{}\nChoices:\n{}\nAnswer:\n',
+    'Determine if the question can be answered from the paragraph and select the correct answer from the provided choices.\n{}\nChoices:\n{}\nAnswer:\n',
+    'Based on the question and paragraph, determine if the answer can be inferred from the paragraph. Select the most appropriate choice as the answer.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n',
+    'Select the appropriate response by examining whether the question can be answered based on the provided context.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n'
     ]
 
 class qnli_dataset(object):
@@ -49,7 +49,7 @@ class qnli_dataset(object):
         if self.eval_mode=='zero_shot':
             data_plain = []
             for sample in self.filtered_data:
-                input = self.prompt.format(sample['context'], sample['choices'])
+                input = self.prompt.format(sample['context'], "\n".join(sample['choices']))
                 data_plain.append(input)
 
         elif self.eval_mode=='five_shot':
@@ -61,14 +61,18 @@ class qnli_dataset(object):
                 input = ''
                 for shot_sample in five_plus_one_samples:
                     if sample['context'] != shot_sample['context']: # Filter out the sample with the same context
-                        input += 'Context:\n{}\n\nChoices:\n{}\n\nAnswer:\n{}\n\n'.format(shot_sample['context'], shot_sample['choices'], shot_sample['answer'])
+                        input += 'Context:\n{}\n\nChoices:\n{}\n\nAnswer:\n{}\n\n'.format(shot_sample['context'], "\n".join(shot_sample['choices']), shot_sample['answer'])
                         count += 1
                     if count == 5:
                         break
                 
-                input += 'Context:\n{}\n\nChoices:\n{}\n\nAnswer:\n'.format(sample['context'], sample['choices'])
+                input += 'Context:\n{}\n\nChoices:\n{}\n\nAnswer:\n'.format(sample['context'], "\n".join(sample['choices']))
                 data_plain.append(input)
 
+        print('\n=  =  =  Dataset Sample  =  =  =')
+        print(random.sample(data_plain,1)[0])
+        print('=  =  =  =  =  =  =  =  =  =  =  =\n')
+        
         return self.filtered_data, data_plain
 
 

@@ -55,6 +55,10 @@ class open_sg_qa_dataset(object):
         elif self.eval_mode=='five_shot':
             raise NotImplementedError('five_shot mode is not supported for open_sg_eval_dataset')
 
+        print('\n=  =  =  Dataset Sample  =  =  =')
+        print(random.sample(data_plain,1)[0])
+        print('=  =  =  =  =  =  =  =  =  =  =  =\n')
+        
         return self.filtered_data, data_plain
 
 
