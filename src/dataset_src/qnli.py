@@ -27,7 +27,7 @@ prompt_template = [
     'Respond to the following question by choosing the most suitable option.\n\nQuestion:\nDo the following two questions have the same meaning?\n\n{}\n\nChoices:\n{}\n\nAnswer:\n'
     ]
 
-class qqp_dataset(object):
+class qnli_dataset(object):
 
     def __init__(self, raw_data, prompt_index, eval_mode="zero_shot"):
         
