@@ -17,17 +17,17 @@ import logging
 
 import tiger_eval
 
-max_number_of_sample = -1
+max_number_of_sample = 2000
 
 prompt_template = [
-    'Assess whether the question can be answered based on the paragraph and choose the correct answer from the provided choices.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n',
-    'Based on the paragraph, can the question be answered? Choose the correct option from the provided choices.\n{}\nChoices:\n{}\nAnswer:\n',
-    'Determine if the question can be answered from the paragraph and select the correct answer from the provided choices.\n{}\nChoices:\n{}\nAnswer:\n',
-    'Based on the question and paragraph, determine if the answer can be inferred from the paragraph. Select the most appropriate choice as the answer.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n',
-    'Select the appropriate response by examining whether the question can be answered based on the provided context.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n'
+    'Assess the semantic similarity between the following two questions and choose the appropriate answer from the provided choices.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n',
+    'Do the following two questions have the same meaning? Choose the correct answer from the available choices.\n{}\nChoices:\n{}\nAnswer:\n',
+    'Choose the correct answer from the provided choices by assessing the semantic similarity of the two sentences.\n{}\nChoices:\n{}\nAnswer:\n',
+    'Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n',
+    'Respond to the following question by choosing the most suitable option.\n\nQuestion:\nDo the following two questions have the same meaning?\n\n{}\n\nChoices:\n{}\n\nAnswer:\n'
     ]
 
-class qnli_dataset(object):
+class qqp_dataset(object):
 
     def __init__(self, raw_data, prompt_index, eval_mode="zero_shot"):
         

@@ -17,7 +17,7 @@ import logging
 
 import tiger_eval
 
-max_number_of_sample = -1
+max_number_of_sample = 2000
 
 prompt_template = [
     'Assess the relationship between the following two sentences and choose the correct answer from the provided choices.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n',
