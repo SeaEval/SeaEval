@@ -2,7 +2,7 @@
 
 EVAL_LANG=[English,Chinese,Indonesian,Vietnamese,Spanish,Malay,Filipino]
 MODEL_NAME=SeaEval/llama-2-7b-chat-own
-GPU=1
+GPU=0
 BZ=8
 EVAL_MODE=zero_shot
 PROMPT_INDEX=1
