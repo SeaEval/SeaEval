@@ -57,11 +57,11 @@ SeaEval is an advanced concept that extends beyond mere multilingual language un
 Please cite our paper if you find this code useful:
 [SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning](https://arxiv.org/abs/2309.04766)
 ```
-@article{SeaEval2023,
+@article{SeaEval,
   title={SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning},
   author={Wang, Bin and Liu, Zhengyuan and Huang, Xin and Jiao, Fangkai and Ding, Yang and Aw, Ai Ti and Chen, Nancy F.},
-  journal={arXiv preprint arXiv:2309.04766},
-  year={2023}
+  journal={NAACL},
+  year={2024}
 }
 ```
 
