@@ -1,10 +1,13 @@
 --extra-index-url https://download.pytorch.org/whl/cu118
 torch==2.0.0 
-transformers==4.33
+transformers==4.36.1
 sentencepiece
 fire
+openai
+nltk
 rouge-score
 accelerate
-datasets
+transformers_stream_generator
 protobuf
-tiger-eval
+datasets
+tiger-eval @ git+https://github.com/SeaEval/TiGEr-Eval@main
