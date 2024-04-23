@@ -162,6 +162,9 @@ cython_debug/
 
 
 data/
+scripts/
+log_old/
+cache/
 
 *_p1.json
 *_p1.log
@@ -183,9 +186,7 @@ data/
 
 run_zh.sh
 
-scripts/
 
-log_old/
 
 lumi_submit_singularity.sh
 run_singularity.sh
@@ -193,3 +194,5 @@ batch_jobs.sh
 
 
 .DS_Store
+
+debug.sh

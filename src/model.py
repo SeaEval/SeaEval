@@ -102,6 +102,8 @@ from model_src.regional_sea_mistral_inst_128k_7b import regional_sea_mistral_ins
 
 from model_src.meta_llama_3_8b import meta_llama_3_8b_model_loader, meta_llama_3_8b_model_generation
 
+from model_src.mistral_7b_instruct_v0_2_demo import mistral_7b_instruct_v0_2_demo_model_loader, mistral_7b_instruct_v0_2_demo_model_generation
+
 
 
 # =  =  =  =  =  =  =  =  =  =  =  Logging Setup  =  =  =  =  =  =  =  =  =  =  =  =  = 
@@ -217,6 +219,8 @@ class Model(object):
 
         elif self.model_name == 'meta_llama_3_8b': meta_llama_3_8b_model_loader(self)
 
+        elif self.model_name == 'mistral_7b_instruct_v0_2_demo': mistral_7b_instruct_v0_2_demo_model_loader(self)
+
         else:
             raise NotImplementedError("Model {} not implemented yet".format(self.model_name))
         
@@ -302,6 +306,8 @@ class Model(object):
         elif self.model_name == 'regional_sea_mistral_inst_128k_7b': return regional_sea_mistral_inst_128k_7b_model_generation(self, batch_input)
 
         elif self.model_name == 'meta_llama_3_8b': return meta_llama_3_8b_model_generation(self, batch_input)
+
+        elif self.model_name == 'mistral_7b_instruct_v0_2_demo': return mistral_7b_instruct_v0_2_demo_model_generation(self, batch_input)
 
         else:
             raise NotImplementedError("Model {} not implemented yet".format(self.model_name))
