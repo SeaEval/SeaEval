@@ -1,6 +1,6 @@
 --extra-index-url https://download.pytorch.org/whl/cu118
 torch
-transformers==4.33.1
+transformers
 sentencepiece
 fire
 openai
@@ -12,19 +12,3 @@ datasets
 peft
 tiger-eval @ git+https://github.com/SeaEval/TiGEr-Eval@main
 nltk
-
-
-# better to use python<3.12
-'''NLTK
--- python==3.12, nltk==3.8.1 get TypeError if install by pip
-git+https://github.com/nltk/nltk.git
-
--- or use python<3.12
-'''
-
-'''transformers
-AttributeError: 'BaiChuanTokenizer' object has no attribute 'sp_model'
--- better use transformers==4.33.1
--- or need to change tools/transformers/tokenization_internlm.py
-    (https://github.com/InternLM/InternLM/pull/419/files)
-'''

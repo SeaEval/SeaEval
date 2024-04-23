@@ -49,13 +49,36 @@ pip install -r requirements.txt
 Now, start to evaluate the model on one specific task. \
 Here, we take the example of evaluating `mistralai/Mistral-7B-Instruct-v0.2` model on SG-Eval dataset.
 
+
 ```
 bash demo.sh
 ```
 
 The expected output is as follows:
 ```
+=  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =
+=  =  =  Dataset Sample  =  =  =
+Please carefully read the following question and select the most appropriate answer from the choices.
 
+Question:
+Which political party won the 1948 election of Singapore?
+
+Choices:
+(A) Singapore Progressive Party
+(B) Labour Front Party
+(C) Democratic Party
+(D) People's Action Party
+
+Answer:
+=  =  =  =  =  =  =  =  =  =  =  =
+Dataset name: SG_EVAL
+Model name: MISTRAL_7B_INSTRUCT_V0_2_DEMO
+Prompt index: 1
+Evaluation mode: ZERO_SHOT
+{
+    "accuracy": 0.6504854368932039
+}
+=  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =
 ```
 
 ### To Evaluate on other tasks, you can change the following variables.
@@ -88,6 +111,7 @@ To use SeaEval to evaluate your own model, you can just add your model to `model
   year={2024}
 }
 ```
+
 [CrossIn: An Efficient Instruction Tuning Approach for Cross-Lingual Knowledge Alignment](https://arxiv.org/abs/2404.11932)
 ```
 @article{lin2024crossin,
