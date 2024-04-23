@@ -4,21 +4,27 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2309.04766-b31b1b.svg)](https://arxiv.org/abs/2309.04766)
 [![Leaderboard](https://img.shields.io/badge/Leaderboard-Models-1bb3b3.svg)]([https://arxiv.org/abs/2309.04766](https://huggingface.co/spaces/SeaEval/SeaEval_Leaderboard))
 
-### News: 
+## News: 
 
 - **Apr 2024**: We propose [**Cross-XQuAD**] dataset and **CrossIn** method in our paper. **Cross-XQuAD** contains more MCQ samples in 4 languages. Check it out in the [preprint](https://arxiv.org/abs/2404.11932)!
 - **Feb 2024**: The work is accepted to **NAACL 2024!**
 - SeaEval is highly compatible to add new models and new datasets for LLM evaluation.
 
 
-### Introduction
+## Introduction
 
 SeaEval is a toolkit for evaluating the capability of multilingual large language models (LLMs). \
-Details are presented in paper [SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning
-](https://arxiv.org/abs/2309.04766). \
-**Evaluation Setting**: 1. Zero shot is for instruction-tuned model. The results are the median score of five prompts. 2. Five shot is for base model evaluation. \
-**Supported Datasets**: Cross-XQuAD, SG-Eval \
-**Supported Models**: Mistral-7b-Instruct-v0.2, xx \
+Details are presented in paper [SeaEval for Multilingual Foundation Models](https://arxiv.org/abs/2309.04766).
+
+**Evaluation Setting**: \
+&nbsp;&nbsp; Zero shot is for instruction-tuned model. The result is the median score from five prompts. \
+&nbsp;&nbsp; Five shot is for base model evaluation. 
+
+**Supported Datasets**: \
+&nbsp;&nbsp; Cross-XQuAD, SG-Eval \
+
+**Supported Models**: \
+Mistral-7b-Instruct-v0.2, xx 
 
 <p align="center">
   <img src="img/seaeval.png" width="200" title="hover text">
@@ -48,7 +54,6 @@ pip install -r requirements.txt
 
 Now, start to evaluate the model on one specific task. \
 Here, we take the example of evaluating `mistralai/Mistral-7B-Instruct-v0.2` model on SG-Eval dataset.
-
 
 ```
 bash demo.sh
