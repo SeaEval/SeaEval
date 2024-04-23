@@ -4,24 +4,25 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2309.04766-b31b1b.svg)](https://arxiv.org/abs/2309.04766)
 [![Leaderboard](https://img.shields.io/badge/Leaderboard-Models-1bb3b3.svg)]([https://arxiv.org/abs/2309.04766](https://huggingface.co/spaces/SeaEval/SeaEval_Leaderboard))
 
-### News
+### News:
 
-- **SeaEval is accepted to NAACL 2024!**
+- **Apr 2024**: We propose [**Cross-XQuAD**] dataset and **CrossIn** method in our paper. **Cross-XQuAD** contains more MCQ samples in 4 languages. Check it out in the [preprint](https://arxiv.org/abs/2404.11932)!
+- **Feb 2024**: The work is accepted to **NAACL 2024!**
+- SeaEval is highly compatible to add new models and new datasets for LLM evaluation.
+
 
 ### Introduction
 
 SeaEval is a toolkit for evaluating the capability of multilingual large language models (LLMs). Details are presented in paper [SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning
 ](https://arxiv.org/abs/2309.04766).
 
-We assess their generalization ability by evaluating their performance on a wide range of tasks in a zero-shot and five-shot setting. The tasks are available in 7 languages over 28 datasets.
 
+**Evaluation Setting**: 1. Zero shot: for instruction-tuned model, results are the meadium of five prompts. 2. Five shot: for base model.
 
-Special focus on: **Cross-Lingual Consistency** and **Cultural Reasoning** 
+**Datasets**: Cross-XQuAD, SG-Eval
 
-**Cross-Lingual Consistency**: 2 new datasets with parallel questions in 7 different languages.
+**Models**: Mistral-7b-Instruct-v0.2, xxx
 
-**Cultural Reasoning**: 4 new datasets focusing on regions 
-including Singaproe, US, China, and the Philipines.
 
 <p align="center">
   <img src="img/seaeval.png" width="200" title="hover text">
@@ -29,54 +30,28 @@ including Singaproe, US, China, and the Philipines.
 
 
 
-## ✍️ Supported Languages: 
+## ✍️ Support 8 diverse Languages:
 
 **English** & **中文** & **Bahasa Indonesia** & **Español** & **Tiếng Việt** & **Bahasa Melayu** & **Wikang Filipino** & **Singlish**.
 
 ## Resources
   
-[\[**Leaderboard**\]](https://huggingface.co/spaces/SeaEval/SeaEval_Leaderboard),
+[\[**Live Leaderboard!**\]](https://huggingface.co/spaces/SeaEval/SeaEval_Leaderboard),
 [\[**Website**\]](https://seaeval.github.io/),
 [\[**Datasets**\]](https://huggingface.co/datasets/SeaEval/SeaEval_datasets),
 [\[**Paper**\]](https://arxiv.org/abs/2309.04766)
 
 
 
-## Exemplary Evaluation Results
-We employ the median value derived from **5 distinct prompts** shown on the above leaderboard to mitigate the influence of random variations induced by prompts.
+## Quick Start
 
-For full set of leaderboard results: [![Leaderboard](https://img.shields.io/badge/Leaderboard-Models-1bb3b3.svg)]([https://arxiv.org/abs/2309.04766](https://huggingface.co/spaces/SeaEval/SeaEval_Leaderboard))
-
-## 🎓 Concept of SeaEval
-
-SeaEval is an advanced concept that extends beyond mere multilingual language understanding to encompass broader aspects such as reasoning, cultural understanding and cross-lingual consistency.
-
-<p align="center">
-  <img src="img/seaeval_overall.png" width="400" title="hover text">
-</p>
-
-
-## 📚 Citation
-
-Please cite our paper if you find this code useful:
-[SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning](https://arxiv.org/abs/2309.04766)
-```
-@article{SeaEval,
-  title={SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning},
-  author={Wang, Bin and Liu, Zhengyuan and Huang, Xin and Jiao, Fangkai and Ding, Yang and Aw, Ai Ti and Chen, Nancy F.},
-  journal={NAACL},
-  year={2024}
-}
-```
-
-
-## 📀 Dependencies
 We tested using python 3.10
 ```
 pip install -r requirements.txt
 ```
 
-## How to use SeaEval to evaluate one specific task?
+### Mistral-7b-Instruct-v0.2 on SG-Eval
+
 
 Now, start to evaluate the model on one specific task. Here, we take the example of evaluating `llama-2-7b-chat` model on the 1st prompt of Cross-MMLU dataset.
 
@@ -132,28 +107,40 @@ The expected output is as follows:
 
 
 ```
-DATASET = {cross_mmlu, cross_logiqa, sg_eval, us_eval, cn_eval, ph_eval, sing2eng, flores_ind2eng, flores_vie2eng, flores_zho2eng, flores_zsm2eng, mmlu, mmlu_full, c_eval, c_eval_full, cmmlu, cmmlu_full, zbench, ind_emotion, ocnli, c3, dream, samsum, dialogsum, sst2, cola, qqp, mnli, qnli, wnli, rte, mrpc}.
+DATASET = {cross_xquad, cross_mmlu, cross_logiqa, sg_eval, us_eval, cn_eval, ph_eval, sing2eng, flores_ind2eng, flores_vie2eng, flores_zho2eng, flores_zsm2eng, mmlu, mmlu_full, c_eval, c_eval_full, cmmlu, cmmlu_full, zbench, ind_emotion, ocnli, c3, dream, samsum, dialogsum, sst2, cola, qqp, mnli, qnli, wnli, rte, mrpc, indommlu}.
 
 PROMPT_INDEX = {1, 2, 3, 4, 5}.
 
 EVAL_MODE = {zero_shot, five_shot}
 ```
 
-
-
-## How to use SeaEval to evaluate all tasks?
-
-Run the following command:
-```
-bash eval_example_all_datasets.sh
-```
-
-
 ## How to evaluate your own model?
 
-To use SeaEval to evaluate your own model, you can simply adapt `model.py` accordingly.
+To use SeaEval to evaluate your own model, you can just add your model to `model.py` and `model_src` accordingly.
 
 
 ## Contact
 
 ```seaeval_help@googlegroups.com```
+
+## 📚 Citation
+
+[SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning](https://arxiv.org/abs/2309.04766)
+```
+@article{SeaEval,
+  title={SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning},
+  author={Wang, Bin and Liu, Zhengyuan and Huang, Xin and Jiao, Fangkai and Ding, Yang and Aw, Ai Ti and Chen, Nancy F.},
+  journal={NAACL},
+  year={2024}
+}
+```
+[CrossIn: An Efficient Instruction Tuning Approach for Cross-Lingual Knowledge Alignment](https://arxiv.org/abs/2404.11932)
+```
+@article{lin2024crossin,
+  title={CrossIn: An Efficient Instruction Tuning Approach for Cross-Lingual Knowledge Alignment},
+  author={Lin, Geyu and Wang, Bin and Liu, Zhengyuan and Chen, Nancy F},
+  journal={arXiv preprint arXiv:2404.11932},
+  year={2024}
+}
+```
+
