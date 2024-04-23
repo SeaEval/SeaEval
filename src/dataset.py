@@ -59,10 +59,7 @@ from dataset_src.qnli import qnli_dataset
 from dataset_src.wnli import wnli_dataset
 from dataset_src.rte import rte_dataset
 from dataset_src.mrpc import mrpc_dataset
-
-
-
-
+from dataset_src.indommlu import indommlu_dataset
 
 
 
@@ -92,9 +89,8 @@ class Dataset(object):
     def load_dataset(self):
 
         logger.info("Loading dataset: {}".format(self.dataset_name))
-
         
-        if self.dataset_name in ['open_sg_qa', 'sing2eng', 'cross_xquad']:
+        if self.dataset_name in ['open_sg_qa', 'sing2eng']:
             # Load local dataset
             full_path = os.path.join('data', self.dataset_name+'.json')
             with open(full_path, 'r', encoding="utf-8") as f:
@@ -249,6 +245,11 @@ class Dataset(object):
             self.dataset_processor = mrpc_dataset(self.raw_data, self.prompt_index, self.eval_mode)
             self.raw_data, self.data_plain = self.dataset_processor.prepare_model_input()
 
+        elif self.dataset_name == 'indommlu':
+            self.dataset_processor = indommlu_dataset(self.raw_data, self.prompt_index, self.eval_mode)
+            self.raw_data, self.data_plain = self.dataset_processor.prepare_model_input()
+
         else:
             raise NotImplementedError("Dataset {} not implemented yet".format(self.dataset_name))
+
 

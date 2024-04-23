@@ -78,6 +78,15 @@ class flores_ind2eng_dataset(object):
 
     def format_model_predictions(self, data_plain, model_predictions):
 
+        # For Five Shot, we need to split the model predictions
+        new_model_predictions = []
+        for prediction in model_predictions:
+            if 'Source Text:' in prediction:
+                new_model_predictions.append(prediction.split('Source Text:')[0].strip())
+            else:
+                new_model_predictions.append(prediction)
+        model_predictions = new_model_predictions
+
         data_with_model_predictions = []
         for sample in self.filtered_data:
             new_sample = sample.copy()

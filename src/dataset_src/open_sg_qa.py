@@ -76,7 +76,8 @@ class open_sg_qa_dataset(object):
 
     def compute_score(self, data_with_model_predictions):
 
-        return tiger_eval.open_question_model_judge.score('SeaEval/llama-2-7b-chat-own', data_with_model_predictions)
+        #return tiger_eval.open_question_model_judge.score('SeaEval/llama-2-7b-chat-own', data_with_model_predictions)
+        return {'score': 0}
 
 
 

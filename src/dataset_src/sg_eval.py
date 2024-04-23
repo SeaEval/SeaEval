@@ -70,7 +70,7 @@ class sg_eval_dataset(object):
                 data_plain.append(input)
 
         print('\n=  =  =  Dataset Sample  =  =  =')
-        print(random.sample(data_plain,1)[0])
+        print(random.sample(data_plain, 1)[0])
         print('=  =  =  =  =  =  =  =  =  =  =  =\n')
         
         return self.filtered_data, data_plain
@@ -89,6 +89,11 @@ class sg_eval_dataset(object):
     
 
     def compute_score(self, data_with_model_predictions):
+
+        if self.eval_mode == 'five_shot':
+
+            for item in data_with_model_predictions:
+                item['model_prediction'] = item['model_prediction'].split('\n')[0]
 
         return tiger_eval.multichoice_question.score(data_with_model_predictions, category=False)
 

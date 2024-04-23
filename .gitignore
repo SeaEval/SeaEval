@@ -183,10 +183,13 @@ data/
 
 run_zh.sh
 
-scripts
+scripts/
 
-log_old
+log_old/
 
 lumi_submit_singularity.sh
 run_singularity.sh
 batch_jobs.sh
+
+
+.DS_Store
