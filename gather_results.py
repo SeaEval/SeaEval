@@ -100,6 +100,11 @@ MODEL_LIST={
 }
 
 
+MODEL_LIST={
+    'meta_llama_3_8b' : ['8B', 'https://huggingface.co/meta-llama/Meta-Llama-3-8B'],
+}
+
+
 EVAL_MODE={
     'zero_shot': 5, 
     'five_shot': 1

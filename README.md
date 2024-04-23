@@ -17,11 +17,11 @@ SeaEval is a toolkit for evaluating the capability of multilingual large languag
 ](https://arxiv.org/abs/2309.04766).
 
 
-**Evaluation Setting**: 1. Zero shot: for instruction-tuned model, results are the meadium of five prompts. 2. Five shot: for base model.
+**Evaluation Setting**: 1. Zero shot is for instruction-tuned model. The results are the median score of five prompts. 2. Five shot is for base model evaluation.
 
-**Datasets**: Cross-XQuAD, SG-Eval
+**Supported Datasets**: Cross-XQuAD, SG-Eval
 
-**Models**: Mistral-7b-Instruct-v0.2, xxx
+**Supported Models**: Mistral-7b-Instruct-v0.2, xxx
 
 
 <p align="center">
@@ -50,7 +50,7 @@ We tested using python 3.10
 pip install -r requirements.txt
 ```
 
-### Mistral-7b-Instruct-v0.2 on SG-Eval
+#### Example: Mistral-7b-Instruct-v0.2 on SG-Eval
 
 
 Now, start to evaluate the model on one specific task. Here, we take the example of evaluating `llama-2-7b-chat` model on the 1st prompt of Cross-MMLU dataset.
