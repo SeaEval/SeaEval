@@ -21,14 +21,15 @@ Details are presented in paper [SeaEval for Multilingual Foundation Models](http
 &nbsp;&nbsp; Five shot is for base model evaluation. 
 
 **Supported Datasets**: \
-&nbsp;&nbsp; Cross-XQuAD, SG-Eval \
+&nbsp;&nbsp; Cross-XQuAD, Cross-MMLU, Cross-LogiQA, SG-Eval, CN-Eval, US-Eval, PH-Eval, Sing2Eng, \
+&nbsp;&nbsp; Flores-Ind2Eng, Flores-Vie2Eng, Flores-Zho2Eng, Flores-Zsm2Eng, MMLU, MMLU-Full, \
+&nbsp;&nbsp; C-Eval, C-Eval-Full, CMMLU, CMMLU-Full, ZBench, INDOMMLU, Ind_Emotion, OCNLI, C3, Dream, \
+&nbsp;&nbsp; SAMSUM, DialogSum, SST2, COLA \
 &nbsp;&nbsp; More details can be found in [DATASETS](img/DATASETS.md).
 
 
 **Supported Models**: \
-&nbsp;&nbsp; Mistral-7b-Instruct-v0.2, xx 
 &nbsp;&nbsp; More details can be found in [MODELS](img/MODELS.md).
-
 
 <p align="center">
   <img src="img/seaeval.png" width="200" title="hover text">

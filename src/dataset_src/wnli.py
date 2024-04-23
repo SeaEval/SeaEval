@@ -17,7 +17,7 @@ import logging
 
 import tiger_eval
 
-max_number_of_sample = -1
+max_number_of_sample = 10
 
 prompt_template = [
     'Assess whether the second sentence can be inferred from the first sentence and choose the correct answer from the provided choices.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n',
@@ -89,6 +89,10 @@ class wnli_dataset(object):
     
 
     def compute_score(self, data_with_model_predictions):
+
+        if self.eval_mode == 'five_shot':
+            for item in data_with_model_predictions:
+                item['model_prediction'] = item['model_prediction'].split('\n')[0]
 
         return tiger_eval.multichoice_question.score(data_with_model_predictions, category=False)
 

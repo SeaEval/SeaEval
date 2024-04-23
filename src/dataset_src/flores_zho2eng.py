@@ -78,15 +78,6 @@ class flores_zho2eng_dataset(object):
 
     def format_model_predictions(self, data_plain, model_predictions):
 
-        # For Five Shot, we need to split the model predictions
-        new_model_predictions = []
-        for prediction in model_predictions:
-            if 'Source Text:' in prediction:
-                new_model_predictions.append(prediction.split('Source Text:')[0].strip())
-            else:
-                new_model_predictions.append(prediction)
-        model_predictions = new_model_predictions
-
         data_with_model_predictions = []
         for sample in self.filtered_data:
             new_sample = sample.copy()
@@ -98,6 +89,10 @@ class flores_zho2eng_dataset(object):
     
 
     def compute_score(self, data_with_model_predictions):
+
+        if self.eval_mode == 'five_shot':
+            for item in data_with_model_predictions:
+                item['model_prediction'] = item['model_prediction'].split('\n')[0]
 
         return tiger_eval.translation_bleu.score(data_with_model_predictions)
 

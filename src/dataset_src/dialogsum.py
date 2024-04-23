@@ -91,6 +91,10 @@ class dialogsum_dataset(object):
 
     def compute_score(self, data_with_model_predictions):
 
+        if self.eval_mode == 'five_shot':
+            for item in data_with_model_predictions:
+                item['model_prediction'] = item['model_prediction'].split('\n')[0]
+
         return tiger_eval.rouge.score(data_with_model_predictions)
 
 
