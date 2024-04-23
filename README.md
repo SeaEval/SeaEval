@@ -22,9 +22,13 @@ Details are presented in paper [SeaEval for Multilingual Foundation Models](http
 
 **Supported Datasets**: \
 &nbsp;&nbsp; Cross-XQuAD, SG-Eval \
+&nbsp;&nbsp; More details can be found in [DATASETS](img/DATASETS.md).
+
 
 **Supported Models**: \
-Mistral-7b-Instruct-v0.2, xx 
+&nbsp;&nbsp; Mistral-7b-Instruct-v0.2, xx 
+&nbsp;&nbsp; More details can be found in [MODELS](img/MODELS.md).
+
 
 <p align="center">
   <img src="img/seaeval.png" width="200" title="hover text">
