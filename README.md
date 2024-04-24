@@ -10,6 +10,9 @@
 - **Feb 2024**: The work is accepted to **NAACL 2024!**
 - SeaEval is highly compatible to add new models and new datasets for LLM evaluation.
 
+<p align="center">
+  <img src="img/seaeval.png" width="200" title="hover text">
+</p>
 
 ## Introduction
 
@@ -30,11 +33,6 @@ Details are presented in paper [SeaEval for Multilingual Foundation Models](http
 
 **Supported Models**: \
 &nbsp;&nbsp; More details can be found in [MODELS](img/MODELS.md).
-
-<p align="center">
-  <img src="img/seaeval.png" width="200" title="hover text">
-</p>
-
 
 
 ## ✍️ Support 8 diverse Languages:

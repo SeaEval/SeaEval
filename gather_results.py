@@ -102,6 +102,16 @@ MODEL_LIST={
 
 MODEL_LIST={
     'meta_llama_3_8b' : ['8B', 'https://huggingface.co/meta-llama/Meta-Llama-3-8B'],
+    'mistral_7b_instruct_v0_2': ['7B', 'https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2'],
+    'sailor_0_5b': ['0.5B', 'https://huggingface.co/sail/Sailor-0.5B'],
+    'sailor_1_8b': ['1.8B', 'https://huggingface.co/sail/Sailor-1.8B'],
+    'sailor_4b': ['4B', 'https://huggingface.co/sail/Sailor-4B'],
+    'sailor_7b': ['7B', 'https://huggingface.co/sail/Sailor-7B'],
+    'sailor_0_5b_chat': ['0.5B', 'https://huggingface.co/sail/Sailor-0.5B-Chat'],
+    'sailor_1_8b_chat': ['1.8B', 'https://huggingface.co/sail/Sailor-1.8B-Chat'],
+    'sailor_4b_chat': ['4B', 'https://huggingface.co/sail/Sailor-4B-Chat'],
+    'sailor_7b_chat': ['7B', 'https://huggingface.co/sail/Sailor-7B-Chat'],
+
 }
 
 
@@ -182,4 +192,8 @@ with open('log/all_results_non_found_ones.json', 'w') as f:
     json.dump(non_found_ones, f, indent=4)
 
 with open('log/all_results.json', 'w') as f:
+    json.dump(all_results, f, indent=4)
+
+
+with open('../SeaEval_Leaderboard/all_results.json', 'w') as f:
     json.dump(all_results, f, indent=4)

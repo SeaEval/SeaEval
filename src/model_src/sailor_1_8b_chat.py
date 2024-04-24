@@ -28,7 +28,6 @@ def sailor_1_8b_chat_model_loader(self):
     self.model.eval()
     logging.info(f"Model loaded from {model_path} in {self.model.device} mode with torch_dtype={torch.float16}.")
 
-
 def sailor_1_8b_chat_model_generation(self, batch_input):
 
     batch_input_templated = []
@@ -45,7 +44,6 @@ def sailor_1_8b_chat_model_generation(self, batch_input):
             )
         batch_input_templated.append(sample_templated)
     batch_input = batch_input_templated
-
 
     batch_tokenized = self.tokenizer(batch_input, return_tensors="pt", padding=True).to(self.model.device)
     generated_ids   = self.model.generate(**batch_tokenized, max_new_tokens=self.max_new_tokens, pad_token_id=self.tokenizer.eos_token_id)

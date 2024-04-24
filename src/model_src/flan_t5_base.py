@@ -30,8 +30,8 @@ def flan_t5_base_model_loader(self):
 
 def flan_t5_base_model_generation(self, batch_input):
 
-    input_ids  = self.tokenizer(batch_input, return_tensors="pt", padding=True).to(self.model.device)
-    output_ids = self.model.generate(**input_ids, max_length=self.max_new_tokens, early_stopping=True)
+    encoded_input = self.tokenizer(batch_input, return_tensors="pt", padding=True).to(self.model.device)
+    output_ids    = self.model.generate(**encoded_input, max_length=self.max_new_tokens, early_stopping=True)
     with torch.no_grad():
         outputs = self.tokenizer.batch_decode(output_ids, skip_special_tokens=True)
 

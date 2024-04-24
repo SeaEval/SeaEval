@@ -28,7 +28,6 @@ def sailor_0_5b_model_loader(self):
     self.model.eval()
     logging.info(f"Model loaded from {model_path} in {self.model.device} mode with torch_dtype={torch.float16}.")
 
-
 def sailor_0_5b_model_generation(self, batch_input):
 
     batch_tokenized      = self.tokenizer(batch_input, return_tensors="pt", padding=True).to(self.model.device)

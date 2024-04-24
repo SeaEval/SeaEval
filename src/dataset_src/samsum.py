@@ -27,7 +27,6 @@ prompt_template = [
     'Offer an extremely condensed summary of the conversation presented.\n\nDialogue:\n{}\n\nSummary:\n'
     ]
 
-
 class samsum_dataset(object):
 
     def __init__(self, raw_data, prompt_index, eval_mode="zero_shot"):
