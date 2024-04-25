@@ -20,21 +20,19 @@ sys.path.append('.')
 import logging
 
 
-
 from model_src.qwen_1_5_7b import qwen_1_5_7b_model_loader, qwen_1_5_7b_model_generation
 from model_src.qwen_1_5_7b_chat import qwen_1_5_7b_chat_model_loader, qwen_1_5_7b_chat_model_generation
-from model_src.mistral_7b_v0_1 import mistral_7b_v0_1_model_loader, mistral_7b_v0_1_model_generation
-from model_src.chatglm3_6b import chatglm3_6b_model_loader, chatglm3_6b_model_generation
-
-from model_src.bloomz_7b1 import bloomz_7b1_model_loader, bloomz_7b1_model_generation
-from model_src.gpt_35_turbo_1106 import gpt_35_turbo_1106_model_loader, gpt_35_turbo_1106_model_generation
-from model_src.phi_2 import phi_2_model_loader, phi_2_model_generation
 from model_src.gemma_2b import gemma_2b_model_loader, gemma_2b_model_generation
 from model_src.gemma_2b_it import gemma_2b_it_model_loader, gemma_2b_it_model_generation
 from model_src.gemma_7b import gemma_7b_model_loader, gemma_7b_model_generation
 from model_src.gemma_7b_it import gemma_7b_it_model_loader, gemma_7b_it_model_generation
 from model_src.sea_lion_3b import sea_lion_3b_model_loader, sea_lion_3b_model_generation
 from model_src.sea_lion_7b import sea_lion_7b_model_loader, sea_lion_7b_model_generation
+from model_src.phi_2 import phi_2_model_loader, phi_2_model_generation
+
+from model_src.chatglm3_6b import chatglm3_6b_model_loader, chatglm3_6b_model_generation
+from model_src.bloomz_7b1 import bloomz_7b1_model_loader, bloomz_7b1_model_generation
+
 from model_src.alpaca_7b import alpaca_7b_model_loader, alpaca_7b_model_generation
 from model_src.vicuna_7b import vicuna_7b_model_loader, vicuna_7b_model_generation
 from model_src.vicuna_13b import vicuna_13b_model_loader, vicuna_13b_model_generation
@@ -46,8 +44,6 @@ from model_src.llama_65b import llama_65b_model_loader, llama_65b_model_generati
 from model_src.llama_2_7b import llama_2_7b_model_loader, llama_2_7b_model_generation, llama_2_7b_chat_model_generation
 from model_src.llama_2_13b import llama_2_13b_model_loader, llama_2_13b_model_generation, llama_2_13b_chat_model_generation
 from model_src.llama_2_70b import llama_2_70b_model_loader, llama_2_70b_model_generation, llama_2_70b_chat_model_generation
-from model_src.seallama_7b import seallama_2_7b_model_loader, seallama_2_7b_model_generation
-from model_src.seallama_13b import seallama_2_13b_model_loader, seallama_2_13b_model_generation
 from model_src.baichuan_7b import baichuan_7b_model_loader, baichuan_7b_model_generation
 from model_src.baichuan_13b import baichuan_13b_model_loader, baichuan_13b_model_generation
 from model_src.baichuan_13b import baichuan_13b_chat_model_loader, baichuan_13b_chat_model_generation
@@ -55,29 +51,14 @@ from model_src.baichuan_2_7b import baichuan_2_7b_model_loader, baichuan_2_7b_mo
 from model_src.baichuan_2_7b import baichuan_2_7b_chat_model_loader, baichuan_2_7b_chat_model_generation
 from model_src.baichuan_2_13b import baichuan_2_13b_model_loader, baichuan_2_13b_model_generation
 from model_src.baichuan_2_13b import baichuan_2_13b_chat_model_loader, baichuan_2_13b_chat_model_generation
-from model_src.colossal import colossal_model_loader, colossal_model_generation
-from model_src.t5 import t5_model_loader, t5_model_generation
 from model_src.mistral_7b_instruct import mistral_7b_instruct_model_loader, mistral_7b_instruct_model_generation
 from model_src.mixtral_8x7b_instruct import mixtral_8x7b_instruct_model_loader, mixtral_8x7b_instruct_model_generation
-from model_src.sealion_7b_instruct import sealion_7b_instruct_model_loader, sealion_7b_instruct_model_generation
 
-# Our Models
-from model_src.sea_mistral_inst_7b import sea_mistral_inst_7b_model_loader, sea_mistral_inst_7b_model_generation
-from model_src.sea_mistral_least_loss_inst_7b import sea_mistral_least_loss_inst_7b_model_loader, sea_mistral_least_loss_inst_7b_model_generation
-from model_src.our_model_20240316 import our_model_20240316_model_loader, our_model_20240316_model_generation
-from model_src.our_model_20240318 import our_model_20240318_model_loader, our_model_20240318_model_generation
-from model_src.our_model_20240318_2 import our_model_20240318_2_model_loader, our_model_20240318_2_model_generation
-from model_src.our_model_20240318_3 import our_model_20240318_3_model_loader, our_model_20240318_3_model_generation
-from model_src.our_model_20240318_4 import our_model_20240318_4_model_loader, our_model_20240318_4_model_generation
-from model_src.our_model_20240318_5 import our_model_20240318_5_model_loader, our_model_20240318_5_model_generation
-from model_src.sea_mistral_7b import sea_mistral_7b_model_loader, sea_mistral_7b_model_generation
-from model_src.regional_sea_mistral_inst_128k_7b import regional_sea_mistral_inst_128k_7b_model_loader, regional_sea_mistral_inst_128k_7b_model_generation
 
 
 # Update:
 from model_src.mistral_7b_instruct_v0_2_demo import mistral_7b_instruct_v0_2_demo_model_loader, mistral_7b_instruct_v0_2_demo_model_generation
 from model_src.mistral_7b_instruct_v0_2 import mistral_7b_instruct_v0_2_model_loader, mistral_7b_instruct_v0_2_model_generation
-
 from model_src.sailor_7b import sailor_7b_model_loader, sailor_7b_model_generation
 from model_src.sailor_4b import sailor_4b_model_loader, sailor_4b_model_generation
 from model_src.sailor_1_8b import sailor_1_8b_model_loader, sailor_1_8b_model_generation
@@ -90,7 +71,6 @@ from model_src.random import random_model_loader, random_model_generation
 from model_src.meta_llama_3_8b import meta_llama_3_8b_model_loader, meta_llama_3_8b_model_generation
 from model_src.meta_llama_3_8b_instruct import meta_llama_3_8b_instruct_model_loader, meta_llama_3_8b_instruct_model_generation
 from model_src.sea_mistral_highest_acc_inst_7b import sea_mistral_highest_acc_inst_7b_model_loader, sea_mistral_highest_acc_inst_7b_model_generation
-
 from model_src.mt0_xxl import mt0_xxl_model_loader, mt0_xxl_model_generation
 from model_src.flan_t5_small import flan_t5_small_model_loader, flan_t5_small_model_generation
 from model_src.flan_t5_base import flan_t5_base_model_loader, flan_t5_base_model_generation
@@ -98,8 +78,10 @@ from model_src.flan_t5_large import flan_t5_large_model_loader, flan_t5_large_mo
 from model_src.flan_t5_xl import flan_t5_xl_model_loader, flan_t5_xl_model_generation
 from model_src.flan_t5_xxl import flan_t5_xxl_model_loader, flan_t5_xxl_model_generation
 from model_src.flan_ul2 import flan_ul2_model_loader, flan_ul2_model_generation
-
 from model_src.seallm_7b_v2 import seallm_7b_v2_model_loader, seallm_7b_v2_model_generation
+from model_src.mistral_7b_v0_1 import mistral_7b_v0_1_model_loader, mistral_7b_v0_1_model_generation
+from model_src.mistral_7b_v0_2 import mistral_7b_v0_2_model_loader, mistral_7b_v0_2_model_generation
+from model_src.gpt_35_turbo_1106 import gpt_35_turbo_1106_model_loader, gpt_35_turbo_1106_model_generation
 
 
 # =  =  =  =  =  =  =  =  =  =  =  Logging Setup  =  =  =  =  =  =  =  =  =  =  =  =  = 
@@ -130,15 +112,10 @@ class Model(object):
         elif self.model_name == 'gemma_7b': gemma_7b_model_loader(self)
         elif self.model_name == 'gemma_7b_it': gemma_7b_it_model_loader(self)
 
-        elif self.model_name == 'sea_mistral_inst_7b': sea_mistral_inst_7b_model_loader(self)
-        elif self.model_name == 'sea_mistral_least_loss_inst_7b': sea_mistral_least_loss_inst_7b_model_loader(self)
-
-        elif self.model_name == 'gpt_35_turbo_1106': gpt_35_turbo_1106_model_loader(self)
 
         elif self.model_name == 'qwen_1_5_7b': qwen_1_5_7b_model_loader(self)
         elif self.model_name == 'qwen_1_5_7b_chat': qwen_1_5_7b_chat_model_loader(self)
 
-        elif self.model_name == 'mistral_7b_v0_1': mistral_7b_v0_1_model_loader(self)
 
         elif self.model_name in ['chatglm_6b', 'chatglm2_6b', 'chatglm3_6b']: chatglm3_6b_model_loader(self)
 
@@ -167,19 +144,8 @@ class Model(object):
         elif self.model_name == 'baichuan-2-7b-chat': baichuan_2_7b_chat_model_loader(self)
         elif self.model_name == 'baichuan-2-13b': baichuan_2_13b_model_loader(self)
         elif self.model_name == 'baichuan-2-13b-chat': baichuan_2_13b_chat_model_loader(self)
-        elif self.model_name == 'colossal-llama-2-7b-base': colossal_model_loader(self)
-        elif self.model_name in ['fastchat-t5-3b-v1.0', 'ali-t5-large-061123']: t5_model_loader(self)
         elif self.model_name in ['mistral-7b-instruct-v0.1']: mistral_7b_instruct_model_loader(self)
         elif self.model_name == 'mixtral-8x7b-instruct-v0.1': mixtral_8x7b_instruct_model_loader(self)
-        elif self.model_name == 'sealion7b-instruct-nc': sealion_7b_instruct_model_loader(self)
-        elif 'checkpoint-20240316' in self.model_name                        : our_model_20240316_model_loader(self)
-        elif 'regional_sea_mistral_inst_7b_latest' == self.model_name        : our_model_20240318_model_loader(self)
-        elif 'regional_sea_mistral_inst_7b' == self.model_name               : our_model_20240318_5_model_loader(self)
-        elif 'checkpoint-20240318' in self.model_name                        : our_model_20240318_2_model_loader(self)
-        elif 'regional-ckpt1280-mistral-7b-sft-lora8_16-' in self.model_name : our_model_20240318_3_model_loader(self)
-        elif 'regional-ckpt8000-mistral-7b-sft-lora64_16-' in self.model_name: our_model_20240318_4_model_loader(self)
-        elif self.model_name == 'sea_mistral_7b': sea_mistral_7b_model_loader(self)
-        elif self.model_name == 'regional_sea_mistral_inst_128k_7b': regional_sea_mistral_inst_128k_7b_model_loader(self)
 
         # Update:
         elif self.model_name == 'random': random_model_loader(self)
@@ -204,6 +170,9 @@ class Model(object):
         elif self.model_name == 'flan_t5_xxl': flan_t5_xxl_model_loader(self)
         elif self.model_name == 'flan_ul2': flan_ul2_model_loader(self)
         elif self.model_name == 'seallm_7b_v2': seallm_7b_v2_model_loader(self)
+        elif self.model_name == 'mistral_7b_v0_1': mistral_7b_v0_1_model_loader(self)
+        elif self.model_name == 'mistral_7b_v0_2': mistral_7b_v0_2_model_loader(self)
+        elif self.model_name == 'gpt_35_turbo_1106': gpt_35_turbo_1106_model_loader(self)
 
         else:
             raise NotImplementedError("Model {} not implemented yet".format(self.model_name))
@@ -215,23 +184,13 @@ class Model(object):
         elif self.model_name == 'gemma_2b_it': return gemma_2b_it_model_generation(self, batch_input)
         elif self.model_name == 'gemma_7b': return gemma_7b_model_generation(self, batch_input)
         elif self.model_name == 'gemma_7b_it': return gemma_7b_it_model_generation(self, batch_input)
-
-        elif self.model_name == 'sea_mistral_inst_7b': return sea_mistral_inst_7b_model_generation(self, batch_input)
-        elif self.model_name == 'sea_mistral_least_loss_inst_7b': return sea_mistral_least_loss_inst_7b_model_generation(self, batch_input)
-
-        elif self.model_name == 'gpt_35_turbo_1106': return gpt_35_turbo_1106_model_generation(self, batch_input)
-
         elif self.model_name == 'qwen_1_5_7b': return qwen_1_5_7b_model_generation(self, batch_input)
         elif self.model_name == 'qwen_1_5_7b_chat': return qwen_1_5_7b_chat_model_generation(self, batch_input)
-
-        elif self.model_name == 'mistral_7b_v0_1': return mistral_7b_v0_1_model_generation(self, batch_input)
         elif self.model_name in ['chatglm_6b', 'chatglm2_6b', 'chatglm3_6b']: return chatglm3_6b_model_generation(self, batch_input)
-
         elif self.model_name == 'bloomz_7b1': return bloomz_7b1_model_generation(self, batch_input)
         elif self.model_name == 'phi_2': return phi_2_model_generation(self, batch_input)
         elif self.model_name == 'sea_lion_3b': return sea_lion_3b_model_generation(self, batch_input)
         elif self.model_name == 'sea_lion_7b': return sea_lion_7b_model_generation(self, batch_input)
-
         elif self.model_name == 'alpaca-7b': return alpaca_7b_model_generation(self, batch_input)
         elif self.model_name in ['vicuna-7b-v1.3', 'vicuna-7b-v1.5']: return vicuna_7b_model_generation(self, batch_input)
         elif self.model_name in ['vicuna-13b-v1.3', 'vicuna-13b-v1.5']: return vicuna_13b_model_generation(self, batch_input)
@@ -243,8 +202,6 @@ class Model(object):
         elif self.model_name in ['llama-2-7b', 'llama-2-7b-chat']: return llama_2_7b_model_generation(self, batch_input)
         elif self.model_name in ['llama-2-13b', 'llama-2-13b-chat']: return llama_2_13b_model_generation(self, batch_input)
         elif self.model_name in ['llama-2-70b', 'llama-2-70b-chat']: return llama_2_70b_model_generation(self, batch_input)
-        elif self.model_name == 'seallama-7b-040923': return seallama_2_7b_model_generation(self, batch_input)
-        elif self.model_name == 'seallama-13b-220823': return seallama_2_13b_model_generation(self, batch_input)
         elif self.model_name == 'baichuan-7b': return baichuan_7b_model_generation(self, batch_input)
         elif self.model_name == 'baichuan-13b': return baichuan_13b_model_generation(self, batch_input)
         elif self.model_name == 'baichuan-13b-chat': return baichuan_13b_chat_model_generation(self, batch_input)
@@ -252,21 +209,8 @@ class Model(object):
         elif self.model_name == 'baichuan-2-7b-chat': return baichuan_2_7b_chat_model_generation(self, batch_input)
         elif self.model_name == 'baichuan-2-13b': return baichuan_2_13b_model_generation(self, batch_input)
         elif self.model_name == 'baichuan-2-13b-chat': return baichuan_2_13b_chat_model_generation(self, batch_input)
-        elif self.model_name == 'colossal-llama-2-7b-base': return colossal_model_generation(self, batch_input)
-        elif self.model_name in ['fastchat-t5-3b-v1.0', 'ali-t5-large-061123']: return t5_model_generation(self, batch_input)
         elif self.model_name in ['mistral-7b-instruct-v0.1']: return mistral_7b_instruct_model_generation(self, batch_input)
         elif self.model_name == 'mixtral-8x7b-instruct-v0.1': return mixtral_8x7b_instruct_model_generation(self, batch_input)
-        elif self.model_name == 'sealion7b-instruct-nc': return sealion_7b_instruct_model_generation(self, batch_input)
-
-        elif 'checkpoint-20240316' in self.model_name                        : return our_model_20240316_model_generation(self, batch_input)
-        elif 'regional_sea_mistral_inst_7b_latest' == self.model_name        : return our_model_20240318_model_generation(self, batch_input)
-        elif 'regional_sea_mistral_inst_7b' == self.model_name               : return our_model_20240318_5_model_generation(self, batch_input)
-        elif 'checkpoint-20240318' in self.model_name                        : return our_model_20240318_2_model_generation(self, batch_input)
-        elif 'regional-ckpt1280-mistral-7b-sft-lora8_16-' in self.model_name : return our_model_20240318_3_model_generation(self, batch_input)
-        elif 'regional-ckpt8000-mistral-7b-sft-lora64_16-' in self.model_name: return our_model_20240318_4_model_generation(self, batch_input)
-
-        elif self.model_name == 'sea_mistral_7b': return sea_mistral_7b_model_generation(self, batch_input)
-        elif self.model_name == 'regional_sea_mistral_inst_128k_7b': return regional_sea_mistral_inst_128k_7b_model_generation(self, batch_input)
 
 
         # Update:
@@ -292,7 +236,9 @@ class Model(object):
         elif self.model_name == 'flan_t5_xxl': return flan_t5_xxl_model_generation(self, batch_input)
         elif self.model_name == 'flan_ul2': return flan_ul2_model_generation(self, batch_input)
         elif self.model_name == 'seallm_7b_v2': return seallm_7b_v2_model_generation(self, batch_input)
-
+        elif self.model_name == 'mistral_7b_v0_1': return mistral_7b_v0_1_model_generation(self, batch_input)
+        elif self.model_name == 'mistral_7b_v0_2': return mistral_7b_v0_2_model_generation(self, batch_input)
+        elif self.model_name == 'gpt_35_turbo_1106': return gpt_35_turbo_1106_model_generation(self, batch_input)
 
         else:
             raise NotImplementedError("Model {} not implemented yet".format(self.model_name))

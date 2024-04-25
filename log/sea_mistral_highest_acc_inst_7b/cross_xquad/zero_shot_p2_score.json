@@ -1,0 +1,34 @@
+{
+    "overall_acc": 0.8821428571428572,
+    "language_acc": {
+        "Spanish": 0.9042016806722689,
+        "English": 0.9184873949579831,
+        "Chinese": 0.8663865546218488,
+        "Vietnamese": 0.8394957983193277
+    },
+    "consistency_score_2": 0.8579831932773109,
+    "consistency_score_3": 0.7970588235294117,
+    "consistency_score_4": 0.7571428571428571,
+    "detailed_consistency_score": {
+        "2_combine": {
+            "Spanish,English": 0.9159663865546218,
+            "Spanish,Chinese": 0.8638655462184874,
+            "Spanish,Vietnamese": 0.8394957983193277,
+            "English,Chinese": 0.8672268907563025,
+            "English,Vietnamese": 0.8378151260504202,
+            "Chinese,Vietnamese": 0.8235294117647058
+        },
+        "3_combine": {
+            "Spanish,English,Chinese": 0.8327731092436975,
+            "Spanish,English,Vietnamese": 0.8058823529411765,
+            "Spanish,Chinese,Vietnamese": 0.7747899159663866,
+            "English,Chinese,Vietnamese": 0.7747899159663866
+        },
+        "4_combine": {
+            "Spanish,English,Chinese,Vietnamese": 0.7571428571428571
+        }
+    },
+    "AC3_2": 0.8698953104827705,
+    "AC3_3": 0.837445264556659,
+    "AC3_4": 0.8148770618861761
+}
