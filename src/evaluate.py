@@ -21,6 +21,8 @@ import logging
 
 from tqdm import trange
 
+import torch
+
 from dataset import Dataset
 from model   import Model
 
@@ -42,7 +44,8 @@ def do_model_prediction(dataset, model, batch_size):
     model_predictions = []
     for i in trange(0, len(dataset.data_plain), batch_size, leave=False):
         batch_inputs  = dataset.data_plain[i:i+batch_size]
-        batch_outputs = model.generate(batch_inputs)
+        with torch.no_grad():
+            batch_outputs = model.generate(batch_inputs)
         model_predictions.extend(batch_outputs)
 
     return model_predictions
