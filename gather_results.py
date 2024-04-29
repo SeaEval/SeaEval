@@ -67,11 +67,6 @@ MODEL_LIST={
     'gemma_7b_it'             : ['7B', 'https://huggingface.co/google/gemma-7b-it'],
     'bloomz_7b1'              : ['7.1B', 'https://huggingface.co/bigscience/bloomz-7b1'],
     'phi_2'                   : ['2.7B', 'https://huggingface.co/microsoft/phi-2'],
-    'sea_lion_3b'             : ['3B', 'https://huggingface.co/aisingapore/sea-lion-3b'],
-    'sea_lion_7b'             : ['7B', 'https://huggingface.co/aisingapore/sea-lion-7b'],
-
-
-
 
 }
 
@@ -99,7 +94,10 @@ MODEL_LIST={
     'mt0_xxl'                        : ['13B', 'https://huggingface.co/bigscience/mt0-xxl'],
     'seallm_7b_v2'                   : ['7B', 'https://huggingface.co/SeaLLMs/SeaLLM-7B-v2'],
     'gpt_35_turbo_1106'              : ['NA', 'https://openai.com/blog/chatgpt'],
-
+    'meta_llama_3_70b'               : ['70B', 'https://huggingface.co/meta-llama/Meta-Llama-3-70B'],
+    'meta_llama_3_70b_instruct'      : ['70B', 'https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct'],
+    'sea_lion_3b'                    : ['3B', 'https://huggingface.co/aisingapore/sea-lion-3b'],
+    'sea_lion_7b'                    : ['3B', 'https://huggingface.co/aisingapore/sea-lion-7b'],
 }
 
 
