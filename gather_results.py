@@ -97,7 +97,7 @@ MODEL_LIST={
     'meta_llama_3_70b'               : ['70B', 'https://huggingface.co/meta-llama/Meta-Llama-3-70B'],
     'meta_llama_3_70b_instruct'      : ['70B', 'https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct'],
     'sea_lion_3b'                    : ['3B', 'https://huggingface.co/aisingapore/sea-lion-3b'],
-    'sea_lion_7b'                    : ['3B', 'https://huggingface.co/aisingapore/sea-lion-7b'],
+    'sea_lion_7b'                    : ['7B', 'https://huggingface.co/aisingapore/sea-lion-7b'],
 }
 
 

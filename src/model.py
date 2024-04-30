@@ -85,6 +85,11 @@ from model_src.mistral_7b_v0_2 import mistral_7b_v0_2_model_loader, mistral_7b_v
 from model_src.gpt_35_turbo_1106 import gpt_35_turbo_1106_model_loader, gpt_35_turbo_1106_model_generation
 from model_src.sea_lion_3b import sea_lion_3b_model_loader, sea_lion_3b_model_generation
 from model_src.sea_lion_7b import sea_lion_7b_model_loader, sea_lion_7b_model_generation
+from model_src.sea_lion_7b_instruct import sea_lion_7b_instruct_model_loader, sea_lion_7b_instruct_model_generation
+from model_src.sea_lion_7b_instruct_research import sea_lion_7b_instruct_research_model_loader, sea_lion_7b_instruct_research_model_generation
+from model_src.qwen1_5_110b import qwen1_5_110b_model_loader, qwen1_5_110b_model_generation
+from model_src.qwen1_5_110b_chat import qwen1_5_110b_chat_model_loader, qwen1_5_110b_chat_model_generation
+
 
 # =  =  =  =  =  =  =  =  =  =  =  Logging Setup  =  =  =  =  =  =  =  =  =  =  =  =  = 
 logger = logging.getLogger(__name__)
@@ -175,6 +180,10 @@ class Model(object):
         elif self.model_name == 'gpt_35_turbo_1106': gpt_35_turbo_1106_model_loader(self)
         elif self.model_name == 'sea_lion_3b': sea_lion_3b_model_loader(self)
         elif self.model_name == 'sea_lion_7b': sea_lion_7b_model_loader(self)
+        elif self.model_name == 'sea_lion_7b_instruct': sea_lion_7b_instruct_model_loader(self)
+        elif self.model_name == 'sea_lion_7b_instruct_research': sea_lion_7b_instruct_research_model_loader(self)
+        elif self.model_name == 'qwen1_5_110b': qwen1_5_110b_model_loader(self)
+        elif self.model_name == 'qwen1_5_110b_chat': qwen1_5_110b_chat_model_loader(self)
 
         else:
             raise NotImplementedError("Model {} not implemented yet".format(self.model_name))
@@ -243,6 +252,10 @@ class Model(object):
         elif self.model_name == 'gpt_35_turbo_1106': return gpt_35_turbo_1106_model_generation(self, batch_input)
         elif self.model_name == 'sea_lion_3b': return sea_lion_3b_model_generation(self, batch_input)
         elif self.model_name == 'sea_lion_7b': return sea_lion_7b_model_generation(self, batch_input)
+        elif self.model_name == 'sea_lion_7b_instruct': return sea_lion_7b_instruct_model_generation(self, batch_input)
+        elif self.model_name == 'sea_lion_7b_instruct_research': return sea_lion_7b_instruct_research_model_generation(self, batch_input)
+        elif self.model_name == 'qwen1_5_110b': return qwen1_5_110b_model_generation(self, batch_input)
+        elif self.model_name == 'qwen1_5_110b_chat': return qwen1_5_110b_chat_model_generation(self, batch_input)
 
         else:
             raise NotImplementedError("Model {} not implemented yet".format(self.model_name))
