@@ -26,7 +26,7 @@ MODEL_LIST={
       #'llama-30b'                       : ['30B', 'https://huggingface.co/huggyllama/llama-30b'],
       #'llama-65b'                       : ['65B', 'https://huggingface.co/huggyllama/llama-65b'],
       'llama-2-7b'                     : ['7B', 'https://huggingface.co/meta-llama/Llama-2-7b-hf'],
-      'llama-2-7b-chat'                : ['7B', 'https://huggingface.co/meta-llama/Llama-2-7b-chat-hf'],
+
       'llama-2-13b'                    : ['13B', 'https://huggingface.co/meta-llama/Llama-2-13b-hf'],
       'llama-2-13b-chat'               : ['13B', 'https://huggingface.co/meta-llama/Llama-2-13b-chat-hf'],
       #'llama-2-70b'                     : ['70B', 'https://huggingface.co/meta-llama/Llama-2-70b-hf'],
@@ -49,11 +49,6 @@ MODEL_LIST={
       'sealion3b'                      : ['3B', 'https://huggingface.co/aisingapore/sealion3b'],
       'sealion7b'                      : ['7B', 'https://huggingface.co/aisingapore/sealion7b'],
       'sealion7b-instruct-nc'          : ['7B', 'https://huggingface.co/aisingapore/sealion7b-instruct-nc'],
-}
-
-
-
-MODEL_LIST={
 
     'mistral_7b_v0_1'         : ['7B', 'https://huggingface.co/mistralai/Mistral-7B-v0.1'],
     'chatglm2_6b'             : ['6B', 'https://huggingface.co/THUDM/chatglm2-6b'],
@@ -100,6 +95,8 @@ MODEL_LIST={
     'sea_lion_7b'                    : ['7B', 'https://huggingface.co/aisingapore/sea-lion-7b'],
     'qwen1_5_110b'                   : ['110B', 'https://huggingface.co/Qwen/Qwen1.5-110B'],
     'qwen1_5_110b_chat'              : ['110B', 'https://huggingface.co/Qwen/Qwen1.5-110B-Chat'],
+    'llama_2_7b_chat'                : ['7B', 'https://huggingface.co/meta-llama/Llama-2-7b-chat-hf'],
+
 }
 
 
