@@ -96,6 +96,7 @@ MODEL_LIST={
     'qwen1_5_110b'                   : ['110B', 'https://huggingface.co/Qwen/Qwen1.5-110B'],
     'qwen1_5_110b_chat'              : ['110B', 'https://huggingface.co/Qwen/Qwen1.5-110B-Chat'],
     'llama_2_7b_chat'                : ['7B', 'https://huggingface.co/meta-llama/Llama-2-7b-chat-hf'],
+    'gpt4_1106_preview'              : ['NA', 'https://openai.com/blog/chatgpt'],
 
 }
 
