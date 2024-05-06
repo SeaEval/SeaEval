@@ -90,6 +90,7 @@ from model_src.sea_lion_7b_instruct_research import sea_lion_7b_instruct_researc
 from model_src.qwen1_5_110b import qwen1_5_110b_model_loader, qwen1_5_110b_model_generation
 from model_src.qwen1_5_110b_chat import qwen1_5_110b_chat_model_loader, qwen1_5_110b_chat_model_generation
 from model_src.llama_2_7b_chat import llama_2_7b_chat_model_loader, llama_2_7b_chat_model_generation
+from model_src.gpt4_1106_preview import gpt4_1106_preview_model_loader, gpt4_1106_preview_model_generation
 
 
 # =  =  =  =  =  =  =  =  =  =  =  Logging Setup  =  =  =  =  =  =  =  =  =  =  =  =  = 
@@ -186,6 +187,7 @@ class Model(object):
         elif self.model_name == 'qwen1_5_110b': qwen1_5_110b_model_loader(self)
         elif self.model_name == 'qwen1_5_110b_chat': qwen1_5_110b_chat_model_loader(self)
         elif self.model_name == 'llama_2_7b_chat': llama_2_7b_chat_model_loader(self)
+        elif self.model_name == 'gpt4_1106_preview': gpt4_1106_preview_model_loader(self)
 
         else:
             raise NotImplementedError("Model {} not implemented yet".format(self.model_name))
@@ -259,6 +261,7 @@ class Model(object):
         elif self.model_name == 'qwen1_5_110b': return qwen1_5_110b_model_generation(self, batch_input)
         elif self.model_name == 'qwen1_5_110b_chat': return qwen1_5_110b_chat_model_generation(self, batch_input)
         elif self.model_name == 'llama_2_7b_chat': return llama_2_7b_chat_model_generation(self, batch_input)
+        elif self.model_name == 'gpt4_1106_preview': return gpt4_1106_preview_model_generation(self, batch_input)
 
         else:
             raise NotImplementedError("Model {} not implemented yet".format(self.model_name))
