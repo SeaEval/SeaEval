@@ -22,10 +22,6 @@ import logging
 
 from model_src.qwen_1_5_7b import qwen_1_5_7b_model_loader, qwen_1_5_7b_model_generation
 from model_src.qwen_1_5_7b_chat import qwen_1_5_7b_chat_model_loader, qwen_1_5_7b_chat_model_generation
-from model_src.gemma_2b import gemma_2b_model_loader, gemma_2b_model_generation
-from model_src.gemma_2b_it import gemma_2b_it_model_loader, gemma_2b_it_model_generation
-from model_src.gemma_7b import gemma_7b_model_loader, gemma_7b_model_generation
-from model_src.gemma_7b_it import gemma_7b_it_model_loader, gemma_7b_it_model_generation
 
 from model_src.phi_2 import phi_2_model_loader, phi_2_model_generation
 
@@ -91,6 +87,10 @@ from model_src.qwen1_5_110b import qwen1_5_110b_model_loader, qwen1_5_110b_model
 from model_src.qwen1_5_110b_chat import qwen1_5_110b_chat_model_loader, qwen1_5_110b_chat_model_generation
 from model_src.llama_2_7b_chat import llama_2_7b_chat_model_loader, llama_2_7b_chat_model_generation
 from model_src.gpt4_1106_preview import gpt4_1106_preview_model_loader, gpt4_1106_preview_model_generation
+from model_src.gemma_2b import gemma_2b_model_loader, gemma_2b_model_generation
+from model_src.gemma_7b import gemma_7b_model_loader, gemma_7b_model_generation
+from model_src.gemma_2b_it import gemma_2b_it_model_loader, gemma_2b_it_model_generation
+from model_src.gemma_7b_it import gemma_7b_it_model_loader, gemma_7b_it_model_generation
 
 
 # =  =  =  =  =  =  =  =  =  =  =  Logging Setup  =  =  =  =  =  =  =  =  =  =  =  =  = 
@@ -116,12 +116,8 @@ class Model(object):
     def load_model(self):
         
         # Load model
-        if self.model_name == 'gemma-2b': gemma_2b_model_loader(self)
-        elif self.model_name == 'gemma_2b_it': gemma_2b_it_model_loader(self)
-        elif self.model_name == 'gemma_7b': gemma_7b_model_loader(self)
-        elif self.model_name == 'gemma_7b_it': gemma_7b_it_model_loader(self)
 
-
+        '''
         elif self.model_name == 'qwen_1_5_7b': qwen_1_5_7b_model_loader(self)
         elif self.model_name == 'qwen_1_5_7b_chat': qwen_1_5_7b_chat_model_loader(self)
 
@@ -151,9 +147,10 @@ class Model(object):
         elif self.model_name == 'baichuan-2-13b-chat': baichuan_2_13b_chat_model_loader(self)
         elif self.model_name in ['mistral-7b-instruct-v0.1']: mistral_7b_instruct_model_loader(self)
         elif self.model_name == 'mixtral-8x7b-instruct-v0.1': mixtral_8x7b_instruct_model_loader(self)
+        '''
 
         # Update:
-        elif self.model_name == 'random': random_model_loader(self)
+        if self.model_name == 'random': random_model_loader(self)
         elif self.model_name == 'mistral_7b_instruct_v0_2_demo': mistral_7b_instruct_v0_2_demo_model_loader(self)
         elif self.model_name == 'mistral_7b_instruct_v0_2': mistral_7b_instruct_v0_2_model_loader(self)
         elif self.model_name == 'sailor_0_5b_chat': sailor_0_5b_chat_model_loader(self)
@@ -188,6 +185,10 @@ class Model(object):
         elif self.model_name == 'qwen1_5_110b_chat': qwen1_5_110b_chat_model_loader(self)
         elif self.model_name == 'llama_2_7b_chat': llama_2_7b_chat_model_loader(self)
         elif self.model_name == 'gpt4_1106_preview': gpt4_1106_preview_model_loader(self)
+        elif self.model_name == 'gemma_2b': gemma_2b_model_loader(self)
+        elif self.model_name == 'gemma_7b': gemma_7b_model_loader(self)
+        elif self.model_name == 'gemma_2b_it': gemma_2b_it_model_loader(self)
+        elif self.model_name == 'gemma_7b_it': gemma_7b_it_model_loader(self)
 
         else:
             raise NotImplementedError("Model {} not implemented yet".format(self.model_name))
@@ -195,10 +196,7 @@ class Model(object):
     
     def generate(self, batch_input):
 
-        if   self.model_name == 'gemma_2b': return gemma_2b_model_generation(self, batch_input)
-        elif self.model_name == 'gemma_2b_it': return gemma_2b_it_model_generation(self, batch_input)
-        elif self.model_name == 'gemma_7b': return gemma_7b_model_generation(self, batch_input)
-        elif self.model_name == 'gemma_7b_it': return gemma_7b_it_model_generation(self, batch_input)
+        '''
         elif self.model_name == 'qwen_1_5_7b': return qwen_1_5_7b_model_generation(self, batch_input)
         elif self.model_name == 'qwen_1_5_7b_chat': return qwen_1_5_7b_chat_model_generation(self, batch_input)
         elif self.model_name in ['chatglm_6b', 'chatglm2_6b', 'chatglm3_6b']: return chatglm3_6b_model_generation(self, batch_input)
@@ -224,10 +222,10 @@ class Model(object):
         elif self.model_name == 'baichuan-2-13b-chat': return baichuan_2_13b_chat_model_generation(self, batch_input)
         elif self.model_name in ['mistral-7b-instruct-v0.1']: return mistral_7b_instruct_model_generation(self, batch_input)
         elif self.model_name == 'mixtral-8x7b-instruct-v0.1': return mixtral_8x7b_instruct_model_generation(self, batch_input)
-
+        '''
 
         # Update:
-        elif self.model_name == 'random': return random_model_generation(self, batch_input)
+        if self.model_name == 'random': return random_model_generation(self, batch_input)
         elif self.model_name == 'mistral_7b_instruct_v0_2_demo': return mistral_7b_instruct_v0_2_demo_model_generation(self, batch_input)
         elif self.model_name == 'mistral_7b_instruct_v0_2': return mistral_7b_instruct_v0_2_model_generation(self, batch_input)
         elif self.model_name == 'sailor_7b': return sailor_7b_model_generation(self, batch_input)
@@ -262,6 +260,10 @@ class Model(object):
         elif self.model_name == 'qwen1_5_110b_chat': return qwen1_5_110b_chat_model_generation(self, batch_input)
         elif self.model_name == 'llama_2_7b_chat': return llama_2_7b_chat_model_generation(self, batch_input)
         elif self.model_name == 'gpt4_1106_preview': return gpt4_1106_preview_model_generation(self, batch_input)
+        elif self.model_name == 'gemma_2b': return gemma_2b_model_generation(self, batch_input)
+        elif self.model_name == 'gemma_7b': return gemma_7b_model_generation(self, batch_input)
+        elif self.model_name == 'gemma_2b_it': return gemma_2b_it_model_generation(self, batch_input)
+        elif self.model_name == 'gemma_7b_it': return gemma_7b_it_model_generation(self, batch_input)
 
         else:
             raise NotImplementedError("Model {} not implemented yet".format(self.model_name))
