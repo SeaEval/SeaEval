@@ -91,6 +91,7 @@ from model_src.gemma_2b import gemma_2b_model_loader, gemma_2b_model_generation
 from model_src.gemma_7b import gemma_7b_model_loader, gemma_7b_model_generation
 from model_src.gemma_2b_it import gemma_2b_it_model_loader, gemma_2b_it_model_generation
 from model_src.gemma_7b_it import gemma_7b_it_model_loader, gemma_7b_it_model_generation
+from model_src.hf_sg_regional_llama3_8b import hf_sg_regional_llama3_8b_model_loader, hf_sg_regional_llama3_8b_model_generation
 
 
 # =  =  =  =  =  =  =  =  =  =  =  Logging Setup  =  =  =  =  =  =  =  =  =  =  =  =  = 
@@ -189,6 +190,7 @@ class Model(object):
         elif self.model_name == 'gemma_7b': gemma_7b_model_loader(self)
         elif self.model_name == 'gemma_2b_it': gemma_2b_it_model_loader(self)
         elif self.model_name == 'gemma_7b_it': gemma_7b_it_model_loader(self)
+        elif self.model_name == 'hf_sg_regional_llama3_8b': hf_sg_regional_llama3_8b_model_loader(self)
 
         else:
             raise NotImplementedError("Model {} not implemented yet".format(self.model_name))
@@ -264,6 +266,7 @@ class Model(object):
         elif self.model_name == 'gemma_7b': return gemma_7b_model_generation(self, batch_input)
         elif self.model_name == 'gemma_2b_it': return gemma_2b_it_model_generation(self, batch_input)
         elif self.model_name == 'gemma_7b_it': return gemma_7b_it_model_generation(self, batch_input)
+        elif self.model_name == 'hf_sg_regional_llama3_8b': return hf_sg_regional_llama3_8b_model_generation(self, batch_input)
 
         else:
             raise NotImplementedError("Model {} not implemented yet".format(self.model_name))
