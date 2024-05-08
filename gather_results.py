@@ -102,6 +102,8 @@ MODEL_LIST={
     'gemma_2b_it'                    : ['>2B', 'https://huggingface.co/google/gemma-2b-it'],
     'gemma_7b_it'                    : ['7B', 'https://huggingface.co/google/gemma-7b-it'],
 
+    'hf_sg_regional_llama3_8b'       : ['8B', 'https://seaeval.github.io/'],
+
 }
 
 
