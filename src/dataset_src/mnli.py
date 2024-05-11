@@ -21,11 +21,11 @@ max_number_of_sample = 2000
 max_number_of_sample = 10
 
 prompt_template = [
-    'Assess the relationship between the following two sentences and choose the correct answer from the provided choices.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n',
-    'Determine the relationship between the following two sentences. Choose the correct answer from the available choices.\n{}\nChoices:\n{}\nAnswer:\n',
-    'Choose the correct answer from the provided choices by assessing the relationship between the two sentences.\n{}\nChoices:\n{}\nAnswer:\n',
-    'Examine the two provided sentences and determine their relationship by selecting the most suitable option from the given choices.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n',
-    'Respond to the following question by choosing the most suitable option.\n\nQuestion:\nWhat is the relationship for the following two sentences?\n\n{}\n\nChoices:\n{}\n\nAnswer:\n'
+    'Assess the relationship between the following two sentences and choose the correct answer from the provided choices. Simply select the choice, no explanations required.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n',
+    'Determine the relationship between the following two sentences. Choose the correct answer from the available choices. Simply select the choice, no explanations required.\n{}\nChoices:\n{}\nAnswer:\n',
+    'Choose the correct answer from the provided choices by assessing the relationship between the two sentences. Simply select the choice, no explanations required.\n{}\nChoices:\n{}\nAnswer:\n',
+    'Examine the two provided sentences and determine their relationship by selecting the most suitable option from the given choices. Simply select the choice, no explanations required.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n',
+    'Respond to the following question by choosing the most suitable option.\n\nQuestion:\nWhat is the relationship for the following two sentences? Simply select the choice, no explanations required.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n'
     ]
 
 class mnli_dataset(object):

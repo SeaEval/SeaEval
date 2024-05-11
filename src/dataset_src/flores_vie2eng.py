@@ -20,7 +20,7 @@ import tiger_eval
 max_number_of_sample = -1
 
 prompt_template = [
-    'Translate the following sentence from Vietnamese to English.\n\nSentence in Vietnamese:\n{}\n\nTranslation in English:\n',
+    'Translate the following sentence from Vietnamese to English. Output the translation only, nothing else.\n\nSentence in Vietnamese:\n{}\n\nTranslation in English:\n',
     'Please translate the provided Vietnamese text into English. Output the translated content only.\nSentence in Vietnamese:\n{}\nTranslation in English:\n',
     'Translate the Vietnamese text provided into English and provide only the translated content.\nSentence in Vietnamese:\n{}\nTranslation in English:\n',
     'Given the sentence below, perform machine translation from Vietnamese to English. Output the translated content only.\n\nSentence in Vietnamese:\n{}\n\nTranslation in English:\n',

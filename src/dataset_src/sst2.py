@@ -20,11 +20,11 @@ import tiger_eval
 max_number_of_sample = -1
 
 prompt_template = [
-    'Read the following sentence and determine its sentiment. Choose the appropriate sentiment from the options provided.\n\nSentence:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
-    'Identify the sentiment of the following sentence by selecting one label from the available choices.\nSentence:\n{}\nChoices:\n{}\nAnswer:\n',
-    'Examine the following sentence and categorize its sentiment using one of the labels provided.\nSentence:\n{}\nChoices:\n{}\nAnswer:\n',
-    'Determine the sentiment of the following sentence and choose the most suitable option.\n\nSentence:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
-    'Respond to the following question by choosing the most suitable option.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\n{}\n\nAnswer:\n'
+    'Read the following sentence and determine its sentiment. Choose the appropriate sentiment from the options provided. Simply select the choice, no explanations required.\n\nSentence:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
+    'Identify the sentiment of the following sentence by selecting one label from the available choices. Simply select the choice, no explanations required.\nSentence:\n{}\nChoices:\n{}\nAnswer:\n',
+    'Examine the following sentence and categorize its sentiment using one of the labels provided. Simply select the choice, no explanations required.\nSentence:\n{}\nChoices:\n{}\nAnswer:\n',
+    'Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
+    'Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\n{}\n\nAnswer:\n'
     ]
 
 class sst2_dataset(object):

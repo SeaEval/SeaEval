@@ -21,11 +21,11 @@ max_number_of_sample = 2000
 max_number_of_sample = 10
 
 prompt_template = [
-    'Assess whether the question can be answered based on the paragraph and choose the correct answer from the provided choices.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n',
-    'Based on the paragraph, can the question be answered? Choose the correct option from the provided choices.\n{}\nChoices:\n{}\nAnswer:\n',
-    'Determine if the question can be answered from the paragraph and select the correct answer from the provided choices.\n{}\nChoices:\n{}\nAnswer:\n',
-    'Based on the question and paragraph, determine if the answer can be inferred from the paragraph. Select the most appropriate choice as the answer.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n',
-    'Select the appropriate response by examining whether the question can be answered based on the provided context.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n'
+    'Assess whether the question can be answered based on the paragraph and choose the correct answer from the provided choices. Simply select the choice, no explanations required.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n',
+    'Based on the paragraph, can the question be answered? Choose the correct option from the provided choices. Simply select the choice, no explanations required.\n{}\nChoices:\n{}\nAnswer:\n',
+    'Determine if the question can be answered from the paragraph and select the correct answer from the provided choices. Simply select the choice, no explanations required.\n{}\nChoices:\n{}\nAnswer:\n',
+    'Based on the question and paragraph, determine if the answer can be inferred from the paragraph. Select the most appropriate choice as the answer. Simply select the choice, no explanations required.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n',
+    'Select the appropriate response by examining whether the question can be answered based on the provided context. Simply select the choice, no explanations required.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n'
     ]
 
 class qnli_dataset(object):

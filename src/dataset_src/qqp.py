@@ -20,11 +20,11 @@ import tiger_eval
 max_number_of_sample = 2000
 
 prompt_template = [
-    'Assess the semantic similarity between the following two questions and choose the appropriate answer from the provided choices.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n',
-    'Do the following two questions have the same meaning? Choose the correct answer from the available choices.\n{}\nChoices:\n{}\nAnswer:\n',
-    'Choose the correct answer from the provided choices by assessing the semantic similarity of the two sentences.\n{}\nChoices:\n{}\nAnswer:\n',
-    'Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n',
-    'Respond to the following question by choosing the most suitable option.\n\nQuestion:\nDo the following two questions have the same meaning?\n\n{}\n\nChoices:\n{}\n\nAnswer:\n'
+    'Assess the semantic similarity between the following two questions and choose the appropriate answer from the provided choices. Simply select the choice, no explanations required.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n',
+    'Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\n{}\nChoices:\n{}\nAnswer:\n',
+    'Choose the correct answer from the provided choices by assessing the semantic similarity of the two sentences. Simply select the choice, no explanations required.\n{}\nChoices:\n{}\nAnswer:\n',
+    'Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n',
+    'Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDo the following two questions have the same meaning?\n\n{}\n\nChoices:\n{}\n\nAnswer:\n'
     ]
 
 class qqp_dataset(object):

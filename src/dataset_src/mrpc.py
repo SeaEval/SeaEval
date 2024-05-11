@@ -20,11 +20,11 @@ import tiger_eval
 max_number_of_sample = 10
 
 prompt_template = [
-    'Assess the semantic similarity between the following two sentences and choose the correct answer from the provided choices.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n',
-    'Do the following two sentences have the same meaning? Choose the correct answer from the available choices.\n{}\nChoices:\n{}\nAnswer:\n',
-    'Choose the correct answer from the provided choices by assessing the semantic similarity between the two sentences.\n{}\nChoices:\n{}\nAnswer:\n',
-    'Do the sentences have the same meaning? Select the most suitable answer.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n"',
-    'Do the following two sentences convey the same meaning? Choose the most appropriate answer.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n'
+    'Assess the semantic similarity between the following two sentences and choose the correct answer from the provided choices. Simply select the choice, no explanations required.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n',
+    'Do the following two sentences have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\n{}\nChoices:\n{}\nAnswer:\n',
+    'Choose the correct answer from the provided choices by assessing the semantic similarity between the two sentences. Simply select the choice, no explanations required.\n{}\nChoices:\n{}\nAnswer:\n',
+    'Do the sentences have the same meaning? Select the most suitable answer. Simply select the choice, no explanations required.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n"',
+    'Do the following two sentences convey the same meaning? Choose the most appropriate answer. Simply select the choice, no explanations required.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n'
     ]
 
 class mrpc_dataset(object):

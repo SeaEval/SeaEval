@@ -55,10 +55,6 @@ MODEL_LIST={
     'chatglm2_6b'             : ['6B', 'https://huggingface.co/THUDM/chatglm2-6b'],
     'chatglm3_6b'             : ['6B', 'https://huggingface.co/THUDM/chatglm3-6b'],
     'mt0_xxl'                 : ['13B', 'https://huggingface.co/bigscience/mt0-xxl'],
-    'gemma_2b'                : ['7B', 'https://huggingface.co/google/gemma-2b'],
-    'gemma_2b_it'             : ['7B', 'https://huggingface.co/google/gemma-2b-it'],
-    'gemma_7b'                : ['7B', 'https://huggingface.co/google/gemma-7b'],
-    'gemma_7b_it'             : ['7B', 'https://huggingface.co/google/gemma-7b-it'],
     'bloomz_7b1'              : ['7.1B', 'https://huggingface.co/bigscience/bloomz-7b1'],
     'phi_2'                   : ['2.7B', 'https://huggingface.co/microsoft/phi-2'],
 

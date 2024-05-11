@@ -20,11 +20,11 @@ import tiger_eval
 max_number_of_sample = -1
 
 prompt_template = [
-    'Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
-    'Read the following question carefully and select the correct answer from the choices.\nQuestion:\n{}\nChoices:\n{}\nAnswer:\n',
-    'Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\n{}\nChoices:\n{}\nAnswer:\n',
-    'Please provide your answers to the following questions related to the United States by selecting the most likely option from the choices provided.\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
-    'As a person living in the United States, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n'
+    'Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
+    'Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\n{}\nChoices:\n{}\nAnswer:\n',
+    'Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\n{}\nChoices:\n{}\nAnswer:\n',
+    'Please provide your answers to the following questions related to the United States by selecting the most likely option from the choices provided. Simply select the choice, no explanations required.\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
+    'As a person living in the United States, try your best to answer the question by selecting the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n'
     ]
 
 class us_eval_dataset(object):

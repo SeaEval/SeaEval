@@ -46,4 +46,7 @@ def LLaMA_3_Merlion_8B_model_generation(self, batch_input):
     generated_ids        = generated_ids[:, encoded_batch.input_ids.shape[-1]:]
     decoded_batch_output = self.tokenizer.batch_decode(generated_ids, skip_special_tokens=True)
 
+    # remove anything after '\n'
+    # decoded_batch_output = [output.strip().split('\n')[0] for output in decoded_batch_output]
+
     return decoded_batch_output

@@ -20,11 +20,11 @@ import tiger_eval
 max_number_of_sample = -1
 
 prompt_template = [
-    'Assess the grammatical correctness of the following sentence and choose the appropriate answer from the provided options.\n\nSentence:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
-    'Assess the grammatical accuracy of the following sentence and choose the correct answer from the available options.\nSentence:\n{}\nChoices:\n{}\nAnswer:\n',
-    'Evaluate the grammatical correctness of the sentence and choose the correct answer from the provided choices.\nSentence:\n{}\nChoices:\n{}\nAnswer:\n',
-    'Analyze the sentence for its grammatical correctness and choose the most suitable answer from the provided options.\n\nSentence:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
-    'Respond to the following question by choosing the most suitable option.\n\nQuestion:\nIs the following sentence grammatically correct or not?\n\nSentence:\n{}\n\nChoices:\n{}\n\nAnswer:\n'
+    'Assess the grammatical correctness of the following sentence and choose the appropriate answer from the provided options. Simply select the answer, no explanations required.\n\nSentence:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
+    'Assess the grammatical accuracy of the following sentence and choose the correct answer from the available options. Simply select the answer, no explanations required.\nSentence:\n{}\nChoices:\n{}\nAnswer:\n',
+    'Evaluate the grammatical correctness of the sentence and choose the correct answer from the provided choices. Simply select the answer, no explanations required.\nSentence:\n{}\nChoices:\n{}\nAnswer:\n',
+    'Analyze the sentence for its grammatical correctness and choose the most suitable answer from the provided options. Simply select the answer, no explanations required.\n\nSentence:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
+    'Respond to the following question by choosing the most suitable option. Simply select the answer, no explanations required.\n\nQuestion:\nIs the following sentence grammatically correct or not?\n\nSentence:\n{}\n\nChoices:\n{}\n\nAnswer:\n'
     ]
 
 class cola_dataset(object):

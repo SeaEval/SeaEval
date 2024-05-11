@@ -20,7 +20,7 @@ import tiger_eval
 max_number_of_sample = -1
 
 prompt_template = [
-    'Translate the following sentence from Malay to English.\n\nSentence in Malay:\n{}\n\nTranslation in English:\n',
+    'Translate the following sentence from Malay to English. Output the translation only, nothing else.\n\nSentence in Malay:\n{}\n\nTranslation in English:\n',
     'Please translate the provided Malay text into English. Output the translated content only.\nSentence in Malay:\n{}\nTranslation in English:\n',
     'Translate the Malay text provided into English and provide only the translated content.\nSentence in Malay:\n{}\nTranslation in English:\n',
     'Given the sentence below, perform machine translation from Malay to English. Output the translated content only.\n\nSentence in Malay:\n{}\n\nTranslation in English:\n',

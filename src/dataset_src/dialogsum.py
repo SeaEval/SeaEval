@@ -20,11 +20,11 @@ import tiger_eval
 max_number_of_sample = -1
 
 prompt_template = [
-    'Translate the following sentence from Singlish to English. Please only output the translated sentence.\n\nInput:\n{}\n\nOutput:\n',
-    'Translate the following Singlish text to standard English. Please only output the translated sentence.\nInput:\n{}\nOutput:\n',
-    'Given the text in Singlish, translate it to standard English. Please only output the translated sentence.\nInput:\n{}\nOutput:\n',
-    'Given the sentence below, perform machine translation from Singlish to English. Please only output the translated sentence.\n\nInput:\n{}\n\nOutput:\n',
-    'Please translate the sentence: {} from Singapore-style English to standard English. Please only output the translated sentence.\n\nOutput:\n'
+    'Summarize the following dialogue. Output the summary directly, nothing else.\n\nDialogue:\n{}\n\nSummary:\n',
+    'Compose a concise summary by condensing the key points from the following dialogue. Output the summary directly, nothing else.\nDialogue:\n{}\nSummary:\n',
+    'Please sum up the following conversation in a few sentences. Output the summary directly, nothing else.\nDialogue:\n{}\nSummary:\n',
+    'Produce a brief summary of the following conversation, focusing on conveying essential information. Output the summary directly, nothing else.\n\nDialogue:\n{}\n\nSummary:\n',
+    'Offer an extremely condensed summary of the conversation presented. Output the summary directly, nothing else.\n\nDialogue:\n{}\n\nSummary:\n'
     ]
 
 

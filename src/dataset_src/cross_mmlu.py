@@ -20,11 +20,11 @@ import tiger_eval
 max_number_of_sample = -1
 
 prompt_template = [
-    'Respond to the question by selecting the most appropriate answer.\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
-    'Kindly choose the correct answer from the options provided for the multiple-choice question.\nQuestion:\n{}\nChoices:\n{}\nAnswer:\n',
-    'Solve the multi-choice question by selecting the accurate answer.\nQuestion:\n{}\nChoices:\n{}\nAnswer:\n',
-    'Please answer the following multiple-choice question by selecting the correct option.\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
-    'As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices.\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n'
+    'Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
+    'Kindly choose the correct answer from the options provided for the multiple-choice question. Simply select the answer, no explanations required.\nQuestion:\n{}\nChoices:\n{}\nAnswer:\n',
+    'Solve the multi-choice question by selecting the accurate answer. Simply select the answer, no explanations required.\nQuestion:\n{}\nChoices:\n{}\nAnswer:\n',
+    'Please answer the following multiple-choice question by selecting the correct option. Simply select the answer, no explanations required.\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
+    'As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n'
     ]
 
 class cross_mmlu_dataset(object):

@@ -20,11 +20,11 @@ import tiger_eval
 max_number_of_sample = -1
 
 prompt_template = [
-    'Summarize the following dialogue.\n\nDialogue:\n{}\n\nSummary:\n',
-    'Compose a concise summary by condensing the key points from the following dialogue.\nDialogue:\n{}\nSummary:\n',
-    'Please sum up the following conversation in a few sentences.\nDialogue:\n{}\nSummary:\n',
-    'Produce a brief summary of the following conversation, focusing on conveying essential information.\n\nDialogue:\n{}\n\nSummary:\n',
-    'Offer an extremely condensed summary of the conversation presented.\n\nDialogue:\n{}\n\nSummary:\n'
+    'Summarize the following dialogue. Output the summary directly, nothing else.\n\nDialogue:\n{}\n\nSummary:\n',
+    'Compose a concise summary by condensing the key points from the following dialogue. Output the summary directly, nothing else.\nDialogue:\n{}\nSummary:\n',
+    'Please sum up the following conversation in a few sentences. Output the summary directly, nothing else.\nDialogue:\n{}\nSummary:\n',
+    'Produce a brief summary of the following conversation, focusing on conveying essential information. Output the summary directly, nothing else.\n\nDialogue:\n{}\n\nSummary:\n',
+    'Offer an extremely condensed summary of the conversation presented. Output the summary directly, nothing else.\n\nDialogue:\n{}\n\nSummary:\n'
     ]
 
 class samsum_dataset(object):

@@ -20,11 +20,11 @@ import tiger_eval
 max_number_of_sample = -1
 
 prompt_template = [
-    'Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
-    'Read the following question carefully and select the correct answer from the choices.\nQuestion:\n{}\nChoices:\n{}\nAnswer:\n',
-    'Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines.\nQuestion:\n{}\nChoices:\n{}\nAnswer:\n',
-    'Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
-    'As a person living in the Philippines, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n'
+    'Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
+    'Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\n{}\nChoices:\n{}\nAnswer:\n',
+    'Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\n{}\nChoices:\n{}\nAnswer:\n',
+    'Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
+    'As a person living in the Philippines, try your best to answer the question by selecting the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n'
     ]
 
 class ph_eval_dataset(object):

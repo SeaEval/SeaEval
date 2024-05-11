@@ -20,11 +20,11 @@ import tiger_eval
 max_number_of_sample = -1
 
 prompt_template = [
-    'Examine the dialogue and choose the suitable response to the question.\n\nDialogue:\n{}\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
-    'Carefully review the conversation and choose the correct answer directly for the multiple-choice question.\nConversation\n{}\nQuestion:\n{}\nChoices:\n{}\nAnswer:\n',
-    'Based on the conversation, respond to the question by selecting the correct option.\nDialogue:\n{}\nQuestion:\n{}\nChoices:\n{}\nAnswer:\n',
-    'You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices.\n\nDialogue:\n{}\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
-    'Utilizing the information presented in the dialogue, respond to the question by selecting the single correct answer.\n\nDialogue:\n{}\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n'
+    'Examine the dialogue and choose the suitable response to the question. Simply select the choice, no explanations required.\n\nDialogue:\n{}\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
+    'Carefully review the conversation and choose the correct answer directly for the multiple-choice question. Simply select the choice, no explanations required.\nConversation\n{}\nQuestion:\n{}\nChoices:\n{}\nAnswer:\n',
+    'Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\n{}\nQuestion:\n{}\nChoices:\n{}\nAnswer:\n',
+    'You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\n{}\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
+    'Utilizing the information presented in the dialogue, respond to the question by selecting the single correct answer. Simply select the choice, no explanations required.\n\nDialogue:\n{}\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n'
     ]
 
 class dream_dataset(object):

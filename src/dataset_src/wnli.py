@@ -20,11 +20,11 @@ import tiger_eval
 max_number_of_sample = 10
 
 prompt_template = [
-    'Assess whether the second sentence can be inferred from the first sentence and choose the correct answer from the provided choices.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n',
-    'Does the second sentence entail the first sentence? Choose the correct answer from the available choices.\n{}\nChoices:\n{}\nAnswer:\n',
-    'Choose the correct answer from the provided choices by determining if the second sentence entails the first sentence.\n{}\nChoices:\n{}\nAnswer:\n',
-    'Recognize the entailment relationship between the following sentences and choose the most appropriate answer from the provided choices.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n',
-    'Respond to the following question by choosing the most suitable option.\nQuestion: Are the following two sentence entailment or not?\n\n{}\n\nChoices:\n{}\n\nAnswer:\n'
+    'Assess whether the second sentence can be inferred from the first sentence and choose the correct answer from the provided choices. Simply select the choice, no explanations required.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n',
+    'Does the second sentence entail the first sentence? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\n{}\nChoices:\n{}\nAnswer:\n',
+    'Choose the correct answer from the provided choices by determining if the second sentence entails the first sentence. Simply select the choice, no explanations required.\n{}\nChoices:\n{}\nAnswer:\n',
+    'Recognize the entailment relationship between the following sentences and choose the most appropriate answer from the provided choices. Simply select the choice, no explanations required.\n\n{}\n\nChoices:\n{}\n\nAnswer:\n',
+    'Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\nQuestion: Are the following two sentence entailment or not?\n\n{}\n\nChoices:\n{}\n\nAnswer:\n'
     ]
 
 class wnli_dataset(object):

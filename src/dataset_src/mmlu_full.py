@@ -20,11 +20,11 @@ import tiger_eval
 max_number_of_sample = -1
 
 prompt_template = [
-    'Read the provided content (if exists) and respond to the question by selecting the most probable answer.\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
-    'Based on the content (if provided), please directly choose the correct answer for the multiple-choice question.\nQuestion:\n{}\nChoices:\n{}\nAnswer:\n',
-    'Respond to the multiple-choice question with the correct answer based on the provided content.\nQuestion:\n{}\nChoices:\n{}\nAnswer:\n',
-    'Answer the following multi-choices question by selecting the correct option.\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
-    'As an expert, your task is to solve the following multiple-choice question by selecting the correct response from the options provided.\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n'
+    'Read the provided content (if exists) and respond to the question by selecting the most probable answer. Simply select the choice, no explanations required.\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
+    'Based on the content (if provided), please directly choose the correct answer for the multiple-choice question. Simply select the choice, no explanations required.\nQuestion:\n{}\nChoices:\n{}\nAnswer:\n',
+    'Respond to the multiple-choice question with the correct answer based on the provided content. Simply select the choice, no explanations required.\nQuestion:\n{}\nChoices:\n{}\nAnswer:\n',
+    'Answer the following multi-choices question by selecting the correct option. Simply select the choice, no explanations required.\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
+    'As an expert, your task is to solve the following multiple-choice question by selecting the correct response from the options provided. Simply select the choice, no explanations required.\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n'
     ]
 
 class mmlu_full_dataset(object):
