@@ -1,0 +1,112 @@
+[
+    {
+        "choices": [
+            "(A) Entailment",
+            "(B) Not Entailment"
+        ],
+        "context": "Sentence1: Adela Lupse was born in 1988 to a miner's family in the village of Poiana, Bihor in Transylvania, Romania. A member of Romania's first post-Ceausescu generation, she grasped the power of television at a young age: \"I think television is the most interesting phenomenon that the modern day has given us....for my type of personality, I find it impressive, the power that television has worldwide....We dress like the people that television promotes. We want to look like the celebrities that television launches.\" Sentence2: Bihor is situated in Romania.",
+        "answer": "(A) Entailment",
+        "id": "test_1",
+        "model_input": "Assess whether the second sentence can be inferred from the first sentence and choose the correct answer from the provided choices.\n\nSentence1: Adela Lupse was born in 1988 to a miner's family in the village of Poiana, Bihor in Transylvania, Romania. A member of Romania's first post-Ceausescu generation, she grasped the power of television at a young age: \"I think television is the most interesting phenomenon that the modern day has given us....for my type of personality, I find it impressive, the power that television has worldwide....We dress like the people that television promotes. We want to look like the celebrities that television launches.\" Sentence2: Bihor is situated in Romania.\n\nChoices:\n(A) Entailment\n(B) Not Entailment\n\nAnswer:\n",
+        "model_prediction": " The correct answer is (B) Not Entailment.\n\nThe first sentence provides information about Adela Lupse's background and personality, including her birthplace and her interest in television. The second sentence simply states the location of Bihor in Romania, which does not provide any additional information or insight about Adela Lupse or her views on television. Therefore, the second sentence does not entail or follow logically from the first sentence."
+    },
+    {
+        "choices": [
+            "(A) Not Entailment",
+            "(B) Entailment"
+        ],
+        "context": "Sentence1: The Cyrillic alphabet is an alphabet used for several East and South Slavic languages; (Belarusian, Bulgarian, Macedonian, Russian, Rusyn, Serbian, and Ukrainian) and many other languages of the former Soviet Union, Asia and Eastern Europe. It has also been used for other languages in the past. Not all letters in the Cyrillic alphabet are used in every language which is written with it. Sentence2: Cyrillic is an alphabet used for certain Slavic languages, such as Russian.",
+        "answer": "(B) Entailment",
+        "id": "test_2",
+        "model_input": "Assess whether the second sentence can be inferred from the first sentence and choose the correct answer from the provided choices.\n\nSentence1: The Cyrillic alphabet is an alphabet used for several East and South Slavic languages; (Belarusian, Bulgarian, Macedonian, Russian, Rusyn, Serbian, and Ukrainian) and many other languages of the former Soviet Union, Asia and Eastern Europe. It has also been used for other languages in the past. Not all letters in the Cyrillic alphabet are used in every language which is written with it. Sentence2: Cyrillic is an alphabet used for certain Slavic languages, such as Russian.\n\nChoices:\n(A) Not Entailment\n(B) Entailment\n\nAnswer:\n",
+        "model_prediction": " The correct answer is (B) Entailment.\n\nThe second sentence can be inferred from the first sentence because the first sentence provides a general overview of the Cyrillic alphabet and its use in various languages, including Russian. The second sentence specifically mentions Russian as one of the languages that use the Cyrillic alphabet, which is a specific example of the general information provided in the first sentence. Therefore, the second sentence entails the first sentence."
+    },
+    {
+        "choices": [
+            "(A) Entailment",
+            "(B) Not Entailment"
+        ],
+        "context": "Sentence1: Nearly five months later on January 24, 1935, the passenger vessel MOHAWK sank after colliding with the Norwegian motorship TALISMAN, and 45 people lost their lives. Sentence2: 100 or more people lost their lives in a ferry sinking.",
+        "answer": "(B) Not Entailment",
+        "id": "test_3",
+        "model_input": "Assess whether the second sentence can be inferred from the first sentence and choose the correct answer from the provided choices.\n\nSentence1: Nearly five months later on January 24, 1935, the passenger vessel MOHAWK sank after colliding with the Norwegian motorship TALISMAN, and 45 people lost their lives. Sentence2: 100 or more people lost their lives in a ferry sinking.\n\nChoices:\n(A) Entailment\n(B) Not Entailment\n\nAnswer:\n",
+        "model_prediction": " The correct answer is (A) Entailment.\n\nThe second sentence implies that the number of people who lost their lives in the ferry sinking is greater than 45, which is the number of people who lost their lives in the MOHAWK sinking. This is an entailment because the second sentence provides additional information that logically follows from the first sentence."
+    },
+    {
+        "choices": [
+            "(A) Entailment",
+            "(B) Not Entailment"
+        ],
+        "context": "Sentence1: P. Prayong, who like Kevala belongs to the Theravada sect of Buddhism, chose India over other Buddhist majority nations as it is the birthplace of Gautama Buddha. Sentence2: P. Prayong is a member of Theravada.",
+        "answer": "(A) Entailment",
+        "id": "test_4",
+        "model_input": "Assess whether the second sentence can be inferred from the first sentence and choose the correct answer from the provided choices.\n\nSentence1: P. Prayong, who like Kevala belongs to the Theravada sect of Buddhism, chose India over other Buddhist majority nations as it is the birthplace of Gautama Buddha. Sentence2: P. Prayong is a member of Theravada.\n\nChoices:\n(A) Entailment\n(B) Not Entailment\n\nAnswer:\n",
+        "model_prediction": " Yes, the second sentence can be inferred from the first sentence.\n\nThe first sentence mentions P. Prayong's affiliation with the Theravada sect of Buddhism, which is a specific branch of Buddhism. The second sentence simply states that P. Prayong is a member of Theravada, which is a direct consequence of the first sentence. Therefore, the answer is (A) Entailment."
+    },
+    {
+        "choices": [
+            "(A) Not Entailment",
+            "(B) Entailment"
+        ],
+        "context": "Sentence1: IBM stole trade secrets to copy two of its programs -- File-AID, a file manager, and Abend-AID, a program that helps users locate the source of glitches. Sentence2: Trade secrets were stolen.",
+        "answer": "(B) Entailment",
+        "id": "test_5",
+        "model_input": "Assess whether the second sentence can be inferred from the first sentence and choose the correct answer from the provided choices.\n\nSentence1: IBM stole trade secrets to copy two of its programs -- File-AID, a file manager, and Abend-AID, a program that helps users locate the source of glitches. Sentence2: Trade secrets were stolen.\n\nChoices:\n(A) Not Entailment\n(B) Entailment\n\nAnswer:\n",
+        "model_prediction": " The correct answer is (B) Entailment.\n\nThe second sentence \"Trade secrets were stolen\" can be inferred from the first sentence \"IBM stole trade secrets to copy two of its programs\" because the first sentence implies that IBM, as the subject, performed the action of stealing trade secrets. Therefore, the second sentence is a logical consequence of the first sentence."
+    },
+    {
+        "choices": [
+            "(A) Not Entailment",
+            "(B) Entailment"
+        ],
+        "context": "Sentence1: Hepburn's family will receive the proceeds from the sale. Sentence2: Proceeds go to Hepburn's family.",
+        "answer": "(B) Entailment",
+        "id": "test_6",
+        "model_input": "Assess whether the second sentence can be inferred from the first sentence and choose the correct answer from the provided choices.\n\nSentence1: Hepburn's family will receive the proceeds from the sale. Sentence2: Proceeds go to Hepburn's family.\n\nChoices:\n(A) Not Entailment\n(B) Entailment\n\nAnswer:\n",
+        "model_prediction": " The correct answer is (B) Entailment.\n\nThe second sentence (\"Proceeds go to Hepburn's family\") can be inferred from the first sentence (\"Hepburn's family will receive the proceeds from the sale\") because the first sentence mentions that the proceeds will go to Hepburn's family. Therefore, it can be inferred that the proceeds are indeed going to Hepburn's family."
+    },
+    {
+        "choices": [
+            "(A) Entailment",
+            "(B) Not Entailment"
+        ],
+        "context": "Sentence1: It is hoped that women, who constitute more than half of the population, will vote for other women and ensure that their issues are represented in parliament. Sentence2: Women are poorly represented in parliament.",
+        "answer": "(B) Not Entailment",
+        "id": "test_7",
+        "model_input": "Assess whether the second sentence can be inferred from the first sentence and choose the correct answer from the provided choices.\n\nSentence1: It is hoped that women, who constitute more than half of the population, will vote for other women and ensure that their issues are represented in parliament. Sentence2: Women are poorly represented in parliament.\n\nChoices:\n(A) Entailment\n(B) Not Entailment\n\nAnswer:\n",
+        "model_prediction": " The correct answer is (A) Entailment.\n\nThe second sentence can be inferred from the first sentence as the first sentence provides a reason why women should vote for other women, which in turn implies that women are underrepresented in parliament. The sentence \"Women are poorly represented in parliament\" is a logical conclusion that can be drawn from the information provided in the first sentence."
+    },
+    {
+        "choices": [
+            "(A) Not Entailment",
+            "(B) Entailment"
+        ],
+        "context": "Sentence1: The Tuesday drawing of the Italian Superenalotto game has awarded the biggest prize ever won in a betting game in Italy. The single winner of the first category prize (6 numbers guessed) will receive an amount, including the jackpot from previous un-won draws, of €72.090.405,19 (US$93 million.) The prize money will be received in full without further taxation, since taxes in prizes of that type are taken at a fixed rate by the Italian State from the money paid for the bet. Sentence2: Superenalotto awarded a prize of more than 72 million euros.",
+        "answer": "(B) Entailment",
+        "id": "test_8",
+        "model_input": "Assess whether the second sentence can be inferred from the first sentence and choose the correct answer from the provided choices.\n\nSentence1: The Tuesday drawing of the Italian Superenalotto game has awarded the biggest prize ever won in a betting game in Italy. The single winner of the first category prize (6 numbers guessed) will receive an amount, including the jackpot from previous un-won draws, of €72.090.405,19 (US$93 million.) The prize money will be received in full without further taxation, since taxes in prizes of that type are taken at a fixed rate by the Italian State from the money paid for the bet. Sentence2: Superenalotto awarded a prize of more than 72 million euros.\n\nChoices:\n(A) Not Entailment\n(B) Entailment\n\nAnswer:\n",
+        "model_prediction": " The correct answer is (B) Entailment.\n\nThe second sentence explicitly states that the prize money awarded is more than 72 million euros, which is a direct consequence of the information provided in the first sentence. The first sentence mentions that the prize money includes the jackpot from previous un-won draws, and the amount awarded is €72.090.405,19 (US$93 million), which is more than 72 million euros. Therefore, the second sentence logically follows from the first sentence."
+    },
+    {
+        "choices": [
+            "(A) Entailment",
+            "(B) Not Entailment"
+        ],
+        "context": "Sentence1: In 1865, John Wilkes Booth, the assassin of President Abraham Lincoln, was surrounded by federal troops near Bowling Green, Va., and killed. Sentence2: John Wilkes Booth killed President Abraham Lincoln.",
+        "answer": "(A) Entailment",
+        "id": "test_9",
+        "model_input": "Assess whether the second sentence can be inferred from the first sentence and choose the correct answer from the provided choices.\n\nSentence1: In 1865, John Wilkes Booth, the assassin of President Abraham Lincoln, was surrounded by federal troops near Bowling Green, Va., and killed. Sentence2: John Wilkes Booth killed President Abraham Lincoln.\n\nChoices:\n(A) Entailment\n(B) Not Entailment\n\nAnswer:\n",
+        "model_prediction": " The correct answer is (A) Entailment.\n\nThe second sentence can be inferred from the first sentence as the location where John Wilkes Booth was surrounded by federal troops is mentioned in the first sentence, which implies that he was the one who killed President Abraham Lincoln. Therefore, the second sentence logically follows from the first sentence."
+    },
+    {
+        "choices": [
+            "(A) Not Entailment",
+            "(B) Entailment"
+        ],
+        "context": "Sentence1: On October 1 2001, EU and other countries introduced the option for domestic animal owners to apply for Pet passports under the Pets Travel Scheme (PETS for short), for pets returning from abroad to the United Kingdom. This replaced the old system of 6 months compulsory quarantine for all domestic pets. Sentence2: In 2001, the EU introduced a six-month compulsory quarantine for all domestic pets.",
+        "answer": "(A) Not Entailment",
+        "id": "test_10",
+        "model_input": "Assess whether the second sentence can be inferred from the first sentence and choose the correct answer from the provided choices.\n\nSentence1: On October 1 2001, EU and other countries introduced the option for domestic animal owners to apply for Pet passports under the Pets Travel Scheme (PETS for short), for pets returning from abroad to the United Kingdom. This replaced the old system of 6 months compulsory quarantine for all domestic pets. Sentence2: In 2001, the EU introduced a six-month compulsory quarantine for all domestic pets.\n\nChoices:\n(A) Not Entailment\n(B) Entailment\n\nAnswer:\n",
+        "model_prediction": " The correct answer is (B) Entailment.\n\nThe second sentence implies that the EU introduced a six-month compulsory quarantine for all domestic pets in 2001, which is not mentioned in the first sentence. The first sentence only mentions the introduction of the Pet Passport scheme in the UK, and does not provide any information about the quarantine requirements for domestic pets in the EU. Therefore, the second sentence cannot be inferred from the first sentence."
+    }
+]

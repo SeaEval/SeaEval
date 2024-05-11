@@ -1,0 +1,1402 @@
+[
+    {
+        "id": "test_1",
+        "question": "As of 2023, what is a corned beef brand in the Philippines that is named after a country?",
+        "choices": [
+            "(A) Uruguay",
+            "(B) Argentina",
+            "(C) New Zealand",
+            "(D) India"
+        ],
+        "category": "brand",
+        "answer": "(B) Argentina",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nAs of 2023, what is a corned beef brand in the Philippines that is named after a country?\n\nChoices:\n(A) Uruguay\n(B) Argentina\n(C) New Zealand\n(D) India\n\nAnswer:\n",
+        "model_prediction": "There is no corned beef brand in the Philippines that is named after a country, as per the given choices. Therefore, none of the options (A), (B), (C), or (D) is the correct answer."
+    },
+    {
+        "id": "test_2",
+        "question": "As of 2023, Alaska, if not a place, is what kind of entity in the Philippines?",
+        "choices": [
+            "(A) A brand of milk",
+            "(B) A brand of canned goods",
+            "(C) A brand of meat",
+            "(D) A brand of fish"
+        ],
+        "category": "brand",
+        "answer": "(A) A brand of milk",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nAs of 2023, Alaska, if not a place, is what kind of entity in the Philippines?\n\nChoices:\n(A) A brand of milk\n(B) A brand of canned goods\n(C) A brand of meat\n(D) A brand of fish\n\nAnswer:\n",
+        "model_prediction": "The answer is none of the above. Alaska is not a brand of milk, canned goods, meat, or fish. It is a US state, not located in the Philippines."
+    },
+    {
+        "id": "test_3",
+        "question": "In the context of the Philippines, what is the name of a brand of stationary stores whose first store was located in Escolta, and whose name is related to the term \"sovereignty\"?",
+        "choices": [
+            "(A) Powerbooks",
+            "(B) Office Warehouse",
+            "(C) Fully Booked",
+            "(D) National Bookstore"
+        ],
+        "category": "brand",
+        "answer": "(D) National Bookstore",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nIn the context of the Philippines, what is the name of a brand of stationary stores whose first store was located in Escolta, and whose name is related to the term \"sovereignty\"?\n\nChoices:\n(A) Powerbooks\n(B) Office Warehouse\n(C) Fully Booked\n(D) National Bookstore\n\nAnswer:\n",
+        "model_prediction": "(D) National Bookstore\n\nExplanation:\nNational Bookstore is the correct answer. The name \"National\" in National Bookstore is related to the term \"sovereignty\" as it implies a sense of national pride and ownership. The first National Bookstore was indeed located in Escolta, Manila. While Powerbooks and Fully Booked are well-known bookstores in the Philippines, they do not have a direct relation to the term \"sovereignty\" in their names. Office Warehouse is a different brand of stationery stores that is not related to the given"
+    },
+    {
+        "id": "test_4",
+        "question": "In the context of the Philippines, what color is the winged animal in the name of a soy sauce brand?",
+        "choices": [
+            "(A) Black",
+            "(B) White",
+            "(C) Silver",
+            "(D) Grey"
+        ],
+        "category": "brand",
+        "answer": "(C) Silver",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nIn the context of the Philippines, what color is the winged animal in the name of a soy sauce brand?\n\nChoices:\n(A) Black\n(B) White\n(C) Silver\n(D) Grey\n\nAnswer:\n",
+        "model_prediction": "The answer is (A) Black. The winged animal in the name of a popular soy sauce brand in the Philippines is the \"Lucky Rooster,\" which is depicted as a black rooster with wings spread out."
+    },
+    {
+        "id": "test_5",
+        "question": "What was the age of the namesake of the original name of the Bank of the Philippine Islands (BPI) when the latter was founded?",
+        "choices": [
+            "(A) 19",
+            "(B) 20",
+            "(C) 21",
+            "(D) 22"
+        ],
+        "category": "brand",
+        "answer": "(B) 20",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhat was the age of the namesake of the original name of the Bank of the Philippine Islands (BPI) when the latter was founded?\n\nChoices:\n(A) 19\n(B) 20\n(C) 21\n(D) 22\n\nAnswer:\n",
+        "model_prediction": "The namesake of the original name of the Bank of the Philippine Islands (BPI) was Don Vicente Lopez y Plasencia. He was born on October 22, 1808. Therefore, at the time of the founding of the bank in 1852, Don Vicente Lopez y Plasencia was 44 years old.\n\nNone of the given choices (A, B, C, or D) is the correct answer. However, the closest answer is C, which is 21 years old. This is not the correct answer because Don Vic"
+    },
+    {
+        "id": "test_6",
+        "question": "In the context of the Philippines, A vitamin supplement whose name involves a linguistic reduplication was originally made to address the deficiency of which vitamin?",
+        "choices": [
+            "(A) Vitamin A",
+            "(B) Vitamin B1",
+            "(C) Vitamin C",
+            "(D) Vitamin B2"
+        ],
+        "category": "brand",
+        "answer": "(B) Vitamin B1",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nIn the context of the Philippines, A vitamin supplement whose name involves a linguistic reduplication was originally made to address the deficiency of which vitamin?\n\nChoices:\n(A) Vitamin A\n(B) Vitamin B1\n(C) Vitamin C\n(D) Vitamin B2\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) Vitamin B1. The vitamin supplement whose name involves linguistic reduplication and was originally made to address the deficiency of Vitamin B1 in the Philippines is called \"Banana Cues\" or \"Banana Bites.\" These are fried banana chips coated with a sweet syrup and vitamin B1, which is essential for energy production in the body."
+    },
+    {
+        "id": "test_7",
+        "question": "how many kilometers did the first flight of Philippine Airlines take? Select the choice closest to the answer.",
+        "choices": [
+            "(A) 200",
+            "(B) 150",
+            "(C) 1,000",
+            "(D) 4,000"
+        ],
+        "category": "brand",
+        "answer": "(A) 200",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nhow many kilometers did the first flight of Philippine Airlines take? Select the choice closest to the answer.\n\nChoices:\n(A) 200\n(B) 150\n(C) 1,000\n(D) 4,000\n\nAnswer:\n",
+        "model_prediction": "I'm unable to provide an answer to this question as there is no publicly available information about the distance of the first flight of Philippine Airlines. The choices provided do not seem to be accurate based on available historical records."
+    },
+    {
+        "id": "test_8",
+        "question": "This product name contains the word \"flakes\" in its name, and it belongs to the category with the highest spending in the Philippines Consumer Snapshot 2023. What is it?",
+        "choices": [
+            "(A) Wood Flakes",
+            "(B) Red Flakes",
+            "(C) Sky Flakes",
+            "(D) No Hair Flakes"
+        ],
+        "category": "brand",
+        "answer": "(C) Sky Flakes",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nThis product name contains the word \"flakes\" in its name, and it belongs to the category with the highest spending in the Philippines Consumer Snapshot 2023. What is it?\n\nChoices:\n(A) Wood Flakes\n(B) Red Flakes\n(C) Sky Flakes\n(D) No Hair Flakes\n\nAnswer:\n",
+        "model_prediction": "Based on the information provided, it is not possible to determine the answer with certainty as the product name and its category are not specified in the question. However, I can provide some context based on common consumer goods that contain the word \"flakes\" in their names and belong to high-spending categories in the Philippines Consumer Snapshot 2023.\n\nThe choices provided do not match any well-known consumer goods that contain the word \"flakes\" and are typically high-spending categories in the Philippines. However, cereals, particularly those that come in flaked form, are popular consumer goods in"
+    },
+    {
+        "id": "test_9",
+        "question": "Who is the god, in greek, that is the mascot of a drug store chain in the Philippines?",
+        "choices": [
+            "(A) Hermes",
+            "(B) Aphrodite",
+            "(C) Ares",
+            "(D) Zeus"
+        ],
+        "category": "brand",
+        "answer": "(A) Hermes",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWho is the god, in greek, that is the mascot of a drug store chain in the Philippines?\n\nChoices:\n(A) Hermes\n(B) Aphrodite\n(C) Ares\n(D) Zeus\n\nAnswer:\n",
+        "model_prediction": "I cannot definitively answer this question as there is no known Greek god that is the mascot of a drug store chain in the Philippines. The given choices of Hermes, Aphrodite, Ares, and Zeus are all Greek gods, but none of them have been identified as the mascot of a drug store chain in the Philippines. It is possible that the mascot is a completely different entity or has no connection to Greek mythology at all."
+    },
+    {
+        "id": "test_10",
+        "question": "What is the name of the country that most predominantly borders the name of a brand of tuna in the Philippines?",
+        "choices": [
+            "(A) Thailand",
+            "(B) Norway",
+            "(C) Canada",
+            "(D) Italy"
+        ],
+        "category": "brand",
+        "answer": "(D) Italy",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhat is the name of the country that most predominantly borders the name of a brand of tuna in the Philippines?\n\nChoices:\n(A) Thailand\n(B) Norway\n(C) Canada\n(D) Italy\n\nAnswer:\n",
+        "model_prediction": "The name of the brand of tuna that is predominantly caught in the Philippines is \"Canned Tuna,\" and the country that most predominantly borders the Philippines is (A) Thailand, but that is not the answer. The Philippines is an archipelago nation located in Southeast Asia, and it borders the Philippine Sea to the east. The Philippines is the third-largest supplier of tuna to the world market, and the tuna industry is a significant contributor to the country's economy. However, the brand of tuna mentioned in the question is not specific to any particular country, and there is no"
+    },
+    {
+        "id": "test_11",
+        "question": "As of 2023, what is the closest estimate of the population of the Philippine city besieged in 2017?",
+        "choices": [
+            "(A) 100,000",
+            "(B) 500,000",
+            "(C) 600,000",
+            "(D) 50,000"
+        ],
+        "category": "demographics",
+        "answer": "(A) 100,000",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nAs of 2023, what is the closest estimate of the population of the Philippine city besieged in 2017?\n\nChoices:\n(A) 100,000\n(B) 500,000\n(C) 600,000\n(D) 50,000\n\nAnswer:\n",
+        "model_prediction": "I'm unable to provide an answer directly from the given information as the question does not specify which city in the Philippines was besieged in 2017 and the population estimates provided in the choices do not correspond to any known city population in 2023. To find the correct answer, you would need to look up the population of the specific city that was besieged in 2017 and compare it to the population estimates provided in the choices."
+    },
+    {
+        "id": "test_12",
+        "question": "As of 2023, if you multiply the population of each South American country by 2, which South American country will have the closest population to the Philippines?",
+        "choices": [
+            "(A) Brazil",
+            "(B) Argentina",
+            "(C) Chile",
+            "(D) Peru"
+        ],
+        "category": "demographics",
+        "answer": "(B) Argentina",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nAs of 2023, if you multiply the population of each South American country by 2, which South American country will have the closest population to the Philippines?\n\nChoices:\n(A) Brazil\n(B) Argentina\n(C) Chile\n(D) Peru\n\nAnswer:\n",
+        "model_prediction": "To find the answer, we need to first find the population of each South American country as of 2023 and then multiply it by 2. I'll provide you with the current population of each country for reference:\n\n1. Brazil: Approx. 212 million\n2. Argentina: Approx. 45 million\n3. Chile: Approx. 19 million\n4. Peru: Approx. 33 million\n\nNow let's calculate the populations after multiplying each by 2:\n\n1. Brazil: 212 million * "
+    },
+    {
+        "id": "test_13",
+        "question": "According to the 2020 Philippine Census, Metropolitan Manila contains 16 cities. From these, which of the following triplets of cities would, if added, would roughly equal the population of another city in Metropolitan Manila?",
+        "choices": [
+            "(A) Caloocan, Muntinlupa, and Marikina",
+            "(B) Pasig, Makati, and Taguig",
+            "(C) Las Pinas, Valenzuela, Muntinlupa",
+            "(D) San Juan, Pasay, and Caloocan"
+        ],
+        "category": "demographics",
+        "answer": "(C) Las Pinas, Valenzuela, Muntinlupa",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nAccording to the 2020 Philippine Census, Metropolitan Manila contains 16 cities. From these, which of the following triplets of cities would, if added, would roughly equal the population of another city in Metropolitan Manila?\n\nChoices:\n(A) Caloocan, Muntinlupa, and Marikina\n(B) Pasig, Makati, and Taguig\n(C) Las Pinas, Valenzuela, Muntinlupa\n(D) San Juan, Pasay, and Caloocan\n\nAnswer:\n",
+        "model_prediction": "To find the answer, we need to know the population of each city in Metropolitan Manila and the population of the city that the triplet of cities should roughly equal. Unfortunately, the question does not provide the population data for all the cities mentioned. However, according to the 2020 Philippine Census, the three cities with the highest population in Metropolitan Manila are:\n\n1. Quezon City - 2,978,171\n2. Caloocan City - 1,580,281\n3. Manila - 1,565"
+    },
+    {
+        "id": "test_14",
+        "question": "Which of the following wars reduced the Philippine population the most?",
+        "choices": [
+            "(A) World War I",
+            "(B) Philippine-American War",
+            "(C) Vietnam War",
+            "(D) World War II"
+        ],
+        "category": "demographics",
+        "answer": "(D) World War II",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhich of the following wars reduced the Philippine population the most?\n\nChoices:\n(A) World War I\n(B) Philippine-American War\n(C) Vietnam War\n(D) World War II\n\nAnswer:\n",
+        "model_prediction": "The Philippine-American War (B) is the answer to the question. The Philippine-American War, which took place from 1899 to 1902, resulted in the deaths of an estimated 200,000 to 1 million Filipinos, making it the deadliest conflict in Philippine history and the war that reduced the Philippine population the most. World War I, World War II, and the Vietnam War had significant impacts on the Philippines, but their population losses were not as substantial as during the Philippine-American War."
+    },
+    {
+        "id": "test_15",
+        "question": "As of 2021, assuming that the overall percent of female Overseas Filipino Workers (OFWs) apply to OFWs in Singapore, which is the closest estimate to the number of female OFWs in Singapore?",
+        "choices": [
+            "(A) 100,000",
+            "(B) 200,000",
+            "(C) 50,000",
+            "(D) 250,000"
+        ],
+        "category": "demographics",
+        "answer": "(A) 100,000",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nAs of 2021, assuming that the overall percent of female Overseas Filipino Workers (OFWs) apply to OFWs in Singapore, which is the closest estimate to the number of female OFWs in Singapore?\n\nChoices:\n(A) 100,000\n(B) 200,000\n(C) 50,000\n(D) 250,000\n\nAnswer:\n",
+        "model_prediction": "To determine the closest estimate to the number of female OFWs in Singapore as of 2021 based on the given percentage, we first need to find the total number of OFWs in Singapore and then calculate the number of female OFWs based on the percentage.\n\nAccording to the Singapore Ministry of Manpower, as of December 2020, there were approximately 138,000 OFWs in Singapore. The percentage of female OFWs in Singapore is assumed to be 50%.\n\nTo find the number of female OFWs, we can use the"
+    },
+    {
+        "id": "test_16",
+        "question": "What is the difference between the age that the Philippine Eagle in Mandai Zoo died in 2023 and the maximum prison sentence for killing a Philippine Eagle?",
+        "choices": [
+            "(A) 5 years",
+            "(B) 7 years",
+            "(C) 20 years",
+            "(D) 25 years"
+        ],
+        "category": "biology",
+        "answer": "(B) 7 years",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhat is the difference between the age that the Philippine Eagle in Mandai Zoo died in 2023 and the maximum prison sentence for killing a Philippine Eagle?\n\nChoices:\n(A) 5 years\n(B) 7 years\n(C) 20 years\n(D) 25 years\n\nAnswer:\n",
+        "model_prediction": "I cannot provide the answer directly as I don't have access to the specific information about when the Philippine Eagle in Mandai Zoo died in 2023. However, I can tell you that the maximum prison sentence for killing a Philippine Eagle is not provided in the choices. The choices only refer to the difference in age between the eagle's death and the maximum prison sentence. Therefore, none of the choices is the correct answer."
+    },
+    {
+        "id": "test_17",
+        "question": "Which bird is known for its bright blue wings, tail, head, and crest and endemic to the lowland forests of the Philippines?",
+        "choices": [
+            "(A) Blue-headed Fantail",
+            "(B) Red-vented Cockatoo",
+            "(C) Celestial Monarch",
+            "(D) Philippine Fairy Bluebird"
+        ],
+        "category": "biology",
+        "answer": "(C) Celestial Monarch",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhich bird is known for its bright blue wings, tail, head, and crest and endemic to the lowland forests of the Philippines?\n\nChoices:\n(A) Blue-headed Fantail\n(B) Red-vented Cockatoo\n(C) Celestial Monarch\n(D) Philippine Fairy Bluebird\n\nAnswer:\n",
+        "model_prediction": "The answer is (D) Philippine Fairy Bluebird. The Philippine Fairy Bluebird is a small bird endemic to the lowland forests of the Philippines, known for its bright blue wings, tail, head, and crest."
+    },
+    {
+        "id": "test_18",
+        "question": "What is the local name for an edible fish uniquely found in Lake Buhi, Philippines?",
+        "choices": [
+            "(A) Sinarapan",
+            "(B) Tawilis",
+            "(C) Dulong",
+            "(D) Tulingan"
+        ],
+        "category": "biology",
+        "answer": "(A) Sinarapan",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhat is the local name for an edible fish uniquely found in Lake Buhi, Philippines?\n\nChoices:\n(A) Sinarapan\n(B) Tawilis\n(C) Dulong\n(D) Tulingan\n\nAnswer:\n",
+        "model_prediction": "The answer is (B) Tawilis. Tawilis is a small, freshwater fish that is endemic to Lake Buhi in the Philippines and is known for its unique taste and texture due to its high mineral content."
+    },
+    {
+        "id": "test_19",
+        "question": "Select an animal endemic to the Philippines whose eyes are the largest relative to its brain.",
+        "choices": [
+            "(A) Philippine Eagle",
+            "(B) Philippine Tarsier",
+            "(C) Philippine Mouse Deer",
+            "(D) Philippine Crocodile"
+        ],
+        "category": "biology",
+        "answer": "(B) Philippine Tarsier",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nSelect an animal endemic to the Philippines whose eyes are the largest relative to its brain.\n\nChoices:\n(A) Philippine Eagle\n(B) Philippine Tarsier\n(C) Philippine Mouse Deer\n(D) Philippine Crocodile\n\nAnswer:\n",
+        "model_prediction": "The answer is (B) Philippine Tarsier. The Philippine Tarsier has the largest eyes relative to its brain size among the given options."
+    },
+    {
+        "id": "test_20",
+        "question": "Which among these Philippine snakes can harm a person from a distance?",
+        "choices": [
+            "(A) Philippine Cobra",
+            "(B) Philippine Pit Viper",
+            "(C) King Cobra",
+            "(D) Philippine Rat Snake"
+        ],
+        "category": "biology",
+        "answer": "(A) Philippine Cobra",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhich among these Philippine snakes can harm a person from a distance?\n\nChoices:\n(A) Philippine Cobra\n(B) Philippine Pit Viper\n(C) King Cobra\n(D) Philippine Rat Snake\n\nAnswer:\n",
+        "model_prediction": "None of the mentioned snakes in the choices can harm a person from a distance. All snakes are venomous to some extent, but they cannot deliver their venom from a distance. They can only bite when they come into contact with a person. Therefore, the answer is that none of the given snakes can harm a person from a distance."
+    },
+    {
+        "id": "test_21",
+        "question": "Which of the following Philippine endemic animals has a name that does not actually describe them?",
+        "choices": [
+            "(A) Philippine Eagle",
+            "(B) Philippine Rat Snake",
+            "(C) Philippine Mouse Deer",
+            "(D) Philippine Crocodile"
+        ],
+        "category": "biology",
+        "answer": "(C) Philippine Mouse Deer",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhich of the following Philippine endemic animals has a name that does not actually describe them?\n\nChoices:\n(A) Philippine Eagle\n(B) Philippine Rat Snake\n(C) Philippine Mouse Deer\n(D) Philippine Crocodile\n\nAnswer:\n",
+        "model_prediction": "The answer is (C) Philippine Mouse Deer. Despite its name, the Philippine Mouse Deer is not a true mouse and is not particularly small like a mouse. It is actually a small deer species."
+    },
+    {
+        "id": "test_22",
+        "question": "What type of plant endemic to the Philippines is named after a famous British naturalist and broadcaster?",
+        "choices": [
+            "(A) Palm plant",
+            "(B) Vine",
+            "(C) Tropical Tree",
+            "(D) Pitcher Plant"
+        ],
+        "category": "biology",
+        "answer": "(D) Pitcher Plant",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhat type of plant endemic to the Philippines is named after a famous British naturalist and broadcaster?\n\nChoices:\n(A) Palm plant\n(B) Vine\n(C) Tropical Tree\n(D) Pitcher Plant\n\nAnswer:\n",
+        "model_prediction": "There is no plant endemic to the Philippines named after a famous British naturalist and broadcaster. Therefore, none of the given choices is the correct answer. However, if we were to guess based on the name of a famous British naturalist and broadcaster who is known for his work in the Philippines, it would be David Attenborough. But there is no known plant endemic to the Philippines named after him."
+    },
+    {
+        "id": "test_23",
+        "question": "As of 2023, what is the taxonomic name of an organism endemic to the Philippines known for its warts?",
+        "choices": [
+            "(A) Crocodylus mindorensis",
+            "(B) Rana magna",
+            "(C) Sus cebifrons",
+            "(D) Rusa marianna"
+        ],
+        "category": "biology",
+        "answer": "(C) Sus cebifrons",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nAs of 2023, what is the taxonomic name of an organism endemic to the Philippines known for its warts?\n\nChoices:\n(A) Crocodylus mindorensis\n(B) Rana magna\n(C) Sus cebifrons\n(D) Rusa marianna\n\nAnswer:\n",
+        "model_prediction": "The organism endemic to the Philippines known for its warts is not any of the choices given. The correct answer is:\n\n(E) There is no organism in the given choices that is endemic to the Philippines and known for its warts.\n\nHowever, if we look for an organism endemic to the Philippines with warts, we can find the Philippine Tarsier (Tarsier syrichta) which is not listed as an option. It is a small primate with distinctive warts on its skin."
+    },
+    {
+        "id": "test_24",
+        "question": "What Philippine animal is named after a damaged organ?",
+        "choices": [
+            "(A) Luzon bleeding-heart",
+            "(B) Mindanao Red Eye",
+            "(C) Visayan Pierced Ear Bird",
+            "(D) Philippine Black Eye Lizard"
+        ],
+        "category": "biology",
+        "answer": "(A) Luzon bleeding-heart",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhat Philippine animal is named after a damaged organ?\n\nChoices:\n(A) Luzon bleeding-heart\n(B) Mindanao Red Eye\n(C) Visayan Pierced Ear Bird\n(D) Philippine Black Eye Lizard\n\nAnswer:\n",
+        "model_prediction": "The answer is (D) Philippine Black Eye Lizard. This lizard gets its name from the distinctive black marking around its eye, which resembles a black eye. However, it is important to note that the name does not refer to a damaged organ, but rather a physical characteristic."
+    },
+    {
+        "id": "test_25",
+        "question": "What Philippine animal is the namesake of a truck model popular in that country?",
+        "choices": [
+            "(A) Eagle",
+            "(B) Viper",
+            "(C) Flying Fox",
+            "(D) Tamaraw"
+        ],
+        "category": "biology",
+        "answer": "(D) Tamaraw",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhat Philippine animal is the namesake of a truck model popular in that country?\n\nChoices:\n(A) Eagle\n(B) Viper\n(C) Flying Fox\n(D) Tamaraw\n\nAnswer:\n",
+        "model_prediction": "(D) Tamaraw\n\nExplanation:\nThe Tamaraw is a Philippine endemic species of buffalo, and it is the namesake of the Tamaraw FX, a popular truck model in the Philippines manufactured by Isuzu Motors Philippines Corporation."
+    },
+    {
+        "id": "test_26",
+        "question": "In the context of the Philippines, which European country held the territory that Aguinaldo escaped to in 1897?",
+        "choices": [
+            "(A) Spain",
+            "(B) France",
+            "(C) Germany",
+            "(D) United Kingdom"
+        ],
+        "category": "history",
+        "answer": "(D) United Kingdom",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nIn the context of the Philippines, which European country held the territory that Aguinaldo escaped to in 1897?\n\nChoices:\n(A) Spain\n(B) France\n(C) Germany\n(D) United Kingdom\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) France. After the Philippine Revolution against Spanish rule, Emilio Aguinaldo, the revolutionary leader, escaped to Hong Kong and then to Palawan in the southern Philippines, which was under the control of the Spanish, but later he fled to Cavite, in the north, which was occupied by the French forces during the Franco-Spanish War (1896-1897). Eventually, Aguinaldo signed the Treaty of Peace and Friendship with the United States in 1899, ending the Philippine-American War."
+    },
+    {
+        "id": "test_27",
+        "question": "Which of the following countries did not have a colony in the Philippines?",
+        "choices": [
+            "(A) United States",
+            "(B) Japan",
+            "(C) France",
+            "(D) United Kingdom"
+        ],
+        "category": "history",
+        "answer": "(C) France",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhich of the following countries did not have a colony in the Philippines?\n\nChoices:\n(A) United States\n(B) Japan\n(C) France\n(D) United Kingdom\n\nAnswer:\n",
+        "model_prediction": "The answer is (A) United States. The Philippines was a colony of Spain until 1898, when the United States took control of the islands following the Spanish-American War. Japan and France both had colonies in the Philippines during different periods of time. France ruled over the northern part of the island of Luzon, which is now known as the Ilocos Region, from 1574 to 1762. Japan occupied the northernmost part of the Philippines, specifically the Batanes Islands, during World War II from 1942 to 1945. The United"
+    },
+    {
+        "id": "test_28",
+        "question": "What Catholic order founded a militant organization active during the Philippine-American War?",
+        "choices": [
+            "(A) Jesuits",
+            "(B) Dominicans",
+            "(C) Franciscans",
+            "(D) Augustinians"
+        ],
+        "category": "history",
+        "answer": "(B) Dominicans",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhat Catholic order founded a militant organization active during the Philippine-American War?\n\nChoices:\n(A) Jesuits\n(B) Dominicans\n(C) Franciscans\n(D) Augustinians\n\nAnswer:\n",
+        "model_prediction": "(C) The Filipino nationalist group known as the \"Knightship of Rizal and Bonifacio\" or the \"Knights of Rizal,\" which was militant during the Philippine-American War, was not founded by any of the Catholic orders listed in the choices. Instead, it was a lay organization inspired by the ideals of Philippine national heroes José Rizal and Andrés Bonifacio. Therefore, none of the given answers is correct."
+    },
+    {
+        "id": "test_29",
+        "question": "In the context of the Philippines, how old was Gregorio del Pilar when the Hong Kong Junta was formed?",
+        "choices": [
+            "(A) 19",
+            "(B) 20",
+            "(C) 21",
+            "(D) 22"
+        ],
+        "category": "history",
+        "answer": "(D) 22",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nIn the context of the Philippines, how old was Gregorio del Pilar when the Hong Kong Junta was formed?\n\nChoices:\n(A) 19\n(B) 20\n(C) 21\n(D) 22\n\nAnswer:\n",
+        "model_prediction": "Gregorio del Pilar was born on October 31, 1875. The Hong Kong Junta was formed in 1899. Therefore, Gregorio del Pilar was 24 years old when the Hong Kong Junta was formed. However, none of the given choices match the exact age. So, there is no correct answer among the choices provided."
+    },
+    {
+        "id": "test_30",
+        "question": "What province was the first post-Spanish Philippine Legislative Assembly held in?",
+        "choices": [
+            "(A) Cavite",
+            "(B) Bulacan",
+            "(C) Batangas",
+            "(D) Pampanga"
+        ],
+        "category": "history",
+        "answer": "(B) Bulacan",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhat province was the first post-Spanish Philippine Legislative Assembly held in?\n\nChoices:\n(A) Cavite\n(B) Bulacan\n(C) Batangas\n(D) Pampanga\n\nAnswer:\n",
+        "model_prediction": "The first post-Spanish Philippine Legislative Assembly, also known as the Malolos Congress, was held in Malolos, Bulacan. Therefore, the correct answer is (B) Bulacan."
+    },
+    {
+        "id": "test_31",
+        "question": "In the context of the Philippines, what was the name of the hotel from which a mutiny was carried out in the early 2000s?",
+        "choices": [
+            "(A) Manila Hotel",
+            "(B) Century Park Hotel",
+            "(C) Oakwood Premier",
+            "(D) Manila Peninsula"
+        ],
+        "category": "history",
+        "answer": "(C) Oakwood Premier",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nIn the context of the Philippines, what was the name of the hotel from which a mutiny was carried out in the early 2000s?\n\nChoices:\n(A) Manila Hotel\n(B) Century Park Hotel\n(C) Oakwood Premier\n(D) Manila Peninsula\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (D) Manila Peninsula. In 2001, a high-profile armed takeover occurred at the Manila Peninsula Hotel in Makati City, Philippines. The incident, which lasted for more than 12 hours, involved a businessman named Rolando Mendoza who took hostages after a traffic violation led to a dispute with the police. The siege ended when the police stormed the hotel, resulting in the deaths of several people including Mendoza."
+    },
+    {
+        "id": "test_32",
+        "question": "In the context of the Philippines, from Manila, a galleon usually travelled to which settlement?",
+        "choices": [
+            "(A) Acapulco",
+            "(B) Mexico City",
+            "(C) Madrid",
+            "(D) Cebu"
+        ],
+        "category": "history",
+        "answer": "(A) Acapulco",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nIn the context of the Philippines, from Manila, a galleon usually travelled to which settlement?\n\nChoices:\n(A) Acapulco\n(B) Mexico City\n(C) Madrid\n(D) Cebu\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (D) Cebu. In the context of the Philippines, a galleon usually traveled from Manila to Cebu. The Manila-Acapulco galleons are more famous, but the Manila-Acapulco trade route was not the only one that was significant for the Philippines. The Manila galleons also sailed to Cebu and other ports in the Philippines to trade goods and to resupply before continuing their journey to Mexico or Spain."
+    },
+    {
+        "id": "test_33",
+        "question": "As part of the Spanish Empire, the modern-day Philippines was overall ruled from what colonial city for much of its colonial history?",
+        "choices": [
+            "(A) Mexico City",
+            "(B) Madrid",
+            "(C) Manila",
+            "(D) Cebu"
+        ],
+        "category": "history",
+        "answer": "(A) Mexico City",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nAs part of the Spanish Empire, the modern-day Philippines was overall ruled from what colonial city for much of its colonial history?\n\nChoices:\n(A) Mexico City\n(B) Madrid\n(C) Manila\n(D) Cebu\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) Madrid. The Spanish Empire was based in Madrid, Spain, and the Philippines was a colony of the Spanish Empire, so the overall rule was exercised from Madrid. However, it's important to note that the Philippines was governed locally through the Audiencia de Manila, which was the highest court in the Philippines during the Spanish colonial period. Therefore, Manila played a significant role in the administration of the colony, but the ultimate authority resided in Madrid."
+    },
+    {
+        "id": "test_34",
+        "question": "Which Filipino word is originally from the language of the Empire the Spanish conquered in modern-day Mexico?",
+        "choices": [
+            "(A) Guro",
+            "(B) Bundok",
+            "(C) Sayote",
+            "(D) Papaya"
+        ],
+        "category": "history",
+        "answer": "(C) Sayote",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhich Filipino word is originally from the language of the Empire the Spanish conquered in modern-day Mexico?\n\nChoices:\n(A) Guro\n(B) Bundok\n(C) Sayote\n(D) Papaya\n\nAnswer:\n",
+        "model_prediction": "The Filipino words (A) Guro (teacher), (B) Bundok (mountain), and (C) Sayote (chayote squash) are all native Filipino words and were not borrowed from the Spanish language. The word (D) Papaya, however, was introduced to the Philippines by the Spanish. The Spanish word for papaya is \"papaya,\" which is derived from the Taíno word \"babacote,\" which was used in the Caribbean before the Spanish arrived. Therefore, the answer is (D) Papaya."
+    },
+    {
+        "id": "test_35",
+        "question": "In the context of the Philippines, how many years is the namesake of the war in which the British besieged Manila?",
+        "choices": [
+            "(A) 5",
+            "(B) 30",
+            "(C) 7",
+            "(D) 80"
+        ],
+        "category": "history",
+        "answer": "(C) 7",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nIn the context of the Philippines, how many years is the namesake of the war in which the British besieged Manila?\n\nChoices:\n(A) 5\n(B) 30\n(C) 7\n(D) 80\n\nAnswer:\n",
+        "model_prediction": "The namesake of the war in which the British besieged Manila in the context of the Philippines is the Siege of Manila during the Spanish-British War in 1762. The siege lasted for about 6 weeks, which is approximately 42 days. Therefore, the answer is not directly provided in the choices, but if we were to convert the duration of the siege into years, it would be around 0.067 years or about 22 days short of a month. Since none of the choices provide an answer close to this, there is no definitive answer"
+    },
+    {
+        "id": "test_36",
+        "question": "In the context of the Philippines, how old was the son of Ferdinand Marcos with Imelda Marcos when Ferdinand was overthrown in 1986?",
+        "choices": [
+            "(A) 26",
+            "(B) 29",
+            "(C) 27",
+            "(D) 28"
+        ],
+        "category": "history",
+        "answer": "(D) 28",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nIn the context of the Philippines, how old was the son of Ferdinand Marcos with Imelda Marcos when Ferdinand was overthrown in 1986?\n\nChoices:\n(A) 26\n(B) 29\n(C) 27\n(D) 28\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) 29. Ferdinand Marcos was overthrown in 1986, and his eldest son, Ferdinand \"Bongbong\" Marcos Jr., was born on September 11, 1957. Therefore, he was 29 years old at the time of his father's overthrow."
+    },
+    {
+        "id": "test_37",
+        "question": "In the context of the Philippines, what is the name of the insurgency group that Ramon Magsaysay fought against?",
+        "choices": [
+            "(A) Hukbalahap",
+            "(B) Moro Islamic Liberation Front",
+            "(C) New People's Army",
+            "(D) Abu Sayyaf"
+        ],
+        "category": "history",
+        "answer": "(A) Hukbalahap",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nIn the context of the Philippines, what is the name of the insurgency group that Ramon Magsaysay fought against?\n\nChoices:\n(A) Hukbalahap\n(B) Moro Islamic Liberation Front\n(C) New People's Army\n(D) Abu Sayyaf\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (A) Hukbalahap. Ramon Magsaysay was the President of the Philippines from 1953 to 1957, and he is best known for leading the military campaign against the Hukbalahap, or the Huk Rebellion, which was a communist insurgency movement in the Philippines that started in the late 1940s. The Moro Islamic Liberation Front and Abu Sayyaf are two different Muslim separatist groups in the southern Philippines that emerged much later. The New People's Army is the military wing of"
+    },
+    {
+        "id": "test_38",
+        "question": "Among which of the following wars did the Philippines did not send combat troops to?",
+        "choices": [
+            "(A) Korean War",
+            "(B) Vietnam War",
+            "(C) World War I",
+            "(D) World War II"
+        ],
+        "category": "history",
+        "answer": "(C) World War I",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nAmong which of the following wars did the Philippines did not send combat troops to?\n\nChoices:\n(A) Korean War\n(B) Vietnam War\n(C) World War I\n(D) World War II\n\nAnswer:\n",
+        "model_prediction": "The Philippines did not send combat troops to the Korean War. The Philippines was a US territory during the Korean War and the US was responsible for its military defense. Therefore, the Philippines did not deploy its own combat troops to the Korean War."
+    },
+    {
+        "id": "test_39",
+        "question": "Which volcano forced the evacuation of American military bases in the Philippines?",
+        "choices": [
+            "(A) Mount Pinatubo",
+            "(B) Mount Mayon",
+            "(C) Mount Taal",
+            "(D) Mount Apo"
+        ],
+        "category": "history",
+        "answer": "(A) Mount Pinatubo",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhich volcano forced the evacuation of American military bases in the Philippines?\n\nChoices:\n(A) Mount Pinatubo\n(B) Mount Mayon\n(C) Mount Taal\n(D) Mount Apo\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (A) Mount Pinatubo. Mount Pinatubo forced the evacuation of American military bases in the Philippines in 1991 when it erupted, causing significant damage and ashfall in the area."
+    },
+    {
+        "id": "test_40",
+        "question": "What was the popular nickname for money issued by the 2nd Philippine Republic?",
+        "choices": [
+            "(A) Banana Money",
+            "(B) Monopoly Money",
+            "(C) Mickey Mouse Money",
+            "(D) Play Money"
+        ],
+        "category": "history",
+        "answer": "(C) Mickey Mouse Money",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhat was the popular nickname for money issued by the 2nd Philippine Republic?\n\nChoices:\n(A) Banana Money\n(B) Monopoly Money\n(C) Mickey Mouse Money\n(D) Play Money\n\nAnswer:\n",
+        "model_prediction": "(A) Banana Money\n\nExplanation:\nThe popular nickname for money issued by the 2nd Philippine Republic was \"Banana Money.\" This term was used because the money was printed on banana leaf-patterned paper and was not backed by any real value or recognized by any major financial institutions. It was primarily used during the Philippine-American War in the late 1890s and early 1900s."
+    },
+    {
+        "id": "test_41",
+        "question": "What is the distinct taste of the Filipino soup mentioned in the novel \"Noli Me Tangere\"?",
+        "choices": [
+            "(A) Sour",
+            "(B) Sweet",
+            "(C) Salty",
+            "(D) Bitter"
+        ],
+        "category": "literature",
+        "answer": "(A) Sour",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhat is the distinct taste of the Filipino soup mentioned in the novel \"Noli Me Tangere\"?\n\nChoices:\n(A) Sour\n(B) Sweet\n(C) Salty\n(D) Bitter\n\nAnswer:\n",
+        "model_prediction": "(A) Sour\n\nExplanation:\nIn the novel \"Noli Me Tangere\" by José Rizal, the Filipino soup mentioned is called \"lugaw at bulalo,\" which is a traditional Filipino dish made from rice porridge (lugaw) and beef marrow bones (bulalo). The soup is typically served with calamansi or other sour fruits to balance the richness of the dish. Therefore, the distinct taste of the Filipino soup mentioned in the novel is sour."
+    },
+    {
+        "id": "test_42",
+        "question": "In the Filipino novel \"Mga Ibong Mandaragit\", from which other book is the owner of the treasure, who also serves as that book's protagonist?",
+        "choices": [
+            "(A) We Filipinos are Mild Drinkers",
+            "(B) Noli Me Tangere",
+            "(C) El Filibusterismo",
+            "(D) Utos ng Hari"
+        ],
+        "category": "literature",
+        "answer": "(C) El Filibusterismo",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nIn the Filipino novel \"Mga Ibong Mandaragit\", from which other book is the owner of the treasure, who also serves as that book's protagonist?\n\nChoices:\n(A) We Filipinos are Mild Drinkers\n(B) Noli Me Tangere\n(C) El Filibusterismo\n(D) Utos ng Hari\n\nAnswer:\n",
+        "model_prediction": "The owner of the treasure and protagonist in \"Mga Ibong Mandaragit\" is not from any of the given choices. \"Mga Ibong Mandaragit\" is a standalone novel by Nick Joaquin, and it does not directly relate to the novels \"Noli Me Tangere,\" \"El Filibusterismo,\" or \"Utos ng Hari\" by José Rizal."
+    },
+    {
+        "id": "test_43",
+        "question": "Which country is \"Florante At Laura\" (Philippines epic) set in?",
+        "choices": [
+            "(A) Turkey",
+            "(B) Italy",
+            "(C) Spain",
+            "(D) Albania"
+        ],
+        "category": "literature",
+        "answer": "(D) Albania",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhich country is \"Florante At Laura\" (Philippines epic) set in?\n\nChoices:\n(A) Turkey\n(B) Italy\n(C) Spain\n(D) Albania\n\nAnswer:\n",
+        "model_prediction": "(B) Italy\n\nExplanation:\n\"Florante At Laura\" is a Philippine epic poem written in the 16th century by Francisco Balagtas. The story is based on the Italian tale \"Floridante\" by Matteo Maria Boiardo and \"Orlando Furioso\" by Ludovico Ariosto. Therefore, the setting of the poem is Italy."
+    },
+    {
+        "id": "test_44",
+        "question": "In \"Banaag at Sikat\", which issue among Filipino landowners did the novel discuss?",
+        "choices": [
+            "(A) Padrino System",
+            "(B) Treatment of Servants",
+            "(C) Land grabbing",
+            "(D) Farming Techniques"
+        ],
+        "category": "literature",
+        "answer": "(B) Treatment of Servants",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nIn \"Banaag at Sikat\", which issue among Filipino landowners did the novel discuss?\n\nChoices:\n(A) Padrino System\n(B) Treatment of Servants\n(C) Land grabbing\n(D) Farming Techniques\n\nAnswer:\n",
+        "model_prediction": "The novel \"Banaag at Sikat\" by Vicente L. Garcia primarily discusses the issue of the Padrino System among Filipino landowners. Therefore, the answer is (A). The Padrino System refers to the practice where landowners exercise excessive control over their tenants, often requiring them to pay additional fees and perform labor services beyond the rent. This system was prevalent in the Philippines during the Spanish colonial period and was a major source of conflict and inequality in rural communities."
+    },
+    {
+        "id": "test_45",
+        "question": "Who was the president of the Philippines in the setting of Lualhati Bautista's most famous novel?",
+        "choices": [
+            "(A) Ferdinand Marcos",
+            "(B) Corazon Aquino",
+            "(C) Fidel Ramos",
+            "(D) Joseph Estrada"
+        ],
+        "category": "literature",
+        "answer": "(A) Ferdinand Marcos",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWho was the president of the Philippines in the setting of Lualhati Bautista's most famous novel?\n\nChoices:\n(A) Ferdinand Marcos\n(B) Corazon Aquino\n(C) Fidel Ramos\n(D) Joseph Estrada\n\nAnswer:\n",
+        "model_prediction": "The novel \"Lola Basyang and the Story of the Bamboo Princess\" by Lualhati Bautista was published in 1953, long before the presidencies of Ferdinand Marcos, Corazon Aquino, Fidel Ramos, and Joseph Estrada. Therefore, none of the given choices is the correct answer. The question seems to be confusing the author with a different work or context."
+    },
+    {
+        "id": "test_46",
+        "question": "In the Philippines, from what Catholic order are the protagonists of \"Smaller and Smaller Circles\"?",
+        "choices": [
+            "(A) Augustinians",
+            "(B) Dominicans",
+            "(C) Franciscans",
+            "(D) Jesuits"
+        ],
+        "category": "literature",
+        "answer": "(D) Jesuits",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nIn the Philippines, from what Catholic order are the protagonists of \"Smaller and Smaller Circles\"?\n\nChoices:\n(A) Augustinians\n(B) Dominicans\n(C) Franciscans\n(D) Jesuits\n\nAnswer:\n",
+        "model_prediction": "(D) Jesuits\n\nExplanation:\n\"Smaller and Smaller Circles\" is a novel by F.H. Batacan that revolves around two Jesuit priests, Father Gus Saenz and Father Jerome Lucero, who are investigating a series of murders in the Philippines. Therefore, the correct answer is (D) Jesuits."
+    },
+    {
+        "id": "test_47",
+        "question": "What is an appropriate translation for the title of the Filipino novel \"ABNKKBSNPLAko?!\" in English?",
+        "choices": [
+            "(A) What? I study and learn school?!",
+            "(B) I'm a Filipino, What's Your Excuse?!",
+            "(C) Wow I can apparently read now?!",
+            "(D) I can write sentences with ease?!"
+        ],
+        "category": "literature",
+        "answer": "(C) Wow I can apparently read now?!",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhat is an appropriate translation for the title of the Filipino novel \"ABNKKBSNPLAko?!\" in English?\n\nChoices:\n(A) What? I study and learn school?!\n(B) I'm a Filipino, What's Your Excuse?!\n(C) Wow I can apparently read now?!\n(D) I can write sentences with ease?!\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) I'm a Filipino, What's Your Excuse?!\n\nExplanation:\nABNKKBSNPLAko is a popular Filipino novel written by Marcos Carabellas. The title is an acronym for \"Ako'y A Babae, Nganito Ka Ba Sa Akin?\", which translates to \"I'm a woman, what's your problem with me?\" or \"I'm a woman, what's your excuse?\" in English. Therefore, the correct answer is (B) I'm a"
+    },
+    {
+        "id": "test_48",
+        "question": "What is the literal translation of the name of the Filipino author of \"Alamat ng Gubat\" in English?",
+        "choices": [
+            "(A) Legend of the Forest",
+            "(B) Drums",
+            "(C) Idiot",
+            "(D) Pen"
+        ],
+        "category": "literature",
+        "answer": "(C) Idiot",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhat is the literal translation of the name of the Filipino author of \"Alamat ng Gubat\" in English?\n\nChoices:\n(A) Legend of the Forest\n(B) Drums\n(C) Idiot\n(D) Pen\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (A) Legend of the Forest. The Filipino author of \"Alamat ng Gubat\" is Jose Garcia Villa, but the title of his work translates to \"Legend of the Forest\" in English."
+    },
+    {
+        "id": "test_49",
+        "question": "In the Philippines, Nick Joaquin is mainly known for which genre of literature?",
+        "choices": [
+            "(A) Poetry",
+            "(B) Short Stories",
+            "(C) Essays",
+            "(D) Plays"
+        ],
+        "category": "literature",
+        "answer": "(B) Short Stories",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nIn the Philippines, Nick Joaquin is mainly known for which genre of literature?\n\nChoices:\n(A) Poetry\n(B) Short Stories\n(C) Essays\n(D) Plays\n\nAnswer:\n",
+        "model_prediction": "(C) Essays\n\nExplanation:\nNick Joaquin, also known as Quino, is a renowned Filipino writer who is best known for his essays. He has made significant contributions to Filipino literature through his insightful and thought-provoking essays that reflect the Filipino culture, history, and society."
+    },
+    {
+        "id": "test_50",
+        "question": "In the Philippines, what mythological creature are the protagonists of \"Tabi Po\"?",
+        "choices": [
+            "(A) Aswang",
+            "(B) Tikbalang",
+            "(C) Kapre",
+            "(D) Manananggal"
+        ],
+        "category": "literature",
+        "answer": "(A) Aswang",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nIn the Philippines, what mythological creature are the protagonists of \"Tabi Po\"?\n\nChoices:\n(A) Aswang\n(B) Tikbalang\n(C) Kapre\n(D) Manananggal\n\nAnswer:\n",
+        "model_prediction": "(D) Manananggal\n\nExplanation:\n\"Tabi Po\" is a Philippine folktale where the protagonists encounter various supernatural creatures. Among these creatures, the Manananggal is the most prominent one. The Manananggal is a shape-shifting creature that can detach its upper body and fly while its lower body remains behind. It is known to prey on pregnant women and unborn babies. Therefore, the answer is (D) Manananggal."
+    },
+    {
+        "id": "test_51",
+        "question": "Before Philippine Independence, which person succeeded the president who died in office?",
+        "choices": [
+            "(A) Sergio Osmena",
+            "(B) Manuel Roxas",
+            "(C) Elpidio Quirino",
+            "(D) Ramon Magsaysay"
+        ],
+        "category": "politics",
+        "answer": "(A) Sergio Osmena",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nBefore Philippine Independence, which person succeeded the president who died in office?\n\nChoices:\n(A) Sergio Osmena\n(B) Manuel Roxas\n(C) Elpidio Quirino\n(D) Ramon Magsaysay\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (C) Elpidio Quirino. Elpidio Quirino served as President of the Philippines from 1948 to 1953, succeeding Manuel Roxas who died in office in 1948. Therefore, the question asks for the person who succeeded a president who died in office before Philippine Independence, and the answer is Elpidio Quirino. However, it's important to note that the Philippines gained its independence from the United States on July 4, 1946. So technically, Quirino was the president during"
+    },
+    {
+        "id": "test_52",
+        "question": "Which territory is the subject of a dispute between the Philippines and Malaysia as of 2023?",
+        "choices": [
+            "(A) Spratly Islands",
+            "(B) Sabah",
+            "(C) Scarborough Shoal",
+            "(D) Benham Rise"
+        ],
+        "category": "politics",
+        "answer": "(B) Sabah",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhich territory is the subject of a dispute between the Philippines and Malaysia as of 2023?\n\nChoices:\n(A) Spratly Islands\n(B) Sabah\n(C) Scarborough Shoal\n(D) Benham Rise\n\nAnswer:\n",
+        "model_prediction": "(B) Sabah\n\nExplanation:\nThe Sabah dispute refers to the long-standing territorial claim by the Philippines over the Malaysian state of Sabah, also known as North Borneo. The issue dates back to the late 1960s when the Philippines accused Malaysia of allowing the illegal entry and settlement of Filipino citizens in Sabah, which was then under British rule. The dispute remains unresolved as of 2023.\n\nThe Spratly Islands, Scarborough Shoal, and Benham Rise are also subjects of territorial disputes in the South China"
+    },
+    {
+        "id": "test_53",
+        "question": "What is the name of the worst electoral violence that has occurred in the Philippines as of 2023?",
+        "choices": [
+            "(A) Maguindanao Massacre",
+            "(B) Mendiola Massacre",
+            "(C) Escalante Massacre",
+            "(D) Jabidah Massacre"
+        ],
+        "category": "politics",
+        "answer": "(A) Maguindanao Massacre",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhat is the name of the worst electoral violence that has occurred in the Philippines as of 2023?\n\nChoices:\n(A) Maguindanao Massacre\n(B) Mendiola Massacre\n(C) Escalante Massacre\n(D) Jabidah Massacre\n\nAnswer:\n",
+        "model_prediction": "The Maguindanao Massacre, which occurred on November 23, 2009, is considered the worst electoral violence in the Philippines as of 2023. Therefore, the answer is (A).\n\nExplanation:\nThe Maguindanao Massacre, also known as the Ampatuan Massacre, was a series of mass murders that took place in the Philippines on November 23, 2009. A total of 58 people, including 32 journalists, were killed in a single day in the province of Maguind"
+    },
+    {
+        "id": "test_54",
+        "question": "In the Philippines, which island did Rodrigo Duterte jokingly offered to travel to via a jet ski?",
+        "choices": [
+            "(A) Spratly Islands",
+            "(B) Sabah",
+            "(C) Scarborough Shoal",
+            "(D) Benham Rise"
+        ],
+        "category": "politics",
+        "answer": "(A) Spratly Islands",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nIn the Philippines, which island did Rodrigo Duterte jokingly offered to travel to via a jet ski?\n\nChoices:\n(A) Spratly Islands\n(B) Sabah\n(C) Scarborough Shoal\n(D) Benham Rise\n\nAnswer:\n",
+        "model_prediction": "There is no record of Rodrigo Duterte jokingly offering to travel to any of the given islands via a jet ski during his presidency. Therefore, none of the choices is the correct answer. However, for the information of the readers, Rodrigo Duterte had disputes with neighboring countries over the South China Sea, particularly the Spratly Islands, Sabah, and Scarborough Shoal. Benham Rise is a submerged land feature in the Philippine Sea, not an island."
+    },
+    {
+        "id": "test_55",
+        "question": "As of 2023, what is the previous name of the only autonomous region in the Philippines?",
+        "choices": [
+            "(A) Autonomous Region in Central Luzon",
+            "(B) Autonomous Region in Muslim Mindanao",
+            "(C) Cordillera Autonomous Region",
+            "(D) Autonomous Region in Southern Luzon"
+        ],
+        "category": "politics",
+        "answer": "(B) Autonomous Region in Muslim Mindanao",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nAs of 2023, what is the previous name of the only autonomous region in the Philippines?\n\nChoices:\n(A) Autonomous Region in Central Luzon\n(B) Autonomous Region in Muslim Mindanao\n(C) Cordillera Autonomous Region\n(D) Autonomous Region in Southern Luzon\n\nAnswer:\n",
+        "model_prediction": "(C) Cordillera Autonomous Region\n\nExplanation:\nThe Cordillera Autonomous Region (CAR) is the only autonomous region in the Philippines as of 2023. The other regions mentioned in the choices (Central Luzon, Muslim Mindanao, and Southern Luzon) are not autonomous regions."
+    },
+    {
+        "id": "test_56",
+        "question": "In the Philippines, what is the last name of the soldier who murdered a trans woman in Olongapo City, 2014 and caused a sensation?",
+        "choices": [
+            "(A) Pemberton",
+            "(B) Smith",
+            "(C) Johnson",
+            "(D) Jones"
+        ],
+        "category": "politics",
+        "answer": "(A) Pemberton",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nIn the Philippines, what is the last name of the soldier who murdered a trans woman in Olongapo City, 2014 and caused a sensation?\n\nChoices:\n(A) Pemberton\n(B) Smith\n(C) Johnson\n(D) Jones\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (A) Pemberton. The soldier you are referring to is Lance Corporal Joseph Scott Pemberton, who was involved in the murder of a transgender woman named Jennifer Laude in Olongapo City, Philippines, in 2014. This case gained significant attention both locally and internationally."
+    },
+    {
+        "id": "test_57",
+        "question": "In the Philippines, what is the nickname Gloria Arroyo gave to the person she was calling during her electoral scandal?",
+        "choices": [
+            "(A) Mike",
+            "(B) Garci",
+            "(C) Noli",
+            "(D) Erap"
+        ],
+        "category": "politics",
+        "answer": "(B) Garci",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nIn the Philippines, what is the nickname Gloria Arroyo gave to the person she was calling during her electoral scandal?\n\nChoices:\n(A) Mike\n(B) Garci\n(C) Noli\n(D) Erap\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) Garci. Gloria Arroyo, who was the President of the Philippines from 2001 to 2010, was involved in an electoral scandal known as the \"Hello Garci\" scandal. She was recorded in a phone conversation asking then-Comelec Commissioner Virgilio Garcillano to \"find a way\" to ensure that her preferred candidate would win in the 2004 presidential elections. Hence, the nickname \"Garci\" was given to Virgilio Garcillano in this context."
+    },
+    {
+        "id": "test_58",
+        "question": "In the Philippines, what operation is Kian delos Santos a victim of?",
+        "choices": [
+            "(A) Oplan Tokhang",
+            "(B) Philippine War on Drugs",
+            "(C) Oplan Pandamayan",
+            "(D) Oplan Exodus"
+        ],
+        "category": "politics",
+        "answer": "(A) Oplan Tokhang",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nIn the Philippines, what operation is Kian delos Santos a victim of?\n\nChoices:\n(A) Oplan Tokhang\n(B) Philippine War on Drugs\n(C) Oplan Pandamayan\n(D) Oplan Exodus\n\nAnswer:\n",
+        "model_prediction": "(A) Oplan Tokhang\n\nExplanation:\nKian delos Santos was a 17-year-old Filipino boy who was killed by police officers during an anti-drug operation in Caloocan City, Philippines, on August 16, 2017. The operation was part of the Philippine National Police's (PNP) Oplan Tokhang, which stands for \"Tokhang-Tokhang\" or \"knock and persuade.\" The goal of the operation is to persuade drug suspects to surrender and abandon their illegal activities through dialogue and"
+    },
+    {
+        "id": "test_59",
+        "question": "In the context of the Philippines, what was term for the ideology of Joma?",
+        "choices": [
+            "(A) People's Republic",
+            "(B) Guided Democracy",
+            "(C) National Democracy",
+            "(D) Agrarian Reform"
+        ],
+        "category": "politics",
+        "answer": "(C) National Democracy",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nIn the context of the Philippines, what was term for the ideology of Joma?\n\nChoices:\n(A) People's Republic\n(B) Guided Democracy\n(C) National Democracy\n(D) Agrarian Reform\n\nAnswer:\n",
+        "model_prediction": "(C) National Democracy\n\nExplanation:\nJoma Sison is a Filipino Marxist-Leninist revolutionary and political theorist. He is the founder and longtime chairman of the Communist Party of the Philippines (CPP) and the National Democratic Front of the Philippines (NDFP). The ideology he advocated for is called \"National Democracy,\" which is a blend of Marxism-Leninism and Filipino nationalism. It aims to establish a socialist state in the Philippines through a people's war and a protracted revolutionary struggle. Therefore, the correct answer is ("
+    },
+    {
+        "id": "test_60",
+        "question": "In the Philippines, what is the popular name of the event that overthrew Ferdinand Marcos?",
+        "choices": [
+            "(A) People's Uprising",
+            "(B) February Revolt",
+            "(C) People Power Revolution",
+            "(D) 1986 Overthrow"
+        ],
+        "category": "politics",
+        "answer": "(C) People Power Revolution",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nIn the Philippines, what is the popular name of the event that overthrew Ferdinand Marcos?\n\nChoices:\n(A) People's Uprising\n(B) February Revolt\n(C) People Power Revolution\n(D) 1986 Overthrow\n\nAnswer:\n",
+        "model_prediction": "(C) People Power Revolution\n\nExplanation:\nThe event that overthrew Ferdinand Marcos in the Philippines, which took place in 1986, is popularly known as the \"People Power Revolution.\" It was a peaceful, largely nonviolent demonstration that saw hundreds of thousands of Filipinos take to the streets to demand Marcos' resignation following allegations of electoral fraud during the 1986 presidential elections. The revolution was successful, and Marcos was forced to flee the country, leading to the presidency of Corazon Aquino."
+    },
+    {
+        "id": "test_61",
+        "question": "In the Philippines, what best describes the word \"salvage\" among the choices?",
+        "choices": [
+            "(A) To treat and save",
+            "(B) To be wild and merciless",
+            "(C) To recycle and repair",
+            "(D) To disappear and be killed"
+        ],
+        "category": "culture",
+        "answer": "(D) To disappear and be killed",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nIn the Philippines, what best describes the word \"salvage\" among the choices?\n\nChoices:\n(A) To treat and save\n(B) To be wild and merciless\n(C) To recycle and repair\n(D) To disappear and be killed\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (C) To recycle and repair. In the Philippines, the term \"salvage\" is commonly used to refer to the act of recovering and restoring items, especially those that have been damaged or abandoned. It is often used in the context of salvaging a shipwreck or salvaging materials for recycling or reuse."
+    },
+    {
+        "id": "test_62",
+        "question": "In the Philippines, what part of the body is used to show sign of respect to elders?",
+        "choices": [
+            "(A) Head",
+            "(B) Hand",
+            "(C) Shoulder",
+            "(D) Arm"
+        ],
+        "category": "culture",
+        "answer": "(B) Hand",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nIn the Philippines, what part of the body is used to show sign of respect to elders?\n\nChoices:\n(A) Head\n(B) Hand\n(C) Shoulder\n(D) Arm\n\nAnswer:\n",
+        "model_prediction": "In the Philippines, the head is used to show respect to elders by bowing it slightly as a sign of reverence. Therefore, the answer is (A) Head."
+    },
+    {
+        "id": "test_63",
+        "question": "Which religion in the Philippines owns a building with a Guiness World Record as of 2023?",
+        "choices": [
+            "(A) Islam",
+            "(B) Seventh-day Adventist Church",
+            "(C) Iglesia Ni Cristo",
+            "(D) Roman Catholic Church"
+        ],
+        "category": "culture",
+        "answer": "(C) Iglesia Ni Cristo",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhich religion in the Philippines owns a building with a Guiness World Record as of 2023?\n\nChoices:\n(A) Islam\n(B) Seventh-day Adventist Church\n(C) Iglesia Ni Cristo\n(D) Roman Catholic Church\n\nAnswer:\n",
+        "model_prediction": "(C) Iglesia Ni Cristo\n\nExplanation:\nThe Iglesia Ni Cristo (INC) church in the Philippines holds the Guinness World Record for having the largest flag measuring 301.5 meters long and 200 meters wide, which was unfurled during their Centennial Celebration on March 26, 2014. This event took place at the INC's Central Temple in Quezon City, Philippines."
+    },
+    {
+        "id": "test_64",
+        "question": "What is the Philippines' first Filipino-led Christian church?",
+        "choices": [
+            "(A) Sakdalistas",
+            "(B) Iglesia Ni Cristo",
+            "(C) Aglipayan Church",
+            "(D) Guardia de Honor"
+        ],
+        "category": "culture",
+        "answer": "(C) Aglipayan Church",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhat is the Philippines' first Filipino-led Christian church?\n\nChoices:\n(A) Sakdalistas\n(B) Iglesia Ni Cristo\n(C) Aglipayan Church\n(D) Guardia de Honor\n\nAnswer:\n",
+        "model_prediction": "(C) Aglipayan Church\n\nExplanation:\nThe Aglipayan Church, also known as the Philippine Independent Church or the Philippine Independent Catholic Church, is the first Filipino-led Christian church in the Philippines. It was founded by Gregorio Aglipay, a Filipino priest, in 1898 during the Philippine Revolution against Spanish colonial rule. The Aglipayan Church is an independent Catholic denomination that is not in communion with the Holy See. The other options listed in the question are not the first Filipino-led Christian churches in the"
+    },
+    {
+        "id": "test_65",
+        "question": "What day of Holy Week are people routinely crucified in the Philippines?",
+        "choices": [
+            "(A) Friday",
+            "(B) Thursday",
+            "(C) Sunday",
+            "(D) Sunday"
+        ],
+        "category": "culture",
+        "answer": "(A) Friday",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhat day of Holy Week are people routinely crucified in the Philippines?\n\nChoices:\n(A) Friday\n(B) Thursday\n(C) Sunday\n(D) Sunday\n\nAnswer:\n",
+        "model_prediction": "The answer is (A) - Good Friday. In the Philippines and other countries, reenactments of the crucifixion of Jesus Christ are held on Good Friday during the Holy Week."
+    },
+    {
+        "id": "test_66",
+        "question": "What is the name of the SMS language developed in the Philippines?",
+        "choices": [
+            "(A) Jejebuster",
+            "(B) Jejemon",
+            "(C) Jejebot",
+            "(D) Jejespeak"
+        ],
+        "category": "culture",
+        "answer": "(B) Jejemon",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhat is the name of the SMS language developed in the Philippines?\n\nChoices:\n(A) Jejebuster\n(B) Jejemon\n(C) Jejebot\n(D) Jejespeak\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) Jejemon. Jejemon is a Filipino texting language or SMS lingo that became popular in the Philippines around 2009. It is characterized by the use of special characters, abbreviations, and non-standard grammar. The term \"Jejemon\" is derived from the word \"JV,\" which stands for \"Jesus Vida,\" a popular religious phrase used in the language. The other options (A) Jejebuster, (C) Jejebot, and (D) Jejespeak are not valid answers."
+    },
+    {
+        "id": "test_67",
+        "question": "Which Filipino journalist founded an organization whose name is derived from the word \"ripple\"?",
+        "choices": [
+            "(A) Maria Ressa",
+            "(B) Jessica Soho",
+            "(C) Karen Davila",
+            "(D) Korina Sanchez"
+        ],
+        "category": "culture",
+        "answer": "(A) Maria Ressa",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhich Filipino journalist founded an organization whose name is derived from the word \"ripple\"?\n\nChoices:\n(A) Maria Ressa\n(B) Jessica Soho\n(C) Karen Davila\n(D) Korina Sanchez\n\nAnswer:\n",
+        "model_prediction": "Maria Ressa\n\nExplanation:\nMaria Ressa is a Filipino journalist and the CEO, executive editor, and co-founder of Rappler, an independent news organization in the Philippines. The name \"Rappler\" is derived from the word \"ripple,\" which refers to the organization's mission to create waves of change through investigative journalism and social media engagement."
+    },
+    {
+        "id": "test_68",
+        "question": "What is the term for the Filipino practice of gaining favors through family / friends?",
+        "choices": [
+            "(A) Nepotismo",
+            "(B) Kapatiran",
+            "(C) Padrino System",
+            "(D) Connection System"
+        ],
+        "category": "culture",
+        "answer": "(C) Padrino System",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhat is the term for the Filipino practice of gaining favors through family / friends?\n\nChoices:\n(A) Nepotismo\n(B) Kapatiran\n(C) Padrino System\n(D) Connection System\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (C) Padrino System. The Padrino System, also known as \"patronage system\" or \"godfather system,\" is a Filipino cultural practice where favors and influence are gained through personal connections, often family or close friends. This system is deeply rooted in the Filipino culture and is a significant aspect of their social structure."
+    },
+    {
+        "id": "test_69",
+        "question": "Prior to or just reaching puberty, what rite do Filipino males usually go through?",
+        "choices": [
+            "(A) Pagbibinyag",
+            "(B) Tuli",
+            "(C) Kumpirmasyon",
+            "(D) Pagpapatibay"
+        ],
+        "category": "culture",
+        "answer": "(B) Tuli",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nPrior to or just reaching puberty, what rite do Filipino males usually go through?\n\nChoices:\n(A) Pagbibinyag\n(B) Tuli\n(C) Kumpirmasyon\n(D) Pagpapatibay\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) Tuli. In Filipino culture, Tuli is the traditional rite of scarification that Filipino boys undergo before or just reaching puberty. This rite involves making small incisions on the body and applying oil or charcoal to promote scarring. It is believed to strengthen the boy's body and prepare him for adulthood. The other choices, Pagbibinyag (Confirmation or Christian Baptism), Kumpirmasyon (First Communion), and Pagpapatibay (Strengthening or Reinforcement),"
+    },
+    {
+        "id": "test_70",
+        "question": "What is the local name for hats worn by penitents during self-flagellation during Holy Week in the Philippines?",
+        "choices": [
+            "(A) Sombrero",
+            "(B) Kapirosa",
+            "(C) Salakot",
+            "(D) Balibuntal Hat"
+        ],
+        "category": "culture",
+        "answer": "(B) Kapirosa",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhat is the local name for hats worn by penitents during self-flagellation during Holy Week in the Philippines?\n\nChoices:\n(A) Sombrero\n(B) Kapirosa\n(C) Salakot\n(D) Balibuntal Hat\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) Kapirosa. The \"kapirosa\" is a type of hat made of palm leaves or raffia, worn by penitents during the Holy Week processions in the Philippines. It is often adorned with thorns or sharp objects, and the penitents whip themselves with it as a form of penance and self-flagellation. The other choices, \"sombrero,\" \"salakot,\" and \"balibuntal hat,\" are all different types of traditional hats in the Philippines, but they are not used for self-flag"
+    },
+    {
+        "id": "test_71",
+        "question": "Which Filipino film's title is entirely composed of verbs?",
+        "choices": [
+            "(A) Shake, Rattle, and Roll",
+            "(B) Mano Po",
+            "(C) Ang Tanging Ina",
+            "(D) Ang Probinsyano"
+        ],
+        "category": "film",
+        "answer": "(A) Shake, Rattle, and Roll",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhich Filipino film's title is entirely composed of verbs?\n\nChoices:\n(A) Shake, Rattle, and Roll\n(B) Mano Po\n(C) Ang Tanging Ina\n(D) Ang Probinsyano\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (A) Shake, Rattle, and Roll. This Filipino film's title is entirely composed of verbs, as indicated in the question."
+    },
+    {
+        "id": "test_72",
+        "question": "Which film's title is a reference to a Filipino curse word?",
+        "choices": [
+            "(A) Ang Probinsyano",
+            "(B) Ang Babae sa Septic Tank",
+            "(C) Ang Tanging Ina",
+            "(D) Ang Panday"
+        ],
+        "category": "film",
+        "answer": "(C) Ang Tanging Ina",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhich film's title is a reference to a Filipino curse word?\n\nChoices:\n(A) Ang Probinsyano\n(B) Ang Babae sa Septic Tank\n(C) Ang Tanging Ina\n(D) Ang Panday\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (A) Ang Probinsyano. The word \"probinsyano\" is a Filipino term often used to refer to someone from the provinces or rural areas. However, it can also be used as an insult or a curse word, implying that someone is unsophisticated or uncultured. The title of the film \"Ang Probinsyano\" is a deliberate use of this term as a reference to the protagonist's background and identity."
+    },
+    {
+        "id": "test_73",
+        "question": "In the Philippines, what is the most famous work by the brother of the general that was assassinated under Emilio Aguinaldo's orders?",
+        "choices": [
+            "(A) Madonna of the Slums",
+            "(B) Planting Rice",
+            "(C) Spolarium",
+            "(D) First Mass at Limasawa"
+        ],
+        "category": "film",
+        "answer": "(C) Spolarium",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nIn the Philippines, what is the most famous work by the brother of the general that was assassinated under Emilio Aguinaldo's orders?\n\nChoices:\n(A) Madonna of the Slums\n(B) Planting Rice\n(C) Spolarium\n(D) First Mass at Limasawa\n\nAnswer:\n",
+        "model_prediction": "None of the given choices is the most famous work by the brother of the general who was assassinated under Emilio Aguinaldo's orders in the Philippines. The brother of the general you're referring to is most likely Juan Luna or Jose Rizal, both of whom are famous Filipino national heroes and artists in their own right. However, none of their most famous works are listed among the choices.\n\nJuan Luna's most famous work is \"The Spolarium,\" which depicts a scene from the Roman gladiatorial games. Jose Rizal's most famous works are"
+    },
+    {
+        "id": "test_74",
+        "question": "What geopolitical term is referenced in the title of a 2000 Filipino film interviewing Jose Rizal in a style of a documentary?",
+        "choices": [
+            "(A) Global South",
+            "(B) Globalized",
+            "(C) Western",
+            "(D) Third World"
+        ],
+        "category": "film",
+        "answer": "(D) Third World",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhat geopolitical term is referenced in the title of a 2000 Filipino film interviewing Jose Rizal in a style of a documentary?\n\nChoices:\n(A) Global South\n(B) Globalized\n(C) Western\n(D) Third World\n\nAnswer:\n",
+        "model_prediction": "(D) Third World\n\nExplanation:\nThe term \"Third World\" is most closely related to the title of the 2000 Filipino film \"Ishmael Bernal's Rizal: A Portrait of the Artist as a Filipino.\" The film is a documentary-style interview with Jose Rizal, a national hero of the Philippines, and the term \"Third World\" was commonly used to describe countries that were not part of the capitalist \"First World\" or the communist \"Second World\" during the Cold War era."
+    },
+    {
+        "id": "test_75",
+        "question": "What is the main subject of the Filipino film \"Batch 81\"?",
+        "choices": [
+            "(A) Hazing",
+            "(B) Gang Violence",
+            "(C) Extrajudicial Murder",
+            "(D) Police Brutality"
+        ],
+        "category": "film",
+        "answer": "(A) Hazing",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhat is the main subject of the Filipino film \"Batch 81\"?\n\nChoices:\n(A) Hazing\n(B) Gang Violence\n(C) Extrajudicial Murder\n(D) Police Brutality\n\nAnswer:\n",
+        "model_prediction": "The main subject of the Filipino film \"Batch 81\" is (A) Hazing. The film is about a group of medical students who are subjected to hazing rituals during their initiation into the medical fraternity."
+    },
+    {
+        "id": "test_76",
+        "question": "In the Philippines, what is the negation of the most famous line in Ishmael Bernal's \"Himala\"?",
+        "choices": [
+            "(A) Maraming Himala",
+            "(B) Kaunting Himala",
+            "(C) May Himala",
+            "(D) Walang Himala"
+        ],
+        "category": "film",
+        "answer": "(C) May Himala",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nIn the Philippines, what is the negation of the most famous line in Ishmael Bernal's \"Himala\"?\n\nChoices:\n(A) Maraming Himala\n(B) Kaunting Himala\n(C) May Himala\n(D) Walang Himala\n\nAnswer:\n",
+        "model_prediction": "The most famous line in Ishmael Bernal's \"Himala\" is \"Maraming Himala\" which means \"Many Miracles\" in English. The negation of this statement would be \"Walang Himala\" which means \"No Miracles\" in English. Therefore, the answer is (D) Walang Himala."
+    },
+    {
+        "id": "test_77",
+        "question": "Where was the shooting location of the first Filipino film to be shown at the Cannes Film Festival?",
+        "choices": [
+            "(A) Binondo",
+            "(B) Tondo",
+            "(C) Manila",
+            "(D) Payatas"
+        ],
+        "category": "film",
+        "answer": "(B) Tondo",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhere was the shooting location of the first Filipino film to be shown at the Cannes Film Festival?\n\nChoices:\n(A) Binondo\n(B) Tondo\n(C) Manila\n(D) Payatas\n\nAnswer:\n",
+        "model_prediction": "(C) Manila\n\nExplanation:\nThe first Filipino film to be shown at the Cannes Film Festival was \"Maynila sa Mga Kuko ng Liwanag\" (Manila in the Claws of Light) directed by Lino Brocka in 1965. The film was primarily shot in Manila, the capital city of the Philippines."
+    },
+    {
+        "id": "test_78",
+        "question": "Which theme does the Filipino film \"Kisapmata\" (1981) portray?",
+        "choices": [
+            "(A) Poverty",
+            "(B) Incest",
+            "(C) Torture",
+            "(D) Drug abuse"
+        ],
+        "category": "film",
+        "answer": "(B) Incest",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhich theme does the Filipino film \"Kisapmata\" (1981) portray?\n\nChoices:\n(A) Poverty\n(B) Incest\n(C) Torture\n(D) Drug abuse\n\nAnswer:\n",
+        "model_prediction": "(B) Incest\n\nExplanation:\n\"Kisapmata\" is a Filipino film directed by Lino Brocka, released in 1981. The film is known for its controversial themes and graphic depictions. Among the choices given, the most appropriate answer is (B) Incest. The film revolves around the story of a mother and her son who live in poverty and are forced to resort to incestuous relationships due to their desperate situation. While poverty is a significant theme in the film, it is not the central focus. Torture and drug abuse are also present"
+    },
+    {
+        "id": "test_79",
+        "question": "In the Philippines, what is the name of the lover of the protagonist in English in the film \"Manila in the Claws of Light\"?",
+        "choices": [
+            "(A) Happiness",
+            "(B) Hope",
+            "(C) Beauty",
+            "(D) Faith"
+        ],
+        "category": "film",
+        "answer": "(A) Happiness",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nIn the Philippines, what is the name of the lover of the protagonist in English in the film \"Manila in the Claws of Light\"?\n\nChoices:\n(A) Happiness\n(B) Hope\n(C) Beauty\n(D) Faith\n\nAnswer:\n",
+        "model_prediction": "The name of the lover of the protagonist in the Filipino film \"Manila in the Claws of Light\" is Iris, but the English subtitles in the film refer to her as \"Hope.\" Therefore, the correct answer is (B) Hope."
+    },
+    {
+        "id": "test_80",
+        "question": "In the Philippines, who is the famous actress best known for saying \"Walang Himala!\"?",
+        "choices": [
+            "(A) Nora Aunor",
+            "(B) Vilma Santos",
+            "(C) Sharon Cuneta",
+            "(D) Maricel Soriano"
+        ],
+        "category": "film",
+        "answer": "(A) Nora Aunor",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nIn the Philippines, who is the famous actress best known for saying \"Walang Himala!\"?\n\nChoices:\n(A) Nora Aunor\n(B) Vilma Santos\n(C) Sharon Cuneta\n(D) Maricel Soriano\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) Vilma Santos. Vilma Santos is best known for saying \"Walang Himala!\" in the 1982 Filipino film \"Anak ng Hulman\" (English: \"Child of Hulman\"), where she played the role of a possessed woman who believes she is the Virgin Mary."
+    },
+    {
+        "id": "test_81",
+        "question": "What two books are required to be read by students in Philippine Universities?",
+        "choices": [
+            "(A) Noli Me Tangere and El Filibusterismo",
+            "(B) Alamat ng Gubat and Code of Kalintaw",
+            "(C) El Filibusterismo Florante at Laura",
+            "(D) Mga Ibong Mandaragit and Dekada '70"
+        ],
+        "category": "law",
+        "answer": "(A) Noli Me Tangere and El Filibusterismo",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhat two books are required to be read by students in Philippine Universities?\n\nChoices:\n(A) Noli Me Tangere and El Filibusterismo\n(B) Alamat ng Gubat and Code of Kalintaw\n(C) El Filibusterismo Florante at Laura\n(D) Mga Ibong Mandaragit and Dekada '70\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (A) Noli Me Tangere and El Filibusterismo. These two novels by José Rizal are required reading in Philippine universities as they are considered important works in Philippine literature and history."
+    },
+    {
+        "id": "test_82",
+        "question": "What was the official political entity of the Philippines when the Tydings-McDuffie Act was enacted?",
+        "choices": [
+            "(A) Commonwealth",
+            "(B) Unincorporated Territory",
+            "(C) Colony",
+            "(D) Protectorate"
+        ],
+        "category": "law",
+        "answer": "(B) Unincorporated Territory",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhat was the official political entity of the Philippines when the Tydings-McDuffie Act was enacted?\n\nChoices:\n(A) Commonwealth\n(B) Unincorporated Territory\n(C) Colony\n(D) Protectorate\n\nAnswer:\n",
+        "model_prediction": "(B) The Philippines was an unincorporated territory when the Tydings-McDuffie Act was enacted.\n\nExplanation:\nThe Tydings-McDuffie Act, also known as the Philippine Independence Act, was passed on March 24, 1934. It provided for the eventual independence of the Philippines from the United States, but set a deadline of January 1, 1947, for the Philippines to become an independent nation. Prior to this act, the Philippines was an unincorporated territory of the United"
+    },
+    {
+        "id": "test_83",
+        "question": "In the Philippines, Republic Act No. 10354 allows for the provision of:",
+        "choices": [
+            "(A) Free education",
+            "(B) Free healthcare",
+            "(C) Free contraceptives",
+            "(D) Free housing"
+        ],
+        "category": "law",
+        "answer": "(C) Free contraceptives",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nIn the Philippines, Republic Act No. 10354 allows for the provision of:\n\nChoices:\n(A) Free education\n(B) Free healthcare\n(C) Free contraceptives\n(D) Free housing\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (A) Free education. Republic Act No. 10354, also known as the \"Universal Access to Quality Tertiary Education Act\" or \"UAQTEA,\" aims to provide free tuition and other school fees in state universities and colleges (SUCs) and local universities and colleges (LUCs) in the Philippines. It was signed into law on August 3, 2013.\n\nThe other choices, (B) Free healthcare, (C) Free contraceptives, and (D) Free housing, are not directly related to"
+    },
+    {
+        "id": "test_84",
+        "question": "As of 2023, The Philippines and Vatican City are the only two states that do not allow for:",
+        "choices": [
+            "(A) Clerical Marriage",
+            "(B) Divorce",
+            "(C) Abortion",
+            "(D) Civil Marriage"
+        ],
+        "category": "law",
+        "answer": "(B) Divorce",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nAs of 2023, The Philippines and Vatican City are the only two states that do not allow for:\n\nChoices:\n(A) Clerical Marriage\n(B) Divorce\n(C) Abortion\n(D) Civil Marriage\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (D) Civil Marriage.\n\nThe Philippines and Vatican City are the only two states that do not allow for civil marriage. While the Philippines allows religious marriages, it does not recognize civil marriages performed outside the country. Vatican City, being a religious and not a secular state, does not allow for civil marriages at all.\n\nThe Philippines allows annulments of marriages, but it does not allow for divorce. Abortion is illegal in the Philippines, but there are exceptions for cases of rape, incest, and the mother's life being at risk."
+    },
+    {
+        "id": "test_85",
+        "question": "In the Philippines, what did Carlos Celdran put on his signboard, which led to his arrest in 2010?",
+        "choices": [
+            "(A) Rizal is a Hero",
+            "(B) Contraceptives for All",
+            "(C) Separation of Church and State",
+            "(D) Damaso"
+        ],
+        "category": "law",
+        "answer": "(D) Damaso",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nIn the Philippines, what did Carlos Celdran put on his signboard, which led to his arrest in 2010?\n\nChoices:\n(A) Rizal is a Hero\n(B) Contraceptives for All\n(C) Separation of Church and State\n(D) Damaso\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (C) Separation of Church and State. Carlos Celdran was arrested in 2010 during a Mass at Manila Cathedral for carrying a signboard with the inscription \"Separation of Church and State.\" This event sparked a public debate on freedom of expression and the role of religion in politics in the Philippines."
+    },
+    {
+        "id": "test_86",
+        "question": "What Filipino law has an acronym pertaining to a vehicle?",
+        "choices": [
+            "(A) JEEPNEY Care Law",
+            "(B) TRAIN Law",
+            "(C) CAR Act",
+            "(D) RAIL Act"
+        ],
+        "category": "law",
+        "answer": "(B) TRAIN Law",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhat Filipino law has an acronym pertaining to a vehicle?\n\nChoices:\n(A) JEEPNEY Care Law\n(B) TRAIN Law\n(C) CAR Act\n(D) RAIL Act\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (A) JEEPNEY Care Law.\n\nExplanation:\nJEEPNEY Care Law, also known as Republic Act No. 10913, is a Filipino law that aims to improve the safety and condition of jeepneys, a common mode of public transportation in the Philippines. The acronym JEEPNEY stands for \"Joint Venture Economic Enterprises Participating in the Modernization of the National Transportation System.\""
+    },
+    {
+        "id": "test_87",
+        "question": "As of 2023, what is not illegal in the Philippines?",
+        "choices": [
+            "(A) Offending Religious sentiments",
+            "(B) Squatting",
+            "(C) Polygamy",
+            "(D) Stalking"
+        ],
+        "category": "law",
+        "answer": "(B) Squatting",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nAs of 2023, what is not illegal in the Philippines?\n\nChoices:\n(A) Offending Religious sentiments\n(B) Squatting\n(C) Polygamy\n(D) Stalking\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (C) Polygamy. Polygamy, or the practice of having multiple spouses, is not illegal in the Philippines. However, it is important to note that the Philippine Civil Code recognizes only monogamous marriages, meaning each spouse can only have one spouse at a time. Polygamy is more common in Muslim areas of the country, where it is allowed under Islamic law. Offending religious sentiments, squatting, and stalking are all illegal in the Philippines."
+    },
+    {
+        "id": "test_88",
+        "question": "In the Philippines, what is the basis of the selective entry of vehicles in Metro Manila?",
+        "choices": [
+            "(A) Plate Number",
+            "(B) Color",
+            "(C) Year of Purchase",
+            "(D) Vehicle Weight"
+        ],
+        "category": "law",
+        "answer": "(A) Plate Number",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nIn the Philippines, what is the basis of the selective entry of vehicles in Metro Manila?\n\nChoices:\n(A) Plate Number\n(B) Color\n(C) Year of Purchase\n(D) Vehicle Weight\n\nAnswer:\n",
+        "model_prediction": "In the Philippines, the selective entry of vehicles in Metro Manila is based on the plate number. This is implemented through the Metropolitan Manila Development Authority's (MMDA) number coding scheme, which restricts the use of vehicles with certain plate numbers on specific days of the week to help reduce traffic congestion in the metropolitan area."
+    },
+    {
+        "id": "test_89",
+        "question": "In the Philippines, a woman and a man cannot be both charged with:",
+        "choices": [
+            "(A) Child Abuse",
+            "(B) Slander",
+            "(C) Adultery",
+            "(D) Manslaughter"
+        ],
+        "category": "law",
+        "answer": "(C) Adultery",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nIn the Philippines, a woman and a man cannot be both charged with:\n\nChoices:\n(A) Child Abuse\n(B) Slander\n(C) Adultery\n(D) Manslaughter\n\nAnswer:\n",
+        "model_prediction": "(C) Adultery\n\nExplanation:\nAdultery is a crime under the Philippine Revised Penal Code only if it is committed by both parties who are married to each other. Therefore, a woman and a man cannot both be charged with adultery for their involvement in an extramarital affair. The other crimes listed in the choices, such as child abuse, slander, and manslaughter, are not dependent on the marital status of the individuals involved."
+    },
+    {
+        "id": "test_90",
+        "question": "In the Philippines, Republic Act No. 10175 has been criticized for being too authoritarian on its provisions on:",
+        "choices": [
+            "(A) Cybersquatting",
+            "(B) Freedom of Expression",
+            "(C) Libel",
+            "(D) Freedom of Association"
+        ],
+        "category": "law",
+        "answer": "(C) Libel",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nIn the Philippines, Republic Act No. 10175 has been criticized for being too authoritarian on its provisions on:\n\nChoices:\n(A) Cybersquatting\n(B) Freedom of Expression\n(C) Libel\n(D) Freedom of Association\n\nAnswer:\n",
+        "model_prediction": "(B) Freedom of Expression\n\nExplanation:\nRepublic Act No. 10175, also known as the Cybercrime Prevention Act of 2012, has been criticized for its provisions on freedom of expression due to concerns that some of its sections may be used to restrict online speech and silence critics. For instance, Section 4(c) of the Act criminalizes \"cybersex,\" which has been interpreted to include consensual, private, and adult activities, raising concerns about privacy and freedom of expression. Additionally, Section 6(c) criminalizes \""
+    },
+    {
+        "id": "test_91",
+        "question": "The Philippines and Japan share the physical feature of being:",
+        "choices": [
+            "(A) Archipelagos",
+            "(B) Peninsulas",
+            "(C) Volcanic Islands",
+            "(D) Mountainous"
+        ],
+        "category": "geography",
+        "answer": "(A) Archipelagos",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nThe Philippines and Japan share the physical feature of being:\n\nChoices:\n(A) Archipelagos\n(B) Peninsulas\n(C) Volcanic Islands\n(D) Mountainous\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (A) Archipelagos. Both the Philippines and Japan are archipelagos, meaning they are made up of a chain or cluster of islands."
+    },
+    {
+        "id": "test_92",
+        "question": "What shape is described by the global volcanic activity which the Philippines is a part of?",
+        "choices": [
+            "(A) Square",
+            "(B) Circle",
+            "(C) Triangle",
+            "(D) Ring"
+        ],
+        "category": "geography",
+        "answer": "(D) Ring",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhat shape is described by the global volcanic activity which the Philippines is a part of?\n\nChoices:\n(A) Square\n(B) Circle\n(C) Triangle\n(D) Ring\n\nAnswer:\n",
+        "model_prediction": "(D) Ring\n\nExplanation:\nThe Philippines is located in the Pacific Ring of Fire, which is an area in the Pacific Ocean where a large number of volcanic eruptions and earthquakes occur. Therefore, the answer is (D) Ring."
+    },
+    {
+        "id": "test_93",
+        "question": "What is the name formed when combining the 3 largest islands in the Philippines?",
+        "choices": [
+            "(A) Viminluz",
+            "(B) Luzviminda",
+            "(C) Minluzovi",
+            "(D) Luzvimindan"
+        ],
+        "category": "geography",
+        "answer": "(B) Luzviminda",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhat is the name formed when combining the 3 largest islands in the Philippines?\n\nChoices:\n(A) Viminluz\n(B) Luzviminda\n(C) Minluzovi\n(D) Luzvimindan\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) Luzviminda. This term is a proposed name for the Philippines, derived from the names of the three largest islands: Luzon, Visayas, and Mindanao. However, it is important to note that this name is not officially recognized and is mostly used for cultural and historical purposes."
+    },
+    {
+        "id": "test_94",
+        "question": "What is the estimated difference of maximum depths of the deepest trench in the Philippines and the deepest trench in the World?",
+        "choices": [
+            "(A) 300 meters",
+            "(B) 100 meters",
+            "(C) 200 meters",
+            "(D) 400 meters"
+        ],
+        "category": "geography",
+        "answer": "(D) 400 meters",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhat is the estimated difference of maximum depths of the deepest trench in the Philippines and the deepest trench in the World?\n\nChoices:\n(A) 300 meters\n(B) 100 meters\n(C) 200 meters\n(D) 400 meters\n\nAnswer:\n",
+        "model_prediction": "The deepest trench in the Philippines is the Philippine Trench, with a maximum depth of approximately 8,185 meters (26,854 feet). The deepest trench in the world is the Challenger Deep, located in the Mariana Trench in the Pacific Ocean, with a maximum depth of approximately 8,186 meters (26,854 feet). The difference between the two is negligible, and both have the same maximum depth. Therefore, there is no difference between the maximum depths of the deepest trench in the Philippines and the deepest trench"
+    },
+    {
+        "id": "test_95",
+        "question": "What mountain shares its names with a Filipino band who pioneered Original Pilipino Music?",
+        "choices": [
+            "(A) Mount Apo",
+            "(B) Mount Mayon",
+            "(C) Mount Pinatubo",
+            "(D) Mount Arayat"
+        ],
+        "category": "geography",
+        "answer": "(A) Mount Apo",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhat mountain shares its names with a Filipino band who pioneered Original Pilipino Music?\n\nChoices:\n(A) Mount Apo\n(B) Mount Mayon\n(C) Mount Pinatubo\n(D) Mount Arayat\n\nAnswer:\n",
+        "model_prediction": "There is no Filipino band named after any of the given mountains in the choices. Therefore, none of the answers is correct. However, Mount Apo is the highest mountain in the Philippines and is known for its cultural significance in Filipino mythology and folklore."
+    },
+    {
+        "id": "test_96",
+        "question": "Vulcan point in the Philippines is an island within a lake within a volcano within...",
+        "choices": [
+            "(A) A volcano",
+            "(B) A mountain",
+            "(C) A lake",
+            "(D) An ocean"
+        ],
+        "category": "geography",
+        "answer": "(C) A lake",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nVulcan point in the Philippines is an island within a lake within a volcano within...\n\nChoices:\n(A) A volcano\n(B) A mountain\n(C) A lake\n(D) An ocean\n\nAnswer:\n",
+        "model_prediction": "The answer is (B) A volcano. Vulcan Point is an island within a volcano in the Philippines. The volcano, Taal, has a lake on its base, and Vulcan Point is an island located in that lake. Therefore, Vulcan Point is an island within a lake within a volcano."
+    },
+    {
+        "id": "test_97",
+        "question": "What word is shared by the NATO phonetic alphabet and a mountain range in the Philippines?",
+        "choices": [
+            "(A) Tango",
+            "(B) Sierra",
+            "(C) Delta",
+            "(D) Charlie"
+        ],
+        "category": "geography",
+        "answer": "(B) Sierra",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhat word is shared by the NATO phonetic alphabet and a mountain range in the Philippines?\n\nChoices:\n(A) Tango\n(B) Sierra\n(C) Delta\n(D) Charlie\n\nAnswer:\n",
+        "model_prediction": "The answer is (B) Sierra. In the NATO phonetic alphabet, \"Sierra\" represents the letter \"S\". However, the mountain range in the Philippines that shares the same name is also called \"Sierra Madre\"."
+    },
+    {
+        "id": "test_98",
+        "question": "As of 2023, what is the local name of the most devastating typhoon in the Philippines?",
+        "choices": [
+            "(A) Pepeng",
+            "(B) Rolly",
+            "(C) Ondoy",
+            "(D) Yolanda"
+        ],
+        "category": "geography",
+        "answer": "(D) Yolanda",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nAs of 2023, what is the local name of the most devastating typhoon in the Philippines?\n\nChoices:\n(A) Pepeng\n(B) Rolly\n(C) Ondoy\n(D) Yolanda\n\nAnswer:\n",
+        "model_prediction": "The most devastating typhoon in the Philippines as of 2023, based on the choices provided, is (D) Yolanda. Typhoon Yolanda (Haiyan), which hit the Philippines in November 2013, was one of the strongest typhoons to make landfall and caused extensive damage and loss of life."
+    },
+    {
+        "id": "test_99",
+        "question": "What was the first national park in the Philippines?",
+        "choices": [
+            "(A) Mayon Volcano National Park",
+            "(B) Sierra Madre National Park",
+            "(C) Mount Makiling National Park",
+            "(D) Lake Taal National Park"
+        ],
+        "category": "geography",
+        "answer": "(A) Mayon Volcano National Park",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhat was the first national park in the Philippines?\n\nChoices:\n(A) Mayon Volcano National Park\n(B) Sierra Madre National Park\n(C) Mount Makiling National Park\n(D) Lake Taal National Park\n\nAnswer:\n",
+        "model_prediction": "The first national park in the Philippines was Mount Makiling National Park. It was established on March 27, 1935, making it the oldest national park in the country. Therefore, the correct answer is (C) Mount Makiling National Park."
+    },
+    {
+        "id": "test_100",
+        "question": "What is the most accurate estimated combined number of islands from the Philippines and Indonesia?",
+        "choices": [
+            "(A) 30,000",
+            "(B) 15,000",
+            "(C) 25,000",
+            "(D) 40,000"
+        ],
+        "category": "geography",
+        "answer": "(C) 25,000",
+        "model_input": "Please carefully read the following question and select the most appropriate answer from the choices.\n\nQuestion:\nWhat is the most accurate estimated combined number of islands from the Philippines and Indonesia?\n\nChoices:\n(A) 30,000\n(B) 15,000\n(C) 25,000\n(D) 40,000\n\nAnswer:\n",
+        "model_prediction": "The most accurate estimated combined number of islands from the Philippines and Indonesia is (D) 40,000.\n\nExplanation:\nThe Philippines is known to have around 7,641 islands, while Indonesia is known to have around 17,508 islands. Adding these two numbers together, the total number of islands in the Philippines and Indonesia is approximately 25,149. However, some sources estimate that there might be smaller islands that have not been officially counted, bringing the total to around 40,000. Therefore, the answer is (D"
+    }
+]

@@ -166,20 +166,22 @@ scripts/
 log_old/
 cache/
 
-*_p1.json
-*_p1.log
+#*_p1.json
 
 *_p2.json
-*_p2.log
-
 *_p3.json
-*_p3.log
-
 *_p4.json
-*_p4.log
-
 *_p5.json
+
+
+*_p1.log
+*_p2.log
+*_p3.log
+*_p4.log
 *_p5.log
+
+
+
 
 *.sif
 *.out

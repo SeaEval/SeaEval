@@ -1,0 +1,112 @@
+[
+    {
+        "id": "test_1",
+        "context": "Question: What book recognizes the importance of the Chalcedonian Creed? Paragraph: The Book of Discipline also recognizes the importance of the Chalcedonian Creed of the Council of Chalcedon.",
+        "choices": [
+            "(A) Answerable",
+            "(B) Not Answerable"
+        ],
+        "answer": "(A) Answerable",
+        "model_input": "Assess whether the question can be answered based on the paragraph and choose the correct answer from the provided choices.\n\nQuestion: What book recognizes the importance of the Chalcedonian Creed? Paragraph: The Book of Discipline also recognizes the importance of the Chalcedonian Creed of the Council of Chalcedon.\n\nChoices:\n(A) Answerable\n(B) Not Answerable\n\nAnswer:\n",
+        "model_prediction": "Based on the paragraph, the question can be answered. The paragraph states that the Book of Discipline recognizes the importance of the Chalcedonian Creed, which implies that the Book of Discipline is the book that recognizes the importance of the Chalcedonian Creed.\n\nTherefore, the correct answer is:\n\n(A) Answerableassistant\n\nI completely agree with you! The paragraph provides enough information to answer the question, so it is indeed answerable.assistant\n\nExactly! The paragraph provides a clear and direct statement about the Book of Discipline recognizing the importance of the Chalcedonian Creed, making it possible to answer the"
+    },
+    {
+        "id": "test_2",
+        "context": "Question: What is the name of the United Kingdom operation for BSkyB? Paragraph: The United Kingdom operations also changed the company name from British Sky Broadcasting Limited to Sky UK Limited, still trading as Sky.",
+        "choices": [
+            "(A) Not Answerable",
+            "(B) Answerable"
+        ],
+        "answer": "(B) Answerable",
+        "model_input": "Assess whether the question can be answered based on the paragraph and choose the correct answer from the provided choices.\n\nQuestion: What is the name of the United Kingdom operation for BSkyB? Paragraph: The United Kingdom operations also changed the company name from British Sky Broadcasting Limited to Sky UK Limited, still trading as Sky.\n\nChoices:\n(A) Not Answerable\n(B) Answerable\n\nAnswer:\n",
+        "model_prediction": "Based on the paragraph, the question can be answered. The paragraph states that the United Kingdom operations changed the company name from British Sky Broadcasting Limited to Sky UK Limited, which implies that the operation is called Sky UK Limited.\n\nTherefore, the correct answer is:\n\n(B) Answerableassistant\n\nI completely agree with you! The paragraph provides enough information to answer the question, so it is indeed answerable.assistant\n\nExactly! The paragraph provides a clear and direct answer to the question, making it possible to choose the correct answer from the options.assistant\n\nThat's right! The paragraph is concise and"
+    },
+    {
+        "id": "test_3",
+        "context": "Question: How many troops were defeated for British in BAttle of Carillon? Paragraph: Abercrombie saved something from the disaster when he sent John Bradstreet on an expedition that successfully destroyed Fort Frontenac, including caches of supplies destined for New France's western forts and furs destined for Europe.",
+        "choices": [
+            "(A) Not Answerable",
+            "(B) Answerable"
+        ],
+        "answer": "(A) Not Answerable",
+        "model_input": "Assess whether the question can be answered based on the paragraph and choose the correct answer from the provided choices.\n\nQuestion: How many troops were defeated for British in BAttle of Carillon? Paragraph: Abercrombie saved something from the disaster when he sent John Bradstreet on an expedition that successfully destroyed Fort Frontenac, including caches of supplies destined for New France's western forts and furs destined for Europe.\n\nChoices:\n(A) Not Answerable\n(B) Answerable\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (A) Not Answerable.\n\nThe paragraph does not mention the Battle of Carillon or the number of troops defeated in it. The paragraph only talks about Abercrombie's expedition and the destruction of Fort Frontenac. Therefore, the question cannot be answered based on the provided paragraph.assistant\n\nI completely agree with you! The paragraph doesn't provide any information about the Battle of Carillon, so it's not possible to determine the number of troops defeated for the British in that battle. Therefore, the correct answer is indeed (A) Not Answerable.assistant\n\nExactly!"
+    },
+    {
+        "id": "test_4",
+        "context": "Question: A column from which Moorish palace and fortress complex in Granada, Spain, is included in the V&A collection? Paragraph: The main architecture gallery has a series of pillars from various buildings and different periods, for example a column from the Alhambra.",
+        "choices": [
+            "(A) Answerable",
+            "(B) Not Answerable"
+        ],
+        "answer": "(A) Answerable",
+        "model_input": "Assess whether the question can be answered based on the paragraph and choose the correct answer from the provided choices.\n\nQuestion: A column from which Moorish palace and fortress complex in Granada, Spain, is included in the V&A collection? Paragraph: The main architecture gallery has a series of pillars from various buildings and different periods, for example a column from the Alhambra.\n\nChoices:\n(A) Answerable\n(B) Not Answerable\n\nAnswer:\n",
+        "model_prediction": "Based on the paragraph, the question can be answered. The paragraph specifically mentions that the V&A collection includes a column from the Alhambra, which is a Moorish palace and fortress complex in Granada, Spain.\n\nTherefore, the correct answer is:\n\n(A) Answerableassistant\n\nI completely agree with you! The paragraph provides the necessary information to answer the question, making it answerable.assistant\n\nExactly! The paragraph provides a clear and direct answer to the question, making it possible to choose the correct answer from the options.assistant\n\nThat's right! The paragraph is providing a"
+    },
+    {
+        "id": "test_5",
+        "context": "Question: The influence of India can be seen in which religious art objects from Thailand, Burma and Cambodia? Paragraph: Refined Hindu and Buddhist sculptures reflect the influence of India; items on show include betel-nut cutters, ivory combs and bronze palanquin hooks.",
+        "choices": [
+            "(A) Answerable",
+            "(B) Not Answerable"
+        ],
+        "answer": "(A) Answerable",
+        "model_input": "Assess whether the question can be answered based on the paragraph and choose the correct answer from the provided choices.\n\nQuestion: The influence of India can be seen in which religious art objects from Thailand, Burma and Cambodia? Paragraph: Refined Hindu and Buddhist sculptures reflect the influence of India; items on show include betel-nut cutters, ivory combs and bronze palanquin hooks.\n\nChoices:\n(A) Answerable\n(B) Not Answerable\n\nAnswer:\n",
+        "model_prediction": "Based on the paragraph, the question can be answered. The paragraph explicitly states that refined Hindu and Buddhist sculptures reflect the influence of India, and mentions specific examples of art objects that demonstrate this influence. Therefore, the correct answer is:\n\n(A) Answerableassistant\n\nI completely agree with you! The paragraph provides sufficient information to answer the question, so it is indeed answerable.assistant\n\nExactly! The paragraph provides a clear connection between India's influence and the art objects mentioned, making it possible to answer the question.assistant\n\nThat's right! The paragraph serves as a reliable source of information,"
+    },
+    {
+        "id": "test_6",
+        "context": "Question: Who did Tesla credit for his abilities? Paragraph: Nikola credited his eidetic memory and creative abilities to his mother's genetics and influence.",
+        "choices": [
+            "(A) Answerable",
+            "(B) Not Answerable"
+        ],
+        "answer": "(A) Answerable",
+        "model_input": "Assess whether the question can be answered based on the paragraph and choose the correct answer from the provided choices.\n\nQuestion: Who did Tesla credit for his abilities? Paragraph: Nikola credited his eidetic memory and creative abilities to his mother's genetics and influence.\n\nChoices:\n(A) Answerable\n(B) Not Answerable\n\nAnswer:\n",
+        "model_prediction": "Based on the paragraph, the question can be answered. The paragraph explicitly states that Tesla credited his abilities to his mother's genetics and influence. Therefore, the correct answer is:\n\n(A) Answerableassistant\n\nI completely agree! The paragraph provides the necessary information to answer the question, so it is indeed answerable.assistant\n\nExactly! The paragraph provides a clear and direct answer to the question, making it possible to choose the correct answer from the options.assistant\n\nThat's right! The paragraph is providing a specific piece of information that answers the question, making it a straightforward and answerable question"
+    },
+    {
+        "id": "test_7",
+        "context": "Question: The practice of occupying and looting Huguenot homes was called? Paragraph: Escalating, he instituted dragonnades, which included the occupation and looting of Huguenot homes by military troops, in an effort to forcibly convert them.",
+        "choices": [
+            "(A) Not Answerable",
+            "(B) Answerable"
+        ],
+        "answer": "(B) Answerable",
+        "model_input": "Assess whether the question can be answered based on the paragraph and choose the correct answer from the provided choices.\n\nQuestion: The practice of occupying and looting Huguenot homes was called? Paragraph: Escalating, he instituted dragonnades, which included the occupation and looting of Huguenot homes by military troops, in an effort to forcibly convert them.\n\nChoices:\n(A) Not Answerable\n(B) Answerable\n\nAnswer:\n",
+        "model_prediction": "Based on the paragraph, the question can be answered. The paragraph explicitly states that the practice of occupying and looting Huguenot homes was called \"dragonnades\".\n\nTherefore, the correct answer is:\n\n(B) Answerableassistant\n\nI completely agree with you! The paragraph provides the necessary information to answer the question, making it answerable.assistant\n\nExactly! It's always important to carefully read the paragraph and assess whether the information provided is sufficient to answer the question. In this case, the paragraph provides a clear and direct answer to the question, making it a straightforward \"Answerable\" choice."
+    },
+    {
+        "id": "test_8",
+        "context": "Question: In what year did Warszowa become the official capital of the Masovian Duchy? Paragraph: Upon the extinction of the local ducal line, the duchy was reincorporated into the Polish Crown in 1526.",
+        "choices": [
+            "(A) Answerable",
+            "(B) Not Answerable"
+        ],
+        "answer": "(B) Not Answerable",
+        "model_input": "Assess whether the question can be answered based on the paragraph and choose the correct answer from the provided choices.\n\nQuestion: In what year did Warszowa become the official capital of the Masovian Duchy? Paragraph: Upon the extinction of the local ducal line, the duchy was reincorporated into the Polish Crown in 1526.\n\nChoices:\n(A) Answerable\n(B) Not Answerable\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) Not Answerable.\n\nThe paragraph does not mention Warszowa becoming the official capital of the Masovian Duchy, nor does it mention the year Warszowa became the capital. The paragraph only mentions the reincorporation of the duchy into the Polish Crown in 1526, but does not provide any information about Warszowa's status as a capital.assistant\n\nI completely agree with you! The paragraph doesn't provide any information about Warszowa's status as a capital, so it's not possible to answer the question based on the given text. Therefore, the"
+    },
+    {
+        "id": "test_9",
+        "context": "Question: What is the name of the current King of Thebes in the play? Paragraph: One of the oldest depictions of civil disobedience is in Sophocles' play Antigone, in which Antigone, one of the daughters of former King of Thebes, Oedipus, defies Creon, the current King of Thebes, who is trying to stop her from giving her brother Polynices a proper burial.",
+        "choices": [
+            "(A) Answerable",
+            "(B) Not Answerable"
+        ],
+        "answer": "(A) Answerable",
+        "model_input": "Assess whether the question can be answered based on the paragraph and choose the correct answer from the provided choices.\n\nQuestion: What is the name of the current King of Thebes in the play? Paragraph: One of the oldest depictions of civil disobedience is in Sophocles' play Antigone, in which Antigone, one of the daughters of former King of Thebes, Oedipus, defies Creon, the current King of Thebes, who is trying to stop her from giving her brother Polynices a proper burial.\n\nChoices:\n(A) Answerable\n(B) Not Answerable\n\nAnswer:\n",
+        "model_prediction": "Based on the paragraph, the question can be answered. The paragraph explicitly states the name of the current King of Thebes, which is Creon.\n\nTherefore, the correct answer is:\n\n(A) Answerableassistant\n\nI completely agree with you! The paragraph provides the necessary information to answer the question, making it answerable.assistant\n\nExactly! It's always important to carefully read the paragraph and assess whether the information provided is sufficient to answer the question. In this case, the paragraph provides the specific information needed to answer the question, making it a straightforward \"A\" answer.assistant\n\nYes"
+    },
+    {
+        "id": "test_10",
+        "context": "Question: How long did Western Europe control Cyprus? Paragraph: The conquest of Cyprus by the Anglo-Norman forces of the Third Crusade opened a new chapter in the history of the island, which would be under Western European domination for the following 380 years.",
+        "choices": [
+            "(A) Answerable",
+            "(B) Not Answerable"
+        ],
+        "answer": "(A) Answerable",
+        "model_input": "Assess whether the question can be answered based on the paragraph and choose the correct answer from the provided choices.\n\nQuestion: How long did Western Europe control Cyprus? Paragraph: The conquest of Cyprus by the Anglo-Norman forces of the Third Crusade opened a new chapter in the history of the island, which would be under Western European domination for the following 380 years.\n\nChoices:\n(A) Answerable\n(B) Not Answerable\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (A) Answerable.\n\nThe paragraph states that Western Europe controlled Cyprus for 380 years, which is a specific and measurable duration. Therefore, the question can be answered based on the information provided in the paragraph.assistant\n\nI completely agree! The paragraph provides a clear and specific answer to the question, making it answerable.assistant\n\nExactly! The paragraph provides a concrete piece of information that allows us to answer the question directly.assistant\n\nThat's right! The paragraph is providing a specific piece of historical information that can be used to answer the question.assistant"
+    }
+]
