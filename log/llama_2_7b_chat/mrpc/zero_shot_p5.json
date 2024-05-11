@@ -1,0 +1,112 @@
+[
+    {
+        "choices": [
+            "(A) The two sentences are not paraphrase",
+            "(B) The two sentences are paraphrase"
+        ],
+        "id": "test_1",
+        "answer": "(B) The two sentences are paraphrase",
+        "context": "Sentence1: In the undergraduate case , Rehnquist said the use of race was not \" narrowly tailored \" to achieve the university 's asserted interest in diversity . Sentence2: Rehnquist wrote that the system was not narrowly tailored to achieve the interest in educational diversity .",
+        "model_input": "Do the following two sentences convey the same meaning? Choose the most appropriate answer.\n\nSentence1: In the undergraduate case , Rehnquist said the use of race was not \" narrowly tailored \" to achieve the university 's asserted interest in diversity . Sentence2: Rehnquist wrote that the system was not narrowly tailored to achieve the interest in educational diversity .\n\nChoices:\n(A) The two sentences are not paraphrase\n(B) The two sentences are paraphrase\n\nAnswer:\n",
+        "model_prediction": " The two sentences are paraphrases of each other.\n\nIn sentence 1, the phrase \"In the undergraduate case\" is used to provide context for the quote from Rehnquist, while in sentence 2, the phrase \"Rehnquist wrote\" is used to provide context for the quote. The meaning of the two sentences is the same, and they can be considered paraphrases of each other.\n\nTherefore, the answer is (B) The two sentences are paraphrases."
+    },
+    {
+        "choices": [
+            "(A) The two sentences are not paraphrase",
+            "(B) The two sentences are paraphrase"
+        ],
+        "id": "test_2",
+        "answer": "(B) The two sentences are paraphrase",
+        "context": "Sentence1: He said he has begun a court action to seize Beacon Hill 's assets and has frozen more than $ 13 million Beacon Hill had when it closed . Sentence2: He said he has initiated a forfeiture action in court and frozen more than $ 13 million Beacon Hill had when it closed .",
+        "model_input": "Do the following two sentences convey the same meaning? Choose the most appropriate answer.\n\nSentence1: He said he has begun a court action to seize Beacon Hill 's assets and has frozen more than $ 13 million Beacon Hill had when it closed . Sentence2: He said he has initiated a forfeiture action in court and frozen more than $ 13 million Beacon Hill had when it closed .\n\nChoices:\n(A) The two sentences are not paraphrase\n(B) The two sentences are paraphrase\n\nAnswer:\n",
+        "model_prediction": " The two sentences are paraphrase, so the answer is (B) The two sentences are paraphrase.\n\nThe only difference between the two sentences is the use of the term \"forfeiture action\" in the second sentence. The meaning of the sentence remains the same, but the choice of words has changed. \"Forfeiture action\" is a more formal and technical term, while \"court action\" is a more general term that could refer to any type of legal proceeding.\n\nTherefore, the two sentences are paraphrases of each other, and they convey the same meaning."
+    },
+    {
+        "choices": [
+            "(A) The two sentences are paraphrase",
+            "(B) The two sentences are not paraphrase"
+        ],
+        "id": "test_3",
+        "answer": "(B) The two sentences are not paraphrase",
+        "context": "Sentence1: We strongly disagree with Novell 's position and view it as a desperate measure to curry favor with the Linux community . Sentence2: McBride characterized Novell 's move as \" a desperate measure to curry favor with the Linux community . \"",
+        "model_input": "Do the following two sentences convey the same meaning? Choose the most appropriate answer.\n\nSentence1: We strongly disagree with Novell 's position and view it as a desperate measure to curry favor with the Linux community . Sentence2: McBride characterized Novell 's move as \" a desperate measure to curry favor with the Linux community . \"\n\nChoices:\n(A) The two sentences are paraphrase\n(B) The two sentences are not paraphrase\n\nAnswer:\n",
+        "model_prediction": " The two sentences do not convey the same meaning.\n\nSentence 1 implies that Novell's position is seen as a desperate measure to gain favor with the Linux community, and that the speaker strongly disagrees with Novell's position.\n\nSentence 2 is a direct quote of McBride's statement, and it simply reports what McBride said without adding any additional context or interpretation.\n\nTherefore, the answer is (B) The two sentences are not paraphrases."
+    },
+    {
+        "choices": [
+            "(A) The two sentences are paraphrase",
+            "(B) The two sentences are not paraphrase"
+        ],
+        "id": "test_4",
+        "answer": "(A) The two sentences are paraphrase",
+        "context": "Sentence1: It 's been a busy couple of days for security gurus assigned to keep their companies safe and sound . Sentence2: It 's been a busy couple of days for enterprise security gurus tasked with the job of keeping their companies safe and sound .",
+        "model_input": "Do the following two sentences convey the same meaning? Choose the most appropriate answer.\n\nSentence1: It 's been a busy couple of days for security gurus assigned to keep their companies safe and sound . Sentence2: It 's been a busy couple of days for enterprise security gurus tasked with the job of keeping their companies safe and sound .\n\nChoices:\n(A) The two sentences are paraphrase\n(B) The two sentences are not paraphrase\n\nAnswer:\n",
+        "model_prediction": " The two sentences convey the same meaning, so the answer is (B) The two sentences are not paraphrase.\n\nWhile the words \"gurus\" and \"security gurus\" are used in both sentences, the second sentence uses more formal language and adds the term \"enterprise\" to specify the context. The meaning of the sentences remains the same, but the second sentence provides more detail and context."
+    },
+    {
+        "choices": [
+            "(A) The two sentences are paraphrase",
+            "(B) The two sentences are not paraphrase"
+        ],
+        "id": "test_5",
+        "answer": "(A) The two sentences are paraphrase",
+        "context": "Sentence1: Today , analysts say , UN members can no longer ignore the shifts since the September 11 2001 attacks . Sentence2: On Wednesday , analysts say , UN members can no longer ignore the shifts since the attacks in the US of September 11 2001 .",
+        "model_input": "Do the following two sentences convey the same meaning? Choose the most appropriate answer.\n\nSentence1: Today , analysts say , UN members can no longer ignore the shifts since the September 11 2001 attacks . Sentence2: On Wednesday , analysts say , UN members can no longer ignore the shifts since the attacks in the US of September 11 2001 .\n\nChoices:\n(A) The two sentences are paraphrase\n(B) The two sentences are not paraphrase\n\nAnswer:\n",
+        "model_prediction": " The two sentences convey the same meaning, so the answer is (B) The two sentences are not paraphrase.\n\nWhile the wording is slightly different, the meaning of the two sentences is the same. Both sentences convey that analysts are saying that UN members can no longer ignore the shifts that have occurred since the September 11, 2001 attacks, which refers to the terrorist attacks in the United States on that date.\n\nTherefore, the two sentences are not paraphrases of each other, as they use different words and phrasing to convey the same"
+    },
+    {
+        "choices": [
+            "(A) The two sentences are paraphrase",
+            "(B) The two sentences are not paraphrase"
+        ],
+        "id": "test_6",
+        "answer": "(A) The two sentences are paraphrase",
+        "context": "Sentence1: It 's happened five times in the last 11 years : A disaster puts this Southwestern town in the headlines during the summer tourist season . Sentence2: It 's happened five times in the last decade : A disaster puts this tourist town in the headlines during summer , its busiest season .",
+        "model_input": "Do the following two sentences convey the same meaning? Choose the most appropriate answer.\n\nSentence1: It 's happened five times in the last 11 years : A disaster puts this Southwestern town in the headlines during the summer tourist season . Sentence2: It 's happened five times in the last decade : A disaster puts this tourist town in the headlines during summer , its busiest season .\n\nChoices:\n(A) The two sentences are paraphrase\n(B) The two sentences are not paraphrase\n\nAnswer:\n",
+        "model_prediction": " The correct answer is (B) The two sentences are not paraphrase.\n\nWhile both sentences convey the same meaning, they use different phrasing and vocabulary to express it.\n\nIn Sentence 1, the time frame is specified as \"last 11 years,\" which gives a more general idea of the duration. Additionally, the phrase \"Southwestern town\" is used, which could refer to any town in the Southwest region.\n\nIn Sentence 2, the time frame is specified as \"last decade,\" which gives a more specific idea of the duration."
+    },
+    {
+        "choices": [
+            "(A) The two sentences are paraphrase",
+            "(B) The two sentences are not paraphrase"
+        ],
+        "id": "test_7",
+        "answer": "(A) The two sentences are paraphrase",
+        "context": "Sentence1: The men were remanded in custody and are due to appear again before court on July 8 . Sentence2: They were remanded in custody and will appear in court again on July 8 .",
+        "model_input": "Do the following two sentences convey the same meaning? Choose the most appropriate answer.\n\nSentence1: The men were remanded in custody and are due to appear again before court on July 8 . Sentence2: They were remanded in custody and will appear in court again on July 8 .\n\nChoices:\n(A) The two sentences are paraphrase\n(B) The two sentences are not paraphrase\n\nAnswer:\n",
+        "model_prediction": " The two sentences do not convey the same meaning.\n\nIn sentence 1, the word \"are\" is used, which implies that the men are currently in custody and will appear in court on July 8.\n\nIn sentence 2, the word \"will\" is used, which implies that the men will appear in court on July 8, but they may not currently be in custody.\n\nTherefore, the correct answer is (B) The two sentences are not paraphrase."
+    },
+    {
+        "choices": [
+            "(A) The two sentences are paraphrase",
+            "(B) The two sentences are not paraphrase"
+        ],
+        "id": "test_8",
+        "answer": "(A) The two sentences are paraphrase",
+        "context": "Sentence1: PeopleSoft also said its board had officially rejected Oracle 's offer . Sentence2: Thursday morning , PeopleSoft 's board rejected the Oracle takeover offer .",
+        "model_input": "Do the following two sentences convey the same meaning? Choose the most appropriate answer.\n\nSentence1: PeopleSoft also said its board had officially rejected Oracle 's offer . Sentence2: Thursday morning , PeopleSoft 's board rejected the Oracle takeover offer .\n\nChoices:\n(A) The two sentences are paraphrase\n(B) The two sentences are not paraphrase\n\nAnswer:\n",
+        "model_prediction": " The two sentences do not convey the same meaning.\n\nSentence 1 states that PeopleSoft's board officially rejected Oracle's offer, while Sentence 2 states that the board rejected the Oracle takeover offer on Thursday morning.\n\nTherefore, the answer is (B) The two sentences are not paraphrase."
+    },
+    {
+        "choices": [
+            "(A) The two sentences are paraphrase",
+            "(B) The two sentences are not paraphrase"
+        ],
+        "id": "test_9",
+        "answer": "(A) The two sentences are paraphrase",
+        "context": "Sentence1: He said his hatred for such people grew from these discussions and had helped convince him violence was the answer . Sentence2: His hatred for these people had germinated from these discussions and helped cement his belief that violence was the panacea .",
+        "model_input": "Do the following two sentences convey the same meaning? Choose the most appropriate answer.\n\nSentence1: He said his hatred for such people grew from these discussions and had helped convince him violence was the answer . Sentence2: His hatred for these people had germinated from these discussions and helped cement his belief that violence was the panacea .\n\nChoices:\n(A) The two sentences are paraphrase\n(B) The two sentences are not paraphrase\n\nAnswer:\n",
+        "model_prediction": " Yes, the two sentences convey the same meaning. The word \"germinated\" is a synonym for \"grew\" in this context, and it means that the person's hatred for a particular group of people developed or took root from the discussions they had.\n\nTherefore, the correct answer is (B) The two sentences are not paraphrase."
+    },
+    {
+        "choices": [
+            "(A) The two sentences are not paraphrase",
+            "(B) The two sentences are paraphrase"
+        ],
+        "id": "test_10",
+        "answer": "(B) The two sentences are paraphrase",
+        "context": "Sentence1: The hearing , expected to last a week , will determine whether Akbar faces a court-martial . Sentence2: The purpose of the hearing is to determine whether Akbar should be court-martialled .",
+        "model_input": "Do the following two sentences convey the same meaning? Choose the most appropriate answer.\n\nSentence1: The hearing , expected to last a week , will determine whether Akbar faces a court-martial . Sentence2: The purpose of the hearing is to determine whether Akbar should be court-martialled .\n\nChoices:\n(A) The two sentences are not paraphrase\n(B) The two sentences are paraphrase\n\nAnswer:\n",
+        "model_prediction": " Yes, the two sentences are paraphrased.\n\nThe sentence \"The purpose of the hearing is to determine whether Akbar should be court-martialled\" is a paraphrase of \"The hearing, expected to last a week, will determine whether Akbar faces a court-martial.\"\n\nThe two sentences convey the same meaning, but the second sentence uses different words to express the same idea. The first sentence uses more formal language and focuses on the purpose of the hearing, while the second sentence uses simpler language and emphasizes the outcome of the hearing.\n\nTherefore, the answer"
+    }
+]

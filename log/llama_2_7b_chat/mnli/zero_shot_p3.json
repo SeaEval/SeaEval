@@ -1,0 +1,122 @@
+[
+    {
+        "choices": [
+            "(A) Neutral",
+            "(B) Entailment",
+            "(C) Contradiction"
+        ],
+        "id": "test_1",
+        "context": "Premise: Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter. Hypothesis: The shelter was not informed about the hijacking of the helicopter.",
+        "answer": "(C) Contradiction",
+        "model_input": "Choose the correct answer from the provided choices by assessing the relationship between the two sentences.\nPremise: Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter. Hypothesis: The shelter was not informed about the hijacking of the helicopter.\nChoices:\n(A) Neutral\n(B) Entailment\n(C) Contradiction\nAnswer:\n",
+        "model_prediction": " The correct answer is (B) Entailment.\n\nExplanation:\n\nThe premise states that the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter. This implies that the shelter was informed about the hijacking of the helicopter.\n\nThe hypothesis states that the shelter was not informed about the hijacking of the helicopter. This is contradictory to the information provided in the premise, which means that the hypothesis is false.\n\nTherefore, the correct answer is (B) Entailment."
+    },
+    {
+        "choices": [
+            "(A) Neutral",
+            "(B) Contradiction",
+            "(C) Entailment"
+        ],
+        "id": "test_2",
+        "context": "Premise: Unfortunately, the mistake is compounded and perpetuated by dragging in expressions like man in the street, the average working man , and others, and, as a result, the entire argument degenerates. Hypothesis: Expressions like man in the street help further the argument in question.",
+        "answer": "(B) Contradiction",
+        "model_input": "Choose the correct answer from the provided choices by assessing the relationship between the two sentences.\nPremise: Unfortunately, the mistake is compounded and perpetuated by dragging in expressions like man in the street, the average working man , and others, and, as a result, the entire argument degenerates. Hypothesis: Expressions like man in the street help further the argument in question.\nChoices:\n(A) Neutral\n(B) Contradiction\n(C) Entailment\nAnswer:\n",
+        "model_prediction": " The correct answer is (C) Entailment.\n\nThe premise states that the use of expressions like \"man in the street\" and others in an argument can compound and perpetuate a mistake, leading to a degeneration of the argument.\n\nThe hypothesis, on the other hand, suggests that these expressions can help further the argument in question. This is a contradiction to the premise, as the use of these expressions can actually hinder the argument rather than help it.\n\nTherefore, the relationship between the two sentences is entailment, where the hypothesis logically follows from the premise"
+    },
+    {
+        "choices": [
+            "(A) Neutral",
+            "(B) Entailment",
+            "(C) Contradiction"
+        ],
+        "id": "test_3",
+        "context": "Premise: They touch an object, hold it up, or point to it while looking at another person to make sure he or she notices. Hypothesis: They will never get attention by pointing at an object while looking at another person.",
+        "answer": "(C) Contradiction",
+        "model_input": "Choose the correct answer from the provided choices by assessing the relationship between the two sentences.\nPremise: They touch an object, hold it up, or point to it while looking at another person to make sure he or she notices. Hypothesis: They will never get attention by pointing at an object while looking at another person.\nChoices:\n(A) Neutral\n(B) Entailment\n(C) Contradiction\nAnswer:\n",
+        "model_prediction": " The correct answer is (B) Entailment.\n\nThe premise states that they touch an object, hold it up, or point to it while looking at another person to make sure he or she notices. This implies that they are trying to draw attention to the object in some way.\n\nThe hypothesis states that they will never get attention by pointing at an object while looking at another person. This implies that pointing at an object alone is not enough to get attention, which is consistent with the premise.\n\nTherefore, the relationship between the two sentences is entailment, where the second sentence log"
+    },
+    {
+        "choices": [
+            "(A) Contradiction",
+            "(B) Entailment",
+            "(C) Neutral"
+        ],
+        "id": "test_4",
+        "context": "Premise: His vigorous strides soon enabled him to gain upon them, and by the time he, in his turn, reached the corner the distance between them was sensibly lessened. Hypothesis: He walked quickly after them, having gained considerably upon rounding the corner.",
+        "answer": "(B) Entailment",
+        "model_input": "Choose the correct answer from the provided choices by assessing the relationship between the two sentences.\nPremise: His vigorous strides soon enabled him to gain upon them, and by the time he, in his turn, reached the corner the distance between them was sensibly lessened. Hypothesis: He walked quickly after them, having gained considerably upon rounding the corner.\nChoices:\n(A) Contradiction\n(B) Entailment\n(C) Neutral\nAnswer:\n",
+        "model_prediction": " The correct answer is (B) Entailment.\n\nThe two sentences are logically connected, as the second sentence entails the first one. In other words, the fact that he gained upon them by the time he reached the corner implies that he walked quickly after them, which is the meaning of the second sentence. Therefore, option (B) Entailment is the correct answer."
+    },
+    {
+        "choices": [
+            "(A) Neutral",
+            "(B) Contradiction",
+            "(C) Entailment"
+        ],
+        "id": "test_5",
+        "context": "Premise: My usual partner.' Hypothesis: My usual partner told him to go away.",
+        "answer": "(A) Neutral",
+        "model_input": "Choose the correct answer from the provided choices by assessing the relationship between the two sentences.\nPremise: My usual partner.' Hypothesis: My usual partner told him to go away.\nChoices:\n(A) Neutral\n(B) Contradiction\n(C) Entailment\nAnswer:\n",
+        "model_prediction": " The correct answer is (C) Entailment.\n\nThe premise \"My usual partner\" implies that there is a person who is consistently associated with the speaker. The hypothesis \"My usual partner told him to go away\" implies that this person (the usual partner) gave a command to someone else (him). Therefore, the hypothesis logically follows from the premise."
+    },
+    {
+        "choices": [
+            "(A) Contradiction",
+            "(B) Neutral",
+            "(C) Entailment"
+        ],
+        "id": "test_6",
+        "context": "Premise: This was followed by a second radio transmission, with sounds of screaming. Hypothesis: There was another radio transmission that had a lot of people screaming.",
+        "answer": "(C) Entailment",
+        "model_input": "Choose the correct answer from the provided choices by assessing the relationship between the two sentences.\nPremise: This was followed by a second radio transmission, with sounds of screaming. Hypothesis: There was another radio transmission that had a lot of people screaming.\nChoices:\n(A) Contradiction\n(B) Neutral\n(C) Entailment\nAnswer:\n",
+        "model_prediction": " The correct answer is (C) Entailment.\n\nThe second sentence entails the first sentence, meaning that it provides additional information or a logical consequence of the first sentence. In this case, the second sentence explains why there were sounds of screaming in the second radio transmission, which is consistent with the first sentence. Therefore, option (C) Entailment is the correct answer."
+    },
+    {
+        "choices": [
+            "(A) Contradiction",
+            "(B) Neutral",
+            "(C) Entailment"
+        ],
+        "id": "test_7",
+        "context": "Premise: When all the individual pieces of the garment have been modified and entered into the computer system, the final garment pattern is ready to be cut and sewn into a sample garment. Hypothesis: The final pattern would be ready to become a sample after the individual parts of the garment have been fixed and uploaded onto the computer system.",
+        "answer": "(C) Entailment",
+        "model_input": "Choose the correct answer from the provided choices by assessing the relationship between the two sentences.\nPremise: When all the individual pieces of the garment have been modified and entered into the computer system, the final garment pattern is ready to be cut and sewn into a sample garment. Hypothesis: The final pattern would be ready to become a sample after the individual parts of the garment have been fixed and uploaded onto the computer system.\nChoices:\n(A) Contradiction\n(B) Neutral\n(C) Entailment\nAnswer:\n",
+        "model_prediction": " The correct answer is (C) Entailment.\n\nThe two sentences are logically connected, as the final pattern being ready to become a sample garment is a direct result of the individual pieces of the garment being modified and entered into the computer system. Therefore, the second sentence entails the first one, meaning that the conclusion follows necessarily from the premise."
+    },
+    {
+        "choices": [
+            "(A) Neutral",
+            "(B) Entailment",
+            "(C) Contradiction"
+        ],
+        "id": "test_8",
+        "context": "Premise: NIPA had already recognized mineral exploration as investment, and in 1996, NIPA reclassified government purchases of plant and equipment as investment. Hypothesis: NIPA said mineral exploration is an investment, especially oil and gas.",
+        "answer": "(A) Neutral",
+        "model_input": "Choose the correct answer from the provided choices by assessing the relationship between the two sentences.\nPremise: NIPA had already recognized mineral exploration as investment, and in 1996, NIPA reclassified government purchases of plant and equipment as investment. Hypothesis: NIPA said mineral exploration is an investment, especially oil and gas.\nChoices:\n(A) Neutral\n(B) Entailment\n(C) Contradiction\nAnswer:\n",
+        "model_prediction": " The correct answer is (B) Entailment.\n\nThe premise states that NIPA had already recognized mineral exploration as investment, and in 1996, NIPA reclassified government purchases of plant and equipment as investment. This implies that NIPA has a consistent view of mineral exploration as an investment, including oil and gas.\n\nThe hypothesis suggests that NIPA said mineral exploration is an investment, especially oil and gas. This statement logically follows from the premise, as if NIPA has already recognized mineral expl"
+    },
+    {
+        "choices": [
+            "(A) Entailment",
+            "(B) Contradiction",
+            "(C) Neutral"
+        ],
+        "id": "test_9",
+        "context": "Premise: Our studies of business units with differing levels of the four practices indicate that firms with the complete set of practices achieve similar or slightly better performance in regard to the percentage of goods delivered complete and on time, although these differences between business units are not very dramatic. Hypothesis: Differences in business units that utilized the four practices to varying degrees were not very big.",
+        "answer": "(A) Entailment",
+        "model_input": "Choose the correct answer from the provided choices by assessing the relationship between the two sentences.\nPremise: Our studies of business units with differing levels of the four practices indicate that firms with the complete set of practices achieve similar or slightly better performance in regard to the percentage of goods delivered complete and on time, although these differences between business units are not very dramatic. Hypothesis: Differences in business units that utilized the four practices to varying degrees were not very big.\nChoices:\n(A) Entailment\n(B) Contradiction\n(C) Neutral\nAnswer:\n",
+        "model_prediction": " The correct answer is (C) Neutral.\n\nThe two sentences are neutral because they simply provide additional information about the results of the study without contradicting or entailing anything. The first sentence states that firms with the complete set of practices achieve similar or slightly better performance in regard to the percentage of goods delivered complete and on time, while the second sentence states that the differences between business units are not very dramatic. This means that while there may be some variation in performance between business units, it is not significant or dramatic. Therefore, the relationship between the two sentences is neutral."
+    },
+    {
+        "choices": [
+            "(A) Entailment",
+            "(B) Neutral",
+            "(C) Contradiction"
+        ],
+        "id": "test_10",
+        "context": "Premise: Ocho Rios is Spanish for  eight rivers,  but this name is not descriptive of the area. Hypothesis: The area doesn't have eight rivers, only four.",
+        "answer": "(B) Neutral",
+        "model_input": "Choose the correct answer from the provided choices by assessing the relationship between the two sentences.\nPremise: Ocho Rios is Spanish for  eight rivers,  but this name is not descriptive of the area. Hypothesis: The area doesn't have eight rivers, only four.\nChoices:\n(A) Entailment\n(B) Neutral\n(C) Contradiction\nAnswer:\n",
+        "model_prediction": " The correct answer is (A) Entailment.\n\nExplanation:\n\nThe premise \"Ocho Rios is Spanish for eight rivers\" implies that the area is named after the number of rivers it has. However, the hypothesis \"The area doesn't have eight rivers, only four\" logically follows from the premise, as if the area is named after the number of rivers it has, then it cannot have eight rivers if there are only four. Therefore, the relationship between the two sentences is entailment."
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "choices": [
+            "(A) Entailment",
+            "(B) Not Entailment"
+        ],
+        "context": "Sentence1: Adela Lupse was born in 1988 to a miner's family in the village of Poiana, Bihor in Transylvania, Romania. A member of Romania's first post-Ceausescu generation, she grasped the power of television at a young age: \"I think television is the most interesting phenomenon that the modern day has given us....for my type of personality, I find it impressive, the power that television has worldwide....We dress like the people that television promotes. We want to look like the celebrities that television launches.\" Sentence2: Bihor is situated in Romania.",
+        "answer": "(A) Entailment",
+        "id": "test_1",
+        "model_input": "Respond to the following question by choosing the most suitable option.\nQuestion: Are the following two sentence entailment or not?\n\nSentence1: Adela Lupse was born in 1988 to a miner's family in the village of Poiana, Bihor in Transylvania, Romania. A member of Romania's first post-Ceausescu generation, she grasped the power of television at a young age: \"I think television is the most interesting phenomenon that the modern day has given us....for my type of personality, I find it impressive, the power that television has worldwide....We dress like the people that television promotes. We want to look like the celebrities that television launches.\" Sentence2: Bihor is situated in Romania.\n\nChoices:\n(A) Entailment\n(B) Not Entailment\n\nAnswer:\n",
+        "model_prediction": " The correct answer is (A) Entailment.\n\nThe first sentence provides information about Adela Lupse's background and personality, including her age, family, and cultural influences. The second sentence provides geographical information about the location of Bihor in Romania.\n\nThe entailment arises from the fact that the second sentence provides additional information about the location where Adela Lupse grew up, which is logically implied by the information provided in the first sentence. Therefore, the two sentences are entailing each other."
+    },
+    {
+        "choices": [
+            "(A) Not Entailment",
+            "(B) Entailment"
+        ],
+        "context": "Sentence1: The Cyrillic alphabet is an alphabet used for several East and South Slavic languages; (Belarusian, Bulgarian, Macedonian, Russian, Rusyn, Serbian, and Ukrainian) and many other languages of the former Soviet Union, Asia and Eastern Europe. It has also been used for other languages in the past. Not all letters in the Cyrillic alphabet are used in every language which is written with it. Sentence2: Cyrillic is an alphabet used for certain Slavic languages, such as Russian.",
+        "answer": "(B) Entailment",
+        "id": "test_2",
+        "model_input": "Respond to the following question by choosing the most suitable option.\nQuestion: Are the following two sentence entailment or not?\n\nSentence1: The Cyrillic alphabet is an alphabet used for several East and South Slavic languages; (Belarusian, Bulgarian, Macedonian, Russian, Rusyn, Serbian, and Ukrainian) and many other languages of the former Soviet Union, Asia and Eastern Europe. It has also been used for other languages in the past. Not all letters in the Cyrillic alphabet are used in every language which is written with it. Sentence2: Cyrillic is an alphabet used for certain Slavic languages, such as Russian.\n\nChoices:\n(A) Not Entailment\n(B) Entailment\n\nAnswer:\n",
+        "model_prediction": " Based on the given sentences, the best answer is (B) Entailment.\n\nThe first sentence provides a general description of the Cyrillic alphabet and its usage in various languages, including East and South Slavic languages, as well as languages in the former Soviet Union, Asia, and Eastern Europe. The second sentence specifically mentions Russian as one of the languages that use the Cyrillic alphabet.\n\nThe second sentence entails the first sentence by providing a specific example of a language (Russian) that uses the Cyrillic alphabet. The sentence \"Cyrillic is an alphabet used"
+    },
+    {
+        "choices": [
+            "(A) Entailment",
+            "(B) Not Entailment"
+        ],
+        "context": "Sentence1: Nearly five months later on January 24, 1935, the passenger vessel MOHAWK sank after colliding with the Norwegian motorship TALISMAN, and 45 people lost their lives. Sentence2: 100 or more people lost their lives in a ferry sinking.",
+        "answer": "(B) Not Entailment",
+        "id": "test_3",
+        "model_input": "Respond to the following question by choosing the most suitable option.\nQuestion: Are the following two sentence entailment or not?\n\nSentence1: Nearly five months later on January 24, 1935, the passenger vessel MOHAWK sank after colliding with the Norwegian motorship TALISMAN, and 45 people lost their lives. Sentence2: 100 or more people lost their lives in a ferry sinking.\n\nChoices:\n(A) Entailment\n(B) Not Entailment\n\nAnswer:\n",
+        "model_prediction": " Based on the given sentences, option (A) Entailment is the most suitable answer.\n\nThe first sentence provides specific information about the sinking of the MOHAWK and the number of lives lost, which is 45. The second sentence is more general and does not provide any specific information about the sinking. Therefore, the second sentence entails the first sentence, as it provides more detailed information about the same event."
+    },
+    {
+        "choices": [
+            "(A) Entailment",
+            "(B) Not Entailment"
+        ],
+        "context": "Sentence1: P. Prayong, who like Kevala belongs to the Theravada sect of Buddhism, chose India over other Buddhist majority nations as it is the birthplace of Gautama Buddha. Sentence2: P. Prayong is a member of Theravada.",
+        "answer": "(A) Entailment",
+        "id": "test_4",
+        "model_input": "Respond to the following question by choosing the most suitable option.\nQuestion: Are the following two sentence entailment or not?\n\nSentence1: P. Prayong, who like Kevala belongs to the Theravada sect of Buddhism, chose India over other Buddhist majority nations as it is the birthplace of Gautama Buddha. Sentence2: P. Prayong is a member of Theravada.\n\nChoices:\n(A) Entailment\n(B) Not Entailment\n\nAnswer:\n",
+        "model_prediction": " The answer is (A) Entailment.\n\nThe two sentences are entailing each other because the second sentence provides additional information about P. Prayong that is not explicitly mentioned in the first sentence. Specifically, the second sentence tells us that P. Prayong is a member of the Theravada sect of Buddhism, which is not mentioned in the first sentence. This additional information logically follows from the fact that P. Prayong is a Buddhist and likes Kevala, who is also a Theravada Buddhist. Therefore, the second sentence entails the first sentence."
+    },
+    {
+        "choices": [
+            "(A) Not Entailment",
+            "(B) Entailment"
+        ],
+        "context": "Sentence1: IBM stole trade secrets to copy two of its programs -- File-AID, a file manager, and Abend-AID, a program that helps users locate the source of glitches. Sentence2: Trade secrets were stolen.",
+        "answer": "(B) Entailment",
+        "id": "test_5",
+        "model_input": "Respond to the following question by choosing the most suitable option.\nQuestion: Are the following two sentence entailment or not?\n\nSentence1: IBM stole trade secrets to copy two of its programs -- File-AID, a file manager, and Abend-AID, a program that helps users locate the source of glitches. Sentence2: Trade secrets were stolen.\n\nChoices:\n(A) Not Entailment\n(B) Entailment\n\nAnswer:\n",
+        "model_prediction": " The correct answer is (B) Entailment.\n\nThe first sentence implies that IBM stole trade secrets, and the second sentence simply states that trade secrets were stolen. Since the second sentence provides more information about the action described in the first sentence, it entails the first sentence."
+    },
+    {
+        "choices": [
+            "(A) Not Entailment",
+            "(B) Entailment"
+        ],
+        "context": "Sentence1: Hepburn's family will receive the proceeds from the sale. Sentence2: Proceeds go to Hepburn's family.",
+        "answer": "(B) Entailment",
+        "id": "test_6",
+        "model_input": "Respond to the following question by choosing the most suitable option.\nQuestion: Are the following two sentence entailment or not?\n\nSentence1: Hepburn's family will receive the proceeds from the sale. Sentence2: Proceeds go to Hepburn's family.\n\nChoices:\n(A) Not Entailment\n(B) Entailment\n\nAnswer:\n",
+        "model_prediction": " The correct answer is (B) Entailment.\n\nThe two sentences entail each other because the second sentence provides more information about the recipient of the proceeds, which is explicitly mentioned in the first sentence. The second sentence clarifies that the proceeds will go to Hepburn's family, which was already implied in the first sentence. Therefore, the two sentences logically follow from each other and are entailments."
+    },
+    {
+        "choices": [
+            "(A) Entailment",
+            "(B) Not Entailment"
+        ],
+        "context": "Sentence1: It is hoped that women, who constitute more than half of the population, will vote for other women and ensure that their issues are represented in parliament. Sentence2: Women are poorly represented in parliament.",
+        "answer": "(B) Not Entailment",
+        "id": "test_7",
+        "model_input": "Respond to the following question by choosing the most suitable option.\nQuestion: Are the following two sentence entailment or not?\n\nSentence1: It is hoped that women, who constitute more than half of the population, will vote for other women and ensure that their issues are represented in parliament. Sentence2: Women are poorly represented in parliament.\n\nChoices:\n(A) Entailment\n(B) Not Entailment\n\nAnswer:\n",
+        "model_prediction": " The correct answer is (A) Entailment.\n\nThe first sentence \"It is hoped that women, who constitute more than half of the population, will vote for other women and ensure that their issues are represented in parliament\" implies that the representation of women in parliament is currently lacking, and that by voting for other women, they can improve their representation. This is an entailment as it logically follows that if women are underrepresented, voting for other women will help to address this issue."
+    },
+    {
+        "choices": [
+            "(A) Not Entailment",
+            "(B) Entailment"
+        ],
+        "context": "Sentence1: The Tuesday drawing of the Italian Superenalotto game has awarded the biggest prize ever won in a betting game in Italy. The single winner of the first category prize (6 numbers guessed) will receive an amount, including the jackpot from previous un-won draws, of €72.090.405,19 (US$93 million.) The prize money will be received in full without further taxation, since taxes in prizes of that type are taken at a fixed rate by the Italian State from the money paid for the bet. Sentence2: Superenalotto awarded a prize of more than 72 million euros.",
+        "answer": "(B) Entailment",
+        "id": "test_8",
+        "model_input": "Respond to the following question by choosing the most suitable option.\nQuestion: Are the following two sentence entailment or not?\n\nSentence1: The Tuesday drawing of the Italian Superenalotto game has awarded the biggest prize ever won in a betting game in Italy. The single winner of the first category prize (6 numbers guessed) will receive an amount, including the jackpot from previous un-won draws, of €72.090.405,19 (US$93 million.) The prize money will be received in full without further taxation, since taxes in prizes of that type are taken at a fixed rate by the Italian State from the money paid for the bet. Sentence2: Superenalotto awarded a prize of more than 72 million euros.\n\nChoices:\n(A) Not Entailment\n(B) Entailment\n\nAnswer:\n",
+        "model_prediction": " Based on the given information, the most suitable answer is (B) Entailment.\n\nThe two sentences are entailing the same information, as the second sentence is simply stating the amount of the prize awarded in the Italian Superenalotto game. The first sentence provides additional information about the prize, including the amount of the jackpot from previous un-won draws and the fact that the prize money will be received in full without further taxation. Therefore, the second sentence is logically implied by the first sentence."
+    },
+    {
+        "choices": [
+            "(A) Entailment",
+            "(B) Not Entailment"
+        ],
+        "context": "Sentence1: In 1865, John Wilkes Booth, the assassin of President Abraham Lincoln, was surrounded by federal troops near Bowling Green, Va., and killed. Sentence2: John Wilkes Booth killed President Abraham Lincoln.",
+        "answer": "(A) Entailment",
+        "id": "test_9",
+        "model_input": "Respond to the following question by choosing the most suitable option.\nQuestion: Are the following two sentence entailment or not?\n\nSentence1: In 1865, John Wilkes Booth, the assassin of President Abraham Lincoln, was surrounded by federal troops near Bowling Green, Va., and killed. Sentence2: John Wilkes Booth killed President Abraham Lincoln.\n\nChoices:\n(A) Entailment\n(B) Not Entailment\n\nAnswer:\n",
+        "model_prediction": " The correct answer is (A) Entailment.\n\nThe two sentences are entailment because the second sentence (John Wilkes Booth killed President Abraham Lincoln) logically follows from the first sentence (John Wilkes Booth, the assassin of President Abraham Lincoln, was surrounded by federal troops near Bowling Green, Va., and killed). The first sentence provides the context and circumstances in which the second sentence occurred, making it a logical conclusion."
+    },
+    {
+        "choices": [
+            "(A) Not Entailment",
+            "(B) Entailment"
+        ],
+        "context": "Sentence1: On October 1 2001, EU and other countries introduced the option for domestic animal owners to apply for Pet passports under the Pets Travel Scheme (PETS for short), for pets returning from abroad to the United Kingdom. This replaced the old system of 6 months compulsory quarantine for all domestic pets. Sentence2: In 2001, the EU introduced a six-month compulsory quarantine for all domestic pets.",
+        "answer": "(A) Not Entailment",
+        "id": "test_10",
+        "model_input": "Respond to the following question by choosing the most suitable option.\nQuestion: Are the following two sentence entailment or not?\n\nSentence1: On October 1 2001, EU and other countries introduced the option for domestic animal owners to apply for Pet passports under the Pets Travel Scheme (PETS for short), for pets returning from abroad to the United Kingdom. This replaced the old system of 6 months compulsory quarantine for all domestic pets. Sentence2: In 2001, the EU introduced a six-month compulsory quarantine for all domestic pets.\n\nChoices:\n(A) Not Entailment\n(B) Entailment\n\nAnswer:\n",
+        "model_prediction": " Based on the given information, the most suitable answer is (B) Entailment.\n\nThe two sentences are entailing each other because the second sentence provides more information about the Pets Travel Scheme (PETS) introduced in the first sentence. Specifically, the second sentence explains that the PETS replaced the old system of compulsory quarantine for all domestic pets, which is mentioned in the first sentence. Therefore, the second sentence logically follows from the first sentence and entails it."
+    }
+]

@@ -94,6 +94,10 @@ class flores_vie2eng_dataset(object):
             for item in data_with_model_predictions:
                 item['model_prediction'] = item['model_prediction'].split('\n')[0]
 
+        # as it's a translation task, we only take the content before the first '\n'
+        for item in data_with_model_predictions:
+            item['model_prediction'] = item['model_prediction'].strip().split('\n')[0]
+
         return tiger_eval.translation_bleu.score(data_with_model_predictions)
 
 

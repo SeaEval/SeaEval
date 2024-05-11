@@ -1,0 +1,1341 @@
+[
+    {
+        "question": "I have a friend visiting Singapore from overseas who is interested in street art, alternative music and youth subculture. Which locally organised activity or event might interest her?",
+        "answer": "(D) Aliwal Urban Art Festival",
+        "choices": [
+            "(A) Kalaa Utsavam",
+            "(B) Public Art Walking Trail",
+            "(C) Singapore Arts Week",
+            "(D) Aliwal Urban Art Festival"
+        ],
+        "id": "test_1",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nI have a friend visiting Singapore from overseas who is interested in street art, alternative music and youth subculture. Which locally organised activity or event might interest her?\n\nChoices:\n(A) Kalaa Utsavam\n(B) Public Art Walking Trail\n(C) Singapore Arts Week\n(D) Aliwal Urban Art Festival\n\nAnswer:\n",
+        "model_prediction": "Based on your friend's interests in street art, alternative music, and youth subculture, the most suitable locally organized activity or event in Singapore would be:\n\n(D) Aliwal Urban Art Festival\n\nThe Aliwal Urban Art Festival is an annual event that celebrates street art and urban culture, featuring murals, graffiti, and live music performances. It attracts both local and international artists and provides a platform for alternative music scenes. This event aligns well with your friend's interests."
+    },
+    {
+        "question": "What was one reason for the implementation of the bilingual policy in schools in Singapore?",
+        "answer": "(D) To ensure that we remain connected to our cultural roots",
+        "choices": [
+            "(A) To attract overseas capital and investments",
+            "(B) To foster national identity and unity",
+            "(C) To support our export-orientated manufacturing economy during the early years of independence",
+            "(D) To ensure that we remain connected to our cultural roots"
+        ],
+        "id": "test_2",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhat was one reason for the implementation of the bilingual policy in schools in Singapore?\n\nChoices:\n(A) To attract overseas capital and investments\n(B) To foster national identity and unity\n(C) To support our export-orientated manufacturing economy during the early years of independence\n(D) To ensure that we remain connected to our cultural roots\n\nAnswer:\n",
+        "model_prediction": "(B) To foster national identity and unity\n\nThe bilingual policy in schools in Singapore, which requires students to learn both English and Mandarin (or other local languages), was implemented with the goal of promoting national identity and unity. This is because it aims to ensure that all citizens, regardless of their ethnic background, can communicate effectively in the country's two official languages and feel connected to the nation. The policy also helps to bridge linguistic gaps and promote understanding among different communities. While options (A), (C), and (D) may be related to Singapore's development, they are not the primary reasons for the bilingual education policy in schools."
+    },
+    {
+        "question": "I have just moved to Singapore, and I am excited to dine out at the hawker centres and try some of the local cuisine. What are some behaviours or social norms that I should not do?",
+        "answer": "(A) Leave used tissues and food remnants on the table for the cleaners to clear",
+        "choices": [
+            "(A) Leave used tissues and food remnants on the table for the cleaners to clear",
+            "(B) Return food trays and crockery to designated tray return points",
+            "(C) Address the stallholders as 'Uncle' or 'Aunty' especially if they are older than me",
+            "(D) To communicate more effectively with stallholders, use local lingo like 'dabao' when taking away food"
+        ],
+        "id": "test_3",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nI have just moved to Singapore, and I am excited to dine out at the hawker centres and try some of the local cuisine. What are some behaviours or social norms that I should not do?\n\nChoices:\n(A) Leave used tissues and food remnants on the table for the cleaners to clear\n(B) Return food trays and crockery to designated tray return points\n(C) Address the stallholders as 'Uncle' or 'Aunty' especially if they are older than me\n(D) To communicate more effectively with stallholders, use local lingo like 'dabao' when taking away food\n\nAnswer:\n",
+        "model_prediction": "(A) Leave used tissues and food remnants on the table for the cleaners to clear\n\nIn Singapore, it is considered impolite and unsanitary to leave used tissues or food leftovers on the table at hawker centres. It's important to clean up after yourself and dispose of your trash properly. The other options are generally acceptable behaviors when dining at hawker centres."
+    },
+    {
+        "question": "Which political party won the 1948 election of Singapore?",
+        "answer": "(A) Singapore Progressive Party",
+        "choices": [
+            "(A) Singapore Progressive Party",
+            "(B) Labour Front Party",
+            "(C) Democratic Party",
+            "(D) People's Action Party"
+        ],
+        "id": "test_4",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich political party won the 1948 election of Singapore?\n\nChoices:\n(A) Singapore Progressive Party\n(B) Labour Front Party\n(C) Democratic Party\n(D) People's Action Party\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (D) People's Action Party. The People's Action Party (PAP) first came into power in Singapore in the 1959 general election and has been the dominant political party ever since, holding continuous government until 2011. The 1948 election was not held yet, as Singapore gained independence from Britain and established its own government much later, in 1965."
+    },
+    {
+        "question": "I am invited by my friend to her Valaikaapu ceremony, held during the 7th month of pregnancy, to celebrate the approaching birth of her child. What is customary to bring as a gift in Singapore?",
+        "answer": "(D) Glass bangles",
+        "choices": [
+            "(A) Fragrant tea leaves",
+            "(B) Red packets containing money",
+            "(C) Boiled eggs with shells dyed red",
+            "(D) Glass bangles"
+        ],
+        "id": "test_5",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nI am invited by my friend to her Valaikaapu ceremony, held during the 7th month of pregnancy, to celebrate the approaching birth of her child. What is customary to bring as a gift in Singapore?\n\nChoices:\n(A) Fragrant tea leaves\n(B) Red packets containing money\n(C) Boiled eggs with shells dyed red\n(D) Glass bangles\n\nAnswer:\n",
+        "model_prediction": "In Singapore, the most customary gift to bring to a Valaikaapu ceremony (Malay for \"water breaking\" or the ceremony marking the start of labor) is (B) Red packets containing money. This is a traditional Malay custom where family and friends give money as a symbol of good wishes and support for the new mother-to-be. Fragrant tea leaves (A) might be appreciated as a token of hospitality, but it's not a specific Valaikaapu gift. Boiled eggs with dyed red shells (C) are not commonly given as gifts in this context, and glass bangles (D) are"
+    },
+    {
+        "question": "In which year did Singapore has GST rate at 5%?",
+        "answer": "(B) 2005",
+        "choices": [
+            "(A) 1994",
+            "(B) 2005",
+            "(C) 2009",
+            "(D) 2023"
+        ],
+        "id": "test_6",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nIn which year did Singapore has GST rate at 5%?\n\nChoices:\n(A) 1994\n(B) 2005\n(C) 2009\n(D) 2023\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) 2005. Singapore implemented a Goods and Services Tax (GST) at a rate of 5% in 2005 as part of its gradual transition from a goods and services tax system to a value-added tax (VAT) system. The GST rate has since been adjusted multiple times, but 5% was the highest it ever reached."
+    },
+    {
+        "question": "Which National Symbol reflects Singapore's multicultural heritage and harmony among our different ethnic communities?",
+        "answer": "(C) National Flower",
+        "choices": [
+            "(A) National Flag",
+            "(B) National Pledge",
+            "(C) National Flower",
+            "(D) Lion Head"
+        ],
+        "id": "test_7",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich National Symbol reflects Singapore's multicultural heritage and harmony among our different ethnic communities?\n\nChoices:\n(A) National Flag\n(B) National Pledge\n(C) National Flower\n(D) Lion Head\n\nAnswer:\n",
+        "model_prediction": "The National Symbol that reflects Singapore's multicultural heritage and harmony among its different ethnic communities is (C) National Flower. The national flower of Singapore is the Merlion, which is actually a mythical creature combining the head of a lion and the body of a fish. It represents Singapore's resilience and the city-state's ability to adapt and blend diverse cultures. The National Flag and National Pledge represent the country's values and principles, while the Lion Head is a symbol of courage and strength, but not specifically tied to multicultural harmony."
+    },
+    {
+        "question": "Fort Canning Hill is known as ____ in the past.",
+        "answer": "(C) Bukit Larangan",
+        "choices": [
+            "(A) Bukit Timah",
+            "(B) Bukit Merah",
+            "(C) Bukit Larangan",
+            "(D) Bukit Panjang"
+        ],
+        "id": "test_8",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nFort Canning Hill is known as ____ in the past.\n\nChoices:\n(A) Bukit Timah\n(B) Bukit Merah\n(C) Bukit Larangan\n(D) Bukit Panjang\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (C) Bukit Larangan. Fort Canning Hill, also known as Bukit Larangan in Malay, was originally named so because it was a restricted area where non-Malays were not allowed to settle during the early history of Singapore. The name changed over time, and it's now a popular park and historical site."
+    },
+    {
+        "question": "Sri Temasek was once used by the British as the colonial secretary's residence. After Singapore's independence, what was the building designated as?",
+        "answer": "(A) Official residence of the Prime Minister",
+        "choices": [
+            "(A) Official residence of the Prime Minister",
+            "(B) Official residence of the President",
+            "(C) Historical museum",
+            "(D) British High Commission"
+        ],
+        "id": "test_9",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nSri Temasek was once used by the British as the colonial secretary's residence. After Singapore's independence, what was the building designated as?\n\nChoices:\n(A) Official residence of the Prime Minister\n(B) Official residence of the President\n(C) Historical museum\n(D) British High Commission\n\nAnswer:\n",
+        "model_prediction": "The building that was once used as the colonial secretary's residence in Singapore and later designated as an official residence after independence is (A) Official residence of the Prime Minister. This is now known as the Istana, which serves as the official residence and workplace of the Prime Minister of Singapore."
+    },
+    {
+        "question": "In which year did Singapore raise its GST rate to 8%?",
+        "answer": "(C) 2023",
+        "choices": [
+            "(A) 1994",
+            "(B) 2003",
+            "(C) 2023",
+            "(D) 2024"
+        ],
+        "id": "test_10",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nIn which year did Singapore raise its GST rate to 8%?\n\nChoices:\n(A) 1994\n(B) 2003\n(C) 2023\n(D) 2024\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) 2003. Singapore raised its Goods and Services Tax (GST) rate to 8% in April 2003 as part of a series of phase-in adjustments from 6% to the current rate."
+    },
+    {
+        "question": "In Singapore's system of government, what is one of the responsibilities of the Executive branch?",
+        "answer": "(C) Day-to-day administration of state affairs",
+        "choices": [
+            "(A) Make the laws",
+            "(B) Ensure that the concerns of their constituents are heard in Parliament",
+            "(C) Day-to-day administration of state affairs",
+            "(D) Administer justice to the people of Singapore"
+        ],
+        "id": "test_11",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nIn Singapore's system of government, what is one of the responsibilities of the Executive branch?\n\nChoices:\n(A) Make the laws\n(B) Ensure that the concerns of their constituents are heard in Parliament\n(C) Day-to-day administration of state affairs\n(D) Administer justice to the people of Singapore\n\nAnswer:\n",
+        "model_prediction": "(C) Day-to-day administration of state affairs\n\nIn Singapore's system of government, the Executive branch, led by the Prime Minister and the Cabinet, is responsible for implementing and executing policies, managing the country's administrative functions, and ensuring the day-to-day operations of state affairs. They are accountable to Parliament but do not make laws; that role belongs to the Legislative branch (Parliament). The judiciary, headed by the Constitutional Court and the Supreme Court, is responsible for administering justice."
+    },
+    {
+        "question": "After Singapore's independence, National Service was introduced for this reason:",
+        "answer": "(B) To quickly build up our own defence forces for our continued survival",
+        "choices": [
+            "(A) It is a rite of passage for Singaporean males aged 18 years and above",
+            "(B) To quickly build up our own defence forces for our continued survival",
+            "(C) To establish strong and friendly ties with other nations",
+            "(D) To aid in peace support operations and disaster relief missions"
+        ],
+        "id": "test_12",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nAfter Singapore's independence, National Service was introduced for this reason:\n\nChoices:\n(A) It is a rite of passage for Singaporean males aged 18 years and above\n(B) To quickly build up our own defence forces for our continued survival\n(C) To establish strong and friendly ties with other nations\n(D) To aid in peace support operations and disaster relief missions\n\nAnswer:\n",
+        "model_prediction": "(B) To quickly build up our own defence forces for our continued survival\n\nNational Service (NS) in Singapore was introduced after independence in 1965 as a crucial measure to ensure national security and self-reliance. The primary reason behind NS is to develop a pool of conscripted soldiers who can serve in the armed forces during times of national need. This helps to maintain a strong military deterrent and protect the country's sovereignty and territorial integrity, which is vital for Singapore's survival as a small island nation surrounded by potential threats."
+    },
+    {
+        "question": "On 16 September 1963, Malaysia which comprises of ____ states came into existence.",
+        "answer": "(C) 14",
+        "choices": [
+            "(A) 11",
+            "(B) 4",
+            "(C) 14",
+            "(D) 5"
+        ],
+        "id": "test_13",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nOn 16 September 1963, Malaysia which comprises of ____ states came into existence.\n\nChoices:\n(A) 11\n(B) 4\n(C) 14\n(D) 5\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (A) 11. On 16 September 1963, Malaysia was formed with the merger of the Federation of Malaya (which consisted of 11 states), Sabah (then part of the British Borneo), and Sarawak (also part of British Borneo), along with the independent nation of Singapore. However, in 1965, Singapore left Malaysia to become an independent country."
+    },
+    {
+        "question": "Why did the Straits-born Chinese usually act as the middlemen?",
+        "answer": "(B) They could speak English, Malay and other local dialects.",
+        "choices": [
+            "(A) They were the favourites of the British.",
+            "(B) They could speak English, Malay and other local dialects.",
+            "(C) They knew the situation in Singapore better so as to communicate to their clients.",
+            "(D) They were well versed in matters of trade."
+        ],
+        "id": "test_14",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhy did the Straits-born Chinese usually act as the middlemen?\n\nChoices:\n(A) They were the favourites of the British.\n(B) They could speak English, Malay and other local dialects.\n(C) They knew the situation in Singapore better so as to communicate to their clients.\n(D) They were well versed in matters of trade.\n\nAnswer:\n",
+        "model_prediction": "The most appropriate answer is (D) They were well versed in matters of trade. The Straits-born Chinese, who were often descendants of Chinese immigrants who had lived in Singapore for generations, typically had a deep understanding of the local business environment and the trade practices due to their family's involvement and experience. They acted as middlemen because they could negotiate and facilitate transactions between Chinese merchants and the British or local authorities, given their knowledge and linguistic skills."
+    },
+    {
+        "question": "Which of the following items would be considered the least suitable gift to bring to a Singaporean family during Lunar New Year?",
+        "answer": "(B) Ten dollar cash",
+        "choices": [
+            "(A) A red packet",
+            "(B) Ten dollar cash",
+            "(C) An pineapple",
+            "(D) Two organges"
+        ],
+        "id": "test_15",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich of the following items would be considered the least suitable gift to bring to a Singaporean family during Lunar New Year?\n\nChoices:\n(A) A red packet\n(B) Ten dollar cash\n(C) An pineapple\n(D) Two organges\n\nAnswer:\n",
+        "model_prediction": "The least suitable gift to bring to a Singaporean family during Lunar New Year would be (B) Ten dollar cash. While cash is appreciated, a red packet (A) is a traditional and essential gift that symbolizes good luck and wealth. Pineapples (C) are not typically given as gifts, but they can be a welcome treat, and oranges (D), especially in pairs, are a good symbol of prosperity and are sometimes given as well."
+    },
+    {
+        "question": "In the 1960s, what made many Malay and Chinese fishermen living in Simpang Bedok Village turn to other means of earning a living, such as selling cigarettes, food and drinks?",
+        "answer": "(D) Bedok land reclamation",
+        "choices": [
+            "(A) Environment changes in the area",
+            "(B) Declining fishing industry in the area",
+            "(C) Urban planning framework in Singapore",
+            "(D) Bedok land reclamation"
+        ],
+        "id": "test_16",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nIn the 1960s, what made many Malay and Chinese fishermen living in Simpang Bedok Village turn to other means of earning a living, such as selling cigarettes, food and drinks?\n\nChoices:\n(A) Environment changes in the area\n(B) Declining fishing industry in the area\n(C) Urban planning framework in Singapore\n(D) Bedok land reclamation\n\nAnswer:\n",
+        "model_prediction": "(B) Declining fishing industry in the area\n\nThe 1960s were a time when Singapore's industrialization was on the rise, and the availability of fishing grounds may have decreased due to urbanization and other development projects. This decline in the fishing industry led many Malay and Chinese fishermen to switch to alternative livelihoods like selling cigarettes, food, and drinks, which were more in line with the growing consumer market and non-fishing-related businesses in the area. The other options (A, C, and D) do not specifically explain the reason for the change in occupation."
+    },
+    {
+        "question": "Which is not the way that we as individuals can contribute to Economic Defence of Singapore?",
+        "answer": "(C) Cheer Team Singapore athletes on",
+        "choices": [
+            "(A) Support local businesses",
+            "(B) Save electricity and conserve water at home",
+            "(C) Cheer Team Singapore athletes on",
+            "(D) Take up a course to learn new skills"
+        ],
+        "id": "test_17",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich is not the way that we as individuals can contribute to Economic Defence of Singapore?\n\nChoices:\n(A) Support local businesses\n(B) Save electricity and conserve water at home\n(C) Cheer Team Singapore athletes on\n(D) Take up a course to learn new skills\n\nAnswer:\n",
+        "model_prediction": "The answer is (C) Cheer Team Singapore athletes on. While cheering for athletes can be a source of national pride and support for the country's sporting achievements, it is not directly related to the economic defense of Singapore. Economic defense typically involves strategies to protect and promote the country's economy, industries, and resilience in the face of global competition and external challenges. The other options listed support local development, resource conservation, and personal skill development, which are all important aspects of economic defense."
+    },
+    {
+        "question": "Which of the following was not part of the content in the Sejarah Melayu?",
+        "answer": "(D) The arrival of Sir Stamford Raffles in Singapore.",
+        "choices": [
+            "(A) Tells the story of how Sang Utama founded Temasek.",
+            "(B) Tells the story of how the name 'Singapura' came about.",
+            "(C) Singapore grew into a thriving trading centre.",
+            "(D) The arrival of Sir Stamford Raffles in Singapore."
+        ],
+        "id": "test_18",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich of the following was not part of the content in the Sejarah Melayu?\n\nChoices:\n(A) Tells the story of how Sang Utama founded Temasek.\n(B) Tells the story of how the name 'Singapura' came about.\n(C) Singapore grew into a thriving trading centre.\n(D) The arrival of Sir Stamford Raffles in Singapore.\n\nAnswer:\n",
+        "model_prediction": "The option that was not part of the content in the Sejarah Melayu is (D) The arrival of Sir Stamford Raffles in Singapore. Sejarah Melayu, also known as Malay History, primarily focuses on the early history of the Malay Peninsula and Indonesia, not on the British colonial period or individual historical figures like Sir Stamford Raffles. Raffles' arrival in Singapore is a significant event in the modern history of the country, which would be covered in more detailed accounts or in a separate historical narrative."
+    },
+    {
+        "question": "The 2009 F1 Rocks concert was organised in conjunction with the F1 Singapore Grand Prix. Which one of the following artists did not attend?",
+        "answer": "(C) Jay Chou",
+        "choices": [
+            "(A) Beyonce",
+            "(B) Black Eyed Peas",
+            "(C) Jay Chou",
+            "(D) A-Mei"
+        ],
+        "id": "test_19",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nThe 2009 F1 Rocks concert was organised in conjunction with the F1 Singapore Grand Prix. Which one of the following artists did not attend?\n\nChoices:\n(A) Beyonce\n(B) Black Eyed Peas\n(C) Jay Chou\n(D) A-Mei\n\nAnswer:\n",
+        "model_prediction": "The 2009 F1 Rocks concert featured a lineup of popular artists performing during the Formula 1 Singapore Grand Prix weekend. Upon checking the information, it is known that Beyoncé and Black Eyed Peas both performed at the event. However, Jay Chou and A-Mei did attend the concert. Therefore, the artist who did not attend would be:\n\n(D) A-Mei"
+    },
+    {
+        "question": "Which university's reform was influenced by the response to the 1953 white paper \"Chinese Schools Bilingual Education and Increased Aid\"?",
+        "answer": "(D) Nanyang University",
+        "choices": [
+            "(A) National University of Singapore",
+            "(B) Nanyang Technological University",
+            "(C) Singapore Management University",
+            "(D) Nanyang University"
+        ],
+        "id": "test_20",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich university's reform was influenced by the response to the 1953 white paper \"Chinese Schools Bilingual Education and Increased Aid\"?\n\nChoices:\n(A) National University of Singapore\n(B) Nanyang Technological University\n(C) Singapore Management University\n(D) Nanyang University\n\nAnswer:\n",
+        "model_prediction": "The university that was influenced by the response to the 1953 white paper \"Chinese Schools Bilingual Education and Increased Aid\" is (D) Nanyang University. This white paper led to significant reforms in the education system, particularly regarding the integration of Chinese language education into schools, and Nanyang University, which was established later, has often been associated with these changes as it played a role in promoting bilingualism and multiculturalism in Singapore's education."
+    },
+    {
+        "question": "How can we put Psychological Defence into action in Singapore?",
+        "answer": "(D) Speak up against negative comments about Singapore",
+        "choices": [
+            "(A) Take care of our physical health",
+            "(B) Learn new skills and stay adaptable",
+            "(C) Stand up against cyber bullying",
+            "(D) Speak up against negative comments about Singapore"
+        ],
+        "id": "test_21",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nHow can we put Psychological Defence into action in Singapore?\n\nChoices:\n(A) Take care of our physical health\n(B) Learn new skills and stay adaptable\n(C) Stand up against cyber bullying\n(D) Speak up against negative comments about Singapore\n\nAnswer:\n",
+        "model_prediction": "To put Psychological Defence into action in Singapore, the most appropriate choice would be a combination of (B) Learning new skills and staying adaptable, and (D) Speaking up against negative comments about Singapore.\n\n1. Learning new skills and staying adaptable: In today's fast-paced and ever-changing environment, it's important for individuals to constantly update their knowledge and adapt to new situations. This can help build resilience and mental strength, which are essential for psychological defence. By being open to learning and adaptable, one can better cope with stress and challenges that may arise in personal or professional life.\n\n2. Speaking up against negative comments about Singapore: As a"
+    },
+    {
+        "question": "Last month, a new neighbour moved into the flat next to mine. They have a dog which I suspect has been urinating near my shoe cabinet and plants. How should I respond or try to resolve this in Singapore?",
+        "answer": "(B) I should approach the Community Mediation Centre if we are unable to reach a consensus",
+        "choices": [
+            "(A) I should tolerate it to avoid offending anyone",
+            "(B) I should approach the Community Mediation Centre if we are unable to reach a consensus",
+            "(C) I should report this to the authorities",
+            "(D) I should tell my other neighbours and hope someone else speaks up"
+        ],
+        "id": "test_22",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nLast month, a new neighbour moved into the flat next to mine. They have a dog which I suspect has been urinating near my shoe cabinet and plants. How should I respond or try to resolve this in Singapore?\n\nChoices:\n(A) I should tolerate it to avoid offending anyone\n(B) I should approach the Community Mediation Centre if we are unable to reach a consensus\n(C) I should report this to the authorities\n(D) I should tell my other neighbours and hope someone else speaks up\n\nAnswer:\n",
+        "model_prediction": "If you suspect that a neighbor's dog is causing damage to your property, it's important to handle the situation in a polite and considerate manner while protecting your rights. In Singapore, option (C) would be the most appropriate response:\n\n1. **Talk to your neighbor**: Approach them politely and explain the issue. It's possible that they may not realize their pet's actions and can quickly correct the behavior. This way, you give them a chance to rectify the problem without involving authorities.\n\n2. **Document the incidents**: Take photos or videos of the affected areas to provide evidence if necessary.\n\n3. **Provide specific details**:"
+    },
+    {
+        "question": "In Singapore, the ____ was announced to be closed down in 1956 because of its Communist activities.",
+        "answer": "(D) Singapore Chinese Middle School Students' Union",
+        "choices": [
+            "(A) Singapore Bus Workers Union",
+            "(B) Hock Lee Employee's Union",
+            "(C) Chung Cheng High School",
+            "(D) Singapore Chinese Middle School Students' Union"
+        ],
+        "id": "test_23",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nIn Singapore, the ____ was announced to be closed down in 1956 because of its Communist activities.\n\nChoices:\n(A) Singapore Bus Workers Union\n(B) Hock Lee Employee's Union\n(C) Chung Cheng High School\n(D) Singapore Chinese Middle School Students' Union\n\nAnswer:\n",
+        "model_prediction": "The answer is (D) Singapore Chinese Middle School Students' Union.\n\nThe closure of the Singapore Chinese Middle School Students' Union (also known as \"Sin Min Gou\") in 1956 was due to its involvement in political activities that were seen as supportive of communism. The government at the time, under Prime Minister Lee Kuan Yew, was cracking down on such political associations in an effort to maintain social stability and national unity."
+    },
+    {
+        "question": "The duration of national service in Singapore of Year 2019 is",
+        "answer": "(C) Two years.",
+        "choices": [
+            "(A) Half a year.",
+            "(B) One year.",
+            "(C) Two years.",
+            "(D) Two years and two months."
+        ],
+        "id": "test_24",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nThe duration of national service in Singapore of Year 2019 is\n\nChoices:\n(A) Half a year.\n(B) One year.\n(C) Two years.\n(D) Two years and two months.\n\nAnswer:\n",
+        "model_prediction": "The duration of national service in Singapore for Year 2019 was (B) One year. This period typically lasts for two years, but with some exceptions and changes over time, the exact duration can vary slightly from year to year."
+    },
+    {
+        "question": "Singapore was the place where European and American traders and their their ships stopped to refuel and obtain supplies when it became a ____",
+        "answer": "(A) port-of-call",
+        "choices": [
+            "(A) port-of-call",
+            "(B) stop-over",
+            "(C) trade centre",
+            "(D) free port"
+        ],
+        "id": "test_25",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nSingapore was the place where European and American traders and their their ships stopped to refuel and obtain supplies when it became a ____\n\nChoices:\n(A) port-of-call\n(B) stop-over\n(C) trade centre\n(D) free port\n\nAnswer:\n",
+        "model_prediction": "The most appropriate option for the given question is:\n\n(A) port-of-call\n\nSingapore has been a major port-of-call for European and American traders since the 17th century, due to its strategic location at the southern tip of the Malay Peninsula, which made it a crucial stop for ships traveling between Asia and Europe. The city-state's well-developed infrastructure and deepwater ports have allowed it to serve as a vital hub for trade and refueling."
+    },
+    {
+        "question": "The British wanted to control trade in the Malay Archipelago because it was ____",
+        "answer": "(C) along the China-India trade route.",
+        "choices": [
+            "(A) At the heart of the East.",
+            "(B) well known for its jewellery and spices.",
+            "(C) along the China-India trade route.",
+            "(D) well shelterred from thunderstorms and pirates."
+        ],
+        "id": "test_26",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nThe British wanted to control trade in the Malay Archipelago because it was ____\n\nChoices:\n(A) At the heart of the East.\n(B) well known for its jewellery and spices.\n(C) along the China-India trade route.\n(D) well shelterred from thunderstorms and pirates.\n\nAnswer:\n",
+        "model_prediction": "The British wanted to control trade in the Malay Archipelago because it was (A) At the heart of the East. The region was strategically located at the juncture of major trade routes between Europe, Asia, and Africa, making it a crucial hub for goods like spices, textiles, and slaves. This access to the rich resources and potential markets was a significant reason for the British colonization and control of the area."
+    },
+    {
+        "question": "Which MRT station is most near to the NUS?",
+        "answer": "(D) Buona Vista",
+        "choices": [
+            "(A) Bishan",
+            "(B) Lakeside",
+            "(C) Bedok",
+            "(D) Buona Vista"
+        ],
+        "id": "test_27",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich MRT station is most near to the NUS?\n\nChoices:\n(A) Bishan\n(B) Lakeside\n(C) Bedok\n(D) Buona Vista\n\nAnswer:\n",
+        "model_prediction": "The most appropriate option for the MRT station nearest to the National University of Singapore (NUS) would be (D) Buona Vista. NUS has its main campus at Bukit Timah, and Buona Vista MRT station is located just a short distance away, providing easy access to the university."
+    },
+    {
+        "question": "Why were fishermen, hawkers and shopkeepers important occupations of the immigrant in Singapore?",
+        "answer": "(C) These people provided everyone with daily necessities at low prices.",
+        "choices": [
+            "(A) These jobs allowed people to work in comfortable surroundings.",
+            "(B) These people helped in attracting traders to come to Singapore.",
+            "(C) These people provided everyone with daily necessities at low prices.",
+            "(D) These were well-paid jobs and did not require hard work."
+        ],
+        "id": "test_28",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhy were fishermen, hawkers and shopkeepers important occupations of the immigrant in Singapore?\n\nChoices:\n(A) These jobs allowed people to work in comfortable surroundings.\n(B) These people helped in attracting traders to come to Singapore.\n(C) These people provided everyone with daily necessities at low prices.\n(D) These were well-paid jobs and did not require hard work.\n\nAnswer:\n",
+        "model_prediction": "The most appropriate option for why fishermen, hawkers, and shopkeepers were important occupations for immigrants in Singapore is:\n\n(C) These people provided everyone with daily necessities at low prices.\n\nThese occupations were crucial for the functioning of the local economy, as they catered to the basic needs of the community, offering affordable goods and services. Fishermen provided fresh seafood, hawkers sold fresh produce and snacks, while shopkeepers supplied essential items like food, clothing, and household goods. This helped to create a stable and accessible market for the residents, which in turn attracted more trade and population to the city-state."
+    },
+    {
+        "question": "What is a language spoken by the Peranakans that is a result of the intermarriages between people of different heritage, in Singapore?",
+        "answer": "(C) Chetti Creole",
+        "choices": [
+            "(A) Hakka",
+            "(B) Baweanese",
+            "(C) Chetti Creole",
+            "(D) Urdu"
+        ],
+        "id": "test_29",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhat is a language spoken by the Peranakans that is a result of the intermarriages between people of different heritage, in Singapore?\n\nChoices:\n(A) Hakka\n(B) Baweanese\n(C) Chetti Creole\n(D) Urdu\n\nAnswer:\n",
+        "model_prediction": "The language spoken by the Peranakans, which results from intermarriages between people of different heritage in Singapore, is (C) Chetti Creole. Peranakan language, also known as Peranakan Malay or Bahasa Peranakan, is a unique blend of Malay, Chinese (mainly Hokkien and Cantonese), and other Austronesian languages, with influences from Indian and European words due to the community's history of trade and cultural exchanges. Chetti Creole refers specifically to the Peranakan language spoken by the Peranakan Chinese community in Singapore."
+    },
+    {
+        "question": "Which art venue witnessed the surrender of the Japanese in 1945, and the swearing in of Singapore's first head-of-state and cabinet in 1959?",
+        "answer": "(C) National Gallery Singapore",
+        "choices": [
+            "(A) Victoria Theatre and Victoria Concert Hall",
+            "(B) The Arts House",
+            "(C) National Gallery Singapore",
+            "(D) Singapore Art Museum"
+        ],
+        "id": "test_30",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich art venue witnessed the surrender of the Japanese in 1945, and the swearing in of Singapore's first head-of-state and cabinet in 1959?\n\nChoices:\n(A) Victoria Theatre and Victoria Concert Hall\n(B) The Arts House\n(C) National Gallery Singapore\n(D) Singapore Art Museum\n\nAnswer:\n",
+        "model_prediction": "The art venue that witnessed both the surrender of the Japanese in 1945 and the swearing in of Singapore's first head-of-state and cabinet in 1959 is (A) Victoria Theatre and Victoria Concert Hall. This historic event took place during the British colonial period when these venues were used for official ceremonies and events."
+    },
+    {
+        "question": "Which of the following places made up the Straits Settlements in 1826?",
+        "answer": "(D) Melaka, Penang and Singapore",
+        "choices": [
+            "(A) Johor, Singapore, Melaka",
+            "(B) Bencoolen, Penang and Melaka",
+            "(C) Bencoolen, Penang and Singapore",
+            "(D) Melaka, Penang and Singapore"
+        ],
+        "id": "test_31",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich of the following places made up the Straits Settlements in 1826?\n\nChoices:\n(A) Johor, Singapore, Melaka\n(B) Bencoolen, Penang and Melaka\n(C) Bencoolen, Penang and Singapore\n(D) Melaka, Penang and Singapore\n\nAnswer:\n",
+        "model_prediction": "The Straits Settlements in 1826 were made up of (D) Melaka, Penang, and Singapore. These three territories were under British control and formed part of the colonial entity known as the Straits Settlements, which later expanded to include槟城 (Bencoolen) but that city was not included in the initial formation in 1826."
+    },
+    {
+        "question": "Which of the following statements about John Crawfurd is not true?",
+        "answer": "(C) He started a small police force to maintain law and order in Singapore.",
+        "choices": [
+            "(A) He carried out the Singapore Town Plan in 1823.",
+            "(B) He became the new Resident of Singapore.",
+            "(C) He started a small police force to maintain law and order in Singapore.",
+            "(D) He ordered land along the seafront to be reclaimed."
+        ],
+        "id": "test_32",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich of the following statements about John Crawfurd is not true?\n\nChoices:\n(A) He carried out the Singapore Town Plan in 1823.\n(B) He became the new Resident of Singapore.\n(C) He started a small police force to maintain law and order in Singapore.\n(D) He ordered land along the seafront to be reclaimed.\n\nAnswer:\n",
+        "model_prediction": "We refer to historical knowledge for the accuracy of the statements. \n\n(A) He carried out the Singapore Town Plan in 1823 - This statement is true. John Crawfurd, an English administrator,确实制定了1823年的新加坡城市规划，也被称为\"Crawfurd Plan.\"\n\n(B) He became the new Resident of Singapore - This statement is also true. Crawfurd was appointed as Resident of Singapore in 1822, replacing Thomas Stamford Raffles.\n\n(C) He started a small police force to maintain law and order in Singapore - This statement is true. Crawfurd did establish a"
+    },
+    {
+        "question": "During the 2023 Singapore National Day Rally, the Majulah Package was unveiled to provide benefits to Singaporeans. Which age group is excluded from the package's coverage?",
+        "answer": "(A) 45 to 50 years old",
+        "choices": [
+            "(A) 45 to 50 years old",
+            "(B) 50 to 55 years old",
+            "(C) 55 to 60 years old",
+            "(D) 60 to 65 years old"
+        ],
+        "id": "test_33",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nDuring the 2023 Singapore National Day Rally, the Majulah Package was unveiled to provide benefits to Singaporeans. Which age group is excluded from the package's coverage?\n\nChoices:\n(A) 45 to 50 years old\n(B) 50 to 55 years old\n(C) 55 to 60 years old\n(D) 60 to 65 years old\n\nAnswer:\n",
+        "model_prediction": "Based on the information provided, there is no specific mention of an age group being excluded from the Majulah Package during the 2023 Singapore National Day Rally. The package is typically designed to provide benefits to all Singaporeans, so the answer would be (none of the above) or (not mentioned)."
+    },
+    {
+        "question": "What was the main purpose of the white paper \"Chinese Schools Bilingual Education and Increased Aid\" in 1953?",
+        "answer": "(C) To introduce English Education in local schools",
+        "choices": [
+            "(A) To promote Chinese language and culture in schools",
+            "(B) To provide financial aid to all schools in Singapore",
+            "(C) To introduce English Education in local schools",
+            "(D) To reform the government-run schools and government-aided mission schools"
+        ],
+        "id": "test_34",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhat was the main purpose of the white paper \"Chinese Schools Bilingual Education and Increased Aid\" in 1953?\n\nChoices:\n(A) To promote Chinese language and culture in schools\n(B) To provide financial aid to all schools in Singapore\n(C) To introduce English Education in local schools\n(D) To reform the government-run schools and government-aided mission schools\n\nAnswer:\n",
+        "model_prediction": "The main purpose of the white paper \"Chinese Schools Bilingual Education and Increased Aid\" in 1953 was (A) To promote Chinese language and culture in schools. This paper aimed to establish a bilingual education system in which both Chinese and English were taught, with a focus on preserving and promoting Chinese language and culture while also preparing students for a more globalized society. The aid mentioned in the title refers to the government's support for Chinese schools, not all schools in Singapore. Option (B) is incorrect because it doesn't specifically relate to the white paper, and options (C) and (D) were not the primary"
+    },
+    {
+        "question": "Which one of the following was not a sickness commonly found among the immigrants in Singapore during the early 19th century?",
+        "answer": "(B) Diabetes",
+        "choices": [
+            "(A) Cholera",
+            "(B) Diabetes",
+            "(C) Malaria",
+            "(D) Tuberculosis"
+        ],
+        "id": "test_35",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich one of the following was not a sickness commonly found among the immigrants in Singapore during the early 19th century?\n\nChoices:\n(A) Cholera\n(B) Diabetes\n(C) Malaria\n(D) Tuberculosis\n\nAnswer:\n",
+        "model_prediction": "The option that was not a sickness commonly found among the immigrants in Singapore during the early 19th century is (B) Diabetes. While diabetes can affect anyone, it was not a major health issue for immigrants in that time in Singapore, as it was not a tropical disease and did not have a significant link to the local environment or conditions. Cholera, malaria, and tuberculosis were common due to poor sanitation and inadequate healthcare at that time."
+    },
+    {
+        "question": "____ decided that it was best for Singapore to leave Malaysia and called for the separation.",
+        "answer": "(D) Tunku Abdul Rahman",
+        "choices": [
+            "(A) Lee Kuan Yew",
+            "(B) Toh Chin Chye",
+            "(C) Tun Razak",
+            "(D) Tunku Abdul Rahman"
+        ],
+        "id": "test_36",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\n____ decided that it was best for Singapore to leave Malaysia and called for the separation.\n\nChoices:\n(A) Lee Kuan Yew\n(B) Toh Chin Chye\n(C) Tun Razak\n(D) Tunku Abdul Rahman\n\nAnswer:\n",
+        "model_prediction": "The person who decided that it was best for Singapore to leave Malaysia and called for the separation was (D) Tunku Abdul Rahman. This decision was a key factor in the formation of the independent nation of Singapore in 1965. Tunku Abdul Rahman, as the Prime Minister of Malaysia at the time, negotiated the terms of the Separation Agreement with Singapore's then-Government, which led to the creation of the Republic of Singapore."
+    },
+    {
+        "question": "Which list is in the correct chronological order of Singapore's National Day songs?",
+        "answer": "(A) It's the Little Things, Where I belong, Will You, Love at First Light",
+        "choices": [
+            "(A) It's the Little Things, Where I belong, Will You, Love at First Light",
+            "(B) Where I belong, It's the Little Things, Will You, Love at First Light",
+            "(C) It's the Little Things, Will You,  Love at First Light, Where I belong",
+            "(D) Where I belong, Will You, It's the Little Things, Love at First Light"
+        ],
+        "id": "test_37",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich list is in the correct chronological order of Singapore's National Day songs?\n\nChoices:\n(A) It's the Little Things, Where I belong, Will You, Love at First Light\n(B) Where I belong, It's the Little Things, Will You, Love at First Light\n(C) It's the Little Things, Will You,  Love at First Light, Where I belong\n(D) Where I belong, Will You, It's the Little Things, Love at First Light\n\nAnswer:\n",
+        "model_prediction": "The correct chronological order of Singapore's National Day songs, as they were released or featured in their respective years, is:\n\n1. Where I belong - This song was released in 1972 and became the official theme song for the National Day Parade.\n2. It's the Little Things - This song, originally titled \"It's the Little Things That Count,\" was written and recorded by Harry Stamos in 1965 but wasn't specifically associated with National Day until it was re-recorded by Singaporean singer Tan Chong Hock in the 1980s.\n3. Will You - This song,"
+    },
+    {
+        "question": "Sir Stamford Raffles made several contributions that helped establish Singapore as a thriving settlement. What is one of them?",
+        "answer": "(B) Established a free port for trade",
+        "choices": [
+            "(A) Fought the local rulers to establish law and order in the colony",
+            "(B) Established a free port for trade",
+            "(C) Supported local schools to build better education eviroment",
+            "(D) Cultivated the land for agriculture"
+        ],
+        "id": "test_38",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nSir Stamford Raffles made several contributions that helped establish Singapore as a thriving settlement. What is one of them?\n\nChoices:\n(A) Fought the local rulers to establish law and order in the colony\n(B) Established a free port for trade\n(C) Supported local schools to build better education eviroment\n(D) Cultivated the land for agriculture\n\nAnswer:\n",
+        "model_prediction": "(B) Established a free port for trade\n\nSir Stamford Raffles is known for his role in founding modern Singapore as a British colonial settlement. One of his significant contributions was the establishment of a free port, which attracted merchants and traders from all over the world, fostering economic growth and making Singapore a center for trade. This policy allowed goods to enter and leave the colony without paying tariffs, making it an attractive destination for businesses."
+    },
+    {
+        "question": "Which drink in Singapore has the highest calories?",
+        "answer": "(C) Kopi",
+        "choices": [
+            "(A) Teh O",
+            "(B) Teh Siew Dai",
+            "(C) Kopi",
+            "(D) Kopi C"
+        ],
+        "id": "test_39",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich drink in Singapore has the highest calories?\n\nChoices:\n(A) Teh O\n(B) Teh Siew Dai\n(C) Kopi\n(D) Kopi C\n\nAnswer:\n",
+        "model_prediction": "Based on the typical ingredients and serving sizes, the drink in Singapore that likely has the highest calories is (B) Teh Siew Dai. This dessert drink combines black tea with milk, sugar, and a rich, creamy soup made from tapioca pearls, which can be high in calories due to the added sugar and starch. The other options, like Teh O (plain black tea), Kopi (coffee), and Kopi C (coffee with condensed milk), generally have fewer calories than a sweetened dessert like Teh Siew Dai."
+    },
+    {
+        "question": "What must someone do to attain enlightenment according to Buddhism?",
+        "answer": "(B) The person must be free from desire and suffering.",
+        "choices": [
+            "(A) The person must do whatever the king said.",
+            "(B) The person must be free from desire and suffering.",
+            "(C) The person must be as educated as possible to be 'enlightened'.",
+            "(D) The person must become poor and useless."
+        ],
+        "id": "test_40",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhat must someone do to attain enlightenment according to Buddhism?\n\nChoices:\n(A) The person must do whatever the king said.\n(B) The person must be free from desire and suffering.\n(C) The person must be as educated as possible to be 'enlightened'.\n(D) The person must become poor and useless.\n\nAnswer:\n",
+        "model_prediction": "The answer to attaining enlightenment in Buddhism is (B) The person must be free from desire and suffering. This is a central tenet of Buddhism, which teaches that enlightenment, or Nirvana, can be achieved through the elimination of craving and attachment, known as aversion, and the understanding and liberation from the cycle of birth, death, and rebirth (samsara)."
+    },
+    {
+        "question": "Which one of the following is not the name used by Chinese author Chew Kok Chang in Singapore?",
+        "answer": "(D) Ai Yin",
+        "choices": [
+            "(A) Yu Yin",
+            "(B) Ai Jia",
+            "(C) Qiu Ling",
+            "(D) Ai Yin"
+        ],
+        "id": "test_41",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich one of the following is not the name used by Chinese author Chew Kok Chang in Singapore?\n\nChoices:\n(A) Yu Yin\n(B) Ai Jia\n(C) Qiu Ling\n(D) Ai Yin\n\nAnswer:\n",
+        "model_prediction": "The name that is not used by Chinese author Chew Kok Chang in Singapore is (D) Ai Yin, as it appears to be a typo or a variation of the name Ai Jia which is commonly used. Chew Kok Chang would likely use his real name or a pseudonym, so the correct answer is (D)."
+    },
+    {
+        "question": "The Chinese Protectorate did all the following in Singapore except for ____",
+        "answer": "(B) abolishing the Chinese secret societies",
+        "choices": [
+            "(A) setting up the 'Po Leung Kuk'",
+            "(B) abolishing the Chinese secret societies",
+            "(C) inspecting all the coolie ships",
+            "(D) helping the Chinese settle their quarrels"
+        ],
+        "id": "test_42",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nThe Chinese Protectorate did all the following in Singapore except for ____\n\nChoices:\n(A) setting up the 'Po Leung Kuk'\n(B) abolishing the Chinese secret societies\n(C) inspecting all the coolie ships\n(D) helping the Chinese settle their quarrels\n\nAnswer:\n",
+        "model_prediction": "Based on historical facts, the Chinese Protectorate, also known as the Peranakan Rule or the Chenghuangmiao administration, which ruled Singapore from the 1820s to the early 20th century, did not abolish the Chinese secret societies (Option B). The secret societies continued to exist and were regulated during this period.\n\nHere's a brief explanation of the options:\n- (A) 'Po Leung Kuk': This is not an accurate term. The Po Leung Kuk, also known as the \"Police Cantonment,\" was established by the British colonial government in the late 19th"
+    },
+    {
+        "question": "The ____ in Buddhism are the two teachings",
+        "answer": "(C) Four Noble Truth and Eightfold Path",
+        "choices": [
+            "(A) Eightfold Path and Analects",
+            "(B) Four Noble Truth and Analects",
+            "(C) Four Noble Truth and Eightfold Path",
+            "(D) Analects and the Six Classics"
+        ],
+        "id": "test_43",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nThe ____ in Buddhism are the two teachings\n\nChoices:\n(A) Eightfold Path and Analects\n(B) Four Noble Truth and Analects\n(C) Four Noble Truth and Eightfold Path\n(D) Analects and the Six Classics\n\nAnswer:\n",
+        "model_prediction": "The most appropriate option for the teachings in Buddhism, as a resident of Singapore, would be:\n\n(C) Four Noble Truths and Eightfold Path\n\nThe Four Noble Truths and the Eightfold Path are central to Buddhism. The Four Noble Truths, which form the basis of Buddhist philosophy, are: 1) suffering (dukkha), 2) the cause of suffering (samudaya), 3) the cessation of suffering (nirodha), and 4) the path leading to the cessation of suffering (the Eightfold Path). The Eightfold Path is a set of guidelines for personal moral conduct, mental discipline"
+    },
+    {
+        "question": "Which official was not the one that Qin Shihuang, the Emperor of China, sent to look after the provinces in his empire?",
+        "answer": "(B) The administrative governor",
+        "choices": [
+            "(A) The military leader",
+            "(B) The administrative governor",
+            "(C) The imperial inspector",
+            "(D) The civil leader"
+        ],
+        "id": "test_44",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich official was not the one that Qin Shihuang, the Emperor of China, sent to look after the provinces in his empire?\n\nChoices:\n(A) The military leader\n(B) The administrative governor\n(C) The imperial inspector\n(D) The civil leader\n\nAnswer:\n",
+        "model_prediction": "The answer is (D) The civil leader. Qin Shihuang sent military leaders (A), administrative governors (B), and imperial inspectors (C) to look after the provinces in his empire. However, there wasn't a specific position called \"the civil leader\" in this context. The terms you mentioned, such as military, administrative, and imperial inspectors, were roles responsible for governance and administration under his rule."
+    },
+    {
+        "question": "Why is it important for Singapore to maintain good diplomatic relationships with other nations?",
+        "answer": "(C) For our economic survival",
+        "choices": [
+            "(A) We will be protected in the event of a war",
+            "(B) We can pick sides if there are strained relations between other nations",
+            "(C) For our economic survival",
+            "(D) Singaporeans can travel more freely into other countries"
+        ],
+        "id": "test_45",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhy is it important for Singapore to maintain good diplomatic relationships with other nations?\n\nChoices:\n(A) We will be protected in the event of a war\n(B) We can pick sides if there are strained relations between other nations\n(C) For our economic survival\n(D) Singaporeans can travel more freely into other countries\n\nAnswer:\n",
+        "model_prediction": "The most appropriate option for why it is important for Singapore to maintain good diplomatic relationships with other nations is:\n\n(C) For our economic survival\n\nSingapore is a small island nation with limited natural resources and relies heavily on trade and foreign investment for its prosperity. Good diplomatic relations enable it to access global markets, negotiate favorable trade agreements, attract multinational corporations, and foster a stable business environment. This, in turn, contributes to the country's economic stability and growth."
+    },
+    {
+        "question": "According to the Indus stone seals, what did the ancient Indus people have?",
+        "answer": "(D) A writing system",
+        "choices": [
+            "(A) An efficient government",
+            "(B) An irrigation system",
+            "(C) A religion",
+            "(D) A writing system"
+        ],
+        "id": "test_46",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nAccording to the Indus stone seals, what did the ancient Indus people have?\n\nChoices:\n(A) An efficient government\n(B) An irrigation system\n(C) A religion\n(D) A writing system\n\nAnswer:\n",
+        "model_prediction": "The most accurate information about the Indus stone seals can be found in historical and archaeological records. The Indus stone seals, also known as印章或印章石， were used by the ancient Indus Valley Civilization (IVC) around 2600-1900 BCE. They typically featured inscriptions that represented names or symbols, suggesting a form of communication or record-keeping. \n\nOf the given choices, the one directly related to the Indus stone seals is:\n\n(D) A writing system\n\nThese seals indicate that the IVC had a developed script, which was one of the earliest forms of writing in the world"
+    },
+    {
+        "question": "I signed up for the Citizens On Patrol scheme by the Singapore Police Force so that I can help to look out for suspicious persons or activities in my neighbourhood, and make a report to the Police if necessary. Which one of the Total Defence pillars am I contributing to?",
+        "answer": "(D) Civil Defence",
+        "choices": [
+            "(A) Military Defence",
+            "(B) Social Defence",
+            "(C) Psychological Defence",
+            "(D) Civil Defence"
+        ],
+        "id": "test_47",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nI signed up for the Citizens On Patrol scheme by the Singapore Police Force so that I can help to look out for suspicious persons or activities in my neighbourhood, and make a report to the Police if necessary. Which one of the Total Defence pillars am I contributing to?\n\nChoices:\n(A) Military Defence\n(B) Social Defence\n(C) Psychological Defence\n(D) Civil Defence\n\nAnswer:\n",
+        "model_prediction": "You are contributing to (D) Civil Defence by joining the Citizens On Patrol scheme. This pillar of national security focuses on protecting communities and infrastructure from threats, including crime and other non-military challenges, through community involvement and vigilance."
+    },
+    {
+        "question": "Which of the following was seen as the lowest social class in ancient China because they were thought to be making their living from the hard work of others?",
+        "answer": "(C) Traders",
+        "choices": [
+            "(A) Farmers",
+            "(B) Scholars",
+            "(C) Traders",
+            "(D) Magistrates"
+        ],
+        "id": "test_48",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich of the following was seen as the lowest social class in ancient China because they were thought to be making their living from the hard work of others?\n\nChoices:\n(A) Farmers\n(B) Scholars\n(C) Traders\n(D) Magistrates\n\nAnswer:\n",
+        "model_prediction": "The option that was seen as the lowest social class in ancient China because they were thought to be making their living from the hard work of others is (C) Traders. This is based on the traditional Confucian classification where traders were often associated with merchants who did not have the same level of education or social status as scholars or government officials, who performed more intellectual or administrative roles. Farmers were generally considered the backbone of society but were not necessarily looked down upon as much as traders."
+    },
+    {
+        "question": "Why were the 'outcastes' in ancient India discriminated against?",
+        "answer": "(B) It was due to the nature of their occupation.",
+        "choices": [
+            "(A) It was due to their marriage to other classes.",
+            "(B) It was due to the nature of their occupation.",
+            "(C) It was due to the place they were born.",
+            "(D) It was due to the status of their parents."
+        ],
+        "id": "test_49",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhy were the 'outcastes' in ancient India discriminated against?\n\nChoices:\n(A) It was due to their marriage to other classes.\n(B) It was due to the nature of their occupation.\n(C) It was due to the place they were born.\n(D) It was due to the status of their parents.\n\nAnswer:\n",
+        "model_prediction": "(B) It was due to the nature of their occupation.\n\nIn ancient India, the 'outcastes' or Dalits, were discriminated against primarily because of their occupation, which was considered low or impure according to the caste system. The caste system assigned different jobs and social status based on birth, and those involved in tasks like manual labor, cleaning, or service work were often considered untouchables and faced significant social barriers. This discrimination extended beyond marriage and birthplace and was deeply ingrained in societal norms and practices."
+    },
+    {
+        "question": "Historians have to ensure that their evidence contains statements that agree with one another. This means that the statements are ____",
+        "answer": "(B) corroborative",
+        "choices": [
+            "(A) credible",
+            "(B) corroborative",
+            "(C) consistent",
+            "(D) inconsistent"
+        ],
+        "id": "test_50",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nHistorians have to ensure that their evidence contains statements that agree with one another. This means that the statements are ____\n\nChoices:\n(A) credible\n(B) corroborative\n(C) consistent\n(D) inconsistent\n\nAnswer:\n",
+        "model_prediction": "The answer is (C) consistent.\n\nHistorians strive for consistency in their evidence when presenting a narrative or analysis of events. They aim to build a coherent and reliable picture by ensuring that the various pieces of information they gather and analyze fit together logically. Corroboration (B) refers to supporting evidence, but consistency is more about the internal coherence of the evidence itself. Credibility (A) is about the believability of the sources, while inconsistency (D) would be the opposite of what historians want in their work."
+    },
+    {
+        "question": "What are some ways we can strive to maintain racial and religious harmony in Singapore?",
+        "answer": "(D) Participate in Racial Harmony Day programmes to understand more about the different races",
+        "choices": [
+            "(A) Try the traditional cuisine of other cultures",
+            "(B) Not interacting with other racial or religious communities to avoid potential conflict",
+            "(C) Take some online courses of other cultures",
+            "(D) Participate in Racial Harmony Day programmes to understand more about the different races"
+        ],
+        "id": "test_51",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhat are some ways we can strive to maintain racial and religious harmony in Singapore?\n\nChoices:\n(A) Try the traditional cuisine of other cultures\n(B) Not interacting with other racial or religious communities to avoid potential conflict\n(C) Take some online courses of other cultures\n(D) Participate in Racial Harmony Day programmes to understand more about the different races\n\nAnswer:\n",
+        "model_prediction": "(D) Participate in Racial Harmony Day programmes to understand more about the different races.\n\nStriving for racial and religious harmony in Singapore involves promoting understanding, respect, and integration among the diverse communities. Participating in Racial Harmony Day programmes is an excellent way to do this, as it provides opportunities to learn about different cultures and religions through educational activities and events. This helps to break down stereotypes and foster a sense of unity. Choosing not to interact with other communities or avoiding contact can lead to misunderstandings and further division, while trying traditional cuisines or taking online courses can be helpful but are not direct actions towards fostering harmony."
+    },
+    {
+        "question": "Which year is the first time Stefanie Sun performed Singapore's National Day songs?",
+        "answer": "(B) 2002",
+        "choices": [
+            "(A) 1999",
+            "(B) 2002",
+            "(C) 2005",
+            "(D) 2008"
+        ],
+        "id": "test_52",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich year is the first time Stefanie Sun performed Singapore's National Day songs?\n\nChoices:\n(A) 1999\n(B) 2002\n(C) 2005\n(D) 2008\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) 2002. Stefanie Sun, also known as Sun Yanzi, first performed Singapore's National Day songs during the National Day Parade in 2002. She has since become a popular singer and is often associated with singing these songs to represent the country."
+    },
+    {
+        "question": "Trade officials appointed to look after the needs of foreign traders during the time of the Melaka Sultanate were known as ____",
+        "answer": "(D) Syahbandar",
+        "choices": [
+            "(A) Bendahari",
+            "(B) Mratans",
+            "(C) Mantris",
+            "(D) Syahbandar"
+        ],
+        "id": "test_53",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nTrade officials appointed to look after the needs of foreign traders during the time of the Melaka Sultanate were known as ____\n\nChoices:\n(A) Bendahari\n(B) Mratans\n(C) Mantris\n(D) Syahbandar\n\nAnswer:\n",
+        "model_prediction": "The term that refers to trade officials appointed to look after the needs of foreign traders during the time of the Melaka Sultanate is (C) Mantris. In Malay history, a Mantri was a high-ranking official responsible for administration and trade, particularly in the ports like Melaka where international trade was significant."
+    },
+    {
+        "question": "The oldest of the religions and philosophies that were followed by the ancient people is ____",
+        "answer": "(C) Hinduism",
+        "choices": [
+            "(A) Buddihism",
+            "(B) Christianity",
+            "(C) Hinduism",
+            "(D) Islam"
+        ],
+        "id": "test_54",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nThe oldest of the religions and philosophies that were followed by the ancient people is ____\n\nChoices:\n(A) Buddihism\n(B) Christianity\n(C) Hinduism\n(D) Islam\n\nAnswer:\n",
+        "model_prediction": "The oldest of the religions and philosophies that were followed by ancient people can be traced back to prehistoric times. Among the options provided, (C) Hinduism is the one that has the longest history, dating back to ancient India around 1500 BCE or even earlier. It is the oldest religion still practiced in the world, and its philosophical ideas have influenced many other belief systems."
+    },
+    {
+        "question": "In which year did Singapore raise its GST rate to 9%?",
+        "answer": "(D) 2024",
+        "choices": [
+            "(A) 1994",
+            "(B) 2003",
+            "(C) 2023",
+            "(D) 2024"
+        ],
+        "id": "test_55",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nIn which year did Singapore raise its GST rate to 9%?\n\nChoices:\n(A) 1994\n(B) 2003\n(C) 2023\n(D) 2024\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) 2003. Singapore raised its Goods and Services Tax (GST) rate to 9% in 2003 as part of a series of gradual increases to phase in a more progressive tax system."
+    },
+    {
+        "question": "In Singapore's National Day songs, which lyric contains the word “Singapore”?",
+        "answer": "(B) Home",
+        "choices": [
+            "(A) Love at First Light",
+            "(B) Home",
+            "(C) Will You",
+            "(D) Where I belong"
+        ],
+        "id": "test_56",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nIn Singapore's National Day songs, which lyric contains the word “Singapore”?\n\nChoices:\n(A) Love at First Light\n(B) Home\n(C) Will You\n(D) Where I belong\n\nAnswer:\n",
+        "model_prediction": "The lyric that contains the word \"Singapore\" in Singapore's National Day songs is (B) Home. The song \"Home\" is specifically dedicated to celebrating the nation and its people, and it features the lyrics \"This land, our home, where we belong.\""
+    },
+    {
+        "question": "Where is the “Batman Building” in Singapore?",
+        "answer": "(C) Parkview Square",
+        "choices": [
+            "(A) City Hall",
+            "(B) Orchard Road",
+            "(C) Parkview Square",
+            "(D) Esplanade"
+        ],
+        "id": "test_57",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhere is the “Batman Building” in Singapore?\n\nChoices:\n(A) City Hall\n(B) Orchard Road\n(C) Parkview Square\n(D) Esplanade\n\nAnswer:\n",
+        "model_prediction": "The \"Batman Building\" is not actually a building in Singapore named after the superhero Batman. It might be a reference to one of the buildings that has a distinctive design or features an iconic sculpture resembling Batman. However, among the options provided:\n\n- (A) City Hall is a government building and not known for having a Batman-themed feature.\n- (B) Orchard Road is a famous shopping district but does not have a specific building called the \"Batman Building.\"\n- (C) Parkview Square is a commercial building in the heart of Singapore and is known for its unique \"Batman-like\" structure, featuring a sculpture of the fictional character.\n"
+    },
+    {
+        "question": "Which is the biggest area connected by the following Singapore MRT stations?",
+        "answer": "(D) Tuas Crescent, Bedok, Bishan, Labrador Park",
+        "choices": [
+            "(A) Tuas Crescent, Bedok, Redhill, Labrador Park",
+            "(B) Tuas Crescent, Bedok, Redhill, City Hall",
+            "(C) Tuas Crescent, Bedok, Bishan, City Hall",
+            "(D) Tuas Crescent, Bedok, Bishan, Labrador Park"
+        ],
+        "id": "test_58",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich is the biggest area connected by the following Singapore MRT stations?\n\nChoices:\n(A) Tuas Crescent, Bedok, Redhill, Labrador Park\n(B) Tuas Crescent, Bedok, Redhill, City Hall\n(C) Tuas Crescent, Bedok, Bishan, City Hall\n(D) Tuas Crescent, Bedok, Bishan, Labrador Park\n\nAnswer:\n",
+        "model_prediction": "The answer would be (B) Tuas Crescent, Bedok, Redhill, City Hall, as City Hall is typically considered a central hub and connects to multiple lines of the MRT network, making it the largest area covered by these stations when considering their overall reach. The other options either exclude City Hall or have less extensive coverage."
+    },
+    {
+        "question": "Another word for rebirth is ____",
+        "answer": "(D) reincarnation",
+        "choices": [
+            "(A) caste",
+            "(B) after-life",
+            "(C) non-violence",
+            "(D) reincarnation"
+        ],
+        "id": "test_59",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nAnother word for rebirth is ____\n\nChoices:\n(A) caste\n(B) after-life\n(C) non-violence\n(D) reincarnation\n\nAnswer:\n",
+        "model_prediction": "The most appropriate option for the word \"rebirth\" is:\n\n(D) reincarnation"
+    },
+    {
+        "question": "Which century does the year 134 CE belong to?",
+        "answer": "(B) 2nd century CE",
+        "choices": [
+            "(A) 1st century CE",
+            "(B) 2nd century CE",
+            "(C) 3rd century CE",
+            "(D) 10th century CE"
+        ],
+        "id": "test_60",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich century does the year 134 CE belong to?\n\nChoices:\n(A) 1st century CE\n(B) 2nd century CE\n(C) 3rd century CE\n(D) 10th century CE\n\nAnswer:\n",
+        "model_prediction": "The year 134 CE belongs to the 3rd century CE. So the correct option is:\n\n(C) 3rd century CE"
+    },
+    {
+        "question": "Which of the following dynasties in ancient China introduced the Civil Service Examination?",
+        "answer": "(A) Han Dynasty",
+        "choices": [
+            "(A) Han Dynasty",
+            "(B) Qin Dynasty",
+            "(C) Zhou Dynasty",
+            "(D) Shang Dynasty"
+        ],
+        "id": "test_61",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich of the following dynasties in ancient China introduced the Civil Service Examination?\n\nChoices:\n(A) Han Dynasty\n(B) Qin Dynasty\n(C) Zhou Dynasty\n(D) Shang Dynasty\n\nAnswer:\n",
+        "model_prediction": "The dynasty that introduced the Civil Service Examination in ancient China was (A) the Han Dynasty. The Civil Service Examination system, also known as the Imperial Examinations, began during the Tang Dynasty (618-907 AD) and was formalized and standardized under the Song Dynasty (960-1279 AD), but its roots can be traced back to the Han Dynasty."
+    },
+    {
+        "question": "Which of the following was not a feature of Mohenjo-Daro?",
+        "answer": "(D) Palace",
+        "choices": [
+            "(A) Citadel",
+            "(B) Granary",
+            "(C) Great bath",
+            "(D) Palace"
+        ],
+        "id": "test_62",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich of the following was not a feature of Mohenjo-Daro?\n\nChoices:\n(A) Citadel\n(B) Granary\n(C) Great bath\n(D) Palace\n\nAnswer:\n",
+        "model_prediction": "The option that was not a feature of Mohenjo-Daro is (D) Palace. Mohenjo-Daro, an ancient city located in what is now Pakistan, was a significant urban center of the Indus Valley Civilization, but it did not have a palace like those found in later kingdoms or empires. The other options (Citadel, Granary, and Great bath) were characteristics of the city's architecture and infrastructure."
+    },
+    {
+        "question": "Which of the following rivers is commonly regarded as the 'cradle of Chinese civilisation'?",
+        "answer": "(D) The Yellow River",
+        "choices": [
+            "(A) The Ganges River",
+            "(B) The Mekong River",
+            "(C) The Yangtze River",
+            "(D) The Yellow River"
+        ],
+        "id": "test_63",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich of the following rivers is commonly regarded as the 'cradle of Chinese civilisation'?\n\nChoices:\n(A) The Ganges River\n(B) The Mekong River\n(C) The Yangtze River\n(D) The Yellow River\n\nAnswer:\n",
+        "model_prediction": "The river that is commonly regarded as the 'cradle of Chinese civilization' is (D) The Yellow River."
+    },
+    {
+        "question": "What were gifts made as a form of respect to a king or emperor also known as?",
+        "answer": "(D) Tribute",
+        "choices": [
+            "(A) Donations",
+            "(B) Offerings",
+            "(C) Taxes",
+            "(D) Tribute"
+        ],
+        "id": "test_64",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhat were gifts made as a form of respect to a king or emperor also known as?\n\nChoices:\n(A) Donations\n(B) Offerings\n(C) Taxes\n(D) Tribute\n\nAnswer:\n",
+        "model_prediction": "The gifts made as a form of respect to a king or emperor that are also known as \"tribute\" are represented by option (D)."
+    },
+    {
+        "question": "Buddha attained enlightenment. This means he was ____",
+        "answer": "(D) free from suffering and desire",
+        "choices": [
+            "(A) without food for many days",
+            "(B) in a daze",
+            "(C) far from satisfied",
+            "(D) free from suffering and desire"
+        ],
+        "id": "test_65",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nBuddha attained enlightenment. This means he was ____\n\nChoices:\n(A) without food for many days\n(B) in a daze\n(C) far from satisfied\n(D) free from suffering and desire\n\nAnswer:\n",
+        "model_prediction": "(D) free from suffering and desire\n\nBuddha's attainment of enlightenment is often understood as the realization that he had overcome suffering and achieved a state of inner peace and understanding. This state is characterized by being free from the cycle of birth, death, and rebirth (samsara), as well as the attachment to desires and cravings. Therefore, the correct option is (D)."
+    },
+    {
+        "question": "What shared value does this example demonstrate? I am involved in a group project where some of my team members have strong differing views to mine. However, I try to understand the perspective of others and note down all ideas for consideration instead of being confrontational and pushing for my own viewpoint.",
+        "answer": "(C) Consensus not conflict",
+        "choices": [
+            "(A) Racial and religious harmony",
+            "(B) Community support and respect for the individual",
+            "(C) Consensus not conflict",
+            "(D) Nation before community and society above self"
+        ],
+        "id": "test_66",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhat shared value does this example demonstrate? I am involved in a group project where some of my team members have strong differing views to mine. However, I try to understand the perspective of others and note down all ideas for consideration instead of being confrontational and pushing for my own viewpoint.\n\nChoices:\n(A) Racial and religious harmony\n(B) Community support and respect for the individual\n(C) Consensus not conflict\n(D) Nation before community and society above self\n\nAnswer:\n",
+        "model_prediction": "The shared value demonstrated in the given scenario is (C) Consensus not conflict. By actively trying to understand and incorporate the perspectives of others, even if they differ from your own, and avoiding confrontation, the person is fostering a collaborative and inclusive approach to problem-solving. This aligns with the principle of reaching a consensus rather than insisting on one's own viewpoint at the expense of others' opinions."
+    },
+    {
+        "question": "Which of the following refers to the arrangement of past events, starting with the event that occurred first?",
+        "answer": "(A) Chronology",
+        "choices": [
+            "(A) Chronology",
+            "(B) Circa",
+            "(C) Period",
+            "(D) Timeline"
+        ],
+        "id": "test_67",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich of the following refers to the arrangement of past events, starting with the event that occurred first?\n\nChoices:\n(A) Chronology\n(B) Circa\n(C) Period\n(D) Timeline\n\nAnswer:\n",
+        "model_prediction": "The answer is (A) Chronology. Chronology refers to the arrangement of past events, starting with the event that occurred first, in a sequential order."
+    },
+    {
+        "question": "What does it mean to place 'nation before community and society above self' in Singapore?",
+        "answer": "(B) Making personal sacrifices at times, for the greater good of society",
+        "choices": [
+            "(A) Prioritising the needs of my ethnic group",
+            "(B) Making personal sacrifices at times, for the greater good of society",
+            "(C) Celebrating National Day with pride",
+            "(D) Calling for donations to help fund a personal project"
+        ],
+        "id": "test_68",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhat does it mean to place 'nation before community and society above self' in Singapore?\n\nChoices:\n(A) Prioritising the needs of my ethnic group\n(B) Making personal sacrifices at times, for the greater good of society\n(C) Celebrating National Day with pride\n(D) Calling for donations to help fund a personal project\n\nAnswer:\n",
+        "model_prediction": "(B) Making personal sacrifices at times, for the greater good of society\n\nIn Singapore, the phrase \"place nation before community and society above self\" means that individuals are expected to prioritize the well-being and success of the country as a whole over their personal interests or those of their immediate groups. This involves making personal sacrifices and working together for the common good, rather than just focusing on individual gain. It is a core value that contributes to Singapore's cohesive and prosperous society."
+    },
+    {
+        "question": "Gupta doctors were highly regarded because they knew how to use herbs to ____",
+        "answer": "(A) dull pain and prevent infection",
+        "choices": [
+            "(A) dull pain and prevent infection",
+            "(B) soothe the nerves",
+            "(C) comfort the patient",
+            "(D) stop the bleeding"
+        ],
+        "id": "test_69",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nGupta doctors were highly regarded because they knew how to use herbs to ____\n\nChoices:\n(A) dull pain and prevent infection\n(B) soothe the nerves\n(C) comfort the patient\n(D) stop the bleeding\n\nAnswer:\n",
+        "model_prediction": "Based on the context of using herbs for medicinal purposes, the most appropriate option would be:\n\n(A) dull pain and prevent infection\n\nHerbs have been traditionally used in Ayurvedic medicine and Chinese medicine, which are practiced in Singapore, to alleviate various ailments including pain and boost immune system function to prevent infections."
+    },
+    {
+        "question": "The Malays lived in ____ under the Singapore Town Plan which was drafted in 1822.",
+        "answer": "(B) Kampong Glam",
+        "choices": [
+            "(A) Kampong Chulia",
+            "(B) Kampong Glam",
+            "(C) Commercial Square",
+            "(D) Chinatown"
+        ],
+        "id": "test_70",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nThe Malays lived in ____ under the Singapore Town Plan which was drafted in 1822.\n\nChoices:\n(A) Kampong Chulia\n(B) Kampong Glam\n(C) Commercial Square\n(D) Chinatown\n\nAnswer:\n",
+        "model_prediction": "(B) Kampong Glam"
+    },
+    {
+        "question": "Which of the following classes in ancient India was the highest in the castle system?",
+        "answer": "(A) Brahmins",
+        "choices": [
+            "(A) Brahmins",
+            "(B) Kshatriyas",
+            "(C) Shudras",
+            "(D) Pariahs"
+        ],
+        "id": "test_71",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich of the following classes in ancient India was the highest in the castle system?\n\nChoices:\n(A) Brahmins\n(B) Kshatriyas\n(C) Shudras\n(D) Pariahs\n\nAnswer:\n",
+        "model_prediction": "The class system in ancient India, also known as the caste system, was hierarchical. The highest class, or the one considered the noblest and priestly, was (A) Brahmins. They were responsible for religious activities and held the most knowledge and education. Kshatriyas were the warrior class, followed by Shudras, who were mainly involved in manual labor, and Pariahs were at the lowest position, often considered outcasts and not allowed to intermarry with other castes."
+    },
+    {
+        "question": "What are some ways we can strive to maintain racial and religious harmony in Singapore?",
+        "answer": "(B) Ask a neighbour of a different race to explain more about their cultural practices",
+        "choices": [
+            "(A) Try the traditional cuisine of other cultures",
+            "(B) Ask a neighbour of a different race to explain more about their cultural practices",
+            "(C) Not interacting with other racial or religious communities to avoid potential conflict",
+            "(D) Take some online courses of other cultures"
+        ],
+        "id": "test_72",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhat are some ways we can strive to maintain racial and religious harmony in Singapore?\n\nChoices:\n(A) Try the traditional cuisine of other cultures\n(B) Ask a neighbour of a different race to explain more about their cultural practices\n(C) Not interacting with other racial or religious communities to avoid potential conflict\n(D) Take some online courses of other cultures\n\nAnswer:\n",
+        "model_prediction": "The most appropriate way to strive for racial and religious harmony in Singapore is:\n\n(B) Ask a neighbour of a different race to explain more about their cultural practices\n\nThis approach promotes understanding and interaction between different communities, which can help break down stereotypes and foster mutual respect. Trying the traditional cuisine or taking online courses can also be beneficial, but directly engaging with neighbors and learning about their practices is a practical and direct way to promote harmony. Avoiding interaction altogether is not a solution and can lead to further isolation and tension."
+    },
+    {
+        "question": "The opening of the Suez Canal brought about ____",
+        "answer": "(B) a great expansion in Singapore's trade.",
+        "choices": [
+            "(A) a drastic fall in Singapore's trade.",
+            "(B) a great expansion in Singapore's trade.",
+            "(C) a rush for food in Singapore.",
+            "(D) the outbreak of diseases in Singapore."
+        ],
+        "id": "test_73",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nThe opening of the Suez Canal brought about ____\n\nChoices:\n(A) a drastic fall in Singapore's trade.\n(B) a great expansion in Singapore's trade.\n(C) a rush for food in Singapore.\n(D) the outbreak of diseases in Singapore.\n\nAnswer:\n",
+        "model_prediction": "(B) a great expansion in Singapore's trade.\n\nThe opening of the Suez Canal in 1869 significantly reduced the travel time and cost for goods between Europe and Asia, including those passing through Singapore. This had a direct positive impact on Singapore's trade, as it provided a faster and more convenient route for goods like coal, textiles, and other commodities. As a result, Singapore's port became an important hub for international trade, leading to a boost in its economy."
+    },
+    {
+        "question": "Which MRT station is most near to the NTU?",
+        "answer": "(B) Lakeside",
+        "choices": [
+            "(A) Bishan",
+            "(B) Lakeside",
+            "(C) Bedok",
+            "(D) Buona Vista"
+        ],
+        "id": "test_74",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich MRT station is most near to the NTU?\n\nChoices:\n(A) Bishan\n(B) Lakeside\n(C) Bedok\n(D) Buona Vista\n\nAnswer:\n",
+        "model_prediction": "The most appropriate option for the MRT station nearest to Nanyang Technological University (NTU) would be:\n\n(D) Buona Vista\n\nBuona Vista MRT station is well-connected to NTU via the Thomson-East Coast Line (TEL), offering easy access for students and staff alike."
+    },
+    {
+        "question": "Which one of the following would least likely trigger a peasant rebellion?",
+        "answer": "(D) People wanted the king's power for themselves.",
+        "choices": [
+            "(A) People suffered from shortage of food.",
+            "(B) People were not happy with the laws.",
+            "(C) People suffered a loss in property and crops due to floods.",
+            "(D) People wanted the king's power for themselves."
+        ],
+        "id": "test_75",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich one of the following would least likely trigger a peasant rebellion?\n\nChoices:\n(A) People suffered from shortage of food.\n(B) People were not happy with the laws.\n(C) People suffered a loss in property and crops due to floods.\n(D) People wanted the king's power for themselves.\n\nAnswer:\n",
+        "model_prediction": "Based on historical context and the dynamics of societies during the time when peasants typically rebelled, the option that would least likely trigger a peasant rebellion is (D) People wanted the king's power for themselves. Peasant rebellions were often driven by economic hardships, such as crop failures or lack of access to food (option A), dissatisfaction with the ruling class or their policies (option B), or natural disasters like floods that caused property loss and damage (option C). Wanting the king's power for themselves, while it could be a motivation in some cases, is not directly tied to the specific conditions that typically lead to peasant revolts"
+    },
+    {
+        "question": "Which of the following occupations was looked down upon in ancient China as they were thought to rely on the hard work of others?",
+        "answer": "(D) Traders",
+        "choices": [
+            "(A) Craftsmen",
+            "(B) Farmers",
+            "(C) Scholars",
+            "(D) Traders"
+        ],
+        "id": "test_76",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich of the following occupations was looked down upon in ancient China as they were thought to rely on the hard work of others?\n\nChoices:\n(A) Craftsmen\n(B) Farmers\n(C) Scholars\n(D) Traders\n\nAnswer:\n",
+        "model_prediction": "The occupation that was looked down upon in ancient China as they were thought to rely on the hard work of others is (D) Traders. This was because traders were often associated with wealth accumulation through trade, which was seen as less noble than manual labor or intellectual pursuits like being a scholar or farmer."
+    },
+    {
+        "question": "Which one of the following is not the albums and singles written by Singapore singer-songwriter Art Fazil?",
+        "answer": "(C) The flying glass balls",
+        "choices": [
+            "(A) Rausyanfikir rusuhan fikiran",
+            "(B) Nur",
+            "(C) The flying glass balls",
+            "(D) Song for the world"
+        ],
+        "id": "test_77",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich one of the following is not the albums and singles written by Singapore singer-songwriter Art Fazil?\n\nChoices:\n(A) Rausyanfikir rusuhan fikiran\n(B) Nur\n(C) The flying glass balls\n(D) Song for the world\n\nAnswer:\n",
+        "model_prediction": "The album \"Song for the World\" is not written by Art Fazil, the Singaporean singer-songwriter. The correct answer is (D)."
+    },
+    {
+        "question": "When a kingdom is troubled by natural disasters, the ancient Chinese believed that the ruler has ____",
+        "answer": "(B) lost the Mandate of Heaven",
+        "choices": [
+            "(A) to consult the oracle bones to bring good luck",
+            "(B) lost the Mandate of Heaven",
+            "(C) to present offerings to his ancestors",
+            "(D) not donated money to the temple"
+        ],
+        "id": "test_78",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhen a kingdom is troubled by natural disasters, the ancient Chinese believed that the ruler has ____\n\nChoices:\n(A) to consult the oracle bones to bring good luck\n(B) lost the Mandate of Heaven\n(C) to present offerings to his ancestors\n(D) not donated money to the temple\n\nAnswer:\n",
+        "model_prediction": "(B) lost the Mandate of Heaven\n\nAccording to ancient Chinese beliefs, if a kingdom or emperor was unable to effectively govern and handle natural disasters, it was believed that they had \"lost the Mandate of Heaven.\" This concept holds that the gods had bestowed authority on the ruler, but if they failed to fulfill their duties and maintain order, the gods could withdraw that mandate, leading to a decline in their rule and potential downfall. The other options do not directly relate to this belief in the context of dealing with natural disasters."
+    },
+    {
+        "question": "Which of the following is a feature of feudalism?",
+        "answer": "(B) The men are given land in return for their support.",
+        "choices": [
+            "(A) The kingdom is ruled from the capital by a king.",
+            "(B) The men are given land in return for their support.",
+            "(C) The state is under the protection of a stronger king.",
+            "(D) There is a single system of administration."
+        ],
+        "id": "test_79",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich of the following is a feature of feudalism?\n\nChoices:\n(A) The kingdom is ruled from the capital by a king.\n(B) The men are given land in return for their support.\n(C) The state is under the protection of a stronger king.\n(D) There is a single system of administration.\n\nAnswer:\n",
+        "model_prediction": "(B) The men are given land in return for their support.\n\nFeudalism is characterized by the granting of land and privileges to vassals in exchange for loyalty and military service. This system was prevalent in Europe during the Middle Ages and involved a hierarchical structure where lords gave land to knights or peasants in return for their service. Therefore, option (B) accurately represents a feature of feudalism."
+    },
+    {
+        "question": "Why is it important to rejuvenate historic districts such as Little India and Kampong Glam through arts and culture programming in Singapore?",
+        "answer": "(C) It connects us to the stories and communities of the area and reminds us of our heritage",
+        "choices": [
+            "(A) To prevent ethnic enclaves from being formed",
+            "(B) It increases the real estate value of these spaces and brings in larger investments",
+            "(C) It connects us to the stories and communities of the area and reminds us of our heritage",
+            "(D) To prevent these neighbourhoods from being demolished"
+        ],
+        "id": "test_80",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhy is it important to rejuvenate historic districts such as Little India and Kampong Glam through arts and culture programming in Singapore?\n\nChoices:\n(A) To prevent ethnic enclaves from being formed\n(B) It increases the real estate value of these spaces and brings in larger investments\n(C) It connects us to the stories and communities of the area and reminds us of our heritage\n(D) To prevent these neighbourhoods from being demolished\n\nAnswer:\n",
+        "model_prediction": "The most appropriate answer is (C) It connects us to the stories and communities of the area and reminds us of our heritage.\n\nRejuvenating historic districts like Little India and Kampong Glam through arts and culture programming helps preserve their cultural significance and heritage. These neighborhoods have rich histories and traditions that are an integral part of Singapore's identity. By promoting arts and culture, people can engage with and learn about their roots, fostering a sense of belonging and understanding among different ethnic groups. This also contributes to the cultural diversity and richness of the city-state. Options (A), (B), and (D) may be secondary effects, but the"
+    },
+    {
+        "question": "Which of the following was the most important caste in the time of the Indus Valley Civillisation?",
+        "answer": "(A) Brahmins",
+        "choices": [
+            "(A) Brahmins",
+            "(B) Kshatriyas",
+            "(C) Shudras",
+            "(D) Vaishyas"
+        ],
+        "id": "test_81",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich of the following was the most important caste in the time of the Indus Valley Civillisation?\n\nChoices:\n(A) Brahmins\n(B) Kshatriyas\n(C) Shudras\n(D) Vaishyas\n\nAnswer:\n",
+        "model_prediction": "There is no information available about castes in the Indus Valley Civilization as they did not have a system of castes like the one present in ancient India. The Indus Valley Civilization was a urbanized and sophisticated culture that existed around 2600-1900 BCE, and their social organization was based on occupational groups rather than strict caste divisions. Therefore, none of the options provided (A, B, C, or D) accurately represent the most important caste in that time."
+    },
+    {
+        "question": "Who was the first Protector of the Chinese in May 1877?",
+        "answer": "(B) William Pickering",
+        "choices": [
+            "(A) Dr Lim Boon Keng",
+            "(B) William Pickering",
+            "(C) Thomas Dunman",
+            "(D) Gan Eng Seng"
+        ],
+        "id": "test_82",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWho was the first Protector of the Chinese in May 1877?\n\nChoices:\n(A) Dr Lim Boon Keng\n(B) William Pickering\n(C) Thomas Dunman\n(D) Gan Eng Seng\n\nAnswer:\n",
+        "model_prediction": "The first Protector of the Chinese in Singapore, as per historical records, was (D) Gan Eng Seng. He was appointed in 1877 to oversee the protection and welfare of the Chinese community in the face of growing tensions and conflicts at that time."
+    },
+    {
+        "question": "\"Mandate of Heaven\" is the right to rule as a result of the blessing and approval of ____",
+        "answer": "(A) gods",
+        "choices": [
+            "(A) gods",
+            "(B) priests",
+            "(C) the people",
+            "(D) officials"
+        ],
+        "id": "test_83",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\n\"Mandate of Heaven\" is the right to rule as a result of the blessing and approval of ____\n\nChoices:\n(A) gods\n(B) priests\n(C) the people\n(D) officials\n\nAnswer:\n",
+        "model_prediction": "The Mandate of Heaven, an ancient Chinese philosophical concept, suggests that the ruler or government has its legitimacy because it receives divine approval or the trust of the people. Therefore, the correct answer is:\n\n(C) the people"
+    },
+    {
+        "question": "What are some ways we can practise/live out the shared value 'community support and respect for the individual' in Singapore?",
+        "answer": "(D) Help to run errands for seniors in our residential estate",
+        "choices": [
+            "(A) Visit religious sites of other communities",
+            "(B) Put the nation and community first in times of crisis",
+            "(C) Choose to live near our parents",
+            "(D) Help to run errands for seniors in our residential estate"
+        ],
+        "id": "test_84",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhat are some ways we can practise/live out the shared value 'community support and respect for the individual' in Singapore?\n\nChoices:\n(A) Visit religious sites of other communities\n(B) Put the nation and community first in times of crisis\n(C) Choose to live near our parents\n(D) Help to run errands for seniors in our residential estate\n\nAnswer:\n",
+        "model_prediction": "(D) Help to run errands for seniors in our residential estate\n\nPracticing community support and respect for the individual in Singapore can be observed through various actions that promote intergenerational care and neighborly kindness. One such way is by helping seniors in your residential estate, as it demonstrates empathy and assistance without compromising their independence. This aligns with the spirit of community support and respect for individual needs. Options (A), (B), and (C) do not directly relate to these values but may be part of broader cultural practices or personal choices, but helping seniors is a specific act that embodies the shared value."
+    },
+    {
+        "question": "Which of the following is not well-known for his philanthropy acts in Singapore?",
+        "answer": "(C) Eunos Abdullah",
+        "choices": [
+            "(A) Tan Tock Seng",
+            "(B) Govindasamy Pillai",
+            "(C) Eunos Abdullah",
+            "(D) Syed Omar Al-junied"
+        ],
+        "id": "test_85",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich of the following is not well-known for his philanthropy acts in Singapore?\n\nChoices:\n(A) Tan Tock Seng\n(B) Govindasamy Pillai\n(C) Eunos Abdullah\n(D) Syed Omar Al-junied\n\nAnswer:\n",
+        "model_prediction": "The answer is (D) Syed Omar Al-junied. While Syed Omar Al-junied is a prominent figure in Singapore's business and politics, he is not particularly well-known for his philanthropic acts. The other options, Tan Tock Seng, Govindasamy Pillai, and Eunos Abdullah, are all known for their significant contributions to philanthropy in the country. Tan Tock Seng is famous for founding the Singapore General Hospital and setting up the Tan Tock Seng Foundation, Govindasamy Pillai established the Indian School of Social Service Management, and Eunos Abdullah was involved with various"
+    },
+    {
+        "question": "On 9 August 1965, Singapore separated from the Federation of Malaysia for this reason:",
+        "answer": "(D) Deep political and economic differences between the ruling parties of Singapore and Malaysia",
+        "choices": [
+            "(A) United Nations did not support the merger",
+            "(B) Geopolitical tensions with other countries in the region",
+            "(C) Citizens in Singapore wanted an independent state",
+            "(D) Deep political and economic differences between the ruling parties of Singapore and Malaysia"
+        ],
+        "id": "test_86",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nOn 9 August 1965, Singapore separated from the Federation of Malaysia for this reason:\n\nChoices:\n(A) United Nations did not support the merger\n(B) Geopolitical tensions with other countries in the region\n(C) Citizens in Singapore wanted an independent state\n(D) Deep political and economic differences between the ruling parties of Singapore and Malaysia\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (D) Deep political and economic differences between the ruling parties of Singapore and Malaysia.\n\nIn 1965, Singapore decided to separate from Malaysia due to significant disagreements between the two countries' governments. The main reasons were deep political differences over issues such as race policies, economic planning, and governance, as well as concerns about Malaysia's direction and the treatment of Singaporean interests. The United Nations did not directly play a role in the separation decision; it was a domestic issue for both nations."
+    },
+    {
+        "question": "Which of the following refers to a group of people ruled by the same government and sharing common needs?",
+        "answer": "(C) Society",
+        "choices": [
+            "(A) Civilisation",
+            "(B) Class",
+            "(C) Society",
+            "(D) Tribe"
+        ],
+        "id": "test_87",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich of the following refers to a group of people ruled by the same government and sharing common needs?\n\nChoices:\n(A) Civilisation\n(B) Class\n(C) Society\n(D) Tribe\n\nAnswer:\n",
+        "model_prediction": "The term that refers to a group of people ruled by the same government and sharing common needs is (C) Society. \n\nIn Singapore, society is composed of individuals who live together under a single government, with policies and laws aimed at addressing the collective needs and welfare of its citizens. The other options do not accurately capture this characteristic:\n\n- Civilization typically refers to a complex human culture with advanced institutions and achievements, not just a group governed by a single entity.\n- Class often refers to social strata based on income or occupation, rather than political governance.\n- Tribe can refer to a smaller, more isolated group based on shared ancestry or culture"
+    },
+    {
+        "question": "Why is the Central Provident Fund (CPF) important?",
+        "answer": "(D) It helps us to be self-reliant in setting aside funds for our retirement",
+        "choices": [
+            "(A) It provides a safety-net for our children",
+            "(B) We do not have to rely on alternative savings plans",
+            "(C) We can reduce our taxable income by topping up our CPF",
+            "(D) It helps us to be self-reliant in setting aside funds for our retirement"
+        ],
+        "id": "test_88",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhy is the Central Provident Fund (CPF) important?\n\nChoices:\n(A) It provides a safety-net for our children\n(B) We do not have to rely on alternative savings plans\n(C) We can reduce our taxable income by topping up our CPF\n(D) It helps us to be self-reliant in setting aside funds for our retirement\n\nAnswer:\n",
+        "model_prediction": "(D) It helps us to be self-reliant in setting aside funds for our retirement.\n\nThe Central Provident Fund (CPF) is an essential part of the social security system in Singapore, as it plays a crucial role in securing the financial future of its citizens. The main purpose of CPF is to help individuals save for their retirement, as well as provide a safety net for healthcare and other needs in old age. By contributing to the CPF, Singaporeans can benefit from various benefits such as housing grants, Medisave contributions that can be used for medical expenses, and the possibility of receiving a pension when they retire. Therefore, the"
+    },
+    {
+        "question": "By welcoming people from different backgrounds, cultures and nationalities into our workforce of Singapore, we benefit economically in the following way:",
+        "answer": "(B) We gain skillsets that complement our local workforce",
+        "choices": [
+            "(A) It adds to our diverse and multicultural society",
+            "(B) We gain skillsets that complement our local workforce",
+            "(C) It helps to establish stronger diplomatic relations",
+            "(D) We reduce pressure on society to support our ageing population"
+        ],
+        "id": "test_89",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nBy welcoming people from different backgrounds, cultures and nationalities into our workforce of Singapore, we benefit economically in the following way:\n\nChoices:\n(A) It adds to our diverse and multicultural society\n(B) We gain skillsets that complement our local workforce\n(C) It helps to establish stronger diplomatic relations\n(D) We reduce pressure on society to support our ageing population\n\nAnswer:\n",
+        "model_prediction": "(B) We gain skillsets that complement our local workforce"
+    },
+    {
+        "question": "To avoid linking the dating system to Christianity, which of the following can we use?",
+        "answer": "(B) CE and BCE",
+        "choices": [
+            "(A) AD and BC",
+            "(B) CE and BCE",
+            "(C) AD and BCE",
+            "(D) CE and BC"
+        ],
+        "id": "test_90",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nTo avoid linking the dating system to Christianity, which of the following can we use?\n\nChoices:\n(A) AD and BC\n(B) CE and BCE\n(C) AD and BCE\n(D) CE and BC\n\nAnswer:\n",
+        "model_prediction": "The dating system that avoids linking it to Christianity is (B) CE and BCE. This system, introduced by the Roman Empire in the 4th century, uses \"CE\" (Common Era) for years after the birth of Jesus Christ and \"BCE\" (Before the Common Era) for years before his birth, separating religious from historical dating. This system was adopted to indicate a more secular approach to dating, separate from the traditional Christian calendar."
+    },
+    {
+        "question": "Why did the Deputy Prime Minister Goh Chok Tong suggest the need for Singapore to adopt a set of shared national values?",
+        "answer": "(B) To anchor a Singaporean identity that represents our multicultural heritage and the values that have shaped our success",
+        "choices": [
+            "(A) To spur economic growth and advance our position in the global market",
+            "(B) To anchor a Singaporean identity that represents our multicultural heritage and the values that have shaped our success",
+            "(C) To reduce underlying tensions caused by the race riots",
+            "(D) To instil in students values that would support their professional goals"
+        ],
+        "id": "test_91",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhy did the Deputy Prime Minister Goh Chok Tong suggest the need for Singapore to adopt a set of shared national values?\n\nChoices:\n(A) To spur economic growth and advance our position in the global market\n(B) To anchor a Singaporean identity that represents our multicultural heritage and the values that have shaped our success\n(C) To reduce underlying tensions caused by the race riots\n(D) To instil in students values that would support their professional goals\n\nAnswer:\n",
+        "model_prediction": "(B) To anchor a Singaporean identity that represents our multicultural heritage and the values that have shaped our success.\n\nGoh Chok Tong suggested the need for a set of shared national values to foster a sense of unity and identity among the diverse population of Singapore. These values, rooted in the country's multicultural heritage and the principles that have contributed to its success, aim to bind citizens together and promote understanding and harmony."
+    },
+    {
+        "question": "What do you call a government system in which the king owned all the land but gave land to lords who then ruled it for him out of loyalty to the king?",
+        "answer": "(A) Feudalism",
+        "choices": [
+            "(A) Feudalism",
+            "(B) Wicked rule",
+            "(C) Centralised rule",
+            "(D) Civil service"
+        ],
+        "id": "test_92",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhat do you call a government system in which the king owned all the land but gave land to lords who then ruled it for him out of loyalty to the king?\n\nChoices:\n(A) Feudalism\n(B) Wicked rule\n(C) Centralised rule\n(D) Civil service\n\nAnswer:\n",
+        "model_prediction": "The government system you are referring to that involves a king owning all the land and giving it to lords who ruled in return for loyalty is (A) Feudalism. This system was common in medieval Europe, where power was typically hierarchical and based on land ownership and vassalage."
+    },
+    {
+        "question": "The Indonesian flag is most similar to the flag of what other country?",
+        "answer": "(A) Monaco",
+        "choices": [
+            "(A) Monaco",
+            "(B) Vietnam",
+            "(C) China",
+            "(D) Oman"
+        ],
+        "id": "test_93",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nThe Indonesian flag is most similar to the flag of what other country?\n\nChoices:\n(A) Monaco\n(B) Vietnam\n(C) China\n(D) Oman\n\nAnswer:\n",
+        "model_prediction": "The Indonesian flag is most similar to the flag of (C) China. Both flags feature a red background with a diagonal band of two horizontal colors - Indonesia uses a red-white diagonal, while China uses a red-yellow diagonal. The other options do not have this distinctive feature in their flags."
+    },
+    {
+        "question": "Which of these were measures taken by a king to prevent a rebellion?",
+        "answer": "(C) Forcing the princes and members of the ruling class to pay tribute.",
+        "choices": [
+            "(A) Implementing a spy system.",
+            "(B) Sending the princes to govern distant provinces.",
+            "(C) Forcing the princes and members of the ruling class to pay tribute.",
+            "(D) Threatening to kill or make the princes' families suffer."
+        ],
+        "id": "test_94",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich of these were measures taken by a king to prevent a rebellion?\n\nChoices:\n(A) Implementing a spy system.\n(B) Sending the princes to govern distant provinces.\n(C) Forcing the princes and members of the ruling class to pay tribute.\n(D) Threatening to kill or make the princes' families suffer.\n\nAnswer:\n",
+        "model_prediction": "The most appropriate measure taken by a king to prevent a rebellion, especially in ancient or historical contexts, would be a combination of options (A) and (B). Implementing a spy system (to keep an eye on potential discontents) and sending the princes to govern distant provinces (to distribute power and reduce concentration of authority) can help to maintain stability and prevent rebellions. While (C) and (D) might be used as leverage or punishment if a rebellion did occur, they are not preventive measures in and of themselves. So, the closest answer would be:\n\n(A) Implementing a spy system.\n(B) Sending the princes"
+    },
+    {
+        "question": "Which one of the statements below about the Indus Valley Civilisation is false?",
+        "answer": "(C) The Indus Valley people stored grain in the citadel for times of drought.",
+        "choices": [
+            "(A) The Indus Valley civilisation had a strong government.",
+            "(B) The Indus Valley seals showed that they had a common language.",
+            "(C) The Indus Valley people stored grain in the citadel for times of drought.",
+            "(D) The Indus Valley Civilisation had a drainage system that was ahead of their time."
+        ],
+        "id": "test_95",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhich one of the statements below about the Indus Valley Civilisation is false?\n\nChoices:\n(A) The Indus Valley civilisation had a strong government.\n(B) The Indus Valley seals showed that they had a common language.\n(C) The Indus Valley people stored grain in the citadel for times of drought.\n(D) The Indus Valley Civilisation had a drainage system that was ahead of their time.\n\nAnswer:\n",
+        "model_prediction": "(C) The Indus Valley people stored grain in the citadel for times of drought.\n\nThis statement is false. There is no archaeological evidence to suggest that the Indus Valley people stored grain in the citadel specifically for times of drought. While the Indus Valley Civilization did have advanced urban planning and water management systems, including a sophisticated drainage system, there is no record of grain storage in citadels as a drought resilience measure. The other statements are generally accepted as true about the Indus Valley Civilization."
+    },
+    {
+        "question": "When the immigrants came to Singapore, they settled near?",
+        "answer": "(B) the mouth of the Singapore River",
+        "choices": [
+            "(A) Little India",
+            "(B) the mouth of the Singapore River",
+            "(C) Fort Canning",
+            "(D) European Town"
+        ],
+        "id": "test_96",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhen the immigrants came to Singapore, they settled near?\n\nChoices:\n(A) Little India\n(B) the mouth of the Singapore River\n(C) Fort Canning\n(D) European Town\n\nAnswer:\n",
+        "model_prediction": "The most appropriate option for where immigrants who came to Singapore settled, especially those from South Asia, would be (A) Little India. This area is known for its large concentration of ethnic Indians and is a hub for Indian culture and businesses. The other options may not have a specific association with immigrant settlements or may not primarily house immigrants."
+    },
+    {
+        "question": "The ____ is the largest religious monument in the world.",
+        "answer": "(C) Angkor Wat",
+        "choices": [
+            "(A) Borobudur",
+            "(B) Ananda Temple",
+            "(C) Angkor Wat",
+            "(D) Prambanan Temple"
+        ],
+        "id": "test_97",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nThe ____ is the largest religious monument in the world.\n\nChoices:\n(A) Borobudur\n(B) Ananda Temple\n(C) Angkor Wat\n(D) Prambanan Temple\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (C) Angkor Wat.\n\nAngkor Wat is the largest religious monument in the world, located in Cambodia. It is a temple complex built for the Khmer Empire and is considered one of the greatest architectural and religious achievements of the Angkor period. While some of the other options you mentioned are also significant temples in Southeast Asia, they are not as large as Angkor Wat."
+    },
+    {
+        "question": "The Pledge was composed in 1966 by the then Minister for Culture in Singapore, ____.",
+        "answer": "(B) S. Rajaratnam",
+        "choices": [
+            "(A) Lee Kuan Yew",
+            "(B) S. Rajaratnam",
+            "(C) Yusof bin Ishak",
+            "(D) Zubir Said"
+        ],
+        "id": "test_98",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nThe Pledge was composed in 1966 by the then Minister for Culture in Singapore, ____.\n\nChoices:\n(A) Lee Kuan Yew\n(B) S. Rajaratnam\n(C) Yusof bin Ishak\n(D) Zubir Said\n\nAnswer:\n",
+        "model_prediction": "(D) Zubir Said"
+    },
+    {
+        "question": "Why is secularism important in our society of Singapore?",
+        "answer": "(A) It enables people of different religions to live in harmony",
+        "choices": [
+            "(A) It enables people of different religions to live in harmony",
+            "(B) It allows each religion to form their own support group",
+            "(C) It allows us to propagate our own religion",
+            "(D) It enables us to formulate policies that are in favour of each religious group"
+        ],
+        "id": "test_99",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nWhy is secularism important in our society of Singapore?\n\nChoices:\n(A) It enables people of different religions to live in harmony\n(B) It allows each religion to form their own support group\n(C) It allows us to propagate our own religion\n(D) It enables us to formulate policies that are in favour of each religious group\n\nAnswer:\n",
+        "model_prediction": "(A) It enables people of different religions to live in harmony. \n\nSecularism in Singapore means that the state does not officially favor or promote any particular religion, and it upholds the separation of religion and state. This policy promotes religious tolerance and coexistence among people of various faiths, allowing them to live together peacefully without interference from the government."
+    },
+    {
+        "question": "____ signed the Anglo-Dutch Treaty. in August 1824 which made Singapore part of the 'Straits Settlements'.",
+        "answer": "(B) John Crawfurd",
+        "choices": [
+            "(A) Sir Stamford Raffles",
+            "(B) John Crawfurd",
+            "(C) Tengku Hussein",
+            "(D) William Farquhar"
+        ],
+        "id": "test_100",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\n____ signed the Anglo-Dutch Treaty. in August 1824 which made Singapore part of the 'Straits Settlements'.\n\nChoices:\n(A) Sir Stamford Raffles\n(B) John Crawfurd\n(C) Tengku Hussein\n(D) William Farquhar\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (A) Sir Stamford Raffles. He signed the Anglo-Dutch Treaty in August 1824, which established Singapore as part of the Straits Settlements."
+    },
+    {
+        "question": "In ancient China, the men had to pass the ____ in order to work in the government departments.",
+        "answer": "(C) Imperial Civil Service Examinations",
+        "choices": [
+            "(A) Imperial Public Service Examinations",
+            "(B) Imperial Public Servant Examinations",
+            "(C) Imperial Civil Service Examinations",
+            "(D) Imperial Civil Servant Examinations"
+        ],
+        "id": "test_101",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nIn ancient China, the men had to pass the ____ in order to work in the government departments.\n\nChoices:\n(A) Imperial Public Service Examinations\n(B) Imperial Public Servant Examinations\n(C) Imperial Civil Service Examinations\n(D) Imperial Civil Servant Examinations\n\nAnswer:\n",
+        "model_prediction": "The correct answer is (D) Imperial Civil Service Examinations.\n\nImperial Civil Service Examinations, also known as the Zhongkao or Civil Service Examination, were a series of standardized tests in ancient China that were used to select candidates for government positions, including those in the departments. These exams were designed to test knowledge, literacy, and other skills required for administrative work. Men who passed these exams could work in various政府部门, including those involved in governance and administration."
+    },
+    {
+        "question": "Our National Monuments of Singapore are given the highest level of protection and cannot be torn down or removed. Why is this so?",
+        "answer": "(D) They reflect our shared heritage and history",
+        "choices": [
+            "(A) They are architecturally beautiful",
+            "(B) They are still occupied by their respective communities",
+            "(C) They boost tourism",
+            "(D) They reflect our shared heritage and history"
+        ],
+        "id": "test_102",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nOur National Monuments of Singapore are given the highest level of protection and cannot be torn down or removed. Why is this so?\n\nChoices:\n(A) They are architecturally beautiful\n(B) They are still occupied by their respective communities\n(C) They boost tourism\n(D) They reflect our shared heritage and history\n\nAnswer:\n",
+        "model_prediction": "The most appropriate reason for giving our National Monuments in Singapore the highest level of protection and preventing their removal is (D) They reflect our shared heritage and history. These monuments serve as important cultural and historical landmarks that preserve the stories and memories of the nation, and they are often seen as symbols of national identity and pride. By protecting them, we ensure that future generations can learn from and appreciate our past. While architectural beauty, community occupation, and tourism may also be factors, the primary focus is on their historical significance."
+    },
+    {
+        "question": "The British had built underground bunkers in the following places except in ____",
+        "answer": "(C) Tengah",
+        "choices": [
+            "(A) Sembawang",
+            "(B) Labrador",
+            "(C) Tengah",
+            "(D) Fort Canning"
+        ],
+        "id": "test_103",
+        "model_input": "As a person living in Singapore, try your best to answer the question by selecting the most appropriate option.\n\nQuestion:\nThe British had built underground bunkers in the following places except in ____\n\nChoices:\n(A) Sembawang\n(B) Labrador\n(C) Tengah\n(D) Fort Canning\n\nAnswer:\n",
+        "model_prediction": "The British had built underground bunkers in several places in Singapore, including Sembawang and Labrador (both areas have historical fortifications), as well as Tengah (which might refer to Tengah Town where some bunkers were found). However, Fort Canning is not a place where they built underground bunkers. Fort Canning Park, which is now a national park, has a few remains of World War II structures, but the specific underground bunkers are not present there. Therefore, the correct answer is:\n\n(D) Fort Canning"
+    }
+]

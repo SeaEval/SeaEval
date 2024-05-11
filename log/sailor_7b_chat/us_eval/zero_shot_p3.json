@@ -1,0 +1,1393 @@
+[
+    {
+        "choices": [
+            "(A) the secretary of defense.",
+            "(B) Congress.",
+            "(C) the chairman of the Joint Chiefs of Staff.",
+            "(D) the president of the United States."
+        ],
+        "id": "test_1",
+        "question": "In American government, the power to declare war rests with",
+        "answer": "(B) Congress.",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nIn American government, the power to declare war rests with\nChoices:\n(A) the secretary of defense.\n(B) Congress.\n(C) the chairman of the Joint Chiefs of Staff.\n(D) the president of the United States.\nAnswer:\n",
+        "model_prediction": "The correct answer is (D) the president of the United States. The president has the authority to declare war under Article II of the Constitution. While Congress can authorize military action and provide funding for it, they do not have the sole power to declare war."
+    },
+    {
+        "choices": [
+            "(A) Equality",
+            "(B) Liberty",
+            "(C) Autocracy",
+            "(D) Individualism"
+        ],
+        "id": "test_2",
+        "question": "Which of these is not a component of the 'American Creed'?",
+        "answer": "(C) Autocracy",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhich of these is not a component of the 'American Creed'?\nChoices:\n(A) Equality\n(B) Liberty\n(C) Autocracy\n(D) Individualism\nAnswer:\n",
+        "model_prediction": "The correct answer is (C) Autocracy. The American Creed includes values such as equality, liberty, and individualism, which are all components of democracy and the principles upon which the United States was founded. Autocracy, on the other hand, refers to a form of government in which power is held by an individual or small group rather than by elected representatives, and is not consistent with the ideals of the American Creed."
+    },
+    {
+        "choices": [
+            "(A) Apply the punitive damage rule in Washington since that is where the plaintiff resides.",
+            "(B) Let the jury in the case decide which state law of punitive damage should apply based upon their analysis of the relative culpability of the parties.",
+            "(C) Apply the punitive damage rule in Washington because that is where the court is located.",
+            "(D) Apply the punitive damage rule in California since that is where the accident occurred."
+        ],
+        "id": "test_3",
+        "question": "There was an accident at a manufacturing plant located in California which state generally allows prevailing parties to collect punitive damages. A worker from Washington was injured at the California plant and she filed suit in federal district court in her home state of Washington. Washington does not generally allow punitive damages. The plaintiff has alleged in their federal lawsuit filed in Washington that they are entitled to punitive damages. The court should",
+        "answer": "(C) Apply the punitive damage rule in Washington because that is where the court is located.",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nThere was an accident at a manufacturing plant located in California which state generally allows prevailing parties to collect punitive damages. A worker from Washington was injured at the California plant and she filed suit in federal district court in her home state of Washington. Washington does not generally allow punitive damages. The plaintiff has alleged in their federal lawsuit filed in Washington that they are entitled to punitive damages. The court should\nChoices:\n(A) Apply the punitive damage rule in Washington since that is where the plaintiff resides.\n(B) Let the jury in the case decide which state law of punitive damage should apply based upon their analysis of the relative culpability of the parties.\n(C) Apply the punitive damage rule in Washington because that is where the court is located.\n(D) Apply the punitive damage rule in California since that is where the accident occurred.\nAnswer:\n",
+        "model_prediction": "The correct answer is (D) Apply the punitive damage rule in California since that is where the accident occurred. \n\nThis is because the question states that there was an accident at a manufacturing plant located in California, and it is common for courts to apply the laws of the jurisdiction where the accident occurred when determining whether or not to award punitive damages. Therefore, even though the plaintiff filed the lawsuit in Washington, the court should still apply the punitive damage rules in California."
+    },
+    {
+        "choices": [
+            "(A) increase the significance of their election results",
+            "(B) minimize the cost of running the election",
+            "(C) convince the national government to move forward the date of the general election",
+            "(D) restrict the number of entrants in the presidential race"
+        ],
+        "id": "test_4",
+        "question": "In the past decade many states have moved forward the date of their presidential primary elections in an effort to",
+        "answer": "(A) increase the significance of their election results",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nIn the past decade many states have moved forward the date of their presidential primary elections in an effort to\nChoices:\n(A) increase the significance of their election results\n(B) minimize the cost of running the election\n(C) convince the national government to move forward the date of the general election\n(D) restrict the number of entrants in the presidential race\nAnswer:\n",
+        "model_prediction": "The most appropriate option is (B) minimize the cost of running the election. Many states have moved forward the date of their presidential primary elections in order to reduce the costs associated with holding the election on a specific day and time. This allows them to schedule the election at a more convenient time for voters, which can also help increase voter turnout."
+    },
+    {
+        "choices": [
+            "(A) France",
+            "(B) England",
+            "(C) Ireland",
+            "(D) Russia"
+        ],
+        "id": "test_5",
+        "question": "This question refers to the following information.\n\"The far-reaching, the boundless future will be the era of American greatness. In its magnificent domain of space and time, the nation of many nations is destined to manifest to mankind the excellence of divine principles; to establish on earth the noblest temple ever dedicated to the worship of the Most High—the Sacred and the True. Its floor shall be a hemisphere—its roof the firmament of the star-studded heavens, and its congregation a Union of many Republics, comprising hundreds of happy millions, calling, owning no man master, but governed by God's natural and moral law of equality, the law of brotherhood—of 'peace and good will amongst men.'\"\nJohn L. O'Sullivan, \"The Great Nation of Futurity,\" 1839\nBetween 1820 and 1854, the greatest number of immigrants to the United States came from",
+        "answer": "(C) Ireland",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nThis question refers to the following information.\n\"The far-reaching, the boundless future will be the era of American greatness. In its magnificent domain of space and time, the nation of many nations is destined to manifest to mankind the excellence of divine principles; to establish on earth the noblest temple ever dedicated to the worship of the Most High—the Sacred and the True. Its floor shall be a hemisphere—its roof the firmament of the star-studded heavens, and its congregation a Union of many Republics, comprising hundreds of happy millions, calling, owning no man master, but governed by God's natural and moral law of equality, the law of brotherhood—of 'peace and good will amongst men.'\"\nJohn L. O'Sullivan, \"The Great Nation of Futurity,\" 1839\nBetween 1820 and 1854, the greatest number of immigrants to the United States came from\nChoices:\n(A) France\n(B) England\n(C) Ireland\n(D) Russia\nAnswer:\n",
+        "model_prediction": "(C) Ireland"
+    },
+    {
+        "choices": [
+            "(A) as a single party with a presence at the national level only",
+            "(B) in a top-down fashion, so that instructions are dispersed from the national level to the state and local levels",
+            "(C) as a relatively independent organization that exists at all levels of government",
+            "(D) into a federal structure in which state and local parties have no power"
+        ],
+        "id": "test_6",
+        "question": "Each of the two main political parties of the United States is organized",
+        "answer": "(C) as a relatively independent organization that exists at all levels of government",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nEach of the two main political parties of the United States is organized\nChoices:\n(A) as a single party with a presence at the national level only\n(B) in a top-down fashion, so that instructions are dispersed from the national level to the state and local levels\n(C) as a relatively independent organization that exists at all levels of government\n(D) into a federal structure in which state and local parties have no power\nAnswer:\n",
+        "model_prediction": "The correct answer is (C) - each of the two main political parties of the United States is organized as a relatively independent organization that exists at all levels of government. This means that both parties have their own structures and leadership at the national, state, and local levels, but they also work together to coordinate their efforts across different levels of government."
+    },
+    {
+        "choices": [
+            "(A) Voters aged 18-29",
+            "(B) Blue-collar workers who belong to a union",
+            "(C) Voters who are active in their political parties",
+            "(D) Professionals"
+        ],
+        "id": "test_7",
+        "question": "Voters in which of the following categories would be LEAST likely to vote?",
+        "answer": "(A) Voters aged 18-29",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nVoters in which of the following categories would be LEAST likely to vote?\nChoices:\n(A) Voters aged 18-29\n(B) Blue-collar workers who belong to a union\n(C) Voters who are active in their political parties\n(D) Professionals\nAnswer:\n",
+        "model_prediction": "The voters least likely to vote would be (D) professionals, according to the given options."
+    },
+    {
+        "choices": [
+            "(A) 80",
+            "(B) 60",
+            "(C) 90",
+            "(D) 70"
+        ],
+        "id": "test_8",
+        "question": "The standard tip in a restaurant is $ 15 \\%$ of the bill before tax. Many people in California find the tip by doubling the sales tax, which is $8.25 \\%$. By how many cents does this exceed the standard tip on a bill of $ \\$60 $ before tax?",
+        "answer": "(C) 90",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nThe standard tip in a restaurant is $ 15 \\%$ of the bill before tax. Many people in California find the tip by doubling the sales tax, which is $8.25 \\%$. By how many cents does this exceed the standard tip on a bill of $ \\$60 $ before tax?\nChoices:\n(A) 80\n(B) 60\n(C) 90\n(D) 70\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) 60. \n\nTo calculate the standard tip, we need to multiply the total bill ($\\$60$) by $15/100$, which equals $\\$9$. This means that the standard tip would be $\\$9*.825/100= \\$7.425$. \n\nIf someone doubles the sales tax, they would add an extra $\\$8.25*2= \\$16.5$ to their bill. Therefore, the total amount after adding the sales tax and the tip would be $\\$60+\\$16"
+    },
+    {
+        "choices": [
+            "(A) two hours backward",
+            "(B) two hours forward",
+            "(C) one hour forward",
+            "(D) one hour backward"
+        ],
+        "id": "test_9",
+        "question": "When daylight-saving time arrives in the spring how do most Americans turn their clocks?",
+        "answer": "(C) one hour forward",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhen daylight-saving time arrives in the spring how do most Americans turn their clocks?\nChoices:\n(A) two hours backward\n(B) two hours forward\n(C) one hour forward\n(D) one hour backward\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) two hours forward. Most Americans turn their clocks forward by two hours when daylight-saving time arrives in the spring. This means that they set their clocks to 3:00 am instead of 2:00 am on the second Sunday in March, and then set them back to 1:00 am instead of 2:00 am on the first Sunday in November."
+    },
+    {
+        "choices": [
+            "(A) Low-income Americans are more likely to vote Democratic than are upper-income Americans.",
+            "(B) Evangelical Christians are more likely to vote Democratic than are non-religious Americans.",
+            "(C) Women are more likely to vote Democratic than are men.",
+            "(D) Non-whites are more likely to vote Democratic than are whites."
+        ],
+        "id": "test_10",
+        "question": "Which of the following statements about voting patterns is NOT true?",
+        "answer": "(B) Evangelical Christians are more likely to vote Democratic than are non-religious Americans.",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhich of the following statements about voting patterns is NOT true?\nChoices:\n(A) Low-income Americans are more likely to vote Democratic than are upper-income Americans.\n(B) Evangelical Christians are more likely to vote Democratic than are non-religious Americans.\n(C) Women are more likely to vote Democratic than are men.\n(D) Non-whites are more likely to vote Democratic than are whites.\nAnswer:\n",
+        "model_prediction": "The statement that is not true according to the given choices is (B) Evangelical Christians are more likely to vote Democratic than are non-religious Americans. This is because there is no evidence to suggest that evangelical Christians have a higher likelihood of voting for Democrats compared to non-religious Americans. In fact, some studies have shown that evangelical Christians tend to lean towards conservative political views and may be more likely to vote Republican."
+    },
+    {
+        "choices": [
+            "(A) The day on which the flag was adopted - 13th June 1777",
+            "(B) The 13 colonies that declared independence",
+            "(C) The 12 colonies that declared independence",
+            "(D) The 12 first presidents of the USA"
+        ],
+        "id": "test_11",
+        "question": "What do the red and white stripes on the American national flag symbolise?",
+        "answer": "(B) The 13 colonies that declared independence",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhat do the red and white stripes on the American national flag symbolise?\nChoices:\n(A) The day on which the flag was adopted - 13th June 1777\n(B) The 13 colonies that declared independence\n(C) The 12 colonies that declared independence\n(D) The 12 first presidents of the USA\nAnswer:\n",
+        "model_prediction": "The red and white stripes on the American national flag represent the original 13 colonies that declared independence, so the correct answer is (B)."
+    },
+    {
+        "choices": [
+            "(A) African Americans; whites and Latinos",
+            "(B) Whites; African Americans and Latinos",
+            "(C) Mexican Americans; African Americans and whites",
+            "(D) Mexican Americans and whites; African Americans"
+        ],
+        "id": "test_12",
+        "question": "________ men, on the average, begin engaging in sexual intercourse approximately two years later than ________ men do.",
+        "answer": "(D) Mexican Americans and whites; African Americans",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\n________ men, on the average, begin engaging in sexual intercourse approximately two years later than ________ men do.\nChoices:\n(A) African Americans; whites and Latinos\n(B) Whites; African Americans and Latinos\n(C) Mexican Americans; African Americans and whites\n(D) Mexican Americans and whites; African Americans\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) Whites; African Americans and Latinos. This means that on average, white men engage in sexual intercourse earlier than African American or Latino men."
+    },
+    {
+        "choices": [
+            "(A) It allows for trial by jury in common-law cases.",
+            "(B) It grants voting rights to all American women.",
+            "(C) It lowers the legal voting age from 21 to 18.",
+            "(D) It reserves powers to the states."
+        ],
+        "id": "test_13",
+        "question": "Which of the following is generally understood to be the purpose of the Tenth Amendment to the Constitution?",
+        "answer": "(D) It reserves powers to the states.",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhich of the following is generally understood to be the purpose of the Tenth Amendment to the Constitution?\nChoices:\n(A) It allows for trial by jury in common-law cases.\n(B) It grants voting rights to all American women.\n(C) It lowers the legal voting age from 21 to 18.\n(D) It reserves powers to the states.\nAnswer:\n",
+        "model_prediction": "The correct answer is (D) It reserves powers to the states. The Tenth Amendment to the Constitution states that \"the powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people.\" This amendment ensures that the federal government does not have authority over certain powers that should remain with the individual states and their citizens."
+    },
+    {
+        "choices": [
+            "(A) 1965–present—Hispanics",
+            "(B) 1870–1914—Eastern and southern Europeans",
+            "(C) Pioneer settlement to 1870—Germans, British, Scotch-Irish, Africans",
+            "(D) 1870–1914—Asians"
+        ],
+        "id": "test_14",
+        "question": "Which of the following U.S. main immigration flow associations is NOT correct?",
+        "answer": "(D) 1870–1914—Asians",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhich of the following U.S. main immigration flow associations is NOT correct?\nChoices:\n(A) 1965–present—Hispanics\n(B) 1870–1914—Eastern and southern Europeans\n(C) Pioneer settlement to 1870—Germans, British, Scotch-Irish, Africans\n(D) 1870–1914—Asians\nAnswer:\n",
+        "model_prediction": "The correct answer is (D) 1870-1914 - Asians. This association is not correct because Asian immigrants were not significantly present in the United States during this time period. The majority of Asian immigrants came to the United States after World War II, with significant numbers arriving from China, Japan, and South Asia."
+    },
+    {
+        "choices": [
+            "(A) Revelations that the NSA was monitoring the communications of American citizens without obtaining warrants",
+            "(B) A scathing report condemning the George W. Bush administration for \"building a case for the war in Iraq on a quicksand foundation\"",
+            "(C) A leaked memo that linked the events of September 11, 2001, with the Democratic National Committee",
+            "(D) Revelations that the NSA had tortured prisoners at Guantanamo, Cuba"
+        ],
+        "id": "test_15",
+        "question": "What caused a public uproar involving the National Security Agency in 2005?",
+        "answer": "(A) Revelations that the NSA was monitoring the communications of American citizens without obtaining warrants",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhat caused a public uproar involving the National Security Agency in 2005?\nChoices:\n(A) Revelations that the NSA was monitoring the communications of American citizens without obtaining warrants\n(B) A scathing report condemning the George W. Bush administration for \"building a case for the war in Iraq on a quicksand foundation\"\n(C) A leaked memo that linked the events of September 11, 2001, with the Democratic National Committee\n(D) Revelations that the NSA had tortured prisoners at Guantanamo, Cuba\nAnswer:\n",
+        "model_prediction": "A) Revelations that the NSA was monitoring the communications of American citizens without obtaining warrants."
+    },
+    {
+        "choices": [
+            "(A) American flag",
+            "(B) Harley-Davidson logo",
+            "(C) peace symbol",
+            "(D) two white doves"
+        ],
+        "id": "test_16",
+        "question": "In the film 'Easy Rider' what emblem is on the back of Peter Fonda's leather jacket?",
+        "answer": "(A) American flag",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nIn the film 'Easy Rider' what emblem is on the back of Peter Fonda's leather jacket?\nChoices:\n(A) American flag\n(B) Harley-Davidson logo\n(C) peace symbol\n(D) two white doves\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) Harley-Davidson logo."
+    },
+    {
+        "choices": [
+            "(A) Burger King",
+            "(B) Wendy's",
+            "(C) McDonald's",
+            "(D) Kentucky Fried Chicken"
+        ],
+        "id": "test_17",
+        "question": "Which fast food chain used the advertising slogan 'Where's the beef?'",
+        "answer": "(B) Wendy's",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhich fast food chain used the advertising slogan 'Where's the beef?'\nChoices:\n(A) Burger King\n(B) Wendy's\n(C) McDonald's\n(D) Kentucky Fried Chicken\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) Wendy's."
+    },
+    {
+        "choices": [
+            "(A) Islam",
+            "(B) Christianity",
+            "(C) Buddhism",
+            "(D) Hinduism"
+        ],
+        "id": "test_18",
+        "question": "What is the most rapidly growing religion in the United States today?",
+        "answer": "(A) Islam",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhat is the most rapidly growing religion in the United States today?\nChoices:\n(A) Islam\n(B) Christianity\n(C) Buddhism\n(D) Hinduism\nAnswer:\n",
+        "model_prediction": "The correct answer is (C) Buddhism. According to recent data, Buddhism has been experiencing significant growth in the United States, with an estimated 3 million Americans identifying as Buddhist. This growth can be attributed to factors such as increased interest in mindfulness and meditation practices, cultural influences, and the aging population."
+    },
+    {
+        "choices": [
+            "(A) Antioch College",
+            "(B) Grinnell College",
+            "(C) Dartmouth College",
+            "(D) Oberlin College"
+        ],
+        "id": "test_19",
+        "question": "What was the first American college to become coeducational?",
+        "answer": "(D) Oberlin College",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhat was the first American college to become coeducational?\nChoices:\n(A) Antioch College\n(B) Grinnell College\n(C) Dartmouth College\n(D) Oberlin College\nAnswer:\n",
+        "model_prediction": "The correct answer is (C) Dartmouth College, which became coeducational in 1972."
+    },
+    {
+        "choices": [
+            "(A) all",
+            "(B) America",
+            "(C) stands",
+            "(D) indivisible"
+        ],
+        "id": "test_20",
+        "question": "What is the final word of the Pledge of Allegiance?",
+        "answer": "(A) all",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhat is the final word of the Pledge of Allegiance?\nChoices:\n(A) all\n(B) America\n(C) stands\n(D) indivisible\nAnswer:\n",
+        "model_prediction": "The final word of the Pledge of Allegiance is \"indivisible\". Therefore, the correct answer is (D)."
+    },
+    {
+        "choices": [
+            "(A) killing an enemy",
+            "(B) impersonating Sinatra",
+            "(C) talking to the cops",
+            "(D) betting on horses"
+        ],
+        "id": "test_21",
+        "question": "In mobster lingo if you 'sing like a canary' what are you doing?",
+        "answer": "(C) talking to the cops",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nIn mobster lingo if you 'sing like a canary' what are you doing?\nChoices:\n(A) killing an enemy\n(B) impersonating Sinatra\n(C) talking to the cops\n(D) betting on horses\nAnswer:\n",
+        "model_prediction": "(C) talking to the cops. In mobster lingo, \"singing like a canary\" means confessing information about oneself or others to law enforcement authorities."
+    },
+    {
+        "choices": [
+            "(A) Having representation in Congress",
+            "(B) Appealing to the president to adjudicate disputes",
+            "(C) Authorizing constitutional amendments",
+            "(D) Coining money"
+        ],
+        "id": "test_22",
+        "question": "What power was granted to the states by the Articles of Confederation but not by the Constitution?",
+        "answer": "(D) Coining money",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhat power was granted to the states by the Articles of Confederation but not by the Constitution?\nChoices:\n(A) Having representation in Congress\n(B) Appealing to the president to adjudicate disputes\n(C) Authorizing constitutional amendments\n(D) Coining money\nAnswer:\n",
+        "model_prediction": "The correct answer is (D) Cointing money. The Articles of Confederation granted this power to the states, while it is reserved for the federal government under the Constitution."
+    },
+    {
+        "choices": [
+            "(A) It failed to consider the rights of fathers.",
+            "(B) The court failed to consider the medical evidence.",
+            "(C) It overlooked the common law relating to abortion.",
+            "(D) The majority held that the abortion law of Texas was unconstitutional because it violated a woman's right to privacy."
+        ],
+        "id": "test_23",
+        "question": "The United States Supreme Court's decision in Roe v Wade is highly controversial because:",
+        "answer": "(D) The majority held that the abortion law of Texas was unconstitutional because it violated a woman's right to privacy.",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nThe United States Supreme Court's decision in Roe v Wade is highly controversial because:\nChoices:\n(A) It failed to consider the rights of fathers.\n(B) The court failed to consider the medical evidence.\n(C) It overlooked the common law relating to abortion.\n(D) The majority held that the abortion law of Texas was unconstitutional because it violated a woman's right to privacy.\nAnswer:\n",
+        "model_prediction": "(D) The majority held that the abortion law of Texas was unconstitutional because it violated a woman's right to privacy."
+    },
+    {
+        "choices": [
+            "(A) The central United States (Kansas, Missouri etc.)",
+            "(B) The east coast",
+            "(C) Southern California",
+            "(D) The Pacific Northwest (Washington, Oregon, Idaho)"
+        ],
+        "id": "test_24",
+        "question": "The highest risk of HIV infection among drug users in the U.S. is in:",
+        "answer": "(B) The east coast",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nThe highest risk of HIV infection among drug users in the U.S. is in:\nChoices:\n(A) The central United States (Kansas, Missouri etc.)\n(B) The east coast\n(C) Southern California\n(D) The Pacific Northwest (Washington, Oregon, Idaho)\nAnswer:\n",
+        "model_prediction": "(C) Southern California"
+    },
+    {
+        "choices": [
+            "(A) John Glenn",
+            "(B) Buzz Aldrin",
+            "(C) Alan Shepard",
+            "(D) Neil Armstrong"
+        ],
+        "id": "test_25",
+        "question": "Who was the first American in space?",
+        "answer": "(C) Alan Shepard",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWho was the first American in space?\nChoices:\n(A) John Glenn\n(B) Buzz Aldrin\n(C) Alan Shepard\n(D) Neil Armstrong\nAnswer:\n",
+        "model_prediction": "The correct answer is (C) Alan Shepard. He was the first American astronaut to travel into space on May 5, 1961, aboard the spacecraft Freedom 7."
+    },
+    {
+        "choices": [
+            "(A) Higher than all other ethnic groups except African-Americans",
+            "(B) Highest",
+            "(C) Higher than in all other ethnic groups except African-Americans and",
+            "(D) Native Americans"
+        ],
+        "id": "test_26",
+        "question": "The prevalence of HIV among Latino-Americans compared to other ethic groups in the U.S. is:",
+        "answer": "(A) Higher than all other ethnic groups except African-Americans",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nThe prevalence of HIV among Latino-Americans compared to other ethic groups in the U.S. is:\nChoices:\n(A) Higher than all other ethnic groups except African-Americans\n(B) Highest\n(C) Higher than in all other ethnic groups except African-Americans and\n(D) Native Americans\nAnswer:\n",
+        "model_prediction": "(C) Higher than in all other ethnic groups except African-Americans."
+    },
+    {
+        "choices": [
+            "(A) January",
+            "(B) November",
+            "(C) August",
+            "(D) May"
+        ],
+        "id": "test_27",
+        "question": "What is the most popular month for weddings in America?",
+        "answer": "(C) August",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhat is the most popular month for weddings in America?\nChoices:\n(A) January\n(B) November\n(C) August\n(D) May\nAnswer:\n",
+        "model_prediction": "The most popular month for weddings in America is (D) May, according to recent data."
+    },
+    {
+        "choices": [
+            "(A) 888",
+            "(B) 911",
+            "(C) 11",
+            "(D) 101"
+        ],
+        "id": "test_28",
+        "question": "To make an international telephone call from within the US what are the first numbers you should dial?",
+        "answer": "(D) 101",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nTo make an international telephone call from within the US what are the first numbers you should dial?\nChoices:\n(A) 888\n(B) 911\n(C) 11\n(D) 101\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) 911. This number is for emergency services and should only be used in case of urgent situations. To make an international telephone call, you would need to dial the country code followed by the area code and phone number. For example, if you were calling someone in Canada, you would dial +1-XXX-XXXX."
+    },
+    {
+        "choices": [
+            "(A) High school students spending their Saturdays building homes for the homeless",
+            "(B) An auto mechanic fixing his dentist’s car for a filling",
+            "(C) A worker donating $200 to the Red Cross",
+            "(D) A stay-at-home dad providing childcare for his children"
+        ],
+        "id": "test_29",
+        "question": "Which of the following would be included in U.S. GDP calculations?",
+        "answer": "(C) A worker donating $200 to the Red Cross",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhich of the following would be included in U.S. GDP calculations?\nChoices:\n(A) High school students spending their Saturdays building homes for the homeless\n(B) An auto mechanic fixing his dentist’s car for a filling\n(C) A worker donating $200 to the Red Cross\n(D) A stay-at-home dad providing childcare for his children\nAnswer:\n",
+        "model_prediction": "The correct answer is (C) A worker donating $200 to the Red Cross. This activity represents an economic transaction and therefore contributes to the GDP calculation. The other options do not involve any economic transactions and are not included in GDP calculations."
+    },
+    {
+        "choices": [
+            "(A) Hawaii",
+            "(B) Florida",
+            "(C) Alaska",
+            "(D) California"
+        ],
+        "id": "test_30",
+        "question": "Within the United States, which location has the longest life expectancy?",
+        "answer": "(A) Hawaii",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWithin the United States, which location has the longest life expectancy?\nChoices:\n(A) Hawaii\n(B) Florida\n(C) Alaska\n(D) California\nAnswer:\n",
+        "model_prediction": "The correct answer is (A) Hawaii. According to data from the Centers for Disease Control and Prevention, Hawaii has the highest life expectancy in the United States at 81 years old."
+    },
+    {
+        "choices": [
+            "(A) Washington, DC",
+            "(B) California",
+            "(C) Florida",
+            "(D) Hawaii"
+        ],
+        "id": "test_31",
+        "question": "The largest proportion of older adults living alone reside in",
+        "answer": "(A) Washington, DC",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nThe largest proportion of older adults living alone reside in\nChoices:\n(A) Washington, DC\n(B) California\n(C) Florida\n(D) Hawaii\nAnswer:\n",
+        "model_prediction": "(C) Florida"
+    },
+    {
+        "choices": [
+            "(A) Martin Van Buren",
+            "(B) Andrew Johnson",
+            "(C) Richard Nixon",
+            "(D) Andrew Jackson"
+        ],
+        "id": "test_32",
+        "question": "Who was the first US president to resign from that office?",
+        "answer": "(C) Richard Nixon",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWho was the first US president to resign from that office?\nChoices:\n(A) Martin Van Buren\n(B) Andrew Johnson\n(C) Richard Nixon\n(D) Andrew Jackson\nAnswer:\n",
+        "model_prediction": "The correct answer is (C) Richard Nixon."
+    },
+    {
+        "choices": [
+            "(A) Asian-American",
+            "(B) White",
+            "(C) Native-American",
+            "(D) African-American"
+        ],
+        "id": "test_33",
+        "question": "Which of the following groups of Americans have the lowest rate of alcohol abuse?",
+        "answer": "(A) Asian-American",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhich of the following groups of Americans have the lowest rate of alcohol abuse?\nChoices:\n(A) Asian-American\n(B) White\n(C) Native-American\n(D) African-American\nAnswer:\n",
+        "model_prediction": "The correct answer is (A) Asian-American, according to recent studies and data on alcohol consumption in the United States."
+    },
+    {
+        "choices": [
+            "(A) Asia and Latin America",
+            "(B) Europe and North Africa",
+            "(C) Sub-Saharan Africa and Oceania",
+            "(D) Central Europe and Australia"
+        ],
+        "id": "test_34",
+        "question": "The migration streams into the United States between 1980 and the present have been primarily composed of emigrants from which of the following regions?",
+        "answer": "(A) Asia and Latin America",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nThe migration streams into the United States between 1980 and the present have been primarily composed of emigrants from which of the following regions?\nChoices:\n(A) Asia and Latin America\n(B) Europe and North Africa\n(C) Sub-Saharan Africa and Oceania\n(D) Central Europe and Australia\nAnswer:\n",
+        "model_prediction": "A) Asia and Latin America"
+    },
+    {
+        "choices": [
+            "(A) Improved automobiles made transportation easier and less limited.",
+            "(B) Changes in the housing mortgage regulations made home ownership easier.",
+            "(C) Fixed-route public transit routes increased in importance.",
+            "(D) A shorter workweek made time for a commute possible."
+        ],
+        "id": "test_35",
+        "question": "Which of the following statements does NOT describe a factor that contributed to suburbanization in the United States?",
+        "answer": "(C) Fixed-route public transit routes increased in importance.",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhich of the following statements does NOT describe a factor that contributed to suburbanization in the United States?\nChoices:\n(A) Improved automobiles made transportation easier and less limited.\n(B) Changes in the housing mortgage regulations made home ownership easier.\n(C) Fixed-route public transit routes increased in importance.\n(D) A shorter workweek made time for a commute possible.\nAnswer:\n",
+        "model_prediction": "The correct answer is (C) Fixed-route public transit routes increased in importance. This statement describes an aspect of urbanization, not suburbanization. The other options all relate to factors contributing to suburbanization."
+    },
+    {
+        "choices": [
+            "(A) 50",
+            "(B) 13",
+            "(C) 48",
+            "(D) 51"
+        ],
+        "id": "test_36",
+        "question": "How many stars are on the American flag?",
+        "answer": "(A) 50",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nHow many stars are on the American flag?\nChoices:\n(A) 50\n(B) 13\n(C) 48\n(D) 51\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) 13. The American flag has 13 stripes representing the original 13 colonies, and it also has 50 stars representing the 50 states in the United States."
+    },
+    {
+        "choices": [
+            "(A) Tacos",
+            "(B) Texas Barbecue",
+            "(C) The hamburger",
+            "(D) Apple Pie"
+        ],
+        "id": "test_37",
+        "question": "Complete this sentence: “As American as...",
+        "answer": "(D) Apple Pie",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nComplete this sentence: “As American as...\nChoices:\n(A) Tacos\n(B) Texas Barbecue\n(C) The hamburger\n(D) Apple Pie\nAnswer:\n",
+        "model_prediction": "(D) Apple Pie"
+    },
+    {
+        "choices": [
+            "(A) London",
+            "(B) Philadelphia",
+            "(C) New York City",
+            "(D) Boston"
+        ],
+        "id": "test_38",
+        "question": "What city's residents are known as 'Knickerbockers'?",
+        "answer": "(C) New York City",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhat city's residents are known as 'Knickerbockers'?\nChoices:\n(A) London\n(B) Philadelphia\n(C) New York City\n(D) Boston\nAnswer:\n",
+        "model_prediction": "The correct answer is (C) New York City. The term \"Knickerbocker\" refers to the residents of New York City, particularly those who lived in Manhattan before the 19th century."
+    },
+    {
+        "choices": [
+            "(A) Andrew Jackson",
+            "(B) Aaron Burr",
+            "(C) Calvin Coolidge",
+            "(D) William McKinley"
+        ],
+        "id": "test_39",
+        "question": "Who was on the $500 bill?",
+        "answer": "(D) William McKinley",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWho was on the $500 bill?\nChoices:\n(A) Andrew Jackson\n(B) Aaron Burr\n(C) Calvin Coolidge\n(D) William McKinley\nAnswer:\n",
+        "model_prediction": "The correct answer is (A) Andrew Jackson, who was featured on the front of the $500 bill in 1928 until it was replaced by Franklin D. Roosevelt in 1934."
+    },
+    {
+        "choices": [
+            "(A) Cooperstown New York",
+            "(B) Canton Ohio",
+            "(C) Springfield Massachusetts",
+            "(D) Lawrence Kansas"
+        ],
+        "id": "test_40",
+        "question": "In what US city can you find the Basketball Hall of Fame?",
+        "answer": "(C) Springfield Massachusetts",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nIn what US city can you find the Basketball Hall of Fame?\nChoices:\n(A) Cooperstown New York\n(B) Canton Ohio\n(C) Springfield Massachusetts\n(D) Lawrence Kansas\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) Canton, Ohio. The Basketball Hall of Fame is located in Canton, Ohio."
+    },
+    {
+        "choices": [
+            "(A) inform the client of the limits of confidentiality and report the unethical behavior.",
+            "(B) discuss the client's options with her and maintain her confidentiality unless she signs a release.",
+            "(C) inform the client of the limits of confidentiality and contact the other psychologist.",
+            "(D) contact the Ethics Committee to determine what the appropriate steps would be in this situation."
+        ],
+        "id": "test_41",
+        "question": "Your new ‘client is a 37-year-old woman whose symptoms meet the diagnostic criteria for Major Depressive Disorder. After your third session with her, she tells you that she was in treatment with another psychologist but terminated after the psychologist made sexual advances toward her. She does not want you to discuss this matter with anyone. To be consistent with the provisions of the ethics codes of the American and Canadian Psychology Association, your best course of action would be to:",
+        "answer": "(B) discuss the client's options with her and maintain her confidentiality unless she signs a release.",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nYour new ‘client is a 37-year-old woman whose symptoms meet the diagnostic criteria for Major Depressive Disorder. After your third session with her, she tells you that she was in treatment with another psychologist but terminated after the psychologist made sexual advances toward her. She does not want you to discuss this matter with anyone. To be consistent with the provisions of the ethics codes of the American and Canadian Psychology Association, your best course of action would be to:\nChoices:\n(A) inform the client of the limits of confidentiality and report the unethical behavior.\n(B) discuss the client's options with her and maintain her confidentiality unless she signs a release.\n(C) inform the client of the limits of confidentiality and contact the other psychologist.\n(D) contact the Ethics Committee to determine what the appropriate steps would be in this situation.\nAnswer:\n",
+        "model_prediction": "The most appropriate option would be (A) inform the client of the limits of confidentiality and report the unethical behavior. As a professional, it is important to prioritize the safety and well-being of clients, especially when there is potential harm involved. Reporting any unethical behavior by a colleague or therapist can help protect clients and ensure that they receive proper support and care. It is also important to follow ethical guidelines and regulations set forth by professional associations such as the American and Canadian Psychology Associations."
+    },
+    {
+        "choices": [
+            "(A) I and III only",
+            "(B) II III and IV only",
+            "(C) II and IV only",
+            "(D) III and IV only"
+        ],
+        "id": "test_42",
+        "question": "Which of the following is included in U.S. GDP? I.   The market value of movies made in Africa by U.S. citizens II.   The market value of olive oil made in Italy and sold in the United States. III.   The market value of blue jeans made in the United States and sold in Japan IV.   The market value of wine made in the United States by Canadian citizens",
+        "answer": "(D) III and IV only",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhich of the following is included in U.S. GDP? I.   The market value of movies made in Africa by U.S. citizens II.   The market value of olive oil made in Italy and sold in the United States. III.   The market value of blue jeans made in the United States and sold in Japan IV.   The market value of wine made in the United States by Canadian citizens\nChoices:\n(A) I and III only\n(B) II III and IV only\n(C) II and IV only\n(D) III and IV only\nAnswer:\n",
+        "model_prediction": "The correct answer is (A) I and III only. According to the National Bureau of Economic Research, the GDP includes \"the market value of all final goods and services produced within the United States.\" Therefore, the market value of movies made in Africa by U.S. citizens and the market value of blue jeans made in the United States and sold in Japan would be included in the GDP. However, the market value of olive oil made in Italy and sold in the United States, and the market value of wine made in the United States by Canadian citizens, would not be included because they were not produced within the United States."
+    },
+    {
+        "choices": [
+            "(A) Charlotte North Carolina",
+            "(B) Plymouth Massachusetts",
+            "(C) St Augustine Florida",
+            "(D) Newport News Virginia"
+        ],
+        "id": "test_43",
+        "question": "What is the oldest permanent European settlement in the United States?",
+        "answer": "(B) Plymouth Massachusetts",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhat is the oldest permanent European settlement in the United States?\nChoices:\n(A) Charlotte North Carolina\n(B) Plymouth Massachusetts\n(C) St Augustine Florida\n(D) Newport News Virginia\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) Plymouth, Massachusetts. It was established by English settlers in 1620 and became the first permanent British colony in what later became known as the United States."
+    },
+    {
+        "choices": [
+            "(A) Parent",
+            "(B) Sibling",
+            "(C) Child",
+            "(D) Spouse"
+        ],
+        "id": "test_44",
+        "question": "The loss of a ____ is regarded in the U. S. as the most severe loss and frequently produces guilt in addition to other emotions.",
+        "answer": "(C) Child",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nThe loss of a ____ is regarded in the U. S. as the most severe loss and frequently produces guilt in addition to other emotions.\nChoices:\n(A) Parent\n(B) Sibling\n(C) Child\n(D) Spouse\nAnswer:\n",
+        "model_prediction": "(D) Spouse"
+    },
+    {
+        "choices": [
+            "(A) eight",
+            "(B) nine",
+            "(C) seven",
+            "(D) ten"
+        ],
+        "id": "test_45",
+        "question": "How many innings are there in a regular Major League Baseball game?",
+        "answer": "(B) nine",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nHow many innings are there in a regular Major League Baseball game?\nChoices:\n(A) eight\n(B) nine\n(C) seven\n(D) ten\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) nine. A regular Major League Baseball game consists of 9 innings, with each team batting and fielding for half an inning at a time."
+    },
+    {
+        "choices": [
+            "(A) National Woman Suffrage Association.",
+            "(B) Southern Christian Leadership Conference.",
+            "(C) American Temperance Union.",
+            "(D) Ku Klux Klan."
+        ],
+        "id": "test_46",
+        "question": "This question refers to the following information.\n\"The only force which is strong enough to break down social convention is economic necessity. . . . The economic necessity which has forced women out of the home and into the world of business has completely annihilated the old idea that a woman should eat only in the privacy of her household or in the homes of her friends, has created the absolutely new social phenomenon of women eating in public, unescorted by men, by the tens of thousands, and has given rise to a wholly new phase of the restaurant business.\"\n—The New York Times, October 15, 1905\nWhich of the following groups would have most likely supported the scenario described in this passage?",
+        "answer": "(A) National Woman Suffrage Association.",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nThis question refers to the following information.\n\"The only force which is strong enough to break down social convention is economic necessity. . . . The economic necessity which has forced women out of the home and into the world of business has completely annihilated the old idea that a woman should eat only in the privacy of her household or in the homes of her friends, has created the absolutely new social phenomenon of women eating in public, unescorted by men, by the tens of thousands, and has given rise to a wholly new phase of the restaurant business.\"\n—The New York Times, October 15, 1905\nWhich of the following groups would have most likely supported the scenario described in this passage?\nChoices:\n(A) National Woman Suffrage Association.\n(B) Southern Christian Leadership Conference.\n(C) American Temperance Union.\n(D) Ku Klux Klan.\nAnswer:\n",
+        "model_prediction": "A) National Woman Suffrage Association."
+    },
+    {
+        "choices": [
+            "(A) South Carolina",
+            "(B) Texas",
+            "(C) Georgia",
+            "(D) California"
+        ],
+        "id": "test_47",
+        "question": "In what state is the 1999 movie Magnolia' set?",
+        "answer": "(D) California",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nIn what state is the 1999 movie Magnolia' set?\nChoices:\n(A) South Carolina\n(B) Texas\n(C) Georgia\n(D) California\nAnswer:\n",
+        "model_prediction": "The correct answer is (D) California. The movie Magnolia was actually filmed in various locations throughout Los Angeles, including the San Fernando Valley and Downtown LA."
+    },
+    {
+        "choices": [
+            "(A) an attempt to bar all immigrants regardless of origin.",
+            "(B) a measure to ensure that all immigrants possessed useful expertise.",
+            "(C) a concern for high educational standards in a rapidly growing society.",
+            "(D) a tactic allowing the exclusion of non-Europeans without referring directly to race."
+        ],
+        "id": "test_48",
+        "question": "This question refers to the following information.\nAn Act to place certain restrictions on Immigration and to provide for the removal from the Commonwealth of Prohibited Immigrants.\n…\n3. The immigration into the Commonwealth of the persons described in any of the following paragraphs in this section (hereinafter called \"prohibited immigrants\") is prohibited, namely\n(a) Any person who when asked to do so by an officer fails to write out at dictation and sign in the presence of the officer a passage of fifty words in length in a European language directed by the officer;\n(b) Any person in the opinion of the Minister or of an officer to become a charge upon the public or upon any public or charitable organisation;\n…\n(g) Any persons under a contract or agreement to perform manual labour within the Commonwealth: Provided that this paragraph shall not apply to workmen exempted by the Minister for special skill required by Australia…\nImmigration Restriction Act of 1901 (Australia)\nWhereas in the opinion of the Government of the United States the coming of Chinese laborers to this country endangers the good order of certain localities within the territory thereof;\nTherefore,\nBe it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That from and after the expiration of ninety days next after the passage of this act, the coming of Chinese laborers to the United States be suspended; and during such suspension it shall not be lawful for any Chinese laborer to come, or having so come after the expiration of said ninety days to remain within the United States.\nSEC. 2. That the master of every vessel who shall knowingly bring within the United States on such vessel, and land or permit to be landed, any Chinese laborer, from any foreign port or place, shall be deemed guilty of a misdemeanor, and on conviction thereof shall be punished by a fine of not more than five hundred dollars for each and every such Chinese laborer so brought, and may be also imprisoned for a term not exceeding one year….\nChinese Exclusion Act of 1882 (United States)\nThe emphasis on language in the first passage is most safely interpreted as",
+        "answer": "(D) a tactic allowing the exclusion of non-Europeans without referring directly to race.",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nThis question refers to the following information.\nAn Act to place certain restrictions on Immigration and to provide for the removal from the Commonwealth of Prohibited Immigrants.\n…\n3. The immigration into the Commonwealth of the persons described in any of the following paragraphs in this section (hereinafter called \"prohibited immigrants\") is prohibited, namely\n(a) Any person who when asked to do so by an officer fails to write out at dictation and sign in the presence of the officer a passage of fifty words in length in a European language directed by the officer;\n(b) Any person in the opinion of the Minister or of an officer to become a charge upon the public or upon any public or charitable organisation;\n…\n(g) Any persons under a contract or agreement to perform manual labour within the Commonwealth: Provided that this paragraph shall not apply to workmen exempted by the Minister for special skill required by Australia…\nImmigration Restriction Act of 1901 (Australia)\nWhereas in the opinion of the Government of the United States the coming of Chinese laborers to this country endangers the good order of certain localities within the territory thereof;\nTherefore,\nBe it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That from and after the expiration of ninety days next after the passage of this act, the coming of Chinese laborers to the United States be suspended; and during such suspension it shall not be lawful for any Chinese laborer to come, or having so come after the expiration of said ninety days to remain within the United States.\nSEC. 2. That the master of every vessel who shall knowingly bring within the United States on such vessel, and land or permit to be landed, any Chinese laborer, from any foreign port or place, shall be deemed guilty of a misdemeanor, and on conviction thereof shall be punished by a fine of not more than five hundred dollars for each and every such Chinese laborer so brought, and may be also imprisoned for a term not exceeding one year….\nChinese Exclusion Act of 1882 (United States)\nThe emphasis on language in the first passage is most safely interpreted as\nChoices:\n(A) an attempt to bar all immigrants regardless of origin.\n(B) a measure to ensure that all immigrants possessed useful expertise.\n(C) a concern for high educational standards in a rapidly growing society.\n(D) a tactic allowing the exclusion of non-Europeans without referring directly to race.\nAnswer:\n",
+        "model_prediction": "(D) a tactic allowing the exclusion of non-Europeans without referring directly to race."
+    },
+    {
+        "choices": [
+            "(A) Presidential executive orders",
+            "(B) Laws passed by Congress",
+            "(C) Constitutional amendments",
+            "(D) Laws passed by state legislatures"
+        ],
+        "id": "test_49",
+        "question": "Which of the following does the Supreme Court NOT have the power to override?",
+        "answer": "(C) Constitutional amendments",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhich of the following does the Supreme Court NOT have the power to override?\nChoices:\n(A) Presidential executive orders\n(B) Laws passed by Congress\n(C) Constitutional amendments\n(D) Laws passed by state legislatures\nAnswer:\n",
+        "model_prediction": "The correct answer is (C) Constitutional amendments. The Supreme Court has the power to review and overturn laws passed by Congress, presidential executive orders, and laws passed by state legislatures, but it cannot override constitutional amendments."
+    },
+    {
+        "choices": [
+            "(A) The Bill of Rights implies a right to privacy.",
+            "(B) The Nineteenth Amendment secures for women the right to vote.",
+            "(C) The Ninth Amendment reserves powers to the people.",
+            "(D) The Civil Rights Act of 1964 prohibits discrimination based on gender."
+        ],
+        "id": "test_50",
+        "question": "Which of the following was the legal basis for the 1973 Roe v. Wade majority opinion, in which the Supreme Court struck down a state ban on abortion?",
+        "answer": "(A) The Bill of Rights implies a right to privacy.",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhich of the following was the legal basis for the 1973 Roe v. Wade majority opinion, in which the Supreme Court struck down a state ban on abortion?\nChoices:\n(A) The Bill of Rights implies a right to privacy.\n(B) The Nineteenth Amendment secures for women the right to vote.\n(C) The Ninth Amendment reserves powers to the people.\n(D) The Civil Rights Act of 1964 prohibits discrimination based on gender.\nAnswer:\n",
+        "model_prediction": "The correct answer is (A) The Bill of Rights implies a right to privacy. This is because the majority opinion in Roe v. Wade relied on the Due Process Clause of the Fourteenth Amendment and the Privileges or Immunities Clause of the Fourteenth Amendment, both of which imply a right to privacy. Additionally, Justice Blackmun's concurring opinion cited the Ninth Amendment, which states that \"the enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people.\" However, this did not directly address the issue at hand."
+    },
+    {
+        "choices": [
+            "(A) proximity to a local source of chert for quarrying and making stone tools.",
+            "(B) nearness of the site to navigable rivers and the Gulf coast.",
+            "(C) nearby location of migratory routes of large mammals such as bison.",
+            "(D) abundance of wild game, plants, and fish in a rich and diverse woodland environment."
+        ],
+        "id": "test_51",
+        "question": "The Gault site in south-central Texas has produced evidence from 13,000 years ago that Paleoindians chose this location based on the:",
+        "answer": "(A) proximity to a local source of chert for quarrying and making stone tools.",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nThe Gault site in south-central Texas has produced evidence from 13,000 years ago that Paleoindians chose this location based on the:\nChoices:\n(A) proximity to a local source of chert for quarrying and making stone tools.\n(B) nearness of the site to navigable rivers and the Gulf coast.\n(C) nearby location of migratory routes of large mammals such as bison.\n(D) abundance of wild game, plants, and fish in a rich and diverse woodland environment.\nAnswer:\n",
+        "model_prediction": "(C) nearby location of migratory routes of large mammals such as bison."
+    },
+    {
+        "choices": [
+            "(A) the Retail Merchants Association",
+            "(B) the local chamber of commerce",
+            "(C) the United States Retail Credit Association",
+            "(D) Dun & Bradstreet, Inc."
+        ],
+        "id": "test_52",
+        "question": "An important source of information on the credit rating of retail businesses is",
+        "answer": "(D) Dun & Bradstreet, Inc.",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nAn important source of information on the credit rating of retail businesses is\nChoices:\n(A) the Retail Merchants Association\n(B) the local chamber of commerce\n(C) the United States Retail Credit Association\n(D) Dun & Bradstreet, Inc.\nAnswer:\n",
+        "model_prediction": "The correct answer is (D) Dun & Bradstreet, Inc."
+    },
+    {
+        "choices": [
+            "(A) This would be empire free of slavery",
+            "(B) This empire would be multi-cultural",
+            "(C) This type of empire would be based on expansion",
+            "(D) This would be an 'empire of liberty'"
+        ],
+        "id": "test_53",
+        "question": "Why did Americans believe that they could found a different kind of empire after 1776?",
+        "answer": "(D) This would be an 'empire of liberty'",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhy did Americans believe that they could found a different kind of empire after 1776?\nChoices:\n(A) This would be empire free of slavery\n(B) This empire would be multi-cultural\n(C) This type of empire would be based on expansion\n(D) This would be an 'empire of liberty'\nAnswer:\n",
+        "model_prediction": "The most appropriate option to answer the question is (D) \"This would be an 'empire of liberty'\". After the American Revolution, many Americans believed that their new nation should be founded on principles of freedom and democracy, rather than on the traditional imperialist model of conquest and domination. They saw the American Empire as a way to spread these values and ideals around the world."
+    },
+    {
+        "choices": [
+            "(A) has seven members.",
+            "(B) promotes free trade.",
+            "(C) is part of the Federal Reserve System.",
+            "(D) advises the President of the United States."
+        ],
+        "id": "test_54",
+        "question": "The Federal Open Market Committee",
+        "answer": "(C) is part of the Federal Reserve System.",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nThe Federal Open Market Committee\nChoices:\n(A) has seven members.\n(B) promotes free trade.\n(C) is part of the Federal Reserve System.\n(D) advises the President of the United States.\nAnswer:\n",
+        "model_prediction": "(C) is part of the Federal Reserve System."
+    },
+    {
+        "choices": [
+            "(A) Suburbs",
+            "(B) Transition zones",
+            "(C) Ghettos",
+            "(D) CBDs"
+        ],
+        "id": "test_55",
+        "question": "In which urban US setting below would you expect to find planned communities?",
+        "answer": "(A) Suburbs",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nIn which urban US setting below would you expect to find planned communities?\nChoices:\n(A) Suburbs\n(B) Transition zones\n(C) Ghettos\n(D) CBDs\nAnswer:\n",
+        "model_prediction": "The most appropriate option to answer the question is (A) Suburbs. Planned communities are often found in suburban areas, where there is more space for development and residents can have greater control over their living environment. In contrast, transition zones may be more transitional or mixed-use areas, ghettos may have higher crime rates and lower property values, and CBDs (central business districts) are typically commercial areas with high-density housing."
+    },
+    {
+        "choices": [
+            "(A) Illinois",
+            "(B) New York",
+            "(C) Pennsylvania",
+            "(D) California"
+        ],
+        "id": "test_56",
+        "question": "As of 1999 which state has the most Girl Scouts?",
+        "answer": "(C) Pennsylvania",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nAs of 1999 which state has the most Girl Scouts?\nChoices:\n(A) Illinois\n(B) New York\n(C) Pennsylvania\n(D) California\nAnswer:\n",
+        "model_prediction": "The correct answer is (C) Pennsylvania. As of 1999, Pennsylvania had the highest number of Girl Scouts in the United States."
+    },
+    {
+        "choices": [
+            "(A) M*A*S*H'",
+            "(B) Picket Fences'",
+            "(C) The Paper Chase'",
+            "(D) Northern Exposure'"
+        ],
+        "id": "test_57",
+        "question": "Which of these television series was not set in the United States?",
+        "answer": "(A) M*A*S*H'",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhich of these television series was not set in the United States?\nChoices:\n(A) M*A*S*H'\n(B) Picket Fences'\n(C) The Paper Chase'\n(D) Northern Exposure'\nAnswer:\n",
+        "model_prediction": "The correct answer is (C) The Paper Chase'. It was set in England and Canada, while the other options were all set in the United States."
+    },
+    {
+        "choices": [
+            "(A) determine which party's leader will be named Speaker of the House",
+            "(B) make sure each state's congressional delegation exactly mirrors its residents' party affiliations",
+            "(C) guarantee the turnover of the majority of congressional seats",
+            "(D) reflect population shifts indicated by the national census"
+        ],
+        "id": "test_58",
+        "question": "The boundary lines of congressional districts must be redrawn every 10 years to",
+        "answer": "(D) reflect population shifts indicated by the national census",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nThe boundary lines of congressional districts must be redrawn every 10 years to\nChoices:\n(A) determine which party's leader will be named Speaker of the House\n(B) make sure each state's congressional delegation exactly mirrors its residents' party affiliations\n(C) guarantee the turnover of the majority of congressional seats\n(D) reflect population shifts indicated by the national census\nAnswer:\n",
+        "model_prediction": "(D) reflect population shifts indicated by the national census."
+    },
+    {
+        "choices": [
+            "(A) in reverse",
+            "(B) in gibberish",
+            "(C) in French",
+            "(D) in braille"
+        ],
+        "id": "test_59",
+        "question": "How is the word 'ambulance' normally written on the front of American ambulances?",
+        "answer": "(A) in reverse",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nHow is the word 'ambulance' normally written on the front of American ambulances?\nChoices:\n(A) in reverse\n(B) in gibberish\n(C) in French\n(D) in braille\nAnswer:\n",
+        "model_prediction": "The correct answer is (A) in reverse. The word \"ambulance\" is typically written on the front of American ambulances in reverse, with the letters arranged vertically and starting at the top left corner. This is known as \"reverse 9-1-1\" or \"reverse 9-1-1.\""
+    },
+    {
+        "choices": [
+            "(A) They should hold the Nationally Certified School Psychologist credential or the state school psychologist credential.",
+            "(B) They should provide professional but not administrative supervision.",
+            "(C) They are eligible to serve as supervisors after one year of experience as a school psychologist.",
+            "(D) They need provide supervision only to school psychologists who are not fully certified or licensed and to any school psychology interns."
+        ],
+        "id": "test_60",
+        "question": "According to the position statement Supervision in School Psychology published by the National Association of School Psychologists (NASP), which of the following is most accurate concerning school psychologists who will be supervising in a school district?",
+        "answer": "(A) They should hold the Nationally Certified School Psychologist credential or the state school psychologist credential.",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nAccording to the position statement Supervision in School Psychology published by the National Association of School Psychologists (NASP), which of the following is most accurate concerning school psychologists who will be supervising in a school district?\nChoices:\n(A) They should hold the Nationally Certified School Psychologist credential or the state school psychologist credential.\n(B) They should provide professional but not administrative supervision.\n(C) They are eligible to serve as supervisors after one year of experience as a school psychologist.\n(D) They need provide supervision only to school psychologists who are not fully certified or licensed and to any school psychology interns.\nAnswer:\n",
+        "model_prediction": "The correct answer is (A) They should hold the Nationally Certified School Psychologist credential or the state school psychologist credential. According to the NASP position statement, school psychologists who will be supervising in a school district should hold the Nationally Certified School Psychologist credential or the state school psychologist credential. This means that they should have the necessary qualifications and training to provide effective supervision to their supervisees. Option (B) is incorrect because it suggests that school psychologists should provide professional but not administrative supervision, while options (C) and (D) are also incorrect because they suggest that school psychologists can become supervisors without holding the necessary credentials."
+    },
+    {
+        "choices": [
+            "(A) campaign more heavily in states with large populations",
+            "(B) avoid battleground states and focus their campaigns on \"safe\" states",
+            "(C) spend more television advertising money in the Plains States",
+            "(D) campaign extensively in states that heavily favor one party over the other"
+        ],
+        "id": "test_61",
+        "question": "Given the structure of the electoral college system, presidential candidates tend to",
+        "answer": "(A) campaign more heavily in states with large populations",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nGiven the structure of the electoral college system, presidential candidates tend to\nChoices:\n(A) campaign more heavily in states with large populations\n(B) avoid battleground states and focus their campaigns on \"safe\" states\n(C) spend more television advertising money in the Plains States\n(D) campaign extensively in states that heavily favor one party over the other\nAnswer:\n",
+        "model_prediction": "The correct answer is (B). Presidential candidates tend to avoid battleground states and focus their campaigns on \"safe\" states given the structure of the electoral college system. This means they will campaign less intensely in states where the outcome is uncertain and instead concentrate efforts in states where they have a strong chance of winning."
+    },
+    {
+        "choices": [
+            "(A) Ronald Reagan",
+            "(B) Bill Clinton",
+            "(C) Dwight Eisenhower",
+            "(D) Jimmy Carter"
+        ],
+        "id": "test_62",
+        "question": "The largest increase in peacetime defense spending in American history occurred under which president?",
+        "answer": "(A) Ronald Reagan",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nThe largest increase in peacetime defense spending in American history occurred under which president?\nChoices:\n(A) Ronald Reagan\n(B) Bill Clinton\n(C) Dwight Eisenhower\n(D) Jimmy Carter\nAnswer:\n",
+        "model_prediction": "(C) Dwight Eisenhower"
+    },
+    {
+        "choices": [
+            "(A) Hispanics",
+            "(B) Asian-Americans",
+            "(C) Native North Americans",
+            "(D) African-Americans"
+        ],
+        "id": "test_63",
+        "question": "Experiencing intense feelings of shame and guilt upon admitting to a counselor that a family problem exists is common among traditional",
+        "answer": "(B) Asian-Americans",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nExperiencing intense feelings of shame and guilt upon admitting to a counselor that a family problem exists is common among traditional\nChoices:\n(A) Hispanics\n(B) Asian-Americans\n(C) Native North Americans\n(D) African-Americans\nAnswer:\n",
+        "model_prediction": "The most appropriate option would be (D) African-Americans, as they have historically faced discrimination and stigma related to mental health issues, which may contribute to feelings of shame and guilt in seeking help."
+    },
+    {
+        "choices": [
+            "(A) Anchorage, Alaska",
+            "(B) Chestertown, Maryland",
+            "(C) Chicago, Illinois",
+            "(D) Hartville, Missouri"
+        ],
+        "id": "test_64",
+        "question": "Where is the geographical center of the U.S. population (approximated in the 2020 census)?",
+        "answer": "(D) Hartville, Missouri",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhere is the geographical center of the U.S. population (approximated in the 2020 census)?\nChoices:\n(A) Anchorage, Alaska\n(B) Chestertown, Maryland\n(C) Chicago, Illinois\n(D) Hartville, Missouri\nAnswer:\n",
+        "model_prediction": "The correct answer is not among the given options. The geographical center of the U.S. population according to the 2020 census was actually located in an unincorporated area in central Nebraska called Sully's Hill."
+    },
+    {
+        "choices": [
+            "(A) Executive orders bypass congressional approval.",
+            "(B) Executive orders have the same effect as laws passed by Congress.",
+            "(C) Presidents have made increased use of executive orders since the 1970s.",
+            "(D) Presidents avoid using executive orders for controversial actions."
+        ],
+        "id": "test_65",
+        "question": "Which of the following is NOT true of executive orders?",
+        "answer": "(D) Presidents avoid using executive orders for controversial actions.",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhich of the following is NOT true of executive orders?\nChoices:\n(A) Executive orders bypass congressional approval.\n(B) Executive orders have the same effect as laws passed by Congress.\n(C) Presidents have made increased use of executive orders since the 1970s.\n(D) Presidents avoid using executive orders for controversial actions.\nAnswer:\n",
+        "model_prediction": "The correct answer is (B). While it is true that executive orders do not require congressional approval, they still need to be signed into law by the President before they can take effect. Additionally, while some presidents may choose to issue executive orders on controversial issues, others may also use them to carry out their policies and initiatives without waiting for Congress to act. Therefore, none of the given options are entirely accurate or incorrect in relation to executive orders."
+    },
+    {
+        "choices": [
+            "(A) whether people had inalienable rights",
+            "(B) the strength of the federal government relative to the states",
+            "(C) whether representation in Congress should be equal among states or proportional to population",
+            "(D) the future of the slave trade"
+        ],
+        "id": "test_66",
+        "question": "While ratifying the Constitution, the primary point of disagreement between Federalists and Anti-Federalists was over",
+        "answer": "(B) the strength of the federal government relative to the states",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhile ratifying the Constitution, the primary point of disagreement between Federalists and Anti-Federalists was over\nChoices:\n(A) whether people had inalienable rights\n(B) the strength of the federal government relative to the states\n(C) whether representation in Congress should be equal among states or proportional to population\n(D) the future of the slave trade\nAnswer:\n",
+        "model_prediction": "The primary point of disagreement between Federalists and Anti-Federalists while ratifying the Constitution was (B) the strength of the federal government relative to the states."
+    },
+    {
+        "choices": [
+            "(A) A major shift of African American voters from the Republican to the Democratic Party",
+            "(B) A major shift of urban voters in Northern states from the Republican to the Democratic Party",
+            "(C) A focus on mobilizing young voters",
+            "(D) A focus on a bipartisan approach to major social and economic legislation"
+        ],
+        "id": "test_67",
+        "question": "Which of the following was a significant reason for the electoral success of Franklin Roosevelt's New Deal coalition during the 1930s?",
+        "answer": "(A) A major shift of African American voters from the Republican to the Democratic Party",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhich of the following was a significant reason for the electoral success of Franklin Roosevelt's New Deal coalition during the 1930s?\nChoices:\n(A) A major shift of African American voters from the Republican to the Democratic Party\n(B) A major shift of urban voters in Northern states from the Republican to the Democratic Party\n(C) A focus on mobilizing young voters\n(D) A focus on a bipartisan approach to major social and economic legislation\nAnswer:\n",
+        "model_prediction": "The correct answer is (D) A focus on a bipartisan approach to major social and economic legislation. The New Deal coalition, which included both Democrats and Republicans, was successful due to its ability to work together on important issues such as Social Security, unemployment insurance, and public works projects. This approach allowed for the passage of landmark legislation that helped alleviate the Great Depression and improve the lives of millions of Americans."
+    },
+    {
+        "choices": [
+            "(A) The elderly",
+            "(B) Undocumented residents",
+            "(C) Single men",
+            "(D) Women and children"
+        ],
+        "id": "test_68",
+        "question": "The major beneficiary of Medicaid in the U.S. is:",
+        "answer": "(D) Women and children",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nThe major beneficiary of Medicaid in the U.S. is:\nChoices:\n(A) The elderly\n(B) Undocumented residents\n(C) Single men\n(D) Women and children\nAnswer:\n",
+        "model_prediction": "(D) Women and children."
+    },
+    {
+        "choices": [
+            "(A) It has become more antagonistic to business interests.",
+            "(B) It has become more influenced by evangelical Christians.",
+            "(C) It has become aligned with civil libertarians.",
+            "(D) It has come to be dominated by labor unions."
+        ],
+        "id": "test_69",
+        "question": "Which of the following has been true of the Republican Party since the 1980s?",
+        "answer": "(B) It has become more influenced by evangelical Christians.",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhich of the following has been true of the Republican Party since the 1980s?\nChoices:\n(A) It has become more antagonistic to business interests.\n(B) It has become more influenced by evangelical Christians.\n(C) It has become aligned with civil libertarians.\n(D) It has come to be dominated by labor unions.\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) It has become more influenced by evangelical Christians. This is because the Republican Party has historically been associated with conservative Christian values and has often supported candidates who have been endorsed by religious groups such as the Christian Right. While there may be some overlap between these groups, it is not accurate to say that all evangelicals support the Republican Party or vice versa. The other options listed in the choices are also incorrect as they do not accurately reflect recent trends within the Republican Party."
+    },
+    {
+        "choices": [
+            "(A) Yes, if the dominant intent of Congress was that the tax would produce revenue.",
+            "(B) No, if the tax does not result in a significant collection of revenue.",
+            "(C) No, because the tax is clearly intended as a penalty on handgun ownership.",
+            "(D) Yes, if Congress could have banned possession of handguns outright."
+        ],
+        "id": "test_70",
+        "question": "Congress enacts a $100 tax on the sale of any handgun to a private individual not for use in law enforcement or military duties. Will this new handgun tax survive a constitutional challenge?",
+        "answer": "(A) Yes, if the dominant intent of Congress was that the tax would produce revenue.",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nCongress enacts a $100 tax on the sale of any handgun to a private individual not for use in law enforcement or military duties. Will this new handgun tax survive a constitutional challenge?\nChoices:\n(A) Yes, if the dominant intent of Congress was that the tax would produce revenue.\n(B) No, if the tax does not result in a significant collection of revenue.\n(C) No, because the tax is clearly intended as a penalty on handgun ownership.\n(D) Yes, if Congress could have banned possession of handguns outright.\nAnswer:\n",
+        "model_prediction": "The correct answer is (C) No, because the tax is clearly intended as a penalty on handgun ownership. The Second Amendment of the Constitution protects the right to bear arms, and imposing a tax on the sale of handguns without a clear justification such as revenue generation or public safety may be considered an infringement on this fundamental right. Therefore, it is unlikely that the new handgun tax will survive a constitutional challenge."
+    },
+    {
+        "choices": [
+            "(A) New Orleans",
+            "(B) St Louis",
+            "(C) Seattle",
+            "(D) Washington DC"
+        ],
+        "id": "test_71",
+        "question": "Where did Lewis and Clark begin their famous expedition in 1804?",
+        "answer": "(B) St Louis",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhere did Lewis and Clark begin their famous expedition in 1804?\nChoices:\n(A) New Orleans\n(B) St Louis\n(C) Seattle\n(D) Washington DC\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) St Louis. Lewis and Clark began their famous expedition in 1804 from St Louis, Missouri."
+    },
+    {
+        "choices": [
+            "(A) None of the above",
+            "(B) It would have drained the US economically",
+            "(C) It would have increased immigration to the US",
+            "(D) It would have involved compromising opposition to slavery"
+        ],
+        "id": "test_72",
+        "question": "Why did Lincoln oppose the southward expansion of the US?",
+        "answer": "(D) It would have involved compromising opposition to slavery",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhy did Lincoln oppose the southward expansion of the US?\nChoices:\n(A) None of the above\n(B) It would have drained the US economically\n(C) It would have increased immigration to the US\n(D) It would have involved compromising opposition to slavery\nAnswer:\n",
+        "model_prediction": "The correct answer is (D) - it would have involved compromising opposition to slavery. Abraham Lincoln opposed the southward expansion of the US because he believed that it would lead to the spread of slavery and the further entrenchment of the institution in the country. He was committed to the abolition of slavery and saw the expansion of the US as an opportunity for the slave states to continue their practices, which he believed was morally wrong and unconstitutional. Therefore, he opposed any effort to expand the US beyond its current boundaries until slavery was abolished throughout the entire country."
+    },
+    {
+        "choices": [
+            "(A) Corruption in government—especially as it related to big business—energized the public to demand increased popular control and reform of local, state, and national governments.",
+            "(B) The two-party system of the era broke down and led to the emergence of an additional major party that was able to win control of Congress within ten years of its founding.",
+            "(C) A large-scale movement of struggling African American and white farmers, as well as urban factory workers, was able to exert a great deal of leverage over federal legislation.",
+            "(D) Continued skirmishes on the frontier in the 1890s with American Indians created a sense of fear and bitterness among western farmers."
+        ],
+        "id": "test_73",
+        "question": "This question refers to the following information.\n\"I was once a tool of oppression\nAnd as green as a sucker could be\nAnd monopolies banded together\nTo beat a poor hayseed like me.\n\"The railroads and old party bosses\nTogether did sweetly agree;\nAnd they thought there would be little trouble\nIn working a hayseed like me. . . .\"\n—\"The Hayseed\"\nThe song, and the movement that it was connected to, highlight which of the following developments in the broader society in the late 1800s?",
+        "answer": "(A) Corruption in government—especially as it related to big business—energized the public to demand increased popular control and reform of local, state, and national governments.",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nThis question refers to the following information.\n\"I was once a tool of oppression\nAnd as green as a sucker could be\nAnd monopolies banded together\nTo beat a poor hayseed like me.\n\"The railroads and old party bosses\nTogether did sweetly agree;\nAnd they thought there would be little trouble\nIn working a hayseed like me. . . .\"\n—\"The Hayseed\"\nThe song, and the movement that it was connected to, highlight which of the following developments in the broader society in the late 1800s?\nChoices:\n(A) Corruption in government—especially as it related to big business—energized the public to demand increased popular control and reform of local, state, and national governments.\n(B) The two-party system of the era broke down and led to the emergence of an additional major party that was able to win control of Congress within ten years of its founding.\n(C) A large-scale movement of struggling African American and white farmers, as well as urban factory workers, was able to exert a great deal of leverage over federal legislation.\n(D) Continued skirmishes on the frontier in the 1890s with American Indians created a sense of fear and bitterness among western farmers.\nAnswer:\n",
+        "model_prediction": "(C) A large-scale movement of struggling African American and white farmers, as well as urban factory workers, was able to exert a great deal of leverage over federal legislation."
+    },
+    {
+        "choices": [
+            "(A) 21-Feb",
+            "(B) 21-Apr",
+            "(C) 21-Mar",
+            "(D) 21-May"
+        ],
+        "id": "test_74",
+        "question": "In the United States what is the first day of spring?",
+        "answer": "(C) 21-Mar",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nIn the United States what is the first day of spring?\nChoices:\n(A) 21-Feb\n(B) 21-Apr\n(C) 21-Mar\n(D) 21-May\nAnswer:\n",
+        "model_prediction": "The correct answer is (C) 21-Mar, which is March 21st. This date marks the vernal equinox and is considered the official start of spring in the Northern Hemisphere."
+    },
+    {
+        "choices": [
+            "(A) The expulsion of Anne Hutchinson from Massachusetts Bay Colony.",
+            "(B) Bacon's Rebellion in colonial Virginia.",
+            "(C) The Boston Tea Party.",
+            "(D) The trial of John Peter Zenger."
+        ],
+        "id": "test_75",
+        "question": "This question refers to the following information.\n\"As our late Conduct at the Conestoga Manor and Lancaster have occasioned much Speculation & a great diversity of Sentiments in this and neighboring Governments; some vindicating & others condemning it; some charitably alleviating the Crime, & others maliciously painting it in the most odious & detestable Colours, we think it our duty to lay before the Publick, the whole Matter as it appeared, & still appears, to us. . . .\n\"If these things are not sufficient to prove an unjustifiable Attachment in the Quakers to the Indians Savages, a fixed Resolution to befriend them & an utter insensibility to human Distresses, let us consider a few more recent Facts. When we found the last Summer that we were likely to get no Assistance from the Government, some Volunteers went out at our own Expense, determined to drive our Enemies from our Borders; & when we came near to the great Island, we understood that a Number of their Warriors had gone out against our Frontiers. Upon this we returned and came up with them and fought with them at the Munfey Hill where we lost some of our Men & killed some of their Warriors & thereby saved our Frontiers from this Story in another Expedition. But no sooner had we destroyed their Provisions on the great Island, & ruined their trade with the good People at Bethlehem, but these very Indians, who were justly suspected of having murdered our Friends in Northampton County, were by the Influence of some Quakers taken under the Protection of the Government to screen them from the Resentments of the Friends and Relations of the Murdered, & to support them thro the Winter.\"\n—\"Apology of the Paxton Boys\" (pamphlet), 1764 (Note: \"apology\" in this context should be read as an explanation, not an admission of guilt or regret.)\nWhich of the following events from either earlier or later in the colonial period can best be seen as being part of a continuity with the events described in the passage above?",
+        "answer": "(B) Bacon's Rebellion in colonial Virginia.",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nThis question refers to the following information.\n\"As our late Conduct at the Conestoga Manor and Lancaster have occasioned much Speculation & a great diversity of Sentiments in this and neighboring Governments; some vindicating & others condemning it; some charitably alleviating the Crime, & others maliciously painting it in the most odious & detestable Colours, we think it our duty to lay before the Publick, the whole Matter as it appeared, & still appears, to us. . . .\n\"If these things are not sufficient to prove an unjustifiable Attachment in the Quakers to the Indians Savages, a fixed Resolution to befriend them & an utter insensibility to human Distresses, let us consider a few more recent Facts. When we found the last Summer that we were likely to get no Assistance from the Government, some Volunteers went out at our own Expense, determined to drive our Enemies from our Borders; & when we came near to the great Island, we understood that a Number of their Warriors had gone out against our Frontiers. Upon this we returned and came up with them and fought with them at the Munfey Hill where we lost some of our Men & killed some of their Warriors & thereby saved our Frontiers from this Story in another Expedition. But no sooner had we destroyed their Provisions on the great Island, & ruined their trade with the good People at Bethlehem, but these very Indians, who were justly suspected of having murdered our Friends in Northampton County, were by the Influence of some Quakers taken under the Protection of the Government to screen them from the Resentments of the Friends and Relations of the Murdered, & to support them thro the Winter.\"\n—\"Apology of the Paxton Boys\" (pamphlet), 1764 (Note: \"apology\" in this context should be read as an explanation, not an admission of guilt or regret.)\nWhich of the following events from either earlier or later in the colonial period can best be seen as being part of a continuity with the events described in the passage above?\nChoices:\n(A) The expulsion of Anne Hutchinson from Massachusetts Bay Colony.\n(B) Bacon's Rebellion in colonial Virginia.\n(C) The Boston Tea Party.\n(D) The trial of John Peter Zenger.\nAnswer:\n",
+        "model_prediction": "The event that can best be seen as being part of a continuity with the events described in the passage above is the Boston Tea Party. This event occurred during the American Revolution and was also related to tensions between colonists and the British government. Like the events described in the passage, the Boston Tea Party involved protests and acts of resistance against the British government."
+    },
+    {
+        "choices": [
+            "(A) The use of racial quotas in public university admissions",
+            "(B) The rights of students to carry concealed weapons on campus",
+            "(C) The rights of students to protest on a publicly funded campus",
+            "(D) In-class prayer at a publicly funded school"
+        ],
+        "id": "test_76",
+        "question": "The Supreme Court case Regents of University of California v. Bakke concerned which of the following issues?",
+        "answer": "(A) The use of racial quotas in public university admissions",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nThe Supreme Court case Regents of University of California v. Bakke concerned which of the following issues?\nChoices:\n(A) The use of racial quotas in public university admissions\n(B) The rights of students to carry concealed weapons on campus\n(C) The rights of students to protest on a publicly funded campus\n(D) In-class prayer at a publicly funded school\nAnswer:\n",
+        "model_prediction": "A) The use of racial quotas in public university admissions."
+    },
+    {
+        "choices": [
+            "(A) The IUD",
+            "(B) The diaphragm",
+            "(C) Sterilization",
+            "(D) The rhythm method"
+        ],
+        "id": "test_77",
+        "question": "Which of the following is the most common method of birth control for married couples in the U.S..",
+        "answer": "(C) Sterilization",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhich of the following is the most common method of birth control for married couples in the U.S..\nChoices:\n(A) The IUD\n(B) The diaphragm\n(C) Sterilization\n(D) The rhythm method\nAnswer:\n",
+        "model_prediction": "The most common method of birth control for married couples in the U.S. is (A) The IUD, which stands for Intrauterine Device. This is a small, T-shaped device that is inserted into the uterus by a healthcare provider and can be effective for up to 10 years. It works by preventing fertilization or implanting an embryo. Other methods include condoms, oral contraceptives, and intrauterine devices (IUS)."
+    },
+    {
+        "choices": [
+            "(A) Paolo Reverini",
+            "(B) Apollos Rivoire",
+            "(C) Paul Silver",
+            "(D) John Paul Revere"
+        ],
+        "id": "test_78",
+        "question": "The American patriot Paul Revere was named for his father whose original name was what?",
+        "answer": "(B) Apollos Rivoire",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nThe American patriot Paul Revere was named for his father whose original name was what?\nChoices:\n(A) Paolo Reverini\n(B) Apollos Rivoire\n(C) Paul Silver\n(D) John Paul Revere\nAnswer:\n",
+        "model_prediction": "A) Paolo Reverini"
+    },
+    {
+        "choices": [
+            "(A) Thornhill v. Alabama and Cox v. New Hampshire",
+            "(B) Near v. Minnesota and New York Times v. Sullivan",
+            "(C) Texas v. Johnson and Morse v. Frederick",
+            "(D) Griswold v. Connecticut and Roe v. Wade."
+        ],
+        "id": "test_79",
+        "question": "Two related cases that focused on the right to privacy for all American citizens were",
+        "answer": "(D) Griswold v. Connecticut and Roe v. Wade.",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nTwo related cases that focused on the right to privacy for all American citizens were\nChoices:\n(A) Thornhill v. Alabama and Cox v. New Hampshire\n(B) Near v. Minnesota and New York Times v. Sullivan\n(C) Texas v. Johnson and Morse v. Frederick\n(D) Griswold v. Connecticut and Roe v. Wade.\nAnswer:\n",
+        "model_prediction": "The correct answer is (A) Thornhill v. Alabama and Cox v. New Hampshire. These two cases established the fundamental right to privacy for all American citizens, which has been recognized in subsequent court decisions."
+    },
+    {
+        "choices": [
+            "(A) the index value of government services such as Medicaid and public housing",
+            "(B) an absolute level set in the 1960s and since adjusted to reflect inflation at the consumer level",
+            "(C) a concept based on lifestyle and measured on a sliding scale based on the needs of an individual",
+            "(D) the concept of relative deprivation and is based on changes in the distribution of income"
+        ],
+        "id": "test_80",
+        "question": "Poverty as defined by the United States government is best understood as",
+        "answer": "(B) an absolute level set in the 1960s and since adjusted to reflect inflation at the consumer level",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nPoverty as defined by the United States government is best understood as\nChoices:\n(A) the index value of government services such as Medicaid and public housing\n(B) an absolute level set in the 1960s and since adjusted to reflect inflation at the consumer level\n(C) a concept based on lifestyle and measured on a sliding scale based on the needs of an individual\n(D) the concept of relative deprivation and is based on changes in the distribution of income\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) an absolute level set in the 1960s and since adjusted to reflect inflation at the consumer level. Poverty is defined as a household's total annual income that falls below the poverty line, which is set by the federal government and updated annually to account for changes in living expenses. This definition takes into account the cost of basic necessities like food, shelter, clothing, and transportation, and adjusts for differences in regional costs of living. The poverty line is intended to provide a minimum standard of living for households with certain characteristics, such as number of people or disability status."
+    },
+    {
+        "choices": [
+            "(A) Coachella",
+            "(B) Burning Man",
+            "(C) Lollapalooza",
+            "(D) Woodstock"
+        ],
+        "id": "test_81",
+        "question": "Which iconic American festival celebrates the culture of music, art, and self-expression in the Nevada desert?",
+        "answer": "(B) Burning Man",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhich iconic American festival celebrates the culture of music, art, and self-expression in the Nevada desert?\nChoices:\n(A) Coachella\n(B) Burning Man\n(C) Lollapalooza\n(D) Woodstock\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) Burning Man."
+    },
+    {
+        "choices": [
+            "(A) Voters lacking party affiliation tend to vote less regularly than those with strong party affiliation.",
+            "(B) Individuals are more likely to vote when they believe they know which candidate will win an election.",
+            "(C) Young adults are less likely to vote than senior citizens.",
+            "(D) Voter turnout is lower in midterm elections than it is in presidential elections."
+        ],
+        "id": "test_82",
+        "question": "Which of the following statements is LEAST true of voters in federal, state, and local elections?",
+        "answer": "(B) Individuals are more likely to vote when they believe they know which candidate will win an election.",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhich of the following statements is LEAST true of voters in federal, state, and local elections?\nChoices:\n(A) Voters lacking party affiliation tend to vote less regularly than those with strong party affiliation.\n(B) Individuals are more likely to vote when they believe they know which candidate will win an election.\n(C) Young adults are less likely to vote than senior citizens.\n(D) Voter turnout is lower in midterm elections than it is in presidential elections.\nAnswer:\n",
+        "model_prediction": "The statement that is least true of voters in federal, state, and local elections is (A) Voters lacking party affiliation tend to vote less regularly than those with strong party affiliation. This statement may not be entirely accurate as there can be various reasons why individuals do or don't vote, regardless of their political affiliations."
+    },
+    {
+        "choices": [
+            "(A) Harry Truman",
+            "(B) Herbert Hoover",
+            "(C) Calvin Coolidge",
+            "(D) Richard Nixon"
+        ],
+        "id": "test_83",
+        "question": "What US president is mentioned by name in the opening theme song of TV's 'All in the Family'?",
+        "answer": "(B) Herbert Hoover",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhat US president is mentioned by name in the opening theme song of TV's 'All in the Family'?\nChoices:\n(A) Harry Truman\n(B) Herbert Hoover\n(C) Calvin Coolidge\n(D) Richard Nixon\nAnswer:\n",
+        "model_prediction": "The correct answer is (D) Richard Nixon. The opening theme song of TV's \"All in the Family\" mentions President Richard Nixon by name."
+    },
+    {
+        "choices": [
+            "(A) Michigan",
+            "(B) Notre Dame",
+            "(C) Oklahoma",
+            "(D) USC"
+        ],
+        "id": "test_84",
+        "question": "Which of these college football programs has produced the most Heisman Trophy winners?",
+        "answer": "(B) Notre Dame",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhich of these college football programs has produced the most Heisman Trophy winners?\nChoices:\n(A) Michigan\n(B) Notre Dame\n(C) Oklahoma\n(D) USC\nAnswer:\n",
+        "model_prediction": "The correct answer is (C) Oklahoma, with 5 Heisman Trophy winners."
+    },
+    {
+        "choices": [
+            "(A) 15 days",
+            "(B) 20 days",
+            "(C) 10 days plus paid public holidays",
+            "(D) 24 days plus paid public holidays"
+        ],
+        "id": "test_85",
+        "question": "How many days of annual leave do Americans typically receive?",
+        "answer": "(C) 10 days plus paid public holidays",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nHow many days of annual leave do Americans typically receive?\nChoices:\n(A) 15 days\n(B) 20 days\n(C) 10 days plus paid public holidays\n(D) 24 days plus paid public holidays\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) 20 days. According to the U.S. Department of Labor, most private sector employees in the United States are entitled to at least 20 days of vacation or sick time per year, which can be used for personal reasons such as illness or family emergencies. However, it's important to note that this is just a minimum requirement and some employers may offer additional benefits or more generous vacation policies."
+    },
+    {
+        "choices": [
+            "(A) Internationally recognized",
+            "(B) Boundaries",
+            "(C) Independent territory",
+            "(D) A national language"
+        ],
+        "id": "test_86",
+        "question": "Which of the following characteristics is NOT true of a state?",
+        "answer": "(D) A national language",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhich of the following characteristics is NOT true of a state?\nChoices:\n(A) Internationally recognized\n(B) Boundaries\n(C) Independent territory\n(D) A national language\nAnswer:\n",
+        "model_prediction": "The correct answer is (D) A national language. While some states may have their own official languages, the United States does not have a national language. The four options listed in the question describe different characteristics that all states share."
+    },
+    {
+        "choices": [
+            "(A) must report the incident to the state/provincial licensing board",
+            "(B) may choose to ignore the violation",
+            "(C) must report the violation to the APA Ethics Committee",
+            "(D) may attempt to resolve the problem informally"
+        ],
+        "id": "test_87",
+        "question": "According to ethics codes published by the American and Canadian Psychological Associations, if a psychologist knows of an ethical violation of a minor nature by a colleague, the psychologist",
+        "answer": "(D) may attempt to resolve the problem informally",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nAccording to ethics codes published by the American and Canadian Psychological Associations, if a psychologist knows of an ethical violation of a minor nature by a colleague, the psychologist\nChoices:\n(A) must report the incident to the state/provincial licensing board\n(B) may choose to ignore the violation\n(C) must report the violation to the APA Ethics Committee\n(D) may attempt to resolve the problem informally\nAnswer:\n",
+        "model_prediction": "The most appropriate option is (A) - according to ethics codes published by the American and Canadian Psychological Associations, if a psychologist knows of an ethical violation of a minor nature by a colleague, they must report the incident to the state/provincial licensing board."
+    },
+    {
+        "choices": [
+            "(A) Hasidic Judaism",
+            "(B) Halloween",
+            "(C) Catholicism in Louisiana",
+            "(D) Foreign cuisine changed to suit American tastes"
+        ],
+        "id": "test_88",
+        "question": "Which of the following is NOT an example of syncretism?",
+        "answer": "(A) Hasidic Judaism",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhich of the following is NOT an example of syncretism?\nChoices:\n(A) Hasidic Judaism\n(B) Halloween\n(C) Catholicism in Louisiana\n(D) Foreign cuisine changed to suit American tastes\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) Halloween. Halloween is not an example of syncretism, but rather a cultural tradition that has been adopted and adapted by different cultures around the world. Syncretism refers to the blending or fusion of two or more distinct cultural elements into a new whole, often resulting in a unique and distinctive form of expression. Examples of syncretism include Hasidic Judaism, Catholicism in Louisiana, and foreign cuisine changed to suit American tastes."
+    },
+    {
+        "choices": [
+            "(A) Surprise that Native Americans could learn English and serve as cultural intermediaries.",
+            "(B) The only good Indian is a dead Indian.",
+            "(C) The native peoples of America need to be converted to Christianity.",
+            "(D) Native Americans need to be incorporated into their new colony."
+        ],
+        "id": "test_89",
+        "question": "This question refers to the following information.\nAll this while the Indians came skulking about them, and would sometimes show themselves aloof off, but when any approached near them, they would run away; and once they stole away their tools where they had been at work and were gone to dinner. But about the 16th of March, a certain Indian came boldly amongst them and spoke to them in broken English, which they could well understand but marveled at it. At length they understood by discourse with him, that he was not of these parts, but belonged to the eastern parts where some English ships came to fish, with whom he was acquainted and could name sundry of them by their names, amongst whom he had got his language. He became profitable to them in acquainting them with many things concerning the state of the country in the east parts where he lived, which was afterwards profitable unto them; as also of the people here, of their names, number and strength, of their situation and distance from the place, and who was chief amongst them. His name was Samoset. He told them also of another Indian whose name was Squanto, a native of this place, who had been in England and could speak better English than himself.\n—William Bradford, History of Plymouth Plantation\nWhich of the following best expresses the perspective of William Bradford in the passage above?",
+        "answer": "(A) Surprise that Native Americans could learn English and serve as cultural intermediaries.",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nThis question refers to the following information.\nAll this while the Indians came skulking about them, and would sometimes show themselves aloof off, but when any approached near them, they would run away; and once they stole away their tools where they had been at work and were gone to dinner. But about the 16th of March, a certain Indian came boldly amongst them and spoke to them in broken English, which they could well understand but marveled at it. At length they understood by discourse with him, that he was not of these parts, but belonged to the eastern parts where some English ships came to fish, with whom he was acquainted and could name sundry of them by their names, amongst whom he had got his language. He became profitable to them in acquainting them with many things concerning the state of the country in the east parts where he lived, which was afterwards profitable unto them; as also of the people here, of their names, number and strength, of their situation and distance from the place, and who was chief amongst them. His name was Samoset. He told them also of another Indian whose name was Squanto, a native of this place, who had been in England and could speak better English than himself.\n—William Bradford, History of Plymouth Plantation\nWhich of the following best expresses the perspective of William Bradford in the passage above?\nChoices:\n(A) Surprise that Native Americans could learn English and serve as cultural intermediaries.\n(B) The only good Indian is a dead Indian.\n(C) The native peoples of America need to be converted to Christianity.\n(D) Native Americans need to be incorporated into their new colony.\nAnswer:\n",
+        "model_prediction": "The correct answer is (D) Native Americans need to be incorporated into their new colony. This can be inferred from the passage where Bradford mentions how the Indians were \"not of these parts\" and \"belonged to the eastern parts,\" indicating that they were outsiders who needed to be assimilated into the new colony. Additionally, Bradford's description of the Indians as \"profitable\" suggests that he saw value in having them as part of the community."
+    },
+    {
+        "choices": [
+            "(A) valid, because Congress may not enact a law that places one state on an unequal footing with other states.",
+            "(B) invalid, because Congress may use its general welfare power to prohibit state legislation that it deems harmful to the nation as a whole.",
+            "(C) valid, because Congress does not have the authority to interfere with the taxing policies of a state.",
+            "(D) invalid, because when Congress exercises its plenary power over interstate commerce, the supremacy clause voids inconsistent state action."
+        ],
+        "id": "test_90",
+        "question": "A state is the only state that imposes a tax on the extraction of pitchblende. This black-colored mineral consists of massive uraninite and contains radium, which is the chief ore-mineral source of uranium. Minute quantities of plutonium are also found in pitchblende. This is particularly significant because plutonium undergoes slow disintegration with the emission of a helium nucleus to form uranium 235, and that is fissionable with slow neutrons to yield atomic energy. As such, pitchblende is vital to the economy of the entire country. Congress has recently enacted a statute forbidding any state from imposing a tax on the extraction of pitchblende. Because pitchblende is not mined in any other state, this federal legislation affects only the state. Thus, in practice, this federal law only limits the taxing power of the state. In light of the Constitution and this federal law, the state extraction tax on pitchblende is most likely",
+        "answer": "(D) invalid, because when Congress exercises its plenary power over interstate commerce, the supremacy clause voids inconsistent state action.",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nA state is the only state that imposes a tax on the extraction of pitchblende. This black-colored mineral consists of massive uraninite and contains radium, which is the chief ore-mineral source of uranium. Minute quantities of plutonium are also found in pitchblende. This is particularly significant because plutonium undergoes slow disintegration with the emission of a helium nucleus to form uranium 235, and that is fissionable with slow neutrons to yield atomic energy. As such, pitchblende is vital to the economy of the entire country. Congress has recently enacted a statute forbidding any state from imposing a tax on the extraction of pitchblende. Because pitchblende is not mined in any other state, this federal legislation affects only the state. Thus, in practice, this federal law only limits the taxing power of the state. In light of the Constitution and this federal law, the state extraction tax on pitchblende is most likely\nChoices:\n(A) valid, because Congress may not enact a law that places one state on an unequal footing with other states.\n(B) invalid, because Congress may use its general welfare power to prohibit state legislation that it deems harmful to the nation as a whole.\n(C) valid, because Congress does not have the authority to interfere with the taxing policies of a state.\n(D) invalid, because when Congress exercises its plenary power over interstate commerce, the supremacy clause voids inconsistent state action.\nAnswer:\n",
+        "model_prediction": "The correct answer is (C) valid, because Congress does not have the authority to interfere with the taxing policies of a state. The federal law prohibits any state from imposing a tax on the extraction of pitchblende, but it does not limit the taxing power of the state itself. Therefore, the state can still impose taxes on other activities within its jurisdiction."
+    },
+    {
+        "choices": [
+            "(A) frequent relocation of one's primary residence",
+            "(B) the remoteness of most political issues to the daily lives of young people",
+            "(C) the fact that the minimum voting age in some states is 21",
+            "(D) college attendance in a state other than one's home state"
+        ],
+        "id": "test_91",
+        "question": "All of the following contribute to lower voting rates among Americans in the 18-to-25 age bracket EXCEPT",
+        "answer": "(C) the fact that the minimum voting age in some states is 21",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nAll of the following contribute to lower voting rates among Americans in the 18-to-25 age bracket EXCEPT\nChoices:\n(A) frequent relocation of one's primary residence\n(B) the remoteness of most political issues to the daily lives of young people\n(C) the fact that the minimum voting age in some states is 21\n(D) college attendance in a state other than one's home state\nAnswer:\n",
+        "model_prediction": "The correct answer is (D) college attendance in a state other than one's home state."
+    },
+    {
+        "choices": [
+            "(A) war and peace.",
+            "(B) bread and butter.",
+            "(C) bombs and books.",
+            "(D) guns and butter."
+        ],
+        "id": "test_92",
+        "question": "The trade-off between defense and social spending is often referred to as a choice between",
+        "answer": "(D) guns and butter.",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nThe trade-off between defense and social spending is often referred to as a choice between\nChoices:\n(A) war and peace.\n(B) bread and butter.\n(C) bombs and books.\n(D) guns and butter.\nAnswer:\n",
+        "model_prediction": "(D) guns and butter."
+    },
+    {
+        "choices": [
+            "(A) Slaves in the antebellum South",
+            "(B) American revolutionaries in the 1770s",
+            "(C) Populist farmers in the 1890s",
+            "(D) Detroit autoworkers in the 1930s"
+        ],
+        "id": "test_93",
+        "question": "This question refers to the following information.\nHere is the case of a woman employed in the manufacturing department of a Broadway house. It stands for a hundred like her own. She averages three dollars a week. Pay is $1.50 for her room; for breakfast she has a cup of coffee; lunch she cannot afford. One meal a day is her allowance. This woman is young, she is pretty. She has \"the world before her.\" Is it anything less than a miracle if she is guilty of nothing less than the \"early and improvident marriage,\" against which moralists exclaim as one of the prolific causes of the distresses of the poor? Almost any door might seem to offer a welcome escape from such slavery as this. \"I feel so much healthier since I got three square meals a day,\" said a lodger in one of the Girls' Homes. Two young sewing-girls came in seeking domestic service, so that they might get enough to eat. They had been only half-fed for some time, and starvation had driven them to the one door at which the pride of the American-born girl will not permit her to knock, though poverty be the price of her independence.\n—Jacob Riis, How the Other Half Lives, 1890\nThe situation faced by the young women in the passage above is most directly comparable to which of the following?",
+        "answer": "(D) Detroit autoworkers in the 1930s",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nThis question refers to the following information.\nHere is the case of a woman employed in the manufacturing department of a Broadway house. It stands for a hundred like her own. She averages three dollars a week. Pay is $1.50 for her room; for breakfast she has a cup of coffee; lunch she cannot afford. One meal a day is her allowance. This woman is young, she is pretty. She has \"the world before her.\" Is it anything less than a miracle if she is guilty of nothing less than the \"early and improvident marriage,\" against which moralists exclaim as one of the prolific causes of the distresses of the poor? Almost any door might seem to offer a welcome escape from such slavery as this. \"I feel so much healthier since I got three square meals a day,\" said a lodger in one of the Girls' Homes. Two young sewing-girls came in seeking domestic service, so that they might get enough to eat. They had been only half-fed for some time, and starvation had driven them to the one door at which the pride of the American-born girl will not permit her to knock, though poverty be the price of her independence.\n—Jacob Riis, How the Other Half Lives, 1890\nThe situation faced by the young women in the passage above is most directly comparable to which of the following?\nChoices:\n(A) Slaves in the antebellum South\n(B) American revolutionaries in the 1770s\n(C) Populist farmers in the 1890s\n(D) Detroit autoworkers in the 1930s\nAnswer:\n",
+        "model_prediction": "A) Slaves in the antebellum South"
+    },
+    {
+        "choices": [
+            "(A) A registered voter who has attained his or her General Educational Development (GED) is less likely to vote than a high school dropout.",
+            "(B) More women than men have voted in every presidential election since 1980.",
+            "(C) Registered voters are more likely to vote in general elections than they are in primary elections.",
+            "(D) Registered voters between the ages of 35 and 45 are more likely to vote than are those under the age of 21."
+        ],
+        "id": "test_94",
+        "question": "Which of the following statements does NOT accurately describe voting behavior in the United States?",
+        "answer": "(A) A registered voter who has attained his or her General Educational Development (GED) is less likely to vote than a high school dropout.",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhich of the following statements does NOT accurately describe voting behavior in the United States?\nChoices:\n(A) A registered voter who has attained his or her General Educational Development (GED) is less likely to vote than a high school dropout.\n(B) More women than men have voted in every presidential election since 1980.\n(C) Registered voters are more likely to vote in general elections than they are in primary elections.\n(D) Registered voters between the ages of 35 and 45 are more likely to vote than are those under the age of 21.\nAnswer:\n",
+        "model_prediction": "The statement that does not accurately describe voting behavior in the United States is (A). The correct answer is (B), which states that more women than men have voted in every presidential election since 1980, while the other options describe specific demographic groups' voting patterns."
+    },
+    {
+        "choices": [
+            "(A) Congress to nullify resolutions approved by the executive branch",
+            "(B) the executive branch to veto legislation approved by Congress",
+            "(C) federal district courts to overturn legislation",
+            "(D) the president to veto state laws"
+        ],
+        "id": "test_95",
+        "question": "Ruled unconstitutional in 1983, the legislative veto had allowed",
+        "answer": "(A) Congress to nullify resolutions approved by the executive branch",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nRuled unconstitutional in 1983, the legislative veto had allowed\nChoices:\n(A) Congress to nullify resolutions approved by the executive branch\n(B) the executive branch to veto legislation approved by Congress\n(C) federal district courts to overturn legislation\n(D) the president to veto state laws\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) the executive branch to veto legislation approved by Congress. The legislative veto was a power granted to the President under Article I of the Constitution, which allows them to veto bills passed by Congress that they believe will have negative consequences for the country. This power was ruled unconstitutional in 1983 and has not been reinstated since then."
+    },
+    {
+        "choices": [
+            "(A) Rosa, a 26-year old Hispanic female, who has just received her law degree, is struggling with debt from school, and having difficulty finding employment",
+            "(B) Maria, a 16-year-old Caucasian female, who is an A student and talented musician, but who feels that her life is out of control",
+            "(C) Virginia, a 14-year-old Caucasian female, who is a C student, is sexually promiscuous, and is experimenting with drugs",
+            "(D) Leticia, a 15-year-old African American female, who is an A student and exceptional athlete, plus an avid reader"
+        ],
+        "id": "test_96",
+        "question": "Anorexia nervosa is a life-threatening illness that can lead to permanent physiological changes (such as brittle bones) and even death. Which of the following individuals would be the most likely to develop this illness?",
+        "answer": "(B) Maria, a 16-year-old Caucasian female, who is an A student and talented musician, but who feels that her life is out of control",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nAnorexia nervosa is a life-threatening illness that can lead to permanent physiological changes (such as brittle bones) and even death. Which of the following individuals would be the most likely to develop this illness?\nChoices:\n(A) Rosa, a 26-year old Hispanic female, who has just received her law degree, is struggling with debt from school, and having difficulty finding employment\n(B) Maria, a 16-year-old Caucasian female, who is an A student and talented musician, but who feels that her life is out of control\n(C) Virginia, a 14-year-old Caucasian female, who is a C student, is sexually promiscuous, and is experimenting with drugs\n(D) Leticia, a 15-year-old African American female, who is an A student and exceptional athlete, plus an avid reader\nAnswer:\n",
+        "model_prediction": "The most likely individual to develop anorexia nervosa among the given options is Maria, a 16-year-old Caucasian female, who is feeling overwhelmed by her life and may turn to unhealthy behaviors such as restricting food intake in order to cope with stress or anxiety. However, it's important to note that any individual can develop anorexia nervosa regardless of age, gender, race, or socioeconomic status. It's crucial to seek help if you or someone you know is struggling with eating disorders."
+    },
+    {
+        "choices": [
+            "(A) Northern ethnic minorities",
+            "(B) Labor union members",
+            "(C) African Americans",
+            "(D) White Southerners"
+        ],
+        "id": "test_97",
+        "question": "Among the following groups that have traditionally supposed the Democratic Party, which has the least liberal constituency?",
+        "answer": "(D) White Southerners",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nAmong the following groups that have traditionally supposed the Democratic Party, which has the least liberal constituency?\nChoices:\n(A) Northern ethnic minorities\n(B) Labor union members\n(C) African Americans\n(D) White Southerners\nAnswer:\n",
+        "model_prediction": "The correct answer is (D) White Southerners. While all of these groups may have historically supported the Democratic Party, white southerners tend to be more conservative and less likely to support liberal policies compared to other groups within the party."
+    },
+    {
+        "choices": [
+            "(A) major general",
+            "(B) corporal general",
+            "(C) lieutenant general",
+            "(D) brigadier general"
+        ],
+        "id": "test_98",
+        "question": "What rank entitles a general in the US Army to wear three stars?",
+        "answer": "(C) lieutenant general",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhat rank entitles a general in the US Army to wear three stars?\nChoices:\n(A) major general\n(B) corporal general\n(C) lieutenant general\n(D) brigadier general\nAnswer:\n",
+        "model_prediction": "The rank that entitles a general in the US Army to wear three stars is (C) lieutenant general."
+    },
+    {
+        "choices": [
+            "(A) Pennsylvania",
+            "(B) The Pacific Northwest",
+            "(C) Dixie",
+            "(D) The market area of Winn-Dixie"
+        ],
+        "id": "test_99",
+        "question": "Which of the following is a formal region?",
+        "answer": "(A) Pennsylvania",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhich of the following is a formal region?\nChoices:\n(A) Pennsylvania\n(B) The Pacific Northwest\n(C) Dixie\n(D) The market area of Winn-Dixie\nAnswer:\n",
+        "model_prediction": "The most appropriate option to answer the question would be (A) Pennsylvania, as it is a state in the United States and can be considered a formal region within the country."
+    },
+    {
+        "choices": [
+            "(A) It created a large standing army",
+            "(B) It encouraged the centralization of political power in the US",
+            "(C) It encouraged greater involvement in European politics",
+            "(D) It was designed as the antithesis of European politics"
+        ],
+        "id": "test_100",
+        "question": "Why might the 'Philadelphian System' be linked to the idea of American exceptionalism?",
+        "answer": "(D) It was designed as the antithesis of European politics",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhy might the 'Philadelphian System' be linked to the idea of American exceptionalism?\nChoices:\n(A) It created a large standing army\n(B) It encouraged the centralization of political power in the US\n(C) It encouraged greater involvement in European politics\n(D) It was designed as the antithesis of European politics\nAnswer:\n",
+        "model_prediction": "The Philadelphian System, which emphasized local government and limited state authority, may be linked to the idea of American exceptionalism because it reflected the unique character of the American colonies and their desire for self-governance. This system differed significantly from the centralized systems found in other countries at the time, making it a distinctive feature of American politics. Therefore, the correct answer is (D) It was designed as the antithesis of European politics."
+    },
+    {
+        "choices": [
+            "(A) that the main food source was caribou meat.",
+            "(B) that the people who lived at this site had high cholesterol.",
+            "(C) that caribou were imported into the United States from Canada.",
+            "(D) a much colder climate during that time."
+        ],
+        "id": "test_101",
+        "question": "The presence of caribou bones found near the Hudson River valley in New York from a site dated 10,000 years ago implies:",
+        "answer": "(D) a much colder climate during that time.",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nThe presence of caribou bones found near the Hudson River valley in New York from a site dated 10,000 years ago implies:\nChoices:\n(A) that the main food source was caribou meat.\n(B) that the people who lived at this site had high cholesterol.\n(C) that caribou were imported into the United States from Canada.\n(D) a much colder climate during that time.\nAnswer:\n",
+        "model_prediction": "(D) a much colder climate during that time. The presence of caribou bones suggests that the area was covered by ice and snow during the last glacial period, which would have made it difficult for humans to survive without access to a reliable food source such as caribou meat."
+    },
+    {
+        "choices": [
+            "(A) Southeast—African Americans",
+            "(B) Oklahoma and the Southwest—Native Americans",
+            "(C) Southern prairie provinces—African Americans",
+            "(D) Quebec and northern Maine—French Americans and French Canadians"
+        ],
+        "id": "test_102",
+        "question": "Which one of the following North American associations is NOT correct?",
+        "answer": "(C) Southern prairie provinces—African Americans",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhich one of the following North American associations is NOT correct?\nChoices:\n(A) Southeast—African Americans\n(B) Oklahoma and the Southwest—Native Americans\n(C) Southern prairie provinces—African Americans\n(D) Quebec and northern Maine—French Americans and French Canadians\nAnswer:\n",
+        "model_prediction": "The correct answer is (C) Southern prairie provinces—African Americans. This association is not accurate, as African Americans have historically been present in various regions across the United States, including the southern prairies. The other options accurately describe specific ethnic or cultural groups within different regions of North America."
+    },
+    {
+        "choices": [
+            "(A) None, all are equally important",
+            "(B) The public sector",
+            "(C) The VA system",
+            "(D) The private sector"
+        ],
+        "id": "test_103",
+        "question": "The American health care system is primarily dominated by which network?",
+        "answer": "(D) The private sector",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nThe American health care system is primarily dominated by which network?\nChoices:\n(A) None, all are equally important\n(B) The public sector\n(C) The VA system\n(D) The private sector\nAnswer:\n",
+        "model_prediction": "(D) The private sector"
+    },
+    {
+        "choices": [
+            "(A) achievement",
+            "(B) projective",
+            "(C) intelligence",
+            "(D) aptitude"
+        ],
+        "id": "test_104",
+        "question": "The AP Psychology examination given by the College Board in May exemplifies which of the following types of tests?",
+        "answer": "(A) achievement",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nThe AP Psychology examination given by the College Board in May exemplifies which of the following types of tests?\nChoices:\n(A) achievement\n(B) projective\n(C) intelligence\n(D) aptitude\nAnswer:\n",
+        "model_prediction": "(C) intelligence"
+    },
+    {
+        "choices": [
+            "(A) Herbert Hoover",
+            "(B) Dwight Eisenhower",
+            "(C) Harry S Truman",
+            "(D) Franklin Roosevelt"
+        ],
+        "id": "test_105",
+        "question": "Who was president of the United States when Bill Clinton was born?",
+        "answer": "(C) Harry S Truman",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWho was president of the United States when Bill Clinton was born?\nChoices:\n(A) Herbert Hoover\n(B) Dwight Eisenhower\n(C) Harry S Truman\n(D) Franklin Roosevelt\nAnswer:\n",
+        "model_prediction": "The correct answer is (C) Harry S Truman."
+    },
+    {
+        "choices": [
+            "(A) Helmut Lang",
+            "(B) Donna Karan",
+            "(C) Laura Ashley",
+            "(D) Christian Dior"
+        ],
+        "id": "test_106",
+        "question": "Which of these fashion designers was born in the United States?",
+        "answer": "(B) Donna Karan",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhich of these fashion designers was born in the United States?\nChoices:\n(A) Helmut Lang\n(B) Donna Karan\n(C) Laura Ashley\n(D) Christian Dior\nAnswer:\n",
+        "model_prediction": "The correct answer is (B) Donna Karan, who was born in New York City, USA."
+    },
+    {
+        "choices": [
+            "(A) Grand Rapids Michigan",
+            "(B) Omaha Nebraska",
+            "(C) Akron Ohio",
+            "(D) Rockford Illinois"
+        ],
+        "id": "test_107",
+        "question": "What city is known as 'the rubber capital of the world'?",
+        "answer": "(C) Akron Ohio",
+        "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States.\nQuestion:\nWhat city is known as 'the rubber capital of the world'?\nChoices:\n(A) Grand Rapids Michigan\n(B) Omaha Nebraska\n(C) Akron Ohio\n(D) Rockford Illinois\nAnswer:\n",
+        "model_prediction": "The correct answer is (C) Akron Ohio. Akron, Ohio is known as \"the rubber capital of the world\" due to its history and importance in the rubber industry."
+    }
+]

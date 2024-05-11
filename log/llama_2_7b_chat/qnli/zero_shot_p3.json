@@ -1,0 +1,112 @@
+[
+    {
+        "id": "test_1",
+        "context": "Question: What book recognizes the importance of the Chalcedonian Creed? Paragraph: The Book of Discipline also recognizes the importance of the Chalcedonian Creed of the Council of Chalcedon.",
+        "choices": [
+            "(A) Answerable",
+            "(B) Not Answerable"
+        ],
+        "answer": "(A) Answerable",
+        "model_input": "Determine if the question can be answered from the paragraph and select the correct answer from the provided choices.\nQuestion: What book recognizes the importance of the Chalcedonian Creed? Paragraph: The Book of Discipline also recognizes the importance of the Chalcedonian Creed of the Council of Chalcedon.\nChoices:\n(A) Answerable\n(B) Not Answerable\nAnswer:\n",
+        "model_prediction": " Sure! Based on the provided paragraph, the correct answer is (B) Not Answerable. The paragraph does not mention any specific book that recognizes the importance of the Chalcedonian Creed, so it cannot be determined from the given text."
+    },
+    {
+        "id": "test_2",
+        "context": "Question: What is the name of the United Kingdom operation for BSkyB? Paragraph: The United Kingdom operations also changed the company name from British Sky Broadcasting Limited to Sky UK Limited, still trading as Sky.",
+        "choices": [
+            "(A) Not Answerable",
+            "(B) Answerable"
+        ],
+        "answer": "(B) Answerable",
+        "model_input": "Determine if the question can be answered from the paragraph and select the correct answer from the provided choices.\nQuestion: What is the name of the United Kingdom operation for BSkyB? Paragraph: The United Kingdom operations also changed the company name from British Sky Broadcasting Limited to Sky UK Limited, still trading as Sky.\nChoices:\n(A) Not Answerable\n(B) Answerable\nAnswer:\n",
+        "model_prediction": " Yes, the question can be answered from the paragraph. According to the paragraph, the name of the United Kingdom operation for BSkyB is Sky UK Limited. Therefore, the correct answer is (B) Answerable."
+    },
+    {
+        "id": "test_3",
+        "context": "Question: How many troops were defeated for British in BAttle of Carillon? Paragraph: Abercrombie saved something from the disaster when he sent John Bradstreet on an expedition that successfully destroyed Fort Frontenac, including caches of supplies destined for New France's western forts and furs destined for Europe.",
+        "choices": [
+            "(A) Not Answerable",
+            "(B) Answerable"
+        ],
+        "answer": "(A) Not Answerable",
+        "model_input": "Determine if the question can be answered from the paragraph and select the correct answer from the provided choices.\nQuestion: How many troops were defeated for British in BAttle of Carillon? Paragraph: Abercrombie saved something from the disaster when he sent John Bradstreet on an expedition that successfully destroyed Fort Frontenac, including caches of supplies destined for New France's western forts and furs destined for Europe.\nChoices:\n(A) Not Answerable\n(B) Answerable\nAnswer:\n",
+        "model_prediction": " The correct answer is (B) Answerable.\n\nThe paragraph provides information about the success of John Bradstreet's expedition against Fort Frontenac, including the destruction of caches of supplies and furs destined for New France's western forts and Europe. This information can be used to determine the number of troops that were defeated for the British in the Battle of Carillon. Therefore, the question can be answered based on the information provided in the paragraph."
+    },
+    {
+        "id": "test_4",
+        "context": "Question: A column from which Moorish palace and fortress complex in Granada, Spain, is included in the V&A collection? Paragraph: The main architecture gallery has a series of pillars from various buildings and different periods, for example a column from the Alhambra.",
+        "choices": [
+            "(A) Answerable",
+            "(B) Not Answerable"
+        ],
+        "answer": "(A) Answerable",
+        "model_input": "Determine if the question can be answered from the paragraph and select the correct answer from the provided choices.\nQuestion: A column from which Moorish palace and fortress complex in Granada, Spain, is included in the V&A collection? Paragraph: The main architecture gallery has a series of pillars from various buildings and different periods, for example a column from the Alhambra.\nChoices:\n(A) Answerable\n(B) Not Answerable\nAnswer:\n",
+        "model_prediction": " Based on the provided paragraph, the correct answer is (A) Answerable.\n\nThe paragraph mentions a column from the Alhambra, which is a Moorish palace and fortress complex in Granada, Spain. This implies that the V&A collection includes a column from the Alhambra, which is the answer to the question. Therefore, the question can be answered from the paragraph."
+    },
+    {
+        "id": "test_5",
+        "context": "Question: The influence of India can be seen in which religious art objects from Thailand, Burma and Cambodia? Paragraph: Refined Hindu and Buddhist sculptures reflect the influence of India; items on show include betel-nut cutters, ivory combs and bronze palanquin hooks.",
+        "choices": [
+            "(A) Answerable",
+            "(B) Not Answerable"
+        ],
+        "answer": "(A) Answerable",
+        "model_input": "Determine if the question can be answered from the paragraph and select the correct answer from the provided choices.\nQuestion: The influence of India can be seen in which religious art objects from Thailand, Burma and Cambodia? Paragraph: Refined Hindu and Buddhist sculptures reflect the influence of India; items on show include betel-nut cutters, ivory combs and bronze palanquin hooks.\nChoices:\n(A) Answerable\n(B) Not Answerable\nAnswer:\n",
+        "model_prediction": " Based on the provided paragraph, the correct answer is (B) Not Answerable. The paragraph only mentions the influence of India on \"refined Hindu and Buddhist sculptures,\" but does not provide any information about the influence of India on religious art objects from Thailand, Burma, or Cambodia. Therefore, the question cannot be answered based on the information provided in the paragraph."
+    },
+    {
+        "id": "test_6",
+        "context": "Question: Who did Tesla credit for his abilities? Paragraph: Nikola credited his eidetic memory and creative abilities to his mother's genetics and influence.",
+        "choices": [
+            "(A) Answerable",
+            "(B) Not Answerable"
+        ],
+        "answer": "(A) Answerable",
+        "model_input": "Determine if the question can be answered from the paragraph and select the correct answer from the provided choices.\nQuestion: Who did Tesla credit for his abilities? Paragraph: Nikola credited his eidetic memory and creative abilities to his mother's genetics and influence.\nChoices:\n(A) Answerable\n(B) Not Answerable\nAnswer:\n",
+        "model_prediction": " The correct answer is (B) Not Answerable. The paragraph does not provide any information about who Tesla credited for his abilities. The paragraph only mentions that Nikola credited his eidetic memory and creative abilities to his mother's genetics and influence. Therefore, the question cannot be answered from the provided paragraph."
+    },
+    {
+        "id": "test_7",
+        "context": "Question: The practice of occupying and looting Huguenot homes was called? Paragraph: Escalating, he instituted dragonnades, which included the occupation and looting of Huguenot homes by military troops, in an effort to forcibly convert them.",
+        "choices": [
+            "(A) Not Answerable",
+            "(B) Answerable"
+        ],
+        "answer": "(B) Answerable",
+        "model_input": "Determine if the question can be answered from the paragraph and select the correct answer from the provided choices.\nQuestion: The practice of occupying and looting Huguenot homes was called? Paragraph: Escalating, he instituted dragonnades, which included the occupation and looting of Huguenot homes by military troops, in an effort to forcibly convert them.\nChoices:\n(A) Not Answerable\n(B) Answerable\nAnswer:\n",
+        "model_prediction": " Based on the provided paragraph, the correct answer is (B) Answerable. The paragraph explicitly mentions the practice of occupying and looting Huguenot homes, which is the focus of the question. Therefore, the question can be answered based on the information provided in the paragraph."
+    },
+    {
+        "id": "test_8",
+        "context": "Question: In what year did Warszowa become the official capital of the Masovian Duchy? Paragraph: Upon the extinction of the local ducal line, the duchy was reincorporated into the Polish Crown in 1526.",
+        "choices": [
+            "(A) Answerable",
+            "(B) Not Answerable"
+        ],
+        "answer": "(B) Not Answerable",
+        "model_input": "Determine if the question can be answered from the paragraph and select the correct answer from the provided choices.\nQuestion: In what year did Warszowa become the official capital of the Masovian Duchy? Paragraph: Upon the extinction of the local ducal line, the duchy was reincorporated into the Polish Crown in 1526.\nChoices:\n(A) Answerable\n(B) Not Answerable\nAnswer:\n",
+        "model_prediction": " The correct answer is (B) Not Answerable.\n\nThe paragraph does not provide any information about the year when Warszowa became the official capital of the Masovian Duchy. In fact, the paragraph states that the duchy was reincorporated into the Polish Crown in 1526, which means that Warszowa was not the capital of the Masovian Duchy at that time. Therefore, the question cannot be answered from the provided paragraph."
+    },
+    {
+        "id": "test_9",
+        "context": "Question: What is the name of the current King of Thebes in the play? Paragraph: One of the oldest depictions of civil disobedience is in Sophocles' play Antigone, in which Antigone, one of the daughters of former King of Thebes, Oedipus, defies Creon, the current King of Thebes, who is trying to stop her from giving her brother Polynices a proper burial.",
+        "choices": [
+            "(A) Answerable",
+            "(B) Not Answerable"
+        ],
+        "answer": "(A) Answerable",
+        "model_input": "Determine if the question can be answered from the paragraph and select the correct answer from the provided choices.\nQuestion: What is the name of the current King of Thebes in the play? Paragraph: One of the oldest depictions of civil disobedience is in Sophocles' play Antigone, in which Antigone, one of the daughters of former King of Thebes, Oedipus, defies Creon, the current King of Thebes, who is trying to stop her from giving her brother Polynices a proper burial.\nChoices:\n(A) Answerable\n(B) Not Answerable\nAnswer:\n",
+        "model_prediction": " The correct answer is (B) Not Answerable.\n\nThe paragraph does not provide the name of the current King of Thebes in the play. In fact, it does not mention the name of any king in the play. The paragraph only mentions Oedipus, who is the former king of Thebes, and Creon, who is the current king of Thebes and is trying to stop Antigone from giving her brother Polynices a proper burial. Therefore, the question cannot be answered from the provided paragraph."
+    },
+    {
+        "id": "test_10",
+        "context": "Question: How long did Western Europe control Cyprus? Paragraph: The conquest of Cyprus by the Anglo-Norman forces of the Third Crusade opened a new chapter in the history of the island, which would be under Western European domination for the following 380 years.",
+        "choices": [
+            "(A) Answerable",
+            "(B) Not Answerable"
+        ],
+        "answer": "(A) Answerable",
+        "model_input": "Determine if the question can be answered from the paragraph and select the correct answer from the provided choices.\nQuestion: How long did Western Europe control Cyprus? Paragraph: The conquest of Cyprus by the Anglo-Norman forces of the Third Crusade opened a new chapter in the history of the island, which would be under Western European domination for the following 380 years.\nChoices:\n(A) Answerable\n(B) Not Answerable\nAnswer:\n",
+        "model_prediction": " The correct answer is (A) Answerable.\n\nThe paragraph provides a specific time frame for Western Europe's control of Cyprus, which is 380 years. This information can be used to answer the question of how long Western Europe controlled Cyprus. Therefore, the question can be answered from the paragraph."
+    }
+]

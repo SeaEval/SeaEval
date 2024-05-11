@@ -1,0 +1,112 @@
+[
+    {
+        "id": "test_1",
+        "context": "Question: What book recognizes the importance of the Chalcedonian Creed? Paragraph: The Book of Discipline also recognizes the importance of the Chalcedonian Creed of the Council of Chalcedon.",
+        "choices": [
+            "(A) Answerable",
+            "(B) Not Answerable"
+        ],
+        "answer": "(A) Answerable",
+        "model_input": "Select the appropriate response by examining whether the question can be answered based on the provided context.\n\nQuestion: What book recognizes the importance of the Chalcedonian Creed? Paragraph: The Book of Discipline also recognizes the importance of the Chalcedonian Creed of the Council of Chalcedon.\n\nChoices:\n(A) Answerable\n(B) Not Answerable\n\nAnswer:\n",
+        "model_prediction": " Based on the provided context, the appropriate response is (A) Answerable. The paragraph explicitly states that the Book of Discipline recognizes the importance of the Chalcedonian Creed, which means that the question can be answered based on the information provided in the paragraph. Therefore, option (A) is the correct answer."
+    },
+    {
+        "id": "test_2",
+        "context": "Question: What is the name of the United Kingdom operation for BSkyB? Paragraph: The United Kingdom operations also changed the company name from British Sky Broadcasting Limited to Sky UK Limited, still trading as Sky.",
+        "choices": [
+            "(A) Not Answerable",
+            "(B) Answerable"
+        ],
+        "answer": "(B) Answerable",
+        "model_input": "Select the appropriate response by examining whether the question can be answered based on the provided context.\n\nQuestion: What is the name of the United Kingdom operation for BSkyB? Paragraph: The United Kingdom operations also changed the company name from British Sky Broadcasting Limited to Sky UK Limited, still trading as Sky.\n\nChoices:\n(A) Not Answerable\n(B) Answerable\n\nAnswer:\n",
+        "model_prediction": " Based on the provided context, the answer is (B) Answerable. The paragraph mentions that the company name was changed from British Sky Broadcasting Limited to Sky UK Limited, which suggests that the name of the United Kingdom operation for BSkyB is Sky UK Limited. Therefore, the question can be answered based on the context provided."
+    },
+    {
+        "id": "test_3",
+        "context": "Question: How many troops were defeated for British in BAttle of Carillon? Paragraph: Abercrombie saved something from the disaster when he sent John Bradstreet on an expedition that successfully destroyed Fort Frontenac, including caches of supplies destined for New France's western forts and furs destined for Europe.",
+        "choices": [
+            "(A) Not Answerable",
+            "(B) Answerable"
+        ],
+        "answer": "(A) Not Answerable",
+        "model_input": "Select the appropriate response by examining whether the question can be answered based on the provided context.\n\nQuestion: How many troops were defeated for British in BAttle of Carillon? Paragraph: Abercrombie saved something from the disaster when he sent John Bradstreet on an expedition that successfully destroyed Fort Frontenac, including caches of supplies destined for New France's western forts and furs destined for Europe.\n\nChoices:\n(A) Not Answerable\n(B) Answerable\n\nAnswer:\n",
+        "model_prediction": " Based on the provided context, the question \"How many troops were defeated for British in Battle of Carillon?\" cannot be answered as there is no mention of the British being defeated in the paragraph. In fact, the paragraph highlights the success of Abercrombie's expedition, including the destruction of Fort Frontenac and the supplies and furs destined for New France. Therefore, the appropriate response is (B) Answerable."
+    },
+    {
+        "id": "test_4",
+        "context": "Question: A column from which Moorish palace and fortress complex in Granada, Spain, is included in the V&A collection? Paragraph: The main architecture gallery has a series of pillars from various buildings and different periods, for example a column from the Alhambra.",
+        "choices": [
+            "(A) Answerable",
+            "(B) Not Answerable"
+        ],
+        "answer": "(A) Answerable",
+        "model_input": "Select the appropriate response by examining whether the question can be answered based on the provided context.\n\nQuestion: A column from which Moorish palace and fortress complex in Granada, Spain, is included in the V&A collection? Paragraph: The main architecture gallery has a series of pillars from various buildings and different periods, for example a column from the Alhambra.\n\nChoices:\n(A) Answerable\n(B) Not Answerable\n\nAnswer:\n",
+        "model_prediction": " Based on the provided context, the question can be answered as (A) Answerable. The paragraph mentions a column from the Alhambra, which is a Moorish palace and fortress complex in Granada, Spain, and it is included in the V&A collection. Therefore, the question can be answered based on the information provided in the paragraph."
+    },
+    {
+        "id": "test_5",
+        "context": "Question: The influence of India can be seen in which religious art objects from Thailand, Burma and Cambodia? Paragraph: Refined Hindu and Buddhist sculptures reflect the influence of India; items on show include betel-nut cutters, ivory combs and bronze palanquin hooks.",
+        "choices": [
+            "(A) Answerable",
+            "(B) Not Answerable"
+        ],
+        "answer": "(A) Answerable",
+        "model_input": "Select the appropriate response by examining whether the question can be answered based on the provided context.\n\nQuestion: The influence of India can be seen in which religious art objects from Thailand, Burma and Cambodia? Paragraph: Refined Hindu and Buddhist sculptures reflect the influence of India; items on show include betel-nut cutters, ivory combs and bronze palanquin hooks.\n\nChoices:\n(A) Answerable\n(B) Not Answerable\n\nAnswer:\n",
+        "model_prediction": " Based on the provided context, the question \"The influence of India can be seen in which religious art objects from Thailand, Burma and Cambodia?\" can be answered as (A) Answerable.\n\nThe paragraph mentions that refined Hindu and Buddhist sculptures reflect the influence of India, and provides specific examples of these objects, such as betel-nut cutters, ivory combs, and bronze palanquin hooks. These are all religious art objects from Thailand, Burma, and Cambodia, which suggests that the influence of India can be seen in these objects. Therefore, the question"
+    },
+    {
+        "id": "test_6",
+        "context": "Question: Who did Tesla credit for his abilities? Paragraph: Nikola credited his eidetic memory and creative abilities to his mother's genetics and influence.",
+        "choices": [
+            "(A) Answerable",
+            "(B) Not Answerable"
+        ],
+        "answer": "(A) Answerable",
+        "model_input": "Select the appropriate response by examining whether the question can be answered based on the provided context.\n\nQuestion: Who did Tesla credit for his abilities? Paragraph: Nikola credited his eidetic memory and creative abilities to his mother's genetics and influence.\n\nChoices:\n(A) Answerable\n(B) Not Answerable\n\nAnswer:\n",
+        "model_prediction": " Based on the provided context, the question \"Who did Tesla credit for his abilities?\" is Answerable. The paragraph mentions that Tesla credited his eidetic memory and creative abilities to his mother's genetics and influence, which provides a clear answer to the question. Therefore, the correct answer is (A) Answerable."
+    },
+    {
+        "id": "test_7",
+        "context": "Question: The practice of occupying and looting Huguenot homes was called? Paragraph: Escalating, he instituted dragonnades, which included the occupation and looting of Huguenot homes by military troops, in an effort to forcibly convert them.",
+        "choices": [
+            "(A) Not Answerable",
+            "(B) Answerable"
+        ],
+        "answer": "(B) Answerable",
+        "model_input": "Select the appropriate response by examining whether the question can be answered based on the provided context.\n\nQuestion: The practice of occupying and looting Huguenot homes was called? Paragraph: Escalating, he instituted dragonnades, which included the occupation and looting of Huguenot homes by military troops, in an effort to forcibly convert them.\n\nChoices:\n(A) Not Answerable\n(B) Answerable\n\nAnswer:\n",
+        "model_prediction": " Based on the provided context, the question can be answered. The paragraph mentions the occupation and looting of Huguenot homes by military troops, which is the practice referred to in the question. Therefore, the appropriate response is (B) Answerable."
+    },
+    {
+        "id": "test_8",
+        "context": "Question: In what year did Warszowa become the official capital of the Masovian Duchy? Paragraph: Upon the extinction of the local ducal line, the duchy was reincorporated into the Polish Crown in 1526.",
+        "choices": [
+            "(A) Answerable",
+            "(B) Not Answerable"
+        ],
+        "answer": "(B) Not Answerable",
+        "model_input": "Select the appropriate response by examining whether the question can be answered based on the provided context.\n\nQuestion: In what year did Warszowa become the official capital of the Masovian Duchy? Paragraph: Upon the extinction of the local ducal line, the duchy was reincorporated into the Polish Crown in 1526.\n\nChoices:\n(A) Answerable\n(B) Not Answerable\n\nAnswer:\n",
+        "model_prediction": " Based on the provided context, the question \"In what year did Warszowa become the official capital of the Masovian Duchy?\" is Not Answerable. The paragraph only provides information about the reincorporation of the duchy into the Polish Crown in 1526, and does not mention anything about Warszowa becoming the capital of the Masovian Duchy. Therefore, the answer is (B) Not Answerable."
+    },
+    {
+        "id": "test_9",
+        "context": "Question: What is the name of the current King of Thebes in the play? Paragraph: One of the oldest depictions of civil disobedience is in Sophocles' play Antigone, in which Antigone, one of the daughters of former King of Thebes, Oedipus, defies Creon, the current King of Thebes, who is trying to stop her from giving her brother Polynices a proper burial.",
+        "choices": [
+            "(A) Answerable",
+            "(B) Not Answerable"
+        ],
+        "answer": "(A) Answerable",
+        "model_input": "Select the appropriate response by examining whether the question can be answered based on the provided context.\n\nQuestion: What is the name of the current King of Thebes in the play? Paragraph: One of the oldest depictions of civil disobedience is in Sophocles' play Antigone, in which Antigone, one of the daughters of former King of Thebes, Oedipus, defies Creon, the current King of Thebes, who is trying to stop her from giving her brother Polynices a proper burial.\n\nChoices:\n(A) Answerable\n(B) Not Answerable\n\nAnswer:\n",
+        "model_prediction": " Based on the provided context, the question \"What is the name of the current King of Thebes in the play?\" is Answerable.\n\nThe paragraph mentions Sophocles' play Antigone, which takes place in the city of Thebes. The current king of Thebes is Creon, who is trying to stop Antigone from giving her brother Polynices a proper burial. This information provides enough context to answer the question. Therefore, the correct answer is (A) Answerable."
+    },
+    {
+        "id": "test_10",
+        "context": "Question: How long did Western Europe control Cyprus? Paragraph: The conquest of Cyprus by the Anglo-Norman forces of the Third Crusade opened a new chapter in the history of the island, which would be under Western European domination for the following 380 years.",
+        "choices": [
+            "(A) Answerable",
+            "(B) Not Answerable"
+        ],
+        "answer": "(A) Answerable",
+        "model_input": "Select the appropriate response by examining whether the question can be answered based on the provided context.\n\nQuestion: How long did Western Europe control Cyprus? Paragraph: The conquest of Cyprus by the Anglo-Norman forces of the Third Crusade opened a new chapter in the history of the island, which would be under Western European domination for the following 380 years.\n\nChoices:\n(A) Answerable\n(B) Not Answerable\n\nAnswer:\n",
+        "model_prediction": " Based on the provided context, the question \"How long did Western Europe control Cyprus?\" can be answered. The paragraph states that Cyprus was under Western European domination for the following 380 years after the conquest of the island by the Anglo-Norman forces of the Third Crusade. Therefore, the answer is (A) Answerable."
+    }
+]

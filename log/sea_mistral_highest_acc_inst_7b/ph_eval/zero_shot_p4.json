@@ -1,0 +1,1402 @@
+[
+    {
+        "id": "test_1",
+        "question": "As of 2023, what is a corned beef brand in the Philippines that is named after a country?",
+        "choices": [
+            "(A) Uruguay",
+            "(B) Argentina",
+            "(C) New Zealand",
+            "(D) India"
+        ],
+        "category": "brand",
+        "answer": "(B) Argentina",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nAs of 2023, what is a corned beef brand in the Philippines that is named after a country?\n\nChoices:\n(A) Uruguay\n(B) Argentina\n(C) New Zealand\n(D) India\n\nAnswer:\n",
+        "model_prediction": "(A) Uruguay"
+    },
+    {
+        "id": "test_2",
+        "question": "As of 2023, Alaska, if not a place, is what kind of entity in the Philippines?",
+        "choices": [
+            "(A) A brand of milk",
+            "(B) A brand of canned goods",
+            "(C) A brand of meat",
+            "(D) A brand of fish"
+        ],
+        "category": "brand",
+        "answer": "(A) A brand of milk",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nAs of 2023, Alaska, if not a place, is what kind of entity in the Philippines?\n\nChoices:\n(A) A brand of milk\n(B) A brand of canned goods\n(C) A brand of meat\n(D) A brand of fish\n\nAnswer:\n",
+        "model_prediction": "(D) A brand of fish"
+    },
+    {
+        "id": "test_3",
+        "question": "In the context of the Philippines, what is the name of a brand of stationary stores whose first store was located in Escolta, and whose name is related to the term \"sovereignty\"?",
+        "choices": [
+            "(A) Powerbooks",
+            "(B) Office Warehouse",
+            "(C) Fully Booked",
+            "(D) National Bookstore"
+        ],
+        "category": "brand",
+        "answer": "(D) National Bookstore",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nIn the context of the Philippines, what is the name of a brand of stationary stores whose first store was located in Escolta, and whose name is related to the term \"sovereignty\"?\n\nChoices:\n(A) Powerbooks\n(B) Office Warehouse\n(C) Fully Booked\n(D) National Bookstore\n\nAnswer:\n",
+        "model_prediction": "(D) National Bookstore"
+    },
+    {
+        "id": "test_4",
+        "question": "In the context of the Philippines, what color is the winged animal in the name of a soy sauce brand?",
+        "choices": [
+            "(A) Black",
+            "(B) White",
+            "(C) Silver",
+            "(D) Grey"
+        ],
+        "category": "brand",
+        "answer": "(C) Silver",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nIn the context of the Philippines, what color is the winged animal in the name of a soy sauce brand?\n\nChoices:\n(A) Black\n(B) White\n(C) Silver\n(D) Grey\n\nAnswer:\n",
+        "model_prediction": "(A) Black"
+    },
+    {
+        "id": "test_5",
+        "question": "What was the age of the namesake of the original name of the Bank of the Philippine Islands (BPI) when the latter was founded?",
+        "choices": [
+            "(A) 19",
+            "(B) 20",
+            "(C) 21",
+            "(D) 22"
+        ],
+        "category": "brand",
+        "answer": "(B) 20",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhat was the age of the namesake of the original name of the Bank of the Philippine Islands (BPI) when the latter was founded?\n\nChoices:\n(A) 19\n(B) 20\n(C) 21\n(D) 22\n\nAnswer:\n",
+        "model_prediction": "(B) 20"
+    },
+    {
+        "id": "test_6",
+        "question": "In the context of the Philippines, A vitamin supplement whose name involves a linguistic reduplication was originally made to address the deficiency of which vitamin?",
+        "choices": [
+            "(A) Vitamin A",
+            "(B) Vitamin B1",
+            "(C) Vitamin C",
+            "(D) Vitamin B2"
+        ],
+        "category": "brand",
+        "answer": "(B) Vitamin B1",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nIn the context of the Philippines, A vitamin supplement whose name involves a linguistic reduplication was originally made to address the deficiency of which vitamin?\n\nChoices:\n(A) Vitamin A\n(B) Vitamin B1\n(C) Vitamin C\n(D) Vitamin B2\n\nAnswer:\n",
+        "model_prediction": "(A) Vitamin A"
+    },
+    {
+        "id": "test_7",
+        "question": "how many kilometers did the first flight of Philippine Airlines take? Select the choice closest to the answer.",
+        "choices": [
+            "(A) 200",
+            "(B) 150",
+            "(C) 1,000",
+            "(D) 4,000"
+        ],
+        "category": "brand",
+        "answer": "(A) 200",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nhow many kilometers did the first flight of Philippine Airlines take? Select the choice closest to the answer.\n\nChoices:\n(A) 200\n(B) 150\n(C) 1,000\n(D) 4,000\n\nAnswer:\n",
+        "model_prediction": "(C) 1,000"
+    },
+    {
+        "id": "test_8",
+        "question": "This product name contains the word \"flakes\" in its name, and it belongs to the category with the highest spending in the Philippines Consumer Snapshot 2023. What is it?",
+        "choices": [
+            "(A) Wood Flakes",
+            "(B) Red Flakes",
+            "(C) Sky Flakes",
+            "(D) No Hair Flakes"
+        ],
+        "category": "brand",
+        "answer": "(C) Sky Flakes",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nThis product name contains the word \"flakes\" in its name, and it belongs to the category with the highest spending in the Philippines Consumer Snapshot 2023. What is it?\n\nChoices:\n(A) Wood Flakes\n(B) Red Flakes\n(C) Sky Flakes\n(D) No Hair Flakes\n\nAnswer:\n",
+        "model_prediction": "(A) Wood Flakes"
+    },
+    {
+        "id": "test_9",
+        "question": "Who is the god, in greek, that is the mascot of a drug store chain in the Philippines?",
+        "choices": [
+            "(A) Hermes",
+            "(B) Aphrodite",
+            "(C) Ares",
+            "(D) Zeus"
+        ],
+        "category": "brand",
+        "answer": "(A) Hermes",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWho is the god, in greek, that is the mascot of a drug store chain in the Philippines?\n\nChoices:\n(A) Hermes\n(B) Aphrodite\n(C) Ares\n(D) Zeus\n\nAnswer:\n",
+        "model_prediction": "(A) Hermes"
+    },
+    {
+        "id": "test_10",
+        "question": "What is the name of the country that most predominantly borders the name of a brand of tuna in the Philippines?",
+        "choices": [
+            "(A) Thailand",
+            "(B) Norway",
+            "(C) Canada",
+            "(D) Italy"
+        ],
+        "category": "brand",
+        "answer": "(D) Italy",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhat is the name of the country that most predominantly borders the name of a brand of tuna in the Philippines?\n\nChoices:\n(A) Thailand\n(B) Norway\n(C) Canada\n(D) Italy\n\nAnswer:\n",
+        "model_prediction": "(A) Thailand"
+    },
+    {
+        "id": "test_11",
+        "question": "As of 2023, what is the closest estimate of the population of the Philippine city besieged in 2017?",
+        "choices": [
+            "(A) 100,000",
+            "(B) 500,000",
+            "(C) 600,000",
+            "(D) 50,000"
+        ],
+        "category": "demographics",
+        "answer": "(A) 100,000",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nAs of 2023, what is the closest estimate of the population of the Philippine city besieged in 2017?\n\nChoices:\n(A) 100,000\n(B) 500,000\n(C) 600,000\n(D) 50,000\n\nAnswer:\n",
+        "model_prediction": "(B) 500,000"
+    },
+    {
+        "id": "test_12",
+        "question": "As of 2023, if you multiply the population of each South American country by 2, which South American country will have the closest population to the Philippines?",
+        "choices": [
+            "(A) Brazil",
+            "(B) Argentina",
+            "(C) Chile",
+            "(D) Peru"
+        ],
+        "category": "demographics",
+        "answer": "(B) Argentina",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nAs of 2023, if you multiply the population of each South American country by 2, which South American country will have the closest population to the Philippines?\n\nChoices:\n(A) Brazil\n(B) Argentina\n(C) Chile\n(D) Peru\n\nAnswer:\n",
+        "model_prediction": "(A) Brazil"
+    },
+    {
+        "id": "test_13",
+        "question": "According to the 2020 Philippine Census, Metropolitan Manila contains 16 cities. From these, which of the following triplets of cities would, if added, would roughly equal the population of another city in Metropolitan Manila?",
+        "choices": [
+            "(A) Caloocan, Muntinlupa, and Marikina",
+            "(B) Pasig, Makati, and Taguig",
+            "(C) Las Pinas, Valenzuela, Muntinlupa",
+            "(D) San Juan, Pasay, and Caloocan"
+        ],
+        "category": "demographics",
+        "answer": "(C) Las Pinas, Valenzuela, Muntinlupa",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nAccording to the 2020 Philippine Census, Metropolitan Manila contains 16 cities. From these, which of the following triplets of cities would, if added, would roughly equal the population of another city in Metropolitan Manila?\n\nChoices:\n(A) Caloocan, Muntinlupa, and Marikina\n(B) Pasig, Makati, and Taguig\n(C) Las Pinas, Valenzuela, Muntinlupa\n(D) San Juan, Pasay, and Caloocan\n\nAnswer:\n",
+        "model_prediction": "(B) Pasig, Makati, and Taguig"
+    },
+    {
+        "id": "test_14",
+        "question": "Which of the following wars reduced the Philippine population the most?",
+        "choices": [
+            "(A) World War I",
+            "(B) Philippine-American War",
+            "(C) Vietnam War",
+            "(D) World War II"
+        ],
+        "category": "demographics",
+        "answer": "(D) World War II",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhich of the following wars reduced the Philippine population the most?\n\nChoices:\n(A) World War I\n(B) Philippine-American War\n(C) Vietnam War\n(D) World War II\n\nAnswer:\n",
+        "model_prediction": "(B) Philippine-American War"
+    },
+    {
+        "id": "test_15",
+        "question": "As of 2021, assuming that the overall percent of female Overseas Filipino Workers (OFWs) apply to OFWs in Singapore, which is the closest estimate to the number of female OFWs in Singapore?",
+        "choices": [
+            "(A) 100,000",
+            "(B) 200,000",
+            "(C) 50,000",
+            "(D) 250,000"
+        ],
+        "category": "demographics",
+        "answer": "(A) 100,000",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nAs of 2021, assuming that the overall percent of female Overseas Filipino Workers (OFWs) apply to OFWs in Singapore, which is the closest estimate to the number of female OFWs in Singapore?\n\nChoices:\n(A) 100,000\n(B) 200,000\n(C) 50,000\n(D) 250,000\n\nAnswer:\n",
+        "model_prediction": "(B) 200,000"
+    },
+    {
+        "id": "test_16",
+        "question": "What is the difference between the age that the Philippine Eagle in Mandai Zoo died in 2023 and the maximum prison sentence for killing a Philippine Eagle?",
+        "choices": [
+            "(A) 5 years",
+            "(B) 7 years",
+            "(C) 20 years",
+            "(D) 25 years"
+        ],
+        "category": "biology",
+        "answer": "(B) 7 years",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhat is the difference between the age that the Philippine Eagle in Mandai Zoo died in 2023 and the maximum prison sentence for killing a Philippine Eagle?\n\nChoices:\n(A) 5 years\n(B) 7 years\n(C) 20 years\n(D) 25 years\n\nAnswer:\n",
+        "model_prediction": "(C) 20 years"
+    },
+    {
+        "id": "test_17",
+        "question": "Which bird is known for its bright blue wings, tail, head, and crest and endemic to the lowland forests of the Philippines?",
+        "choices": [
+            "(A) Blue-headed Fantail",
+            "(B) Red-vented Cockatoo",
+            "(C) Celestial Monarch",
+            "(D) Philippine Fairy Bluebird"
+        ],
+        "category": "biology",
+        "answer": "(C) Celestial Monarch",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhich bird is known for its bright blue wings, tail, head, and crest and endemic to the lowland forests of the Philippines?\n\nChoices:\n(A) Blue-headed Fantail\n(B) Red-vented Cockatoo\n(C) Celestial Monarch\n(D) Philippine Fairy Bluebird\n\nAnswer:\n",
+        "model_prediction": "(D) Philippine Fairy Bluebird"
+    },
+    {
+        "id": "test_18",
+        "question": "What is the local name for an edible fish uniquely found in Lake Buhi, Philippines?",
+        "choices": [
+            "(A) Sinarapan",
+            "(B) Tawilis",
+            "(C) Dulong",
+            "(D) Tulingan"
+        ],
+        "category": "biology",
+        "answer": "(A) Sinarapan",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhat is the local name for an edible fish uniquely found in Lake Buhi, Philippines?\n\nChoices:\n(A) Sinarapan\n(B) Tawilis\n(C) Dulong\n(D) Tulingan\n\nAnswer:\n",
+        "model_prediction": "(B) Tawilis"
+    },
+    {
+        "id": "test_19",
+        "question": "Select an animal endemic to the Philippines whose eyes are the largest relative to its brain.",
+        "choices": [
+            "(A) Philippine Eagle",
+            "(B) Philippine Tarsier",
+            "(C) Philippine Mouse Deer",
+            "(D) Philippine Crocodile"
+        ],
+        "category": "biology",
+        "answer": "(B) Philippine Tarsier",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nSelect an animal endemic to the Philippines whose eyes are the largest relative to its brain.\n\nChoices:\n(A) Philippine Eagle\n(B) Philippine Tarsier\n(C) Philippine Mouse Deer\n(D) Philippine Crocodile\n\nAnswer:\n",
+        "model_prediction": "(B) Philippine Tarsier"
+    },
+    {
+        "id": "test_20",
+        "question": "Which among these Philippine snakes can harm a person from a distance?",
+        "choices": [
+            "(A) Philippine Cobra",
+            "(B) Philippine Pit Viper",
+            "(C) King Cobra",
+            "(D) Philippine Rat Snake"
+        ],
+        "category": "biology",
+        "answer": "(A) Philippine Cobra",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhich among these Philippine snakes can harm a person from a distance?\n\nChoices:\n(A) Philippine Cobra\n(B) Philippine Pit Viper\n(C) King Cobra\n(D) Philippine Rat Snake\n\nAnswer:\n",
+        "model_prediction": "(B) Philippine Pit Viper"
+    },
+    {
+        "id": "test_21",
+        "question": "Which of the following Philippine endemic animals has a name that does not actually describe them?",
+        "choices": [
+            "(A) Philippine Eagle",
+            "(B) Philippine Rat Snake",
+            "(C) Philippine Mouse Deer",
+            "(D) Philippine Crocodile"
+        ],
+        "category": "biology",
+        "answer": "(C) Philippine Mouse Deer",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhich of the following Philippine endemic animals has a name that does not actually describe them?\n\nChoices:\n(A) Philippine Eagle\n(B) Philippine Rat Snake\n(C) Philippine Mouse Deer\n(D) Philippine Crocodile\n\nAnswer:\n",
+        "model_prediction": "(A) Philippine Eagle"
+    },
+    {
+        "id": "test_22",
+        "question": "What type of plant endemic to the Philippines is named after a famous British naturalist and broadcaster?",
+        "choices": [
+            "(A) Palm plant",
+            "(B) Vine",
+            "(C) Tropical Tree",
+            "(D) Pitcher Plant"
+        ],
+        "category": "biology",
+        "answer": "(D) Pitcher Plant",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhat type of plant endemic to the Philippines is named after a famous British naturalist and broadcaster?\n\nChoices:\n(A) Palm plant\n(B) Vine\n(C) Tropical Tree\n(D) Pitcher Plant\n\nAnswer:\n",
+        "model_prediction": "(C) Tropical Tree"
+    },
+    {
+        "id": "test_23",
+        "question": "As of 2023, what is the taxonomic name of an organism endemic to the Philippines known for its warts?",
+        "choices": [
+            "(A) Crocodylus mindorensis",
+            "(B) Rana magna",
+            "(C) Sus cebifrons",
+            "(D) Rusa marianna"
+        ],
+        "category": "biology",
+        "answer": "(C) Sus cebifrons",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nAs of 2023, what is the taxonomic name of an organism endemic to the Philippines known for its warts?\n\nChoices:\n(A) Crocodylus mindorensis\n(B) Rana magna\n(C) Sus cebifrons\n(D) Rusa marianna\n\nAnswer:\n",
+        "model_prediction": "(D) Rusa marianna"
+    },
+    {
+        "id": "test_24",
+        "question": "What Philippine animal is named after a damaged organ?",
+        "choices": [
+            "(A) Luzon bleeding-heart",
+            "(B) Mindanao Red Eye",
+            "(C) Visayan Pierced Ear Bird",
+            "(D) Philippine Black Eye Lizard"
+        ],
+        "category": "biology",
+        "answer": "(A) Luzon bleeding-heart",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhat Philippine animal is named after a damaged organ?\n\nChoices:\n(A) Luzon bleeding-heart\n(B) Mindanao Red Eye\n(C) Visayan Pierced Ear Bird\n(D) Philippine Black Eye Lizard\n\nAnswer:\n",
+        "model_prediction": "(D) Philippine Black Eye Lizard"
+    },
+    {
+        "id": "test_25",
+        "question": "What Philippine animal is the namesake of a truck model popular in that country?",
+        "choices": [
+            "(A) Eagle",
+            "(B) Viper",
+            "(C) Flying Fox",
+            "(D) Tamaraw"
+        ],
+        "category": "biology",
+        "answer": "(D) Tamaraw",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhat Philippine animal is the namesake of a truck model popular in that country?\n\nChoices:\n(A) Eagle\n(B) Viper\n(C) Flying Fox\n(D) Tamaraw\n\nAnswer:\n",
+        "model_prediction": "(D) Tamaraw"
+    },
+    {
+        "id": "test_26",
+        "question": "In the context of the Philippines, which European country held the territory that Aguinaldo escaped to in 1897?",
+        "choices": [
+            "(A) Spain",
+            "(B) France",
+            "(C) Germany",
+            "(D) United Kingdom"
+        ],
+        "category": "history",
+        "answer": "(D) United Kingdom",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nIn the context of the Philippines, which European country held the territory that Aguinaldo escaped to in 1897?\n\nChoices:\n(A) Spain\n(B) France\n(C) Germany\n(D) United Kingdom\n\nAnswer:\n",
+        "model_prediction": "(A) Spain"
+    },
+    {
+        "id": "test_27",
+        "question": "Which of the following countries did not have a colony in the Philippines?",
+        "choices": [
+            "(A) United States",
+            "(B) Japan",
+            "(C) France",
+            "(D) United Kingdom"
+        ],
+        "category": "history",
+        "answer": "(C) France",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhich of the following countries did not have a colony in the Philippines?\n\nChoices:\n(A) United States\n(B) Japan\n(C) France\n(D) United Kingdom\n\nAnswer:\n",
+        "model_prediction": "(C) France"
+    },
+    {
+        "id": "test_28",
+        "question": "What Catholic order founded a militant organization active during the Philippine-American War?",
+        "choices": [
+            "(A) Jesuits",
+            "(B) Dominicans",
+            "(C) Franciscans",
+            "(D) Augustinians"
+        ],
+        "category": "history",
+        "answer": "(B) Dominicans",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhat Catholic order founded a militant organization active during the Philippine-American War?\n\nChoices:\n(A) Jesuits\n(B) Dominicans\n(C) Franciscans\n(D) Augustinians\n\nAnswer:\n",
+        "model_prediction": "(C) Franciscans"
+    },
+    {
+        "id": "test_29",
+        "question": "In the context of the Philippines, how old was Gregorio del Pilar when the Hong Kong Junta was formed?",
+        "choices": [
+            "(A) 19",
+            "(B) 20",
+            "(C) 21",
+            "(D) 22"
+        ],
+        "category": "history",
+        "answer": "(D) 22",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nIn the context of the Philippines, how old was Gregorio del Pilar when the Hong Kong Junta was formed?\n\nChoices:\n(A) 19\n(B) 20\n(C) 21\n(D) 22\n\nAnswer:\n",
+        "model_prediction": "(B) 20"
+    },
+    {
+        "id": "test_30",
+        "question": "What province was the first post-Spanish Philippine Legislative Assembly held in?",
+        "choices": [
+            "(A) Cavite",
+            "(B) Bulacan",
+            "(C) Batangas",
+            "(D) Pampanga"
+        ],
+        "category": "history",
+        "answer": "(B) Bulacan",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhat province was the first post-Spanish Philippine Legislative Assembly held in?\n\nChoices:\n(A) Cavite\n(B) Bulacan\n(C) Batangas\n(D) Pampanga\n\nAnswer:\n",
+        "model_prediction": "(A) Cavite"
+    },
+    {
+        "id": "test_31",
+        "question": "In the context of the Philippines, what was the name of the hotel from which a mutiny was carried out in the early 2000s?",
+        "choices": [
+            "(A) Manila Hotel",
+            "(B) Century Park Hotel",
+            "(C) Oakwood Premier",
+            "(D) Manila Peninsula"
+        ],
+        "category": "history",
+        "answer": "(C) Oakwood Premier",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nIn the context of the Philippines, what was the name of the hotel from which a mutiny was carried out in the early 2000s?\n\nChoices:\n(A) Manila Hotel\n(B) Century Park Hotel\n(C) Oakwood Premier\n(D) Manila Peninsula\n\nAnswer:\n",
+        "model_prediction": "(D) Manila Peninsula"
+    },
+    {
+        "id": "test_32",
+        "question": "In the context of the Philippines, from Manila, a galleon usually travelled to which settlement?",
+        "choices": [
+            "(A) Acapulco",
+            "(B) Mexico City",
+            "(C) Madrid",
+            "(D) Cebu"
+        ],
+        "category": "history",
+        "answer": "(A) Acapulco",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nIn the context of the Philippines, from Manila, a galleon usually travelled to which settlement?\n\nChoices:\n(A) Acapulco\n(B) Mexico City\n(C) Madrid\n(D) Cebu\n\nAnswer:\n",
+        "model_prediction": "(D) Cebu"
+    },
+    {
+        "id": "test_33",
+        "question": "As part of the Spanish Empire, the modern-day Philippines was overall ruled from what colonial city for much of its colonial history?",
+        "choices": [
+            "(A) Mexico City",
+            "(B) Madrid",
+            "(C) Manila",
+            "(D) Cebu"
+        ],
+        "category": "history",
+        "answer": "(A) Mexico City",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nAs part of the Spanish Empire, the modern-day Philippines was overall ruled from what colonial city for much of its colonial history?\n\nChoices:\n(A) Mexico City\n(B) Madrid\n(C) Manila\n(D) Cebu\n\nAnswer:\n",
+        "model_prediction": "(C) Manila"
+    },
+    {
+        "id": "test_34",
+        "question": "Which Filipino word is originally from the language of the Empire the Spanish conquered in modern-day Mexico?",
+        "choices": [
+            "(A) Guro",
+            "(B) Bundok",
+            "(C) Sayote",
+            "(D) Papaya"
+        ],
+        "category": "history",
+        "answer": "(C) Sayote",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhich Filipino word is originally from the language of the Empire the Spanish conquered in modern-day Mexico?\n\nChoices:\n(A) Guro\n(B) Bundok\n(C) Sayote\n(D) Papaya\n\nAnswer:\n",
+        "model_prediction": "(D) Papaya"
+    },
+    {
+        "id": "test_35",
+        "question": "In the context of the Philippines, how many years is the namesake of the war in which the British besieged Manila?",
+        "choices": [
+            "(A) 5",
+            "(B) 30",
+            "(C) 7",
+            "(D) 80"
+        ],
+        "category": "history",
+        "answer": "(C) 7",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nIn the context of the Philippines, how many years is the namesake of the war in which the British besieged Manila?\n\nChoices:\n(A) 5\n(B) 30\n(C) 7\n(D) 80\n\nAnswer:\n",
+        "model_prediction": "(B) 30"
+    },
+    {
+        "id": "test_36",
+        "question": "In the context of the Philippines, how old was the son of Ferdinand Marcos with Imelda Marcos when Ferdinand was overthrown in 1986?",
+        "choices": [
+            "(A) 26",
+            "(B) 29",
+            "(C) 27",
+            "(D) 28"
+        ],
+        "category": "history",
+        "answer": "(D) 28",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nIn the context of the Philippines, how old was the son of Ferdinand Marcos with Imelda Marcos when Ferdinand was overthrown in 1986?\n\nChoices:\n(A) 26\n(B) 29\n(C) 27\n(D) 28\n\nAnswer:\n",
+        "model_prediction": "(B) 29"
+    },
+    {
+        "id": "test_37",
+        "question": "In the context of the Philippines, what is the name of the insurgency group that Ramon Magsaysay fought against?",
+        "choices": [
+            "(A) Hukbalahap",
+            "(B) Moro Islamic Liberation Front",
+            "(C) New People's Army",
+            "(D) Abu Sayyaf"
+        ],
+        "category": "history",
+        "answer": "(A) Hukbalahap",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nIn the context of the Philippines, what is the name of the insurgency group that Ramon Magsaysay fought against?\n\nChoices:\n(A) Hukbalahap\n(B) Moro Islamic Liberation Front\n(C) New People's Army\n(D) Abu Sayyaf\n\nAnswer:\n",
+        "model_prediction": "(A) Hukbalahap"
+    },
+    {
+        "id": "test_38",
+        "question": "Among which of the following wars did the Philippines did not send combat troops to?",
+        "choices": [
+            "(A) Korean War",
+            "(B) Vietnam War",
+            "(C) World War I",
+            "(D) World War II"
+        ],
+        "category": "history",
+        "answer": "(C) World War I",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nAmong which of the following wars did the Philippines did not send combat troops to?\n\nChoices:\n(A) Korean War\n(B) Vietnam War\n(C) World War I\n(D) World War II\n\nAnswer:\n",
+        "model_prediction": "(C) World War I"
+    },
+    {
+        "id": "test_39",
+        "question": "Which volcano forced the evacuation of American military bases in the Philippines?",
+        "choices": [
+            "(A) Mount Pinatubo",
+            "(B) Mount Mayon",
+            "(C) Mount Taal",
+            "(D) Mount Apo"
+        ],
+        "category": "history",
+        "answer": "(A) Mount Pinatubo",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhich volcano forced the evacuation of American military bases in the Philippines?\n\nChoices:\n(A) Mount Pinatubo\n(B) Mount Mayon\n(C) Mount Taal\n(D) Mount Apo\n\nAnswer:\n",
+        "model_prediction": "(A) Mount Pinatubo"
+    },
+    {
+        "id": "test_40",
+        "question": "What was the popular nickname for money issued by the 2nd Philippine Republic?",
+        "choices": [
+            "(A) Banana Money",
+            "(B) Monopoly Money",
+            "(C) Mickey Mouse Money",
+            "(D) Play Money"
+        ],
+        "category": "history",
+        "answer": "(C) Mickey Mouse Money",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhat was the popular nickname for money issued by the 2nd Philippine Republic?\n\nChoices:\n(A) Banana Money\n(B) Monopoly Money\n(C) Mickey Mouse Money\n(D) Play Money\n\nAnswer:\n",
+        "model_prediction": "(A) Banana Money"
+    },
+    {
+        "id": "test_41",
+        "question": "What is the distinct taste of the Filipino soup mentioned in the novel \"Noli Me Tangere\"?",
+        "choices": [
+            "(A) Sour",
+            "(B) Sweet",
+            "(C) Salty",
+            "(D) Bitter"
+        ],
+        "category": "literature",
+        "answer": "(A) Sour",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhat is the distinct taste of the Filipino soup mentioned in the novel \"Noli Me Tangere\"?\n\nChoices:\n(A) Sour\n(B) Sweet\n(C) Salty\n(D) Bitter\n\nAnswer:\n",
+        "model_prediction": "(A) Sour"
+    },
+    {
+        "id": "test_42",
+        "question": "In the Filipino novel \"Mga Ibong Mandaragit\", from which other book is the owner of the treasure, who also serves as that book's protagonist?",
+        "choices": [
+            "(A) We Filipinos are Mild Drinkers",
+            "(B) Noli Me Tangere",
+            "(C) El Filibusterismo",
+            "(D) Utos ng Hari"
+        ],
+        "category": "literature",
+        "answer": "(C) El Filibusterismo",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nIn the Filipino novel \"Mga Ibong Mandaragit\", from which other book is the owner of the treasure, who also serves as that book's protagonist?\n\nChoices:\n(A) We Filipinos are Mild Drinkers\n(B) Noli Me Tangere\n(C) El Filibusterismo\n(D) Utos ng Hari\n\nAnswer:\n",
+        "model_prediction": "(B) Noli Me Tangere"
+    },
+    {
+        "id": "test_43",
+        "question": "Which country is \"Florante At Laura\" (Philippines epic) set in?",
+        "choices": [
+            "(A) Turkey",
+            "(B) Italy",
+            "(C) Spain",
+            "(D) Albania"
+        ],
+        "category": "literature",
+        "answer": "(D) Albania",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhich country is \"Florante At Laura\" (Philippines epic) set in?\n\nChoices:\n(A) Turkey\n(B) Italy\n(C) Spain\n(D) Albania\n\nAnswer:\n",
+        "model_prediction": "(C) Spain"
+    },
+    {
+        "id": "test_44",
+        "question": "In \"Banaag at Sikat\", which issue among Filipino landowners did the novel discuss?",
+        "choices": [
+            "(A) Padrino System",
+            "(B) Treatment of Servants",
+            "(C) Land grabbing",
+            "(D) Farming Techniques"
+        ],
+        "category": "literature",
+        "answer": "(B) Treatment of Servants",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nIn \"Banaag at Sikat\", which issue among Filipino landowners did the novel discuss?\n\nChoices:\n(A) Padrino System\n(B) Treatment of Servants\n(C) Land grabbing\n(D) Farming Techniques\n\nAnswer:\n",
+        "model_prediction": "(C) Land grabbing"
+    },
+    {
+        "id": "test_45",
+        "question": "Who was the president of the Philippines in the setting of Lualhati Bautista's most famous novel?",
+        "choices": [
+            "(A) Ferdinand Marcos",
+            "(B) Corazon Aquino",
+            "(C) Fidel Ramos",
+            "(D) Joseph Estrada"
+        ],
+        "category": "literature",
+        "answer": "(A) Ferdinand Marcos",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWho was the president of the Philippines in the setting of Lualhati Bautista's most famous novel?\n\nChoices:\n(A) Ferdinand Marcos\n(B) Corazon Aquino\n(C) Fidel Ramos\n(D) Joseph Estrada\n\nAnswer:\n",
+        "model_prediction": "(A) Ferdinand Marcos"
+    },
+    {
+        "id": "test_46",
+        "question": "In the Philippines, from what Catholic order are the protagonists of \"Smaller and Smaller Circles\"?",
+        "choices": [
+            "(A) Augustinians",
+            "(B) Dominicans",
+            "(C) Franciscans",
+            "(D) Jesuits"
+        ],
+        "category": "literature",
+        "answer": "(D) Jesuits",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nIn the Philippines, from what Catholic order are the protagonists of \"Smaller and Smaller Circles\"?\n\nChoices:\n(A) Augustinians\n(B) Dominicans\n(C) Franciscans\n(D) Jesuits\n\nAnswer:\n",
+        "model_prediction": "(D) Jesuits"
+    },
+    {
+        "id": "test_47",
+        "question": "What is an appropriate translation for the title of the Filipino novel \"ABNKKBSNPLAko?!\" in English?",
+        "choices": [
+            "(A) What? I study and learn school?!",
+            "(B) I'm a Filipino, What's Your Excuse?!",
+            "(C) Wow I can apparently read now?!",
+            "(D) I can write sentences with ease?!"
+        ],
+        "category": "literature",
+        "answer": "(C) Wow I can apparently read now?!",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhat is an appropriate translation for the title of the Filipino novel \"ABNKKBSNPLAko?!\" in English?\n\nChoices:\n(A) What? I study and learn school?!\n(B) I'm a Filipino, What's Your Excuse?!\n(C) Wow I can apparently read now?!\n(D) I can write sentences with ease?!\n\nAnswer:\n",
+        "model_prediction": "(B) I'm a Filipino, What's Your Excuse?!"
+    },
+    {
+        "id": "test_48",
+        "question": "What is the literal translation of the name of the Filipino author of \"Alamat ng Gubat\" in English?",
+        "choices": [
+            "(A) Legend of the Forest",
+            "(B) Drums",
+            "(C) Idiot",
+            "(D) Pen"
+        ],
+        "category": "literature",
+        "answer": "(C) Idiot",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhat is the literal translation of the name of the Filipino author of \"Alamat ng Gubat\" in English?\n\nChoices:\n(A) Legend of the Forest\n(B) Drums\n(C) Idiot\n(D) Pen\n\nAnswer:\n",
+        "model_prediction": "(A) Legend of the Forest"
+    },
+    {
+        "id": "test_49",
+        "question": "In the Philippines, Nick Joaquin is mainly known for which genre of literature?",
+        "choices": [
+            "(A) Poetry",
+            "(B) Short Stories",
+            "(C) Essays",
+            "(D) Plays"
+        ],
+        "category": "literature",
+        "answer": "(B) Short Stories",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nIn the Philippines, Nick Joaquin is mainly known for which genre of literature?\n\nChoices:\n(A) Poetry\n(B) Short Stories\n(C) Essays\n(D) Plays\n\nAnswer:\n",
+        "model_prediction": "(C) Essays"
+    },
+    {
+        "id": "test_50",
+        "question": "In the Philippines, what mythological creature are the protagonists of \"Tabi Po\"?",
+        "choices": [
+            "(A) Aswang",
+            "(B) Tikbalang",
+            "(C) Kapre",
+            "(D) Manananggal"
+        ],
+        "category": "literature",
+        "answer": "(A) Aswang",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nIn the Philippines, what mythological creature are the protagonists of \"Tabi Po\"?\n\nChoices:\n(A) Aswang\n(B) Tikbalang\n(C) Kapre\n(D) Manananggal\n\nAnswer:\n",
+        "model_prediction": "(D) Manananggal"
+    },
+    {
+        "id": "test_51",
+        "question": "Before Philippine Independence, which person succeeded the president who died in office?",
+        "choices": [
+            "(A) Sergio Osmena",
+            "(B) Manuel Roxas",
+            "(C) Elpidio Quirino",
+            "(D) Ramon Magsaysay"
+        ],
+        "category": "politics",
+        "answer": "(A) Sergio Osmena",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nBefore Philippine Independence, which person succeeded the president who died in office?\n\nChoices:\n(A) Sergio Osmena\n(B) Manuel Roxas\n(C) Elpidio Quirino\n(D) Ramon Magsaysay\n\nAnswer:\n",
+        "model_prediction": "(C) Elpidio Quirino"
+    },
+    {
+        "id": "test_52",
+        "question": "Which territory is the subject of a dispute between the Philippines and Malaysia as of 2023?",
+        "choices": [
+            "(A) Spratly Islands",
+            "(B) Sabah",
+            "(C) Scarborough Shoal",
+            "(D) Benham Rise"
+        ],
+        "category": "politics",
+        "answer": "(B) Sabah",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhich territory is the subject of a dispute between the Philippines and Malaysia as of 2023?\n\nChoices:\n(A) Spratly Islands\n(B) Sabah\n(C) Scarborough Shoal\n(D) Benham Rise\n\nAnswer:\n",
+        "model_prediction": "(B) Sabah"
+    },
+    {
+        "id": "test_53",
+        "question": "What is the name of the worst electoral violence that has occurred in the Philippines as of 2023?",
+        "choices": [
+            "(A) Maguindanao Massacre",
+            "(B) Mendiola Massacre",
+            "(C) Escalante Massacre",
+            "(D) Jabidah Massacre"
+        ],
+        "category": "politics",
+        "answer": "(A) Maguindanao Massacre",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhat is the name of the worst electoral violence that has occurred in the Philippines as of 2023?\n\nChoices:\n(A) Maguindanao Massacre\n(B) Mendiola Massacre\n(C) Escalante Massacre\n(D) Jabidah Massacre\n\nAnswer:\n",
+        "model_prediction": "(A) Maguindanao Massacre"
+    },
+    {
+        "id": "test_54",
+        "question": "In the Philippines, which island did Rodrigo Duterte jokingly offered to travel to via a jet ski?",
+        "choices": [
+            "(A) Spratly Islands",
+            "(B) Sabah",
+            "(C) Scarborough Shoal",
+            "(D) Benham Rise"
+        ],
+        "category": "politics",
+        "answer": "(A) Spratly Islands",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nIn the Philippines, which island did Rodrigo Duterte jokingly offered to travel to via a jet ski?\n\nChoices:\n(A) Spratly Islands\n(B) Sabah\n(C) Scarborough Shoal\n(D) Benham Rise\n\nAnswer:\n",
+        "model_prediction": "(C) Scarborough Shoal"
+    },
+    {
+        "id": "test_55",
+        "question": "As of 2023, what is the previous name of the only autonomous region in the Philippines?",
+        "choices": [
+            "(A) Autonomous Region in Central Luzon",
+            "(B) Autonomous Region in Muslim Mindanao",
+            "(C) Cordillera Autonomous Region",
+            "(D) Autonomous Region in Southern Luzon"
+        ],
+        "category": "politics",
+        "answer": "(B) Autonomous Region in Muslim Mindanao",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nAs of 2023, what is the previous name of the only autonomous region in the Philippines?\n\nChoices:\n(A) Autonomous Region in Central Luzon\n(B) Autonomous Region in Muslim Mindanao\n(C) Cordillera Autonomous Region\n(D) Autonomous Region in Southern Luzon\n\nAnswer:\n",
+        "model_prediction": "(B) Autonomous Region in Muslim Mindanao"
+    },
+    {
+        "id": "test_56",
+        "question": "In the Philippines, what is the last name of the soldier who murdered a trans woman in Olongapo City, 2014 and caused a sensation?",
+        "choices": [
+            "(A) Pemberton",
+            "(B) Smith",
+            "(C) Johnson",
+            "(D) Jones"
+        ],
+        "category": "politics",
+        "answer": "(A) Pemberton",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nIn the Philippines, what is the last name of the soldier who murdered a trans woman in Olongapo City, 2014 and caused a sensation?\n\nChoices:\n(A) Pemberton\n(B) Smith\n(C) Johnson\n(D) Jones\n\nAnswer:\n",
+        "model_prediction": "(A) Pemberton"
+    },
+    {
+        "id": "test_57",
+        "question": "In the Philippines, what is the nickname Gloria Arroyo gave to the person she was calling during her electoral scandal?",
+        "choices": [
+            "(A) Mike",
+            "(B) Garci",
+            "(C) Noli",
+            "(D) Erap"
+        ],
+        "category": "politics",
+        "answer": "(B) Garci",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nIn the Philippines, what is the nickname Gloria Arroyo gave to the person she was calling during her electoral scandal?\n\nChoices:\n(A) Mike\n(B) Garci\n(C) Noli\n(D) Erap\n\nAnswer:\n",
+        "model_prediction": "(B) Garci"
+    },
+    {
+        "id": "test_58",
+        "question": "In the Philippines, what operation is Kian delos Santos a victim of?",
+        "choices": [
+            "(A) Oplan Tokhang",
+            "(B) Philippine War on Drugs",
+            "(C) Oplan Pandamayan",
+            "(D) Oplan Exodus"
+        ],
+        "category": "politics",
+        "answer": "(A) Oplan Tokhang",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nIn the Philippines, what operation is Kian delos Santos a victim of?\n\nChoices:\n(A) Oplan Tokhang\n(B) Philippine War on Drugs\n(C) Oplan Pandamayan\n(D) Oplan Exodus\n\nAnswer:\n",
+        "model_prediction": "(B) Philippine War on Drugs"
+    },
+    {
+        "id": "test_59",
+        "question": "In the context of the Philippines, what was term for the ideology of Joma?",
+        "choices": [
+            "(A) People's Republic",
+            "(B) Guided Democracy",
+            "(C) National Democracy",
+            "(D) Agrarian Reform"
+        ],
+        "category": "politics",
+        "answer": "(C) National Democracy",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nIn the context of the Philippines, what was term for the ideology of Joma?\n\nChoices:\n(A) People's Republic\n(B) Guided Democracy\n(C) National Democracy\n(D) Agrarian Reform\n\nAnswer:\n",
+        "model_prediction": "(A) People's Republic"
+    },
+    {
+        "id": "test_60",
+        "question": "In the Philippines, what is the popular name of the event that overthrew Ferdinand Marcos?",
+        "choices": [
+            "(A) People's Uprising",
+            "(B) February Revolt",
+            "(C) People Power Revolution",
+            "(D) 1986 Overthrow"
+        ],
+        "category": "politics",
+        "answer": "(C) People Power Revolution",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nIn the Philippines, what is the popular name of the event that overthrew Ferdinand Marcos?\n\nChoices:\n(A) People's Uprising\n(B) February Revolt\n(C) People Power Revolution\n(D) 1986 Overthrow\n\nAnswer:\n",
+        "model_prediction": "(C) People Power Revolution"
+    },
+    {
+        "id": "test_61",
+        "question": "In the Philippines, what best describes the word \"salvage\" among the choices?",
+        "choices": [
+            "(A) To treat and save",
+            "(B) To be wild and merciless",
+            "(C) To recycle and repair",
+            "(D) To disappear and be killed"
+        ],
+        "category": "culture",
+        "answer": "(D) To disappear and be killed",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nIn the Philippines, what best describes the word \"salvage\" among the choices?\n\nChoices:\n(A) To treat and save\n(B) To be wild and merciless\n(C) To recycle and repair\n(D) To disappear and be killed\n\nAnswer:\n",
+        "model_prediction": "(C) To recycle and repair"
+    },
+    {
+        "id": "test_62",
+        "question": "In the Philippines, what part of the body is used to show sign of respect to elders?",
+        "choices": [
+            "(A) Head",
+            "(B) Hand",
+            "(C) Shoulder",
+            "(D) Arm"
+        ],
+        "category": "culture",
+        "answer": "(B) Hand",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nIn the Philippines, what part of the body is used to show sign of respect to elders?\n\nChoices:\n(A) Head\n(B) Hand\n(C) Shoulder\n(D) Arm\n\nAnswer:\n",
+        "model_prediction": "(A) Head"
+    },
+    {
+        "id": "test_63",
+        "question": "Which religion in the Philippines owns a building with a Guiness World Record as of 2023?",
+        "choices": [
+            "(A) Islam",
+            "(B) Seventh-day Adventist Church",
+            "(C) Iglesia Ni Cristo",
+            "(D) Roman Catholic Church"
+        ],
+        "category": "culture",
+        "answer": "(C) Iglesia Ni Cristo",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhich religion in the Philippines owns a building with a Guiness World Record as of 2023?\n\nChoices:\n(A) Islam\n(B) Seventh-day Adventist Church\n(C) Iglesia Ni Cristo\n(D) Roman Catholic Church\n\nAnswer:\n",
+        "model_prediction": "(D) Roman Catholic Church"
+    },
+    {
+        "id": "test_64",
+        "question": "What is the Philippines' first Filipino-led Christian church?",
+        "choices": [
+            "(A) Sakdalistas",
+            "(B) Iglesia Ni Cristo",
+            "(C) Aglipayan Church",
+            "(D) Guardia de Honor"
+        ],
+        "category": "culture",
+        "answer": "(C) Aglipayan Church",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhat is the Philippines' first Filipino-led Christian church?\n\nChoices:\n(A) Sakdalistas\n(B) Iglesia Ni Cristo\n(C) Aglipayan Church\n(D) Guardia de Honor\n\nAnswer:\n",
+        "model_prediction": "(C) Aglipayan Church"
+    },
+    {
+        "id": "test_65",
+        "question": "What day of Holy Week are people routinely crucified in the Philippines?",
+        "choices": [
+            "(A) Friday",
+            "(B) Thursday",
+            "(C) Sunday",
+            "(D) Sunday"
+        ],
+        "category": "culture",
+        "answer": "(A) Friday",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhat day of Holy Week are people routinely crucified in the Philippines?\n\nChoices:\n(A) Friday\n(B) Thursday\n(C) Sunday\n(D) Sunday\n\nAnswer:\n",
+        "model_prediction": "(A) Friday"
+    },
+    {
+        "id": "test_66",
+        "question": "What is the name of the SMS language developed in the Philippines?",
+        "choices": [
+            "(A) Jejebuster",
+            "(B) Jejemon",
+            "(C) Jejebot",
+            "(D) Jejespeak"
+        ],
+        "category": "culture",
+        "answer": "(B) Jejemon",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhat is the name of the SMS language developed in the Philippines?\n\nChoices:\n(A) Jejebuster\n(B) Jejemon\n(C) Jejebot\n(D) Jejespeak\n\nAnswer:\n",
+        "model_prediction": "(B) Jejemon"
+    },
+    {
+        "id": "test_67",
+        "question": "Which Filipino journalist founded an organization whose name is derived from the word \"ripple\"?",
+        "choices": [
+            "(A) Maria Ressa",
+            "(B) Jessica Soho",
+            "(C) Karen Davila",
+            "(D) Korina Sanchez"
+        ],
+        "category": "culture",
+        "answer": "(A) Maria Ressa",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhich Filipino journalist founded an organization whose name is derived from the word \"ripple\"?\n\nChoices:\n(A) Maria Ressa\n(B) Jessica Soho\n(C) Karen Davila\n(D) Korina Sanchez\n\nAnswer:\n",
+        "model_prediction": "(A) Maria Ressa"
+    },
+    {
+        "id": "test_68",
+        "question": "What is the term for the Filipino practice of gaining favors through family / friends?",
+        "choices": [
+            "(A) Nepotismo",
+            "(B) Kapatiran",
+            "(C) Padrino System",
+            "(D) Connection System"
+        ],
+        "category": "culture",
+        "answer": "(C) Padrino System",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhat is the term for the Filipino practice of gaining favors through family / friends?\n\nChoices:\n(A) Nepotismo\n(B) Kapatiran\n(C) Padrino System\n(D) Connection System\n\nAnswer:\n",
+        "model_prediction": "(A) Nepotismo"
+    },
+    {
+        "id": "test_69",
+        "question": "Prior to or just reaching puberty, what rite do Filipino males usually go through?",
+        "choices": [
+            "(A) Pagbibinyag",
+            "(B) Tuli",
+            "(C) Kumpirmasyon",
+            "(D) Pagpapatibay"
+        ],
+        "category": "culture",
+        "answer": "(B) Tuli",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nPrior to or just reaching puberty, what rite do Filipino males usually go through?\n\nChoices:\n(A) Pagbibinyag\n(B) Tuli\n(C) Kumpirmasyon\n(D) Pagpapatibay\n\nAnswer:\n",
+        "model_prediction": "(B) Tuli"
+    },
+    {
+        "id": "test_70",
+        "question": "What is the local name for hats worn by penitents during self-flagellation during Holy Week in the Philippines?",
+        "choices": [
+            "(A) Sombrero",
+            "(B) Kapirosa",
+            "(C) Salakot",
+            "(D) Balibuntal Hat"
+        ],
+        "category": "culture",
+        "answer": "(B) Kapirosa",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhat is the local name for hats worn by penitents during self-flagellation during Holy Week in the Philippines?\n\nChoices:\n(A) Sombrero\n(B) Kapirosa\n(C) Salakot\n(D) Balibuntal Hat\n\nAnswer:\n",
+        "model_prediction": "(B) Kapirosa"
+    },
+    {
+        "id": "test_71",
+        "question": "Which Filipino film's title is entirely composed of verbs?",
+        "choices": [
+            "(A) Shake, Rattle, and Roll",
+            "(B) Mano Po",
+            "(C) Ang Tanging Ina",
+            "(D) Ang Probinsyano"
+        ],
+        "category": "film",
+        "answer": "(A) Shake, Rattle, and Roll",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhich Filipino film's title is entirely composed of verbs?\n\nChoices:\n(A) Shake, Rattle, and Roll\n(B) Mano Po\n(C) Ang Tanging Ina\n(D) Ang Probinsyano\n\nAnswer:\n",
+        "model_prediction": "(A) Shake, Rattle, and Roll"
+    },
+    {
+        "id": "test_72",
+        "question": "Which film's title is a reference to a Filipino curse word?",
+        "choices": [
+            "(A) Ang Probinsyano",
+            "(B) Ang Babae sa Septic Tank",
+            "(C) Ang Tanging Ina",
+            "(D) Ang Panday"
+        ],
+        "category": "film",
+        "answer": "(C) Ang Tanging Ina",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhich film's title is a reference to a Filipino curse word?\n\nChoices:\n(A) Ang Probinsyano\n(B) Ang Babae sa Septic Tank\n(C) Ang Tanging Ina\n(D) Ang Panday\n\nAnswer:\n",
+        "model_prediction": "(A) Ang Probinsyano"
+    },
+    {
+        "id": "test_73",
+        "question": "In the Philippines, what is the most famous work by the brother of the general that was assassinated under Emilio Aguinaldo's orders?",
+        "choices": [
+            "(A) Madonna of the Slums",
+            "(B) Planting Rice",
+            "(C) Spolarium",
+            "(D) First Mass at Limasawa"
+        ],
+        "category": "film",
+        "answer": "(C) Spolarium",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nIn the Philippines, what is the most famous work by the brother of the general that was assassinated under Emilio Aguinaldo's orders?\n\nChoices:\n(A) Madonna of the Slums\n(B) Planting Rice\n(C) Spolarium\n(D) First Mass at Limasawa\n\nAnswer:\n",
+        "model_prediction": "(C) Spolarium"
+    },
+    {
+        "id": "test_74",
+        "question": "What geopolitical term is referenced in the title of a 2000 Filipino film interviewing Jose Rizal in a style of a documentary?",
+        "choices": [
+            "(A) Global South",
+            "(B) Globalized",
+            "(C) Western",
+            "(D) Third World"
+        ],
+        "category": "film",
+        "answer": "(D) Third World",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhat geopolitical term is referenced in the title of a 2000 Filipino film interviewing Jose Rizal in a style of a documentary?\n\nChoices:\n(A) Global South\n(B) Globalized\n(C) Western\n(D) Third World\n\nAnswer:\n",
+        "model_prediction": "(D) Third World"
+    },
+    {
+        "id": "test_75",
+        "question": "What is the main subject of the Filipino film \"Batch 81\"?",
+        "choices": [
+            "(A) Hazing",
+            "(B) Gang Violence",
+            "(C) Extrajudicial Murder",
+            "(D) Police Brutality"
+        ],
+        "category": "film",
+        "answer": "(A) Hazing",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhat is the main subject of the Filipino film \"Batch 81\"?\n\nChoices:\n(A) Hazing\n(B) Gang Violence\n(C) Extrajudicial Murder\n(D) Police Brutality\n\nAnswer:\n",
+        "model_prediction": "(A) Hazing"
+    },
+    {
+        "id": "test_76",
+        "question": "In the Philippines, what is the negation of the most famous line in Ishmael Bernal's \"Himala\"?",
+        "choices": [
+            "(A) Maraming Himala",
+            "(B) Kaunting Himala",
+            "(C) May Himala",
+            "(D) Walang Himala"
+        ],
+        "category": "film",
+        "answer": "(C) May Himala",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nIn the Philippines, what is the negation of the most famous line in Ishmael Bernal's \"Himala\"?\n\nChoices:\n(A) Maraming Himala\n(B) Kaunting Himala\n(C) May Himala\n(D) Walang Himala\n\nAnswer:\n",
+        "model_prediction": "(D) Walang Himala"
+    },
+    {
+        "id": "test_77",
+        "question": "Where was the shooting location of the first Filipino film to be shown at the Cannes Film Festival?",
+        "choices": [
+            "(A) Binondo",
+            "(B) Tondo",
+            "(C) Manila",
+            "(D) Payatas"
+        ],
+        "category": "film",
+        "answer": "(B) Tondo",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhere was the shooting location of the first Filipino film to be shown at the Cannes Film Festival?\n\nChoices:\n(A) Binondo\n(B) Tondo\n(C) Manila\n(D) Payatas\n\nAnswer:\n",
+        "model_prediction": "(C) Manila"
+    },
+    {
+        "id": "test_78",
+        "question": "Which theme does the Filipino film \"Kisapmata\" (1981) portray?",
+        "choices": [
+            "(A) Poverty",
+            "(B) Incest",
+            "(C) Torture",
+            "(D) Drug abuse"
+        ],
+        "category": "film",
+        "answer": "(B) Incest",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhich theme does the Filipino film \"Kisapmata\" (1981) portray?\n\nChoices:\n(A) Poverty\n(B) Incest\n(C) Torture\n(D) Drug abuse\n\nAnswer:\n",
+        "model_prediction": "(B) Incest"
+    },
+    {
+        "id": "test_79",
+        "question": "In the Philippines, what is the name of the lover of the protagonist in English in the film \"Manila in the Claws of Light\"?",
+        "choices": [
+            "(A) Happiness",
+            "(B) Hope",
+            "(C) Beauty",
+            "(D) Faith"
+        ],
+        "category": "film",
+        "answer": "(A) Happiness",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nIn the Philippines, what is the name of the lover of the protagonist in English in the film \"Manila in the Claws of Light\"?\n\nChoices:\n(A) Happiness\n(B) Hope\n(C) Beauty\n(D) Faith\n\nAnswer:\n",
+        "model_prediction": "(B) Hope"
+    },
+    {
+        "id": "test_80",
+        "question": "In the Philippines, who is the famous actress best known for saying \"Walang Himala!\"?",
+        "choices": [
+            "(A) Nora Aunor",
+            "(B) Vilma Santos",
+            "(C) Sharon Cuneta",
+            "(D) Maricel Soriano"
+        ],
+        "category": "film",
+        "answer": "(A) Nora Aunor",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nIn the Philippines, who is the famous actress best known for saying \"Walang Himala!\"?\n\nChoices:\n(A) Nora Aunor\n(B) Vilma Santos\n(C) Sharon Cuneta\n(D) Maricel Soriano\n\nAnswer:\n",
+        "model_prediction": "(B) Vilma Santos"
+    },
+    {
+        "id": "test_81",
+        "question": "What two books are required to be read by students in Philippine Universities?",
+        "choices": [
+            "(A) Noli Me Tangere and El Filibusterismo",
+            "(B) Alamat ng Gubat and Code of Kalintaw",
+            "(C) El Filibusterismo Florante at Laura",
+            "(D) Mga Ibong Mandaragit and Dekada '70"
+        ],
+        "category": "law",
+        "answer": "(A) Noli Me Tangere and El Filibusterismo",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhat two books are required to be read by students in Philippine Universities?\n\nChoices:\n(A) Noli Me Tangere and El Filibusterismo\n(B) Alamat ng Gubat and Code of Kalintaw\n(C) El Filibusterismo Florante at Laura\n(D) Mga Ibong Mandaragit and Dekada '70\n\nAnswer:\n",
+        "model_prediction": "(A) Noli Me Tangere and El Filibusterismo"
+    },
+    {
+        "id": "test_82",
+        "question": "What was the official political entity of the Philippines when the Tydings-McDuffie Act was enacted?",
+        "choices": [
+            "(A) Commonwealth",
+            "(B) Unincorporated Territory",
+            "(C) Colony",
+            "(D) Protectorate"
+        ],
+        "category": "law",
+        "answer": "(B) Unincorporated Territory",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhat was the official political entity of the Philippines when the Tydings-McDuffie Act was enacted?\n\nChoices:\n(A) Commonwealth\n(B) Unincorporated Territory\n(C) Colony\n(D) Protectorate\n\nAnswer:\n",
+        "model_prediction": "(A) Commonwealth"
+    },
+    {
+        "id": "test_83",
+        "question": "In the Philippines, Republic Act No. 10354 allows for the provision of:",
+        "choices": [
+            "(A) Free education",
+            "(B) Free healthcare",
+            "(C) Free contraceptives",
+            "(D) Free housing"
+        ],
+        "category": "law",
+        "answer": "(C) Free contraceptives",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nIn the Philippines, Republic Act No. 10354 allows for the provision of:\n\nChoices:\n(A) Free education\n(B) Free healthcare\n(C) Free contraceptives\n(D) Free housing\n\nAnswer:\n",
+        "model_prediction": "(B) Free healthcare"
+    },
+    {
+        "id": "test_84",
+        "question": "As of 2023, The Philippines and Vatican City are the only two states that do not allow for:",
+        "choices": [
+            "(A) Clerical Marriage",
+            "(B) Divorce",
+            "(C) Abortion",
+            "(D) Civil Marriage"
+        ],
+        "category": "law",
+        "answer": "(B) Divorce",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nAs of 2023, The Philippines and Vatican City are the only two states that do not allow for:\n\nChoices:\n(A) Clerical Marriage\n(B) Divorce\n(C) Abortion\n(D) Civil Marriage\n\nAnswer:\n",
+        "model_prediction": "(A) Clerical Marriage"
+    },
+    {
+        "id": "test_85",
+        "question": "In the Philippines, what did Carlos Celdran put on his signboard, which led to his arrest in 2010?",
+        "choices": [
+            "(A) Rizal is a Hero",
+            "(B) Contraceptives for All",
+            "(C) Separation of Church and State",
+            "(D) Damaso"
+        ],
+        "category": "law",
+        "answer": "(D) Damaso",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nIn the Philippines, what did Carlos Celdran put on his signboard, which led to his arrest in 2010?\n\nChoices:\n(A) Rizal is a Hero\n(B) Contraceptives for All\n(C) Separation of Church and State\n(D) Damaso\n\nAnswer:\n",
+        "model_prediction": "(C) Separation of Church and State"
+    },
+    {
+        "id": "test_86",
+        "question": "What Filipino law has an acronym pertaining to a vehicle?",
+        "choices": [
+            "(A) JEEPNEY Care Law",
+            "(B) TRAIN Law",
+            "(C) CAR Act",
+            "(D) RAIL Act"
+        ],
+        "category": "law",
+        "answer": "(B) TRAIN Law",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhat Filipino law has an acronym pertaining to a vehicle?\n\nChoices:\n(A) JEEPNEY Care Law\n(B) TRAIN Law\n(C) CAR Act\n(D) RAIL Act\n\nAnswer:\n",
+        "model_prediction": "(C) CAR Act"
+    },
+    {
+        "id": "test_87",
+        "question": "As of 2023, what is not illegal in the Philippines?",
+        "choices": [
+            "(A) Offending Religious sentiments",
+            "(B) Squatting",
+            "(C) Polygamy",
+            "(D) Stalking"
+        ],
+        "category": "law",
+        "answer": "(B) Squatting",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nAs of 2023, what is not illegal in the Philippines?\n\nChoices:\n(A) Offending Religious sentiments\n(B) Squatting\n(C) Polygamy\n(D) Stalking\n\nAnswer:\n",
+        "model_prediction": "(D) Stalking"
+    },
+    {
+        "id": "test_88",
+        "question": "In the Philippines, what is the basis of the selective entry of vehicles in Metro Manila?",
+        "choices": [
+            "(A) Plate Number",
+            "(B) Color",
+            "(C) Year of Purchase",
+            "(D) Vehicle Weight"
+        ],
+        "category": "law",
+        "answer": "(A) Plate Number",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nIn the Philippines, what is the basis of the selective entry of vehicles in Metro Manila?\n\nChoices:\n(A) Plate Number\n(B) Color\n(C) Year of Purchase\n(D) Vehicle Weight\n\nAnswer:\n",
+        "model_prediction": "(A) Plate Number"
+    },
+    {
+        "id": "test_89",
+        "question": "In the Philippines, a woman and a man cannot be both charged with:",
+        "choices": [
+            "(A) Child Abuse",
+            "(B) Slander",
+            "(C) Adultery",
+            "(D) Manslaughter"
+        ],
+        "category": "law",
+        "answer": "(C) Adultery",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nIn the Philippines, a woman and a man cannot be both charged with:\n\nChoices:\n(A) Child Abuse\n(B) Slander\n(C) Adultery\n(D) Manslaughter\n\nAnswer:\n",
+        "model_prediction": "(C) Adultery"
+    },
+    {
+        "id": "test_90",
+        "question": "In the Philippines, Republic Act No. 10175 has been criticized for being too authoritarian on its provisions on:",
+        "choices": [
+            "(A) Cybersquatting",
+            "(B) Freedom of Expression",
+            "(C) Libel",
+            "(D) Freedom of Association"
+        ],
+        "category": "law",
+        "answer": "(C) Libel",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nIn the Philippines, Republic Act No. 10175 has been criticized for being too authoritarian on its provisions on:\n\nChoices:\n(A) Cybersquatting\n(B) Freedom of Expression\n(C) Libel\n(D) Freedom of Association\n\nAnswer:\n",
+        "model_prediction": "(B) Freedom of Expression"
+    },
+    {
+        "id": "test_91",
+        "question": "The Philippines and Japan share the physical feature of being:",
+        "choices": [
+            "(A) Archipelagos",
+            "(B) Peninsulas",
+            "(C) Volcanic Islands",
+            "(D) Mountainous"
+        ],
+        "category": "geography",
+        "answer": "(A) Archipelagos",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nThe Philippines and Japan share the physical feature of being:\n\nChoices:\n(A) Archipelagos\n(B) Peninsulas\n(C) Volcanic Islands\n(D) Mountainous\n\nAnswer:\n",
+        "model_prediction": "(A) Archipelagos"
+    },
+    {
+        "id": "test_92",
+        "question": "What shape is described by the global volcanic activity which the Philippines is a part of?",
+        "choices": [
+            "(A) Square",
+            "(B) Circle",
+            "(C) Triangle",
+            "(D) Ring"
+        ],
+        "category": "geography",
+        "answer": "(D) Ring",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhat shape is described by the global volcanic activity which the Philippines is a part of?\n\nChoices:\n(A) Square\n(B) Circle\n(C) Triangle\n(D) Ring\n\nAnswer:\n",
+        "model_prediction": "(D) Ring"
+    },
+    {
+        "id": "test_93",
+        "question": "What is the name formed when combining the 3 largest islands in the Philippines?",
+        "choices": [
+            "(A) Viminluz",
+            "(B) Luzviminda",
+            "(C) Minluzovi",
+            "(D) Luzvimindan"
+        ],
+        "category": "geography",
+        "answer": "(B) Luzviminda",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhat is the name formed when combining the 3 largest islands in the Philippines?\n\nChoices:\n(A) Viminluz\n(B) Luzviminda\n(C) Minluzovi\n(D) Luzvimindan\n\nAnswer:\n",
+        "model_prediction": "(B) Luzviminda"
+    },
+    {
+        "id": "test_94",
+        "question": "What is the estimated difference of maximum depths of the deepest trench in the Philippines and the deepest trench in the World?",
+        "choices": [
+            "(A) 300 meters",
+            "(B) 100 meters",
+            "(C) 200 meters",
+            "(D) 400 meters"
+        ],
+        "category": "geography",
+        "answer": "(D) 400 meters",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhat is the estimated difference of maximum depths of the deepest trench in the Philippines and the deepest trench in the World?\n\nChoices:\n(A) 300 meters\n(B) 100 meters\n(C) 200 meters\n(D) 400 meters\n\nAnswer:\n",
+        "model_prediction": "(D) 400 meters"
+    },
+    {
+        "id": "test_95",
+        "question": "What mountain shares its names with a Filipino band who pioneered Original Pilipino Music?",
+        "choices": [
+            "(A) Mount Apo",
+            "(B) Mount Mayon",
+            "(C) Mount Pinatubo",
+            "(D) Mount Arayat"
+        ],
+        "category": "geography",
+        "answer": "(A) Mount Apo",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhat mountain shares its names with a Filipino band who pioneered Original Pilipino Music?\n\nChoices:\n(A) Mount Apo\n(B) Mount Mayon\n(C) Mount Pinatubo\n(D) Mount Arayat\n\nAnswer:\n",
+        "model_prediction": "(A) Mount Apo"
+    },
+    {
+        "id": "test_96",
+        "question": "Vulcan point in the Philippines is an island within a lake within a volcano within...",
+        "choices": [
+            "(A) A volcano",
+            "(B) A mountain",
+            "(C) A lake",
+            "(D) An ocean"
+        ],
+        "category": "geography",
+        "answer": "(C) A lake",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nVulcan point in the Philippines is an island within a lake within a volcano within...\n\nChoices:\n(A) A volcano\n(B) A mountain\n(C) A lake\n(D) An ocean\n\nAnswer:\n",
+        "model_prediction": "(A) A volcano"
+    },
+    {
+        "id": "test_97",
+        "question": "What word is shared by the NATO phonetic alphabet and a mountain range in the Philippines?",
+        "choices": [
+            "(A) Tango",
+            "(B) Sierra",
+            "(C) Delta",
+            "(D) Charlie"
+        ],
+        "category": "geography",
+        "answer": "(B) Sierra",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhat word is shared by the NATO phonetic alphabet and a mountain range in the Philippines?\n\nChoices:\n(A) Tango\n(B) Sierra\n(C) Delta\n(D) Charlie\n\nAnswer:\n",
+        "model_prediction": "(B) Sierra"
+    },
+    {
+        "id": "test_98",
+        "question": "As of 2023, what is the local name of the most devastating typhoon in the Philippines?",
+        "choices": [
+            "(A) Pepeng",
+            "(B) Rolly",
+            "(C) Ondoy",
+            "(D) Yolanda"
+        ],
+        "category": "geography",
+        "answer": "(D) Yolanda",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nAs of 2023, what is the local name of the most devastating typhoon in the Philippines?\n\nChoices:\n(A) Pepeng\n(B) Rolly\n(C) Ondoy\n(D) Yolanda\n\nAnswer:\n",
+        "model_prediction": "(D) Yolanda"
+    },
+    {
+        "id": "test_99",
+        "question": "What was the first national park in the Philippines?",
+        "choices": [
+            "(A) Mayon Volcano National Park",
+            "(B) Sierra Madre National Park",
+            "(C) Mount Makiling National Park",
+            "(D) Lake Taal National Park"
+        ],
+        "category": "geography",
+        "answer": "(A) Mayon Volcano National Park",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhat was the first national park in the Philippines?\n\nChoices:\n(A) Mayon Volcano National Park\n(B) Sierra Madre National Park\n(C) Mount Makiling National Park\n(D) Lake Taal National Park\n\nAnswer:\n",
+        "model_prediction": "(D) Lake Taal National Park"
+    },
+    {
+        "id": "test_100",
+        "question": "What is the most accurate estimated combined number of islands from the Philippines and Indonesia?",
+        "choices": [
+            "(A) 30,000",
+            "(B) 15,000",
+            "(C) 25,000",
+            "(D) 40,000"
+        ],
+        "category": "geography",
+        "answer": "(C) 25,000",
+        "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices.\n\nQuestion:\nWhat is the most accurate estimated combined number of islands from the Philippines and Indonesia?\n\nChoices:\n(A) 30,000\n(B) 15,000\n(C) 25,000\n(D) 40,000\n\nAnswer:\n",
+        "model_prediction": "(D) 40,000"
+    }
+]
