@@ -63,7 +63,7 @@
         "answer": "(B) Entailment",
         "id": "test_6",
         "model_input": "Assess whether the second sentence can be inferred from the first sentence and choose the correct answer from the provided choices. Simply select the choice, no explanations required.\n\nSentence1: Hepburn's family will receive the proceeds from the sale. Sentence2: Proceeds go to Hepburn's family.\n\nChoices:\n(A) Not Entailment\n(B) Entailment\n\nAnswer:\n",
-        "model_prediction": "Step 1: Read both sentences carefully."
+        "model_prediction": "(B) Entailment"
     },
     {
         "choices": [

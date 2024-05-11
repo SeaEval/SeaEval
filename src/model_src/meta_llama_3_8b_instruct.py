@@ -41,8 +41,11 @@ def meta_llama_3_8b_instruct_model_generation(self, batch_input):
     batch_input = batch_input_templated
 
     encoded_batch        = self.tokenizer(batch_input, return_tensors="pt", padding=True).to(self.model.device)
-    generated_ids        = self.model.generate(**encoded_batch, max_new_tokens=self.max_new_tokens, pad_token_id=self.tokenizer.eos_token_id)
+    generated_ids        = self.model.generate(**encoded_batch, do_sample=False, max_new_tokens=self.max_new_tokens, pad_token_id=self.tokenizer.eos_token_id)
     generated_ids        = generated_ids[:, encoded_batch.input_ids.shape[-1]:]
     decoded_batch_output = self.tokenizer.batch_decode(generated_ids, skip_special_tokens=True)
+
+    # remove things after assistant
+    decoded_batch_output = [item.split("assistant")[0] for item in decoded_batch_output]
 
     return decoded_batch_output

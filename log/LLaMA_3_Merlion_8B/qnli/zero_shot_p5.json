@@ -107,6 +107,6 @@
         ],
         "answer": "(A) Answerable",
         "model_input": "Select the appropriate response by examining whether the question can be answered based on the provided context. Simply select the choice, no explanations required.\n\nQuestion: How long did Western Europe control Cyprus? Paragraph: The conquest of Cyprus by the Anglo-Norman forces of the Third Crusade opened a new chapter in the history of the island, which would be under Western European domination for the following 380 years.\n\nChoices:\n(A) Answerable\n(B) Not Answerable\n\nAnswer:\n",
-        "model_prediction": "(B) Not Answerabl"
+        "model_prediction": "(A) Answerabl"
     }
 ]

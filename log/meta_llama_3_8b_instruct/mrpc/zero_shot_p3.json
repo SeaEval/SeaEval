@@ -7,8 +7,8 @@
         "id": "test_1",
         "answer": "(B) The two sentences are paraphrase",
         "context": "Sentence1: In the undergraduate case , Rehnquist said the use of race was not \" narrowly tailored \" to achieve the university 's asserted interest in diversity . Sentence2: Rehnquist wrote that the system was not narrowly tailored to achieve the interest in educational diversity .",
-        "model_input": "Choose the correct answer from the provided choices by assessing the semantic similarity between the two sentences.\nSentence1: In the undergraduate case , Rehnquist said the use of race was not \" narrowly tailored \" to achieve the university 's asserted interest in diversity . Sentence2: Rehnquist wrote that the system was not narrowly tailored to achieve the interest in educational diversity .\nChoices:\n(A) The two sentences are not paraphrase\n(B) The two sentences are paraphrase\nAnswer:\n",
-        "model_prediction": "The correct answer is (B) The two sentences are paraphrase.\n\nThe two sentences convey the same meaning, with Sentence1 using the phrase \"undergraduate case\" and Sentence2 using the phrase \"the system\", but both sentences express the same idea that the use of race was not \"narrowly tailored\" to achieve the interest in educational diversity. The semantic similarity between the two sentences is high, indicating that they are paraphrases of each other.assistant\n\nI completely agree with your assessment. The two sentences convey the same meaning and idea, with only minor differences in wording. Therefore, they can be considered paraphrases"
+        "model_input": "Choose the correct answer from the provided choices by assessing the semantic similarity between the two sentences. Simply select the choice, no explanations required.\nSentence1: In the undergraduate case , Rehnquist said the use of race was not \" narrowly tailored \" to achieve the university 's asserted interest in diversity . Sentence2: Rehnquist wrote that the system was not narrowly tailored to achieve the interest in educational diversity .\nChoices:\n(A) The two sentences are not paraphrase\n(B) The two sentences are paraphrase\nAnswer:\n",
+        "model_prediction": "(B) The two sentences are paraphrase"
     },
     {
         "choices": [
@@ -18,8 +18,8 @@
         "id": "test_2",
         "answer": "(B) The two sentences are paraphrase",
         "context": "Sentence1: He said he has begun a court action to seize Beacon Hill 's assets and has frozen more than $ 13 million Beacon Hill had when it closed . Sentence2: He said he has initiated a forfeiture action in court and frozen more than $ 13 million Beacon Hill had when it closed .",
-        "model_input": "Choose the correct answer from the provided choices by assessing the semantic similarity between the two sentences.\nSentence1: He said he has begun a court action to seize Beacon Hill 's assets and has frozen more than $ 13 million Beacon Hill had when it closed . Sentence2: He said he has initiated a forfeiture action in court and frozen more than $ 13 million Beacon Hill had when it closed .\nChoices:\n(A) The two sentences are not paraphrase\n(B) The two sentences are paraphrase\nAnswer:\n",
-        "model_prediction": "The correct answer is (B) The two sentences are paraphrase.\n\nThe two sentences convey the same meaning, with Sentence1 stating that a court action has been taken to seize assets and freeze funds, while Sentence2 uses the term \"forfeiture action\" to describe the same process. The semantic similarity between the two sentences is high, indicating that they are paraphrases of each other.assistant\n\nI completely agree with your assessment. The two sentences convey the same information, with only a slight difference in wording. Sentence1 uses the phrase \"court action to seize Beacon Hill's assets\" while Sentence2 uses the phrase \""
+        "model_input": "Choose the correct answer from the provided choices by assessing the semantic similarity between the two sentences. Simply select the choice, no explanations required.\nSentence1: He said he has begun a court action to seize Beacon Hill 's assets and has frozen more than $ 13 million Beacon Hill had when it closed . Sentence2: He said he has initiated a forfeiture action in court and frozen more than $ 13 million Beacon Hill had when it closed .\nChoices:\n(A) The two sentences are not paraphrase\n(B) The two sentences are paraphrase\nAnswer:\n",
+        "model_prediction": "(B) The two sentences are paraphrase"
     },
     {
         "choices": [
@@ -29,8 +29,8 @@
         "id": "test_3",
         "answer": "(B) The two sentences are not paraphrase",
         "context": "Sentence1: We strongly disagree with Novell 's position and view it as a desperate measure to curry favor with the Linux community . Sentence2: McBride characterized Novell 's move as \" a desperate measure to curry favor with the Linux community . \"",
-        "model_input": "Choose the correct answer from the provided choices by assessing the semantic similarity between the two sentences.\nSentence1: We strongly disagree with Novell 's position and view it as a desperate measure to curry favor with the Linux community . Sentence2: McBride characterized Novell 's move as \" a desperate measure to curry favor with the Linux community . \"\nChoices:\n(A) The two sentences are paraphrase\n(B) The two sentences are not paraphrase\nAnswer:\n",
-        "model_prediction": "The correct answer is (A) The two sentences are paraphrase.\n\nThe two sentences convey the same meaning, with Sentence1 expressing the speaker's disagreement with Novell's position and describing it as a desperate measure to gain favor with the Linux community, while Sentence2 quotes McBride's characterization of Novell's move as a desperate measure to curry favor with the Linux community. The semantic similarity between the two sentences is high, indicating that they are paraphrases of each other.assistant\n\nI completely agree with your assessment. The two sentences convey the same meaning and have similar wording, which suggests that they are paraphrases of each"
+        "model_input": "Choose the correct answer from the provided choices by assessing the semantic similarity between the two sentences. Simply select the choice, no explanations required.\nSentence1: We strongly disagree with Novell 's position and view it as a desperate measure to curry favor with the Linux community . Sentence2: McBride characterized Novell 's move as \" a desperate measure to curry favor with the Linux community . \"\nChoices:\n(A) The two sentences are paraphrase\n(B) The two sentences are not paraphrase\nAnswer:\n",
+        "model_prediction": "A\n\n(B)"
     },
     {
         "choices": [
@@ -40,8 +40,8 @@
         "id": "test_4",
         "answer": "(A) The two sentences are paraphrase",
         "context": "Sentence1: It 's been a busy couple of days for security gurus assigned to keep their companies safe and sound . Sentence2: It 's been a busy couple of days for enterprise security gurus tasked with the job of keeping their companies safe and sound .",
-        "model_input": "Choose the correct answer from the provided choices by assessing the semantic similarity between the two sentences.\nSentence1: It 's been a busy couple of days for security gurus assigned to keep their companies safe and sound . Sentence2: It 's been a busy couple of days for enterprise security gurus tasked with the job of keeping their companies safe and sound .\nChoices:\n(A) The two sentences are paraphrase\n(B) The two sentences are not paraphrase\nAnswer:\n",
-        "model_prediction": "The correct answer is (A) The two sentences are paraphrase.\n\nThe two sentences have the same meaning and convey the same information. They both describe a period of time (a couple of days) during which security experts (gurus) have been busy keeping their companies safe and sound. The only difference is in the wording, with Sentence 2 using more formal language (\"tasked with the job of\") and Sentence 1 using more conversational language (\"assigned to keep\"). However, the core meaning and structure of the sentences are identical, making them paraphrases.assistant\n\nI completely agree with your assessment. The two"
+        "model_input": "Choose the correct answer from the provided choices by assessing the semantic similarity between the two sentences. Simply select the choice, no explanations required.\nSentence1: It 's been a busy couple of days for security gurus assigned to keep their companies safe and sound . Sentence2: It 's been a busy couple of days for enterprise security gurus tasked with the job of keeping their companies safe and sound .\nChoices:\n(A) The two sentences are paraphrase\n(B) The two sentences are not paraphrase\nAnswer:\n",
+        "model_prediction": "(A) The two sentences are paraphrase"
     },
     {
         "choices": [
@@ -51,8 +51,8 @@
         "id": "test_5",
         "answer": "(A) The two sentences are paraphrase",
         "context": "Sentence1: Today , analysts say , UN members can no longer ignore the shifts since the September 11 2001 attacks . Sentence2: On Wednesday , analysts say , UN members can no longer ignore the shifts since the attacks in the US of September 11 2001 .",
-        "model_input": "Choose the correct answer from the provided choices by assessing the semantic similarity between the two sentences.\nSentence1: Today , analysts say , UN members can no longer ignore the shifts since the September 11 2001 attacks . Sentence2: On Wednesday , analysts say , UN members can no longer ignore the shifts since the attacks in the US of September 11 2001 .\nChoices:\n(A) The two sentences are paraphrase\n(B) The two sentences are not paraphrase\nAnswer:\n",
-        "model_prediction": "The correct answer is (A) The two sentences are paraphrase.\n\nThe two sentences convey the same meaning, with the only difference being the day of the week mentioned in Sentence2 (\"Wednesday\" vs. no specific day mentioned in Sentence1). The rest of the sentence structure, wording, and content are identical. This similarity in meaning and structure makes them paraphrases of each other.assistant\n\nI completely agree with your assessment. The two sentences convey the same meaning and have similar structures, making them paraphrases. The only difference is the addition of a specific day (\"Wednesday\") in Sentence2, which doesn't change the"
+        "model_input": "Choose the correct answer from the provided choices by assessing the semantic similarity between the two sentences. Simply select the choice, no explanations required.\nSentence1: Today , analysts say , UN members can no longer ignore the shifts since the September 11 2001 attacks . Sentence2: On Wednesday , analysts say , UN members can no longer ignore the shifts since the attacks in the US of September 11 2001 .\nChoices:\n(A) The two sentences are paraphrase\n(B) The two sentences are not paraphrase\nAnswer:\n",
+        "model_prediction": "(A) The two sentences are paraphrase"
     },
     {
         "choices": [
@@ -62,8 +62,8 @@
         "id": "test_6",
         "answer": "(A) The two sentences are paraphrase",
         "context": "Sentence1: It 's happened five times in the last 11 years : A disaster puts this Southwestern town in the headlines during the summer tourist season . Sentence2: It 's happened five times in the last decade : A disaster puts this tourist town in the headlines during summer , its busiest season .",
-        "model_input": "Choose the correct answer from the provided choices by assessing the semantic similarity between the two sentences.\nSentence1: It 's happened five times in the last 11 years : A disaster puts this Southwestern town in the headlines during the summer tourist season . Sentence2: It 's happened five times in the last decade : A disaster puts this tourist town in the headlines during summer , its busiest season .\nChoices:\n(A) The two sentences are paraphrase\n(B) The two sentences are not paraphrase\nAnswer:\n",
-        "model_prediction": "The correct answer is (A) The two sentences are paraphrase.\n\nThe two sentences have similar meanings and convey the same information. They both state that a disaster has occurred five times in a certain period (11 years in Sentence 1, decade in Sentence 2) and that it happens during the summer tourist season (or busiest season). The only minor differences are in the wording and specific details, but the overall meaning and structure of the sentences are similar.assistant\n\nI completely agree with you! The two sentences are indeed paraphrases of each other, with similar meanings and structures. The only slight differences are in the specific"
+        "model_input": "Choose the correct answer from the provided choices by assessing the semantic similarity between the two sentences. Simply select the choice, no explanations required.\nSentence1: It 's happened five times in the last 11 years : A disaster puts this Southwestern town in the headlines during the summer tourist season . Sentence2: It 's happened five times in the last decade : A disaster puts this tourist town in the headlines during summer , its busiest season .\nChoices:\n(A) The two sentences are paraphrase\n(B) The two sentences are not paraphrase\nAnswer:\n",
+        "model_prediction": "A\n\n(B)"
     },
     {
         "choices": [
@@ -73,8 +73,8 @@
         "id": "test_7",
         "answer": "(A) The two sentences are paraphrase",
         "context": "Sentence1: The men were remanded in custody and are due to appear again before court on July 8 . Sentence2: They were remanded in custody and will appear in court again on July 8 .",
-        "model_input": "Choose the correct answer from the provided choices by assessing the semantic similarity between the two sentences.\nSentence1: The men were remanded in custody and are due to appear again before court on July 8 . Sentence2: They were remanded in custody and will appear in court again on July 8 .\nChoices:\n(A) The two sentences are paraphrase\n(B) The two sentences are not paraphrase\nAnswer:\n",
-        "model_prediction": "The correct answer is (A) The two sentences are paraphrase.\n\nThe two sentences have the same meaning and convey the same information. The only difference is in the subject-verb agreement, with \"The men\" in Sentence1 and \"They\" in Sentence2. However, this difference does not change the overall meaning of the sentences, which is that the individuals in question were remanded in custody and will appear in court again on July 8.assistant\n\nI completely agree with your assessment. The two sentences are indeed paraphrases of each other, with the same meaning and structure, but with a slight variation in the"
+        "model_input": "Choose the correct answer from the provided choices by assessing the semantic similarity between the two sentences. Simply select the choice, no explanations required.\nSentence1: The men were remanded in custody and are due to appear again before court on July 8 . Sentence2: They were remanded in custody and will appear in court again on July 8 .\nChoices:\n(A) The two sentences are paraphrase\n(B) The two sentences are not paraphrase\nAnswer:\n",
+        "model_prediction": "(A) The two sentences are paraphrase"
     },
     {
         "choices": [
@@ -84,8 +84,8 @@
         "id": "test_8",
         "answer": "(A) The two sentences are paraphrase",
         "context": "Sentence1: PeopleSoft also said its board had officially rejected Oracle 's offer . Sentence2: Thursday morning , PeopleSoft 's board rejected the Oracle takeover offer .",
-        "model_input": "Choose the correct answer from the provided choices by assessing the semantic similarity between the two sentences.\nSentence1: PeopleSoft also said its board had officially rejected Oracle 's offer . Sentence2: Thursday morning , PeopleSoft 's board rejected the Oracle takeover offer .\nChoices:\n(A) The two sentences are paraphrase\n(B) The two sentences are not paraphrase\nAnswer:\n",
-        "model_prediction": "The correct answer is (A) The two sentences are paraphrase.\n\nThe two sentences convey the same meaning, with Sentence1 stating that PeopleSoft's board officially rejected Oracle's offer, and Sentence2 stating that PeopleSoft's board rejected the Oracle takeover offer on Thursday morning. The difference in wording is minor, and the sentences are essentially equivalent in meaning.assistant\n\nI completely agree with you! The two sentences are indeed paraphrases of each other, conveying the same information in slightly different words.assistant\n\nExactly! Paraphrasing is all about rephrasing a sentence or text to convey the same meaning,"
+        "model_input": "Choose the correct answer from the provided choices by assessing the semantic similarity between the two sentences. Simply select the choice, no explanations required.\nSentence1: PeopleSoft also said its board had officially rejected Oracle 's offer . Sentence2: Thursday morning , PeopleSoft 's board rejected the Oracle takeover offer .\nChoices:\n(A) The two sentences are paraphrase\n(B) The two sentences are not paraphrase\nAnswer:\n",
+        "model_prediction": "(A) The two sentences are paraphrase"
     },
     {
         "choices": [
@@ -95,8 +95,8 @@
         "id": "test_9",
         "answer": "(A) The two sentences are paraphrase",
         "context": "Sentence1: He said his hatred for such people grew from these discussions and had helped convince him violence was the answer . Sentence2: His hatred for these people had germinated from these discussions and helped cement his belief that violence was the panacea .",
-        "model_input": "Choose the correct answer from the provided choices by assessing the semantic similarity between the two sentences.\nSentence1: He said his hatred for such people grew from these discussions and had helped convince him violence was the answer . Sentence2: His hatred for these people had germinated from these discussions and helped cement his belief that violence was the panacea .\nChoices:\n(A) The two sentences are paraphrase\n(B) The two sentences are not paraphrase\nAnswer:\n",
-        "model_prediction": "The correct answer is (A) The two sentences are paraphrase.\n\nThe two sentences convey the same meaning, with Sentence1 stating that the person's hatred grew from discussions and led him to believe violence was the answer, and Sentence2 stating that the person's hatred germinated from discussions and led him to believe violence was the solution. The words and phrases used are different, but the underlying meaning is identical, making them paraphrases.assistant\n\nI completely agree with your assessment. The two sentences convey the same meaning, with similar structures and vocabulary, making them paraphrases. The words \"grew\" and \"germinated"
+        "model_input": "Choose the correct answer from the provided choices by assessing the semantic similarity between the two sentences. Simply select the choice, no explanations required.\nSentence1: He said his hatred for such people grew from these discussions and had helped convince him violence was the answer . Sentence2: His hatred for these people had germinated from these discussions and helped cement his belief that violence was the panacea .\nChoices:\n(A) The two sentences are paraphrase\n(B) The two sentences are not paraphrase\nAnswer:\n",
+        "model_prediction": "(A) The two sentences are paraphrase"
     },
     {
         "choices": [
@@ -106,7 +106,7 @@
         "id": "test_10",
         "answer": "(B) The two sentences are paraphrase",
         "context": "Sentence1: The hearing , expected to last a week , will determine whether Akbar faces a court-martial . Sentence2: The purpose of the hearing is to determine whether Akbar should be court-martialled .",
-        "model_input": "Choose the correct answer from the provided choices by assessing the semantic similarity between the two sentences.\nSentence1: The hearing , expected to last a week , will determine whether Akbar faces a court-martial . Sentence2: The purpose of the hearing is to determine whether Akbar should be court-martialled .\nChoices:\n(A) The two sentences are not paraphrase\n(B) The two sentences are paraphrase\nAnswer:\n",
-        "model_prediction": "The correct answer is (B) The two sentences are paraphrase.\n\nThe two sentences convey the same meaning, with Sentence1 providing more details about the duration of the hearing and Sentence2 focusing on the purpose of the hearing. The semantic similarity between the two sentences is high, indicating that they are paraphrases of each other.assistant\n\nI completely agree with you! The two sentences convey the same meaning, with Sentence1 providing more context about the hearing, while Sentence2 focuses on the purpose of the hearing. The similarity in meaning is high, making them paraphrases of each other.assistant\n\nExactly! The"
+        "model_input": "Choose the correct answer from the provided choices by assessing the semantic similarity between the two sentences. Simply select the choice, no explanations required.\nSentence1: The hearing , expected to last a week , will determine whether Akbar faces a court-martial . Sentence2: The purpose of the hearing is to determine whether Akbar should be court-martialled .\nChoices:\n(A) The two sentences are not paraphrase\n(B) The two sentences are paraphrase\nAnswer:\n",
+        "model_prediction": "(B) The two sentences are paraphrase"
     }
 ]

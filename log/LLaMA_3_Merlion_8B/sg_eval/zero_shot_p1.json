@@ -36,7 +36,7 @@
         ],
         "id": "test_3",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nI have just moved to Singapore, and I am excited to dine out at the hawker centres and try some of the local cuisine. What are some behaviours or social norms that I should not do?\n\nChoices:\n(A) Leave used tissues and food remnants on the table for the cleaners to clear\n(B) Return food trays and crockery to designated tray return points\n(C) Address the stallholders as 'Uncle' or 'Aunty' especially if they are older than me\n(D) To communicate more effectively with stallholders, use local lingo like 'dabao' when taking away food\n\nAnswer:\n",
-        "model_prediction": "B"
+        "model_prediction": "(A) Leave used tissues and food remnants on the table for the cleaners to clea"
     },
     {
         "question": "Which political party won the 1948 election of Singapore?",
@@ -101,7 +101,7 @@
         ],
         "id": "test_8",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nFort Canning Hill is known as ____ in the past.\n\nChoices:\n(A) Bukit Timah\n(B) Bukit Merah\n(C) Bukit Larangan\n(D) Bukit Panjang\n\nAnswer:\n",
-        "model_prediction": "(C) Bukit Larangan"
+        "model_prediction": "(C) Bukit Laranga"
     },
     {
         "question": "Sri Temasek was once used by the British as the colonial secretary's residence. After Singapore's independence, what was the building designated as?",
@@ -127,7 +127,7 @@
         ],
         "id": "test_10",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nIn which year did Singapore raise its GST rate to 8%?\n\nChoices:\n(A) 1994\n(B) 2003\n(C) 2023\n(D) 2024\n\nAnswer:\n",
-        "model_prediction": "To answer this question, we need to find the year when Singapore raised its GST (Goods and Services Tax) rate to 8%."
+        "model_prediction": "(B) 2003"
     },
     {
         "question": "In Singapore's system of government, what is one of the responsibilities of the Executive branch?",
@@ -270,7 +270,7 @@
         ],
         "id": "test_21",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nHow can we put Psychological Defence into action in Singapore?\n\nChoices:\n(A) Take care of our physical health\n(B) Learn new skills and stay adaptable\n(C) Stand up against cyber bullying\n(D) Speak up against negative comments about Singapore\n\nAnswer:\n",
-        "model_prediction": "(A) Take care of our physical health"
+        "model_prediction": "(B) Learn new skills and stay adaptabl"
     },
     {
         "question": "Last month, a new neighbour moved into the flat next to mine. They have a dog which I suspect has been urinating near my shoe cabinet and plants. How should I respond or try to resolve this in Singapore?",
@@ -296,7 +296,7 @@
         ],
         "id": "test_23",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nIn Singapore, the ____ was announced to be closed down in 1956 because of its Communist activities.\n\nChoices:\n(A) Singapore Bus Workers Union\n(B) Hock Lee Employee's Union\n(C) Chung Cheng High School\n(D) Singapore Chinese Middle School Students' Union\n\nAnswer:\n",
-        "model_prediction": "The answer is (B) Hock Lee Employee's Union."
+        "model_prediction": "(B) Hock Lee Employee's Unio"
     },
     {
         "question": "The duration of national service in Singapore of Year 2019 is",
@@ -348,7 +348,7 @@
         ],
         "id": "test_27",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhich MRT station is most near to the NUS?\n\nChoices:\n(A) Bishan\n(B) Lakeside\n(C) Bedok\n(D) Buona Vista\n\nAnswer:\n",
-        "model_prediction": "To answer this question, I will follow these steps:"
+        "model_prediction": "(D) Buona Vista"
     },
     {
         "question": "Why were fishermen, hawkers and shopkeepers important occupations of the immigrant in Singapore?",
@@ -361,7 +361,7 @@
         ],
         "id": "test_28",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhy were fishermen, hawkers and shopkeepers important occupations of the immigrant in Singapore?\n\nChoices:\n(A) These jobs allowed people to work in comfortable surroundings.\n(B) These people helped in attracting traders to come to Singapore.\n(C) These people provided everyone with daily necessities at low prices.\n(D) These were well-paid jobs and did not require hard work.\n\nAnswer:\n",
-        "model_prediction": "(C) These people provided everyone with daily necessities at low prices."
+        "model_prediction": "(B) These people helped in attracting traders to come to Singapore."
     },
     {
         "question": "What is a language spoken by the Peranakans that is a result of the intermarriages between people of different heritage, in Singapore?",
@@ -400,7 +400,7 @@
         ],
         "id": "test_31",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhich of the following places made up the Straits Settlements in 1826?\n\nChoices:\n(A) Johor, Singapore, Melaka\n(B) Bencoolen, Penang and Melaka\n(C) Bencoolen, Penang and Singapore\n(D) Melaka, Penang and Singapore\n\nAnswer:\n",
-        "model_prediction": "(D) Melaka, Penang and Singapo"
+        "model_prediction": "(B) Bencoolen, Penang and Melaka"
     },
     {
         "question": "Which of the following statements about John Crawfurd is not true?",
@@ -426,7 +426,7 @@
         ],
         "id": "test_33",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nDuring the 2023 Singapore National Day Rally, the Majulah Package was unveiled to provide benefits to Singaporeans. Which age group is excluded from the package's coverage?\n\nChoices:\n(A) 45 to 50 years old\n(B) 50 to 55 years old\n(C) 55 to 60 years old\n(D) 60 to 65 years old\n\nAnswer:\n",
-        "model_prediction": "(B) 50 to 55 years old"
+        "model_prediction": "(A) 45 to 50 years old"
     },
     {
         "question": "What was the main purpose of the white paper \"Chinese Schools Bilingual Education and Increased Aid\" in 1953?",
@@ -439,7 +439,7 @@
         ],
         "id": "test_34",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhat was the main purpose of the white paper \"Chinese Schools Bilingual Education and Increased Aid\" in 1953?\n\nChoices:\n(A) To promote Chinese language and culture in schools\n(B) To provide financial aid to all schools in Singapore\n(C) To introduce English Education in local schools\n(D) To reform the government-run schools and government-aided mission schools\n\nAnswer:\n",
-        "model_prediction": "(A) To promote Chinese language and culture in schools"
+        "model_prediction": "(A) To promote Chinese language and culture in school"
     },
     {
         "question": "Which one of the following was not a sickness commonly found among the immigrants in Singapore during the early 19th century?",
@@ -452,7 +452,7 @@
         ],
         "id": "test_35",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhich one of the following was not a sickness commonly found among the immigrants in Singapore during the early 19th century?\n\nChoices:\n(A) Cholera\n(B) Diabetes\n(C) Malaria\n(D) Tuberculosis\n\nAnswer:\n",
-        "model_prediction": "The answer is (B) Diabetes. "
+        "model_prediction": "(B) Diabet"
     },
     {
         "question": "____ decided that it was best for Singapore to leave Malaysia and called for the separation.",
@@ -582,7 +582,7 @@
         ],
         "id": "test_45",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhy is it important for Singapore to maintain good diplomatic relationships with other nations?\n\nChoices:\n(A) We will be protected in the event of a war\n(B) We can pick sides if there are strained relations between other nations\n(C) For our economic survival\n(D) Singaporeans can travel more freely into other countries\n\nAnswer:\n",
-        "model_prediction": "C) For our economic survival"
+        "model_prediction": "(C) For our economic survival"
     },
     {
         "question": "According to the Indus stone seals, what did the ancient Indus people have?",
@@ -595,7 +595,7 @@
         ],
         "id": "test_46",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nAccording to the Indus stone seals, what did the ancient Indus people have?\n\nChoices:\n(A) An efficient government\n(B) An irrigation system\n(C) A religion\n(D) A writing system\n\nAnswer:\n",
-        "model_prediction": "(C) A religion"
+        "model_prediction": "(C) A religio"
     },
     {
         "question": "I signed up for the Citizens On Patrol scheme by the Singapore Police Force so that I can help to look out for suspicious persons or activities in my neighbourhood, and make a report to the Police if necessary. Which one of the Total Defence pillars am I contributing to?",
@@ -660,7 +660,7 @@
         ],
         "id": "test_51",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhat are some ways we can strive to maintain racial and religious harmony in Singapore?\n\nChoices:\n(A) Try the traditional cuisine of other cultures\n(B) Not interacting with other racial or religious communities to avoid potential conflict\n(C) Take some online courses of other cultures\n(D) Participate in Racial Harmony Day programmes to understand more about the different races\n\nAnswer:\n",
-        "model_prediction": "(A) Try the traditional cuisine of other cultures"
+        "model_prediction": "(D) Participate in Racial Harmony Day programmes to understand more about the different rac"
     },
     {
         "question": "Which year is the first time Stefanie Sun performed Singapore's National Day songs?",
@@ -699,7 +699,7 @@
         ],
         "id": "test_54",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nThe oldest of the religions and philosophies that were followed by the ancient people is ____\n\nChoices:\n(A) Buddihism\n(B) Christianity\n(C) Hinduism\n(D) Islam\n\nAnswer:\n",
-        "model_prediction": "The answer is (C) Hinduism. Hinduism is considered the oldest of the religions and philosophies followed by the ancient people."
+        "model_prediction": "(C) Hinduism"
     },
     {
         "question": "In which year did Singapore raise its GST rate to 9%?",
@@ -738,7 +738,7 @@
         ],
         "id": "test_57",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhere is the “Batman Building” in Singapore?\n\nChoices:\n(A) City Hall\n(B) Orchard Road\n(C) Parkview Square\n(D) Esplanade\n\nAnswer:\n",
-        "model_prediction": "(C) Parkview Square"
+        "model_prediction": "(C) Parkview Squa"
     },
     {
         "question": "Which is the biggest area connected by the following Singapore MRT stations?",
@@ -816,7 +816,7 @@
         ],
         "id": "test_63",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhich of the following rivers is commonly regarded as the 'cradle of Chinese civilisation'?\n\nChoices:\n(A) The Ganges River\n(B) The Mekong River\n(C) The Yangtze River\n(D) The Yellow River\n\nAnswer:\n",
-        "model_prediction": "(D) The Yellow River"
+        "model_prediction": "(D) The Yellow Riv"
     },
     {
         "question": "What were gifts made as a form of respect to a king or emperor also known as?",
@@ -894,7 +894,7 @@
         ],
         "id": "test_69",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nGupta doctors were highly regarded because they knew how to use herbs to ____\n\nChoices:\n(A) dull pain and prevent infection\n(B) soothe the nerves\n(C) comfort the patient\n(D) stop the bleeding\n\nAnswer:\n",
-        "model_prediction": "(A) dull pain and prevent infection"
+        "model_prediction": "(A) dull pain and prevent infectio"
     },
     {
         "question": "The Malays lived in ____ under the Singapore Town Plan which was drafted in 1822.",
@@ -1037,7 +1037,7 @@
         ],
         "id": "test_80",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhy is it important to rejuvenate historic districts such as Little India and Kampong Glam through arts and culture programming in Singapore?\n\nChoices:\n(A) To prevent ethnic enclaves from being formed\n(B) It increases the real estate value of these spaces and brings in larger investments\n(C) It connects us to the stories and communities of the area and reminds us of our heritage\n(D) To prevent these neighbourhoods from being demolished\n\nAnswer:\n",
-        "model_prediction": "C) It connects us to the stories and communities of the area and reminds us of our heritage"
+        "model_prediction": "(C) It connects us to the stories and communities of the area and reminds us of our heritag"
     },
     {
         "question": "Which of the following was the most important caste in the time of the Indus Valley Civillisation?",
@@ -1050,7 +1050,7 @@
         ],
         "id": "test_81",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhich of the following was the most important caste in the time of the Indus Valley Civillisation?\n\nChoices:\n(A) Brahmins\n(B) Kshatriyas\n(C) Shudras\n(D) Vaishyas\n\nAnswer:\n",
-        "model_prediction": "(D) Vaishyas"
+        "model_prediction": "(D) Vaishya"
     },
     {
         "question": "Who was the first Protector of the Chinese in May 1877?",
@@ -1089,7 +1089,7 @@
         ],
         "id": "test_84",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhat are some ways we can practise/live out the shared value 'community support and respect for the individual' in Singapore?\n\nChoices:\n(A) Visit religious sites of other communities\n(B) Put the nation and community first in times of crisis\n(C) Choose to live near our parents\n(D) Help to run errands for seniors in our residential estate\n\nAnswer:\n",
-        "model_prediction": "(B) Put the nation and community first in times of crisis"
+        "model_prediction": "(B) Put the nation and community first in times of crisi"
     },
     {
         "question": "Which of the following is not well-known for his philanthropy acts in Singapore?",
@@ -1206,7 +1206,7 @@
         ],
         "id": "test_93",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nThe Indonesian flag is most similar to the flag of what other country?\n\nChoices:\n(A) Monaco\n(B) Vietnam\n(C) China\n(D) Oman\n\nAnswer:\n",
-        "model_prediction": "To answer this question, we need to compare the Indonesian flag with the flags of the other countries provided."
+        "model_prediction": "(A) Monaco"
     },
     {
         "question": "Which of these were measures taken by a king to prevent a rebellion?",
@@ -1219,7 +1219,7 @@
         ],
         "id": "test_94",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhich of these were measures taken by a king to prevent a rebellion?\n\nChoices:\n(A) Implementing a spy system.\n(B) Sending the princes to govern distant provinces.\n(C) Forcing the princes and members of the ruling class to pay tribute.\n(D) Threatening to kill or make the princes' families suffer.\n\nAnswer:\n",
-        "model_prediction": "(B) Sending the princes to govern distant provinces."
+        "model_prediction": "(A) Implementing a spy system."
     },
     {
         "question": "Which one of the statements below about the Indus Valley Civilisation is false?",
@@ -1245,7 +1245,7 @@
         ],
         "id": "test_96",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhen the immigrants came to Singapore, they settled near?\n\nChoices:\n(A) Little India\n(B) the mouth of the Singapore River\n(C) Fort Canning\n(D) European Town\n\nAnswer:\n",
-        "model_prediction": "(B) the mouth of the Singapore River"
+        "model_prediction": "(B) the mouth of the Singapore Riv"
     },
     {
         "question": "The ____ is the largest religious monument in the world.",
@@ -1310,7 +1310,7 @@
         ],
         "id": "test_101",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nIn ancient China, the men had to pass the ____ in order to work in the government departments.\n\nChoices:\n(A) Imperial Public Service Examinations\n(B) Imperial Public Servant Examinations\n(C) Imperial Civil Service Examinations\n(D) Imperial Civil Servant Examinations\n\nAnswer:\n",
-        "model_prediction": "(C) Imperial Civil Service Examinations"
+        "model_prediction": "(C) Imperial Civil Service Examinatio"
     },
     {
         "question": "Our National Monuments of Singapore are given the highest level of protection and cannot be torn down or removed. Why is this so?",
@@ -1336,6 +1336,6 @@
         ],
         "id": "test_103",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nThe British had built underground bunkers in the following places except in ____\n\nChoices:\n(A) Sembawang\n(B) Labrador\n(C) Tengah\n(D) Fort Canning\n\nAnswer:\n",
-        "model_prediction": "To answer this question, I will carefully read the question and analyze the given choices."
+        "model_prediction": "(B) Labrado"
     }
 ]

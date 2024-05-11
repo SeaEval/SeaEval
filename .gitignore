@@ -187,19 +187,13 @@ cache/
 *_p5.log
 
 
-
-
-*.sif
 *.out
 
-run_zh.sh
-
-
-
-lumi_submit_singularity.sh
-run_singularity.sh
-batch_jobs.sh
-gather_results.py
+#run_zh.sh
+#lumi_submit_singularity.sh
+#run_singularity.sh
+#batch_jobs.sh
+#gather_results.py
 
 
 .DS_Store

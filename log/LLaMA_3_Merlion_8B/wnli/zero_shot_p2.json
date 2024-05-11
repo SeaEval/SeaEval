@@ -19,7 +19,7 @@
         "context": "Sentence1: The drain is clogged with hair. It has to be removed. Sentence2: The drain has to be removed.",
         "id": "test_2",
         "model_input": "Does the second sentence entail the first sentence? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nSentence1: The drain is clogged with hair. It has to be removed. Sentence2: The drain has to be removed.\nChoices:\n(A) Entailment\n(B) Not Entailment\nAnswer:\n",
-        "model_prediction": "B) Not Entailment"
+        "model_prediction": "(B) Not Entailment"
     },
     {
         "answer": "(B) Not Entailment",
@@ -74,7 +74,7 @@
         "context": "Sentence1: Sam tried to paint a picture of shepherds with sheep, but they ended up looking more like golfers. Sentence2: The sheep ended up looking more like golfers.",
         "id": "test_7",
         "model_input": "Does the second sentence entail the first sentence? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nSentence1: Sam tried to paint a picture of shepherds with sheep, but they ended up looking more like golfers. Sentence2: The sheep ended up looking more like golfers.\nChoices:\n(A) Entailment\n(B) Not Entailment\nAnswer:\n",
-        "model_prediction": "B) Not Entailment"
+        "model_prediction": "(B) Not Entailment"
     },
     {
         "answer": "(A) Entailment",
@@ -96,7 +96,7 @@
         "context": "Sentence1: I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out looking more like light bulbs. Sentence2: The lemon trees came out looking more like light bulbs.",
         "id": "test_9",
         "model_input": "Does the second sentence entail the first sentence? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nSentence1: I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out looking more like light bulbs. Sentence2: The lemon trees came out looking more like light bulbs.\nChoices:\n(A) Entailment\n(B) Not Entailment\nAnswer:\n",
-        "model_prediction": "(B) Not Entailment"
+        "model_prediction": "(A) Entailment"
     },
     {
         "answer": "(A) Not Entailment",

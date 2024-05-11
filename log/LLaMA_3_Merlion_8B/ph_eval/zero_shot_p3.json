@@ -11,7 +11,7 @@
         "category": "brand",
         "answer": "(B) Argentina",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nAs of 2023, what is a corned beef brand in the Philippines that is named after a country?\nChoices:\n(A) Uruguay\n(B) Argentina\n(C) New Zealand\n(D) India\nAnswer:\n",
-        "model_prediction": "(B) Argentina"
+        "model_prediction": "(C) New Zealand"
     },
     {
         "id": "test_2",
@@ -67,7 +67,7 @@
         "category": "brand",
         "answer": "(B) 20",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nWhat was the age of the namesake of the original name of the Bank of the Philippine Islands (BPI) when the latter was founded?\nChoices:\n(A) 19\n(B) 20\n(C) 21\n(D) 22\nAnswer:\n",
-        "model_prediction": "(D) 22"
+        "model_prediction": "(C) 21"
     },
     {
         "id": "test_6",
@@ -95,7 +95,7 @@
         "category": "brand",
         "answer": "(A) 200",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nhow many kilometers did the first flight of Philippine Airlines take? Select the choice closest to the answer.\nChoices:\n(A) 200\n(B) 150\n(C) 1,000\n(D) 4,000\nAnswer:\n",
-        "model_prediction": "(C) 1,000"
+        "model_prediction": "(B) 150"
     },
     {
         "id": "test_8",
@@ -249,7 +249,7 @@
         "category": "biology",
         "answer": "(A) Sinarapan",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nWhat is the local name for an edible fish uniquely found in Lake Buhi, Philippines?\nChoices:\n(A) Sinarapan\n(B) Tawilis\n(C) Dulong\n(D) Tulingan\nAnswer:\n",
-        "model_prediction": "(A) Sinarapa"
+        "model_prediction": "(D) Tulinga"
     },
     {
         "id": "test_19",
@@ -305,7 +305,7 @@
         "category": "biology",
         "answer": "(D) Pitcher Plant",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nWhat type of plant endemic to the Philippines is named after a famous British naturalist and broadcaster?\nChoices:\n(A) Palm plant\n(B) Vine\n(C) Tropical Tree\n(D) Pitcher Plant\nAnswer:\n",
-        "model_prediction": "D) Pitcher Plant"
+        "model_prediction": "(D) Pitcher Plant"
     },
     {
         "id": "test_23",
@@ -361,7 +361,7 @@
         "category": "history",
         "answer": "(D) United Kingdom",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nIn the context of the Philippines, which European country held the territory that Aguinaldo escaped to in 1897?\nChoices:\n(A) Spain\n(B) France\n(C) Germany\n(D) United Kingdom\nAnswer:\n",
-        "model_prediction": "(B) France"
+        "model_prediction": "(A) Spain"
     },
     {
         "id": "test_27",
@@ -389,7 +389,7 @@
         "category": "history",
         "answer": "(B) Dominicans",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nWhat Catholic order founded a militant organization active during the Philippine-American War?\nChoices:\n(A) Jesuits\n(B) Dominicans\n(C) Franciscans\n(D) Augustinians\nAnswer:\n",
-        "model_prediction": "(D) Augustinians"
+        "model_prediction": "(D) Augustinia"
     },
     {
         "id": "test_29",
@@ -403,7 +403,7 @@
         "category": "history",
         "answer": "(D) 22",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nIn the context of the Philippines, how old was Gregorio del Pilar when the Hong Kong Junta was formed?\nChoices:\n(A) 19\n(B) 20\n(C) 21\n(D) 22\nAnswer:\n",
-        "model_prediction": "(B) 20"
+        "model_prediction": "(C) 21"
     },
     {
         "id": "test_30",
@@ -459,7 +459,7 @@
         "category": "history",
         "answer": "(A) Mexico City",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nAs part of the Spanish Empire, the modern-day Philippines was overall ruled from what colonial city for much of its colonial history?\nChoices:\n(A) Mexico City\n(B) Madrid\n(C) Manila\n(D) Cebu\nAnswer:\n",
-        "model_prediction": "(C) Mexico City"
+        "model_prediction": "(C) Manila"
     },
     {
         "id": "test_34",
@@ -473,7 +473,7 @@
         "category": "history",
         "answer": "(C) Sayote",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nWhich Filipino word is originally from the language of the Empire the Spanish conquered in modern-day Mexico?\nChoices:\n(A) Guro\n(B) Bundok\n(C) Sayote\n(D) Papaya\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the question and choices."
+        "model_prediction": "(C) Sayot"
     },
     {
         "id": "test_35",
@@ -487,7 +487,7 @@
         "category": "history",
         "answer": "(C) 7",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nIn the context of the Philippines, how many years is the namesake of the war in which the British besieged Manila?\nChoices:\n(A) 5\n(B) 30\n(C) 7\n(D) 80\nAnswer:\n",
-        "model_prediction": "(D) 80"
+        "model_prediction": "(C) 7"
     },
     {
         "id": "test_36",
@@ -501,7 +501,7 @@
         "category": "history",
         "answer": "(D) 28",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nIn the context of the Philippines, how old was the son of Ferdinand Marcos with Imelda Marcos when Ferdinand was overthrown in 1986?\nChoices:\n(A) 26\n(B) 29\n(C) 27\n(D) 28\nAnswer:\n",
-        "model_prediction": "(B) 29"
+        "model_prediction": "(C) 27"
     },
     {
         "id": "test_37",
@@ -627,7 +627,7 @@
         "category": "literature",
         "answer": "(A) Ferdinand Marcos",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nWho was the president of the Philippines in the setting of Lualhati Bautista's most famous novel?\nChoices:\n(A) Ferdinand Marcos\n(B) Corazon Aquino\n(C) Fidel Ramos\n(D) Joseph Estrada\nAnswer:\n",
-        "model_prediction": "(C) Fidel Ramo"
+        "model_prediction": "(B) Corazon Aquino"
     },
     {
         "id": "test_46",
@@ -655,7 +655,7 @@
         "category": "literature",
         "answer": "(C) Wow I can apparently read now?!",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nWhat is an appropriate translation for the title of the Filipino novel \"ABNKKBSNPLAko?!\" in English?\nChoices:\n(A) What? I study and learn school?!\n(B) I'm a Filipino, What's Your Excuse?!\n(C) Wow I can apparently read now?!\n(D) I can write sentences with ease?!\nAnswer:\n",
-        "model_prediction": "(B) I'm a Filipino, What's Your Excuse?!"
+        "model_prediction": "(C) Wow I can apparently read now?!"
     },
     {
         "id": "test_48",
@@ -683,7 +683,7 @@
         "category": "literature",
         "answer": "(B) Short Stories",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nIn the Philippines, Nick Joaquin is mainly known for which genre of literature?\nChoices:\n(A) Poetry\n(B) Short Stories\n(C) Essays\n(D) Plays\nAnswer:\n",
-        "model_prediction": "(B) Short Stori"
+        "model_prediction": "(D) Play"
     },
     {
         "id": "test_50",
@@ -711,7 +711,7 @@
         "category": "politics",
         "answer": "(A) Sergio Osmena",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nBefore Philippine Independence, which person succeeded the president who died in office?\nChoices:\n(A) Sergio Osmena\n(B) Manuel Roxas\n(C) Elpidio Quirino\n(D) Ramon Magsaysay\nAnswer:\n",
-        "model_prediction": "(B) Manuel Roxa"
+        "model_prediction": "(D) Ramon Magsaysay"
     },
     {
         "id": "test_52",
@@ -725,7 +725,7 @@
         "category": "politics",
         "answer": "(B) Sabah",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nWhich territory is the subject of a dispute between the Philippines and Malaysia as of 2023?\nChoices:\n(A) Spratly Islands\n(B) Sabah\n(C) Scarborough Shoal\n(D) Benham Rise\nAnswer:\n",
-        "model_prediction": "B) Sabah"
+        "model_prediction": "(B) Sabah"
     },
     {
         "id": "test_53",
@@ -753,7 +753,7 @@
         "category": "politics",
         "answer": "(A) Spratly Islands",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nIn the Philippines, which island did Rodrigo Duterte jokingly offered to travel to via a jet ski?\nChoices:\n(A) Spratly Islands\n(B) Sabah\n(C) Scarborough Shoal\n(D) Benham Rise\nAnswer:\n",
-        "model_prediction": "C"
+        "model_prediction": "(C) Scarborough Shoal"
     },
     {
         "id": "test_55",
@@ -837,7 +837,7 @@
         "category": "politics",
         "answer": "(C) People Power Revolution",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nIn the Philippines, what is the popular name of the event that overthrew Ferdinand Marcos?\nChoices:\n(A) People's Uprising\n(B) February Revolt\n(C) People Power Revolution\n(D) 1986 Overthrow\nAnswer:\n",
-        "model_prediction": "Option C: People Power Revolutio"
+        "model_prediction": "(C) People Power Revolutio"
     },
     {
         "id": "test_61",
@@ -921,7 +921,7 @@
         "category": "culture",
         "answer": "(B) Jejemon",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nWhat is the name of the SMS language developed in the Philippines?\nChoices:\n(A) Jejebuster\n(B) Jejemon\n(C) Jejebot\n(D) Jejespeak\nAnswer:\n",
-        "model_prediction": "(D) Jejespeak"
+        "model_prediction": "(B) Jejemo"
     },
     {
         "id": "test_67",
@@ -949,7 +949,7 @@
         "category": "culture",
         "answer": "(C) Padrino System",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nWhat is the term for the Filipino practice of gaining favors through family / friends?\nChoices:\n(A) Nepotismo\n(B) Kapatiran\n(C) Padrino System\n(D) Connection System\nAnswer:\n",
-        "model_prediction": "(B) Kapatira"
+        "model_prediction": "(C) Padrino System"
     },
     {
         "id": "test_69",
@@ -1075,7 +1075,7 @@
         "category": "film",
         "answer": "(B) Tondo",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nWhere was the shooting location of the first Filipino film to be shown at the Cannes Film Festival?\nChoices:\n(A) Binondo\n(B) Tondo\n(C) Manila\n(D) Payatas\nAnswer:\n",
-        "model_prediction": "C) Manila"
+        "model_prediction": "(C) Manila"
     },
     {
         "id": "test_78",
@@ -1089,7 +1089,7 @@
         "category": "film",
         "answer": "(B) Incest",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nWhich theme does the Filipino film \"Kisapmata\" (1981) portray?\nChoices:\n(A) Poverty\n(B) Incest\n(C) Torture\n(D) Drug abuse\nAnswer:\n",
-        "model_prediction": "Step 1: Understand the task"
+        "model_prediction": "(C) Tortu"
     },
     {
         "id": "test_79",
@@ -1103,7 +1103,7 @@
         "category": "film",
         "answer": "(A) Happiness",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nIn the Philippines, what is the name of the lover of the protagonist in English in the film \"Manila in the Claws of Light\"?\nChoices:\n(A) Happiness\n(B) Hope\n(C) Beauty\n(D) Faith\nAnswer:\n",
-        "model_prediction": "Question: In the Philippines, what is the name of the lover of the protagonist in English in the film \"Manila in the Claws of Light\"?"
+        "model_prediction": "(B) Hop"
     },
     {
         "id": "test_80",
@@ -1173,7 +1173,7 @@
         "category": "law",
         "answer": "(B) Divorce",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nAs of 2023, The Philippines and Vatican City are the only two states that do not allow for:\nChoices:\n(A) Clerical Marriage\n(B) Divorce\n(C) Abortion\n(D) Civil Marriage\nAnswer:\n",
-        "model_prediction": "(D) Civil Marriag"
+        "model_prediction": "(A) Clerical Marriag"
     },
     {
         "id": "test_85",
@@ -1257,7 +1257,7 @@
         "category": "law",
         "answer": "(C) Libel",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nIn the Philippines, Republic Act No. 10175 has been criticized for being too authoritarian on its provisions on:\nChoices:\n(A) Cybersquatting\n(B) Freedom of Expression\n(C) Libel\n(D) Freedom of Association\nAnswer:\n",
-        "model_prediction": "B"
+        "model_prediction": "(B) Freedom of Expressio"
     },
     {
         "id": "test_91",
@@ -1285,7 +1285,7 @@
         "category": "geography",
         "answer": "(D) Ring",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nWhat shape is described by the global volcanic activity which the Philippines is a part of?\nChoices:\n(A) Square\n(B) Circle\n(C) Triangle\n(D) Ring\nAnswer:\n",
-        "model_prediction": "(B) Circle"
+        "model_prediction": "(B) Circl"
     },
     {
         "id": "test_93",
@@ -1313,7 +1313,7 @@
         "category": "geography",
         "answer": "(D) 400 meters",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nWhat is the estimated difference of maximum depths of the deepest trench in the Philippines and the deepest trench in the World?\nChoices:\n(A) 300 meters\n(B) 100 meters\n(C) 200 meters\n(D) 400 meters\nAnswer:\n",
-        "model_prediction": "(A) 300 meters"
+        "model_prediction": "(A) 300 met"
     },
     {
         "id": "test_95",

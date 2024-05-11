@@ -53,7 +53,7 @@
         "category": "brand",
         "answer": "(C) Silver",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nIn the context of the Philippines, what color is the winged animal in the name of a soy sauce brand?\n\nChoices:\n(A) Black\n(B) White\n(C) Silver\n(D) Grey\n\nAnswer:\n",
-        "model_prediction": "(B) Whit"
+        "model_prediction": "(C) Silv"
     },
     {
         "id": "test_5",
@@ -67,7 +67,7 @@
         "category": "brand",
         "answer": "(B) 20",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhat was the age of the namesake of the original name of the Bank of the Philippine Islands (BPI) when the latter was founded?\n\nChoices:\n(A) 19\n(B) 20\n(C) 21\n(D) 22\n\nAnswer:\n",
-        "model_prediction": "To find the answer, we need to look up the information about the original name of the Bank of the Philippine Islands (BPI) and the age of its namesake when it was founded."
+        "model_prediction": "(A) 19"
     },
     {
         "id": "test_6",
@@ -95,7 +95,7 @@
         "category": "brand",
         "answer": "(A) 200",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nhow many kilometers did the first flight of Philippine Airlines take? Select the choice closest to the answer.\n\nChoices:\n(A) 200\n(B) 150\n(C) 1,000\n(D) 4,000\n\nAnswer:\n",
-        "model_prediction": "(C) 1,000"
+        "model_prediction": "(B) 150"
     },
     {
         "id": "test_8",
@@ -151,7 +151,7 @@
         "category": "demographics",
         "answer": "(A) 100,000",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nAs of 2023, what is the closest estimate of the population of the Philippine city besieged in 2017?\n\nChoices:\n(A) 100,000\n(B) 500,000\n(C) 600,000\n(D) 50,000\n\nAnswer:\n",
-        "model_prediction": "(C) 600,000"
+        "model_prediction": "(B) 500,000"
     },
     {
         "id": "test_12",
@@ -179,7 +179,7 @@
         "category": "demographics",
         "answer": "(C) Las Pinas, Valenzuela, Muntinlupa",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nAccording to the 2020 Philippine Census, Metropolitan Manila contains 16 cities. From these, which of the following triplets of cities would, if added, would roughly equal the population of another city in Metropolitan Manila?\n\nChoices:\n(A) Caloocan, Muntinlupa, and Marikina\n(B) Pasig, Makati, and Taguig\n(C) Las Pinas, Valenzuela, Muntinlupa\n(D) San Juan, Pasay, and Caloocan\n\nAnswer:\n",
-        "model_prediction": "(B) Pasig, Makati, and Taguig"
+        "model_prediction": "(C) Las Pinas, Valenzuela, Muntinlupa"
     },
     {
         "id": "test_14",
@@ -221,7 +221,7 @@
         "category": "biology",
         "answer": "(B) 7 years",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhat is the difference between the age that the Philippine Eagle in Mandai Zoo died in 2023 and the maximum prison sentence for killing a Philippine Eagle?\n\nChoices:\n(A) 5 years\n(B) 7 years\n(C) 20 years\n(D) 25 years\n\nAnswer:\n",
-        "model_prediction": "(C) 20 years"
+        "model_prediction": "(C) 20 yea"
     },
     {
         "id": "test_17",
@@ -263,7 +263,7 @@
         "category": "biology",
         "answer": "(B) Philippine Tarsier",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nSelect an animal endemic to the Philippines whose eyes are the largest relative to its brain.\n\nChoices:\n(A) Philippine Eagle\n(B) Philippine Tarsier\n(C) Philippine Mouse Deer\n(D) Philippine Crocodile\n\nAnswer:\n",
-        "model_prediction": "(B) Philippine Tarsier"
+        "model_prediction": "(B) Philippine Tarsi"
     },
     {
         "id": "test_20",
@@ -291,7 +291,7 @@
         "category": "biology",
         "answer": "(C) Philippine Mouse Deer",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhich of the following Philippine endemic animals has a name that does not actually describe them?\n\nChoices:\n(A) Philippine Eagle\n(B) Philippine Rat Snake\n(C) Philippine Mouse Deer\n(D) Philippine Crocodile\n\nAnswer:\n",
-        "model_prediction": "(B) Philippine Rat Snak"
+        "model_prediction": "(B) Philippine Rat Snake"
     },
     {
         "id": "test_22",
@@ -319,7 +319,7 @@
         "category": "biology",
         "answer": "(C) Sus cebifrons",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nAs of 2023, what is the taxonomic name of an organism endemic to the Philippines known for its warts?\n\nChoices:\n(A) Crocodylus mindorensis\n(B) Rana magna\n(C) Sus cebifrons\n(D) Rusa marianna\n\nAnswer:\n",
-        "model_prediction": "(D) Rusa marianna"
+        "model_prediction": "(C) Sus cebifro"
     },
     {
         "id": "test_24",
@@ -389,7 +389,7 @@
         "category": "history",
         "answer": "(B) Dominicans",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhat Catholic order founded a militant organization active during the Philippine-American War?\n\nChoices:\n(A) Jesuits\n(B) Dominicans\n(C) Franciscans\n(D) Augustinians\n\nAnswer:\n",
-        "model_prediction": "(D) Augustinians"
+        "model_prediction": "(A) Jesuit"
     },
     {
         "id": "test_29",
@@ -403,7 +403,7 @@
         "category": "history",
         "answer": "(D) 22",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nIn the context of the Philippines, how old was Gregorio del Pilar when the Hong Kong Junta was formed?\n\nChoices:\n(A) 19\n(B) 20\n(C) 21\n(D) 22\n\nAnswer:\n",
-        "model_prediction": "In the context of the Philippines, Gregorio del Pilar was 21 years old when the Hong Kong Junta was formed. Therefore, the correct choice is:"
+        "model_prediction": "(A) 19"
     },
     {
         "id": "test_30",
@@ -417,7 +417,7 @@
         "category": "history",
         "answer": "(B) Bulacan",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhat province was the first post-Spanish Philippine Legislative Assembly held in?\n\nChoices:\n(A) Cavite\n(B) Bulacan\n(C) Batangas\n(D) Pampanga\n\nAnswer:\n",
-        "model_prediction": "To answer this question, we need to determine which province was the first post-Spanish Philippine Legislative Assembly held in."
+        "model_prediction": "(D) Pampanga"
     },
     {
         "id": "test_31",
@@ -501,7 +501,7 @@
         "category": "history",
         "answer": "(D) 28",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nIn the context of the Philippines, how old was the son of Ferdinand Marcos with Imelda Marcos when Ferdinand was overthrown in 1986?\n\nChoices:\n(A) 26\n(B) 29\n(C) 27\n(D) 28\n\nAnswer:\n",
-        "model_prediction": "To answer this question, we need to find the age of Ferdinand Marcos' son when Ferdinand was overthrown in 1986. "
+        "model_prediction": "(C) 27"
     },
     {
         "id": "test_37",
@@ -571,7 +571,7 @@
         "category": "literature",
         "answer": "(A) Sour",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhat is the distinct taste of the Filipino soup mentioned in the novel \"Noli Me Tangere\"?\n\nChoices:\n(A) Sour\n(B) Sweet\n(C) Salty\n(D) Bitter\n\nAnswer:\n",
-        "model_prediction": "(A) Sour"
+        "model_prediction": "(A) Sou"
     },
     {
         "id": "test_42",
@@ -585,7 +585,7 @@
         "category": "literature",
         "answer": "(C) El Filibusterismo",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nIn the Filipino novel \"Mga Ibong Mandaragit\", from which other book is the owner of the treasure, who also serves as that book's protagonist?\n\nChoices:\n(A) We Filipinos are Mild Drinkers\n(B) Noli Me Tangere\n(C) El Filibusterismo\n(D) Utos ng Hari\n\nAnswer:\n",
-        "model_prediction": "(B) Noli Me Tang"
+        "model_prediction": "(C) El Filibusterismo"
     },
     {
         "id": "test_43",
@@ -627,7 +627,7 @@
         "category": "literature",
         "answer": "(A) Ferdinand Marcos",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWho was the president of the Philippines in the setting of Lualhati Bautista's most famous novel?\n\nChoices:\n(A) Ferdinand Marcos\n(B) Corazon Aquino\n(C) Fidel Ramos\n(D) Joseph Estrada\n\nAnswer:\n",
-        "model_prediction": "(C) Fidel Ramo"
+        "model_prediction": "(B) Corazon Aquino"
     },
     {
         "id": "test_46",
@@ -641,7 +641,7 @@
         "category": "literature",
         "answer": "(D) Jesuits",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nIn the Philippines, from what Catholic order are the protagonists of \"Smaller and Smaller Circles\"?\n\nChoices:\n(A) Augustinians\n(B) Dominicans\n(C) Franciscans\n(D) Jesuits\n\nAnswer:\n",
-        "model_prediction": "(D) Jesuit"
+        "model_prediction": "(C) Francisca"
     },
     {
         "id": "test_47",
@@ -683,7 +683,7 @@
         "category": "literature",
         "answer": "(B) Short Stories",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nIn the Philippines, Nick Joaquin is mainly known for which genre of literature?\n\nChoices:\n(A) Poetry\n(B) Short Stories\n(C) Essays\n(D) Plays\n\nAnswer:\n",
-        "model_prediction": "(B) Short Stories"
+        "model_prediction": "(B) Short Stori"
     },
     {
         "id": "test_50",
@@ -809,7 +809,7 @@
         "category": "politics",
         "answer": "(A) Oplan Tokhang",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nIn the Philippines, what operation is Kian delos Santos a victim of?\n\nChoices:\n(A) Oplan Tokhang\n(B) Philippine War on Drugs\n(C) Oplan Pandamayan\n(D) Oplan Exodus\n\nAnswer:\n",
-        "model_prediction": "(D) Oplan Exodu"
+        "model_prediction": "(B) Philippine War on Drug"
     },
     {
         "id": "test_59",
@@ -851,7 +851,7 @@
         "category": "culture",
         "answer": "(D) To disappear and be killed",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nIn the Philippines, what best describes the word \"salvage\" among the choices?\n\nChoices:\n(A) To treat and save\n(B) To be wild and merciless\n(C) To recycle and repair\n(D) To disappear and be killed\n\nAnswer:\n",
-        "model_prediction": "(D) To disappear and be killed"
+        "model_prediction": "(B) To be wild and mercil"
     },
     {
         "id": "test_62",
@@ -921,7 +921,7 @@
         "category": "culture",
         "answer": "(B) Jejemon",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhat is the name of the SMS language developed in the Philippines?\n\nChoices:\n(A) Jejebuster\n(B) Jejemon\n(C) Jejebot\n(D) Jejespeak\n\nAnswer:\n",
-        "model_prediction": "(B) Jejemon"
+        "model_prediction": "(B) Jejemo"
     },
     {
         "id": "test_67",
@@ -991,7 +991,7 @@
         "category": "film",
         "answer": "(A) Shake, Rattle, and Roll",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhich Filipino film's title is entirely composed of verbs?\n\nChoices:\n(A) Shake, Rattle, and Roll\n(B) Mano Po\n(C) Ang Tanging Ina\n(D) Ang Probinsyano\n\nAnswer:\n",
-        "model_prediction": "(A) Shake, Rattle, and Roll"
+        "model_prediction": "(C) Ang Tanging Ina"
     },
     {
         "id": "test_72",
@@ -1103,7 +1103,7 @@
         "category": "film",
         "answer": "(A) Happiness",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nIn the Philippines, what is the name of the lover of the protagonist in English in the film \"Manila in the Claws of Light\"?\n\nChoices:\n(A) Happiness\n(B) Hope\n(C) Beauty\n(D) Faith\n\nAnswer:\n",
-        "model_prediction": "(B) Hope"
+        "model_prediction": "(B) Hop"
     },
     {
         "id": "test_80",
@@ -1159,7 +1159,7 @@
         "category": "law",
         "answer": "(C) Free contraceptives",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nIn the Philippines, Republic Act No. 10354 allows for the provision of:\n\nChoices:\n(A) Free education\n(B) Free healthcare\n(C) Free contraceptives\n(D) Free housing\n\nAnswer:\n",
-        "model_prediction": "(C) Free contraceptiv"
+        "model_prediction": "(A) Free educatio"
     },
     {
         "id": "test_84",
@@ -1173,7 +1173,7 @@
         "category": "law",
         "answer": "(B) Divorce",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nAs of 2023, The Philippines and Vatican City are the only two states that do not allow for:\n\nChoices:\n(A) Clerical Marriage\n(B) Divorce\n(C) Abortion\n(D) Civil Marriage\n\nAnswer:\n",
-        "model_prediction": "(A) Clerical Marriag"
+        "model_prediction": "(B) Divorc"
     },
     {
         "id": "test_85",
@@ -1187,7 +1187,7 @@
         "category": "law",
         "answer": "(D) Damaso",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nIn the Philippines, what did Carlos Celdran put on his signboard, which led to his arrest in 2010?\n\nChoices:\n(A) Rizal is a Hero\n(B) Contraceptives for All\n(C) Separation of Church and State\n(D) Damaso\n\nAnswer:\n",
-        "model_prediction": "(B) Contraceptives for All"
+        "model_prediction": "(C) Separation of Church and Stat"
     },
     {
         "id": "test_86",
@@ -1229,7 +1229,7 @@
         "category": "law",
         "answer": "(A) Plate Number",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nIn the Philippines, what is the basis of the selective entry of vehicles in Metro Manila?\n\nChoices:\n(A) Plate Number\n(B) Color\n(C) Year of Purchase\n(D) Vehicle Weight\n\nAnswer:\n",
-        "model_prediction": "(D) Vehicle Weight"
+        "model_prediction": "(C) Year of Purcha"
     },
     {
         "id": "test_89",
@@ -1257,7 +1257,7 @@
         "category": "law",
         "answer": "(C) Libel",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nIn the Philippines, Republic Act No. 10175 has been criticized for being too authoritarian on its provisions on:\n\nChoices:\n(A) Cybersquatting\n(B) Freedom of Expression\n(C) Libel\n(D) Freedom of Association\n\nAnswer:\n",
-        "model_prediction": "The question asks for the most appropriate answer from the choices provided. The question is about Republic Act No. 10175, which is the Cybercrime Prevention Act of 2012 in the Philippines. The act has been criticized for being too authoritarian on its provisions related to:"
+        "model_prediction": "(B) Freedom of Expressio"
     },
     {
         "id": "test_91",
@@ -1299,7 +1299,7 @@
         "category": "geography",
         "answer": "(B) Luzviminda",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhat is the name formed when combining the 3 largest islands in the Philippines?\n\nChoices:\n(A) Viminluz\n(B) Luzviminda\n(C) Minluzovi\n(D) Luzvimindan\n\nAnswer:\n",
-        "model_prediction": "The correct answer is (B) Luzviminda."
+        "model_prediction": "(B) Luzviminda"
     },
     {
         "id": "test_94",
@@ -1313,7 +1313,7 @@
         "category": "geography",
         "answer": "(D) 400 meters",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhat is the estimated difference of maximum depths of the deepest trench in the Philippines and the deepest trench in the World?\n\nChoices:\n(A) 300 meters\n(B) 100 meters\n(C) 200 meters\n(D) 400 meters\n\nAnswer:\n",
-        "model_prediction": "(D) 400 met"
+        "model_prediction": "(B) 100 meters"
     },
     {
         "id": "test_95",
@@ -1341,7 +1341,7 @@
         "category": "geography",
         "answer": "(C) A lake",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nVulcan point in the Philippines is an island within a lake within a volcano within...\n\nChoices:\n(A) A volcano\n(B) A mountain\n(C) A lake\n(D) An ocean\n\nAnswer:\n",
-        "model_prediction": "(D) An ocean"
+        "model_prediction": "(C) A lak"
     },
     {
         "id": "test_97",
@@ -1397,6 +1397,6 @@
         "category": "geography",
         "answer": "(C) 25,000",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhat is the most accurate estimated combined number of islands from the Philippines and Indonesia?\n\nChoices:\n(A) 30,000\n(B) 15,000\n(C) 25,000\n(D) 40,000\n\nAnswer:\n",
-        "model_prediction": "To find the most accurate estimated combined number of islands from the Philippines and Indonesia, we can follow these steps:"
+        "model_prediction": "(A) 30,000"
     }
 ]

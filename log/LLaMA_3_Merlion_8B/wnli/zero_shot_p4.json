@@ -8,7 +8,7 @@
         "context": "Sentence1: Sam took French classes from Adam, because he was known to speak it fluently. Sentence2: Sam was known to speak it fluently.",
         "id": "test_1",
         "model_input": "Recognize the entailment relationship between the following sentences and choose the most appropriate answer from the provided choices. Simply select the choice, no explanations required.\n\nSentence1: Sam took French classes from Adam, because he was known to speak it fluently. Sentence2: Sam was known to speak it fluently.\n\nChoices:\n(A) Not Entailment\n(B) Entailment\n\nAnswer:\n",
-        "model_prediction": "(A) Not Entailment"
+        "model_prediction": "(B) Entailment"
     },
     {
         "answer": "(B) Not Entailment",
@@ -41,7 +41,7 @@
         "context": "Sentence1: Beth didn't get angry with Sally, who had cut her off, because she stopped and apologized. Sentence2: Sally stopped and apologized.",
         "id": "test_4",
         "model_input": "Recognize the entailment relationship between the following sentences and choose the most appropriate answer from the provided choices. Simply select the choice, no explanations required.\n\nSentence1: Beth didn't get angry with Sally, who had cut her off, because she stopped and apologized. Sentence2: Sally stopped and apologized.\n\nChoices:\n(A) Not Entailment\n(B) Entailment\n\nAnswer:\n",
-        "model_prediction": "B) Entailment"
+        "model_prediction": "(B) Entailment"
     },
     {
         "answer": "(A) Entailment",
@@ -85,7 +85,7 @@
         "context": "Sentence1: Jane knocked on Susan's door but she did not answer. Sentence2: Susan did not answer.",
         "id": "test_8",
         "model_input": "Recognize the entailment relationship between the following sentences and choose the most appropriate answer from the provided choices. Simply select the choice, no explanations required.\n\nSentence1: Jane knocked on Susan's door but she did not answer. Sentence2: Susan did not answer.\n\nChoices:\n(A) Entailment\n(B) Not Entailment\n\nAnswer:\n",
-        "model_prediction": "Step 1: Read and understand both sentences."
+        "model_prediction": "(A) Entailment"
     },
     {
         "answer": "(B) Not Entailment",
@@ -96,7 +96,7 @@
         "context": "Sentence1: I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out looking more like light bulbs. Sentence2: The lemon trees came out looking more like light bulbs.",
         "id": "test_9",
         "model_input": "Recognize the entailment relationship between the following sentences and choose the most appropriate answer from the provided choices. Simply select the choice, no explanations required.\n\nSentence1: I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out looking more like light bulbs. Sentence2: The lemon trees came out looking more like light bulbs.\n\nChoices:\n(A) Entailment\n(B) Not Entailment\n\nAnswer:\n",
-        "model_prediction": ") Entailment"
+        "model_prediction": "(A) Entailment"
     },
     {
         "answer": "(A) Not Entailment",

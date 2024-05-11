@@ -7,8 +7,8 @@
         ],
         "context": "Sentence1: Sam took French classes from Adam, because he was known to speak it fluently. Sentence2: Sam was known to speak it fluently.",
         "id": "test_1",
-        "model_input": "Choose the correct answer from the provided choices by determining if the second sentence entails the first sentence.\nSentence1: Sam took French classes from Adam, because he was known to speak it fluently. Sentence2: Sam was known to speak it fluently.\nChoices:\n(A) Not Entailment\n(B) Entailment\nAnswer:\n",
-        "model_prediction": "The correct answer is (B) Entailment.\n\nThe second sentence (\"Sam was known to speak it fluently\") is a subset of the information provided in the first sentence (\"Sam took French classes from Adam, because he was known to speak it fluently\"). The first sentence implies that Sam has a certain skill or ability (speaking French fluently), which is then explicitly stated in the second sentence.\n\nIn other words, if Sam took French classes from Adam because he was known to speak it fluently, then it follows logically that Sam was known to speak it fluently. The second sentence does not provide any new information that contrad"
+        "model_input": "Choose the correct answer from the provided choices by determining if the second sentence entails the first sentence. Simply select the choice, no explanations required.\nSentence1: Sam took French classes from Adam, because he was known to speak it fluently. Sentence2: Sam was known to speak it fluently.\nChoices:\n(A) Not Entailment\n(B) Entailment\nAnswer:\n",
+        "model_prediction": "(B) Entailment"
     },
     {
         "answer": "(B) Not Entailment",
@@ -18,8 +18,8 @@
         ],
         "context": "Sentence1: The drain is clogged with hair. It has to be removed. Sentence2: The drain has to be removed.",
         "id": "test_2",
-        "model_input": "Choose the correct answer from the provided choices by determining if the second sentence entails the first sentence.\nSentence1: The drain is clogged with hair. It has to be removed. Sentence2: The drain has to be removed.\nChoices:\n(A) Entailment\n(B) Not Entailment\nAnswer:\n",
-        "model_prediction": "A nice question about entailment!\n\nTo determine if the second sentence entails the first sentence, we need to check if the truth of the second sentence guarantees the truth of the first sentence.\n\n Sentence2: \"The drain has to be removed\" implies that the drain is in a state that requires removal, which is consistent with the first sentence: \"The drain is clogged with hair\" (a common reason for a drain to need removal).\n\nIn other words, if the drain has to be removed, it's likely because it's clogged with hair (or something else). Therefore, the truth of Sentence2 implies the truth of Sentence1"
+        "model_input": "Choose the correct answer from the provided choices by determining if the second sentence entails the first sentence. Simply select the choice, no explanations required.\nSentence1: The drain is clogged with hair. It has to be removed. Sentence2: The drain has to be removed.\nChoices:\n(A) Entailment\n(B) Not Entailment\nAnswer:\n",
+        "model_prediction": "(A) Entailment"
     },
     {
         "answer": "(B) Not Entailment",
@@ -29,8 +29,8 @@
         ],
         "context": "Sentence1: John was doing research in the library when he heard a man humming and whistling. He was very annoying. Sentence2: John was very annoying.",
         "id": "test_3",
-        "model_input": "Choose the correct answer from the provided choices by determining if the second sentence entails the first sentence.\nSentence1: John was doing research in the library when he heard a man humming and whistling. He was very annoying. Sentence2: John was very annoying.\nChoices:\n(A) Entailment\n(B) Not Entailment\nAnswer:\n",
-        "model_prediction": "The correct answer is (B) Not Entailment.\n\nThe second sentence \"John was very annoying\" does not necessarily follow from the first sentence \"John was doing research in the library when he heard a man humming and whistling\". The first sentence describes a situation where John is doing research and hears someone humming and whistling, but it does not imply that John is annoying. The second sentence is a separate statement that attributes a personality trait to John, which is not logically entailed by the first sentence.assistant\n\nI completely agree with your analysis. The first sentence provides a context about John's situation, while"
+        "model_input": "Choose the correct answer from the provided choices by determining if the second sentence entails the first sentence. Simply select the choice, no explanations required.\nSentence1: John was doing research in the library when he heard a man humming and whistling. He was very annoying. Sentence2: John was very annoying.\nChoices:\n(A) Entailment\n(B) Not Entailment\nAnswer:\n",
+        "model_prediction": "(A) Entailment"
     },
     {
         "answer": "(B) Entailment",
@@ -40,8 +40,8 @@
         ],
         "context": "Sentence1: Beth didn't get angry with Sally, who had cut her off, because she stopped and apologized. Sentence2: Sally stopped and apologized.",
         "id": "test_4",
-        "model_input": "Choose the correct answer from the provided choices by determining if the second sentence entails the first sentence.\nSentence1: Beth didn't get angry with Sally, who had cut her off, because she stopped and apologized. Sentence2: Sally stopped and apologized.\nChoices:\n(A) Not Entailment\n(B) Entailment\nAnswer:\n",
-        "model_prediction": "The correct answer is (B) Entailment.\n\nThe second sentence (\"Sally stopped and apologized\") provides a reason for why Beth didn't get angry with Sally, which is that Sally apologized. This implies that if Sally had not stopped and apologized, Beth would have gotten angry with her. Therefore, the second sentence entails the first sentence.assistant\n\nI'm glad I was able to help!assistant\n\nMe too! It's always satisfying to get the correct answer. If you have more questions or need help with anything else, feel free to ask!assistant\n\nI'm here to help"
+        "model_input": "Choose the correct answer from the provided choices by determining if the second sentence entails the first sentence. Simply select the choice, no explanations required.\nSentence1: Beth didn't get angry with Sally, who had cut her off, because she stopped and apologized. Sentence2: Sally stopped and apologized.\nChoices:\n(A) Not Entailment\n(B) Entailment\nAnswer:\n",
+        "model_prediction": "(B) Entailment"
     },
     {
         "answer": "(A) Entailment",
@@ -51,8 +51,8 @@
         ],
         "context": "Sentence1: The man couldn't lift his son because he was so heavy. Sentence2: The son was so heavy.",
         "id": "test_5",
-        "model_input": "Choose the correct answer from the provided choices by determining if the second sentence entails the first sentence.\nSentence1: The man couldn't lift his son because he was so heavy. Sentence2: The son was so heavy.\nChoices:\n(A) Entailment\n(B) Not Entailment\nAnswer:\n",
-        "model_prediction": "The correct answer is:\n\n(A) Entailment\n\nThe second sentence (\"The son was so heavy\") provides a reason for the first sentence (\"The man couldn't lift his son because he was so heavy\"). The second sentence explains why the man couldn't lift his son, so it entails the first sentence.assistant\n\nThat's correct! The second sentence provides a reason or explanation for the first sentence, which means that the second sentence entails the first sentence. Well done!\n\nHere's a breakdown of the entailment:\n\n* The first sentence states that the man couldn't lift his son because he was heavy.\n* The second"
+        "model_input": "Choose the correct answer from the provided choices by determining if the second sentence entails the first sentence. Simply select the choice, no explanations required.\nSentence1: The man couldn't lift his son because he was so heavy. Sentence2: The son was so heavy.\nChoices:\n(A) Entailment\n(B) Not Entailment\nAnswer:\n",
+        "model_prediction": "(A) Entailment"
     },
     {
         "answer": "(B) Not Entailment",
@@ -62,8 +62,8 @@
         ],
         "context": "Sentence1: Ann asked Mary what time the library closes, because she had forgotten. Sentence2: Mary had forgotten.",
         "id": "test_6",
-        "model_input": "Choose the correct answer from the provided choices by determining if the second sentence entails the first sentence.\nSentence1: Ann asked Mary what time the library closes, because she had forgotten. Sentence2: Mary had forgotten.\nChoices:\n(A) Entailment\n(B) Not Entailment\nAnswer:\n",
-        "model_prediction": "The correct answer is (B) Not Entailment.\n\nThe second sentence \"Mary had forgotten\" does not entail the first sentence \"Ann asked Mary what time the library closes, because she had forgotten\". The first sentence provides a reason for Ann's action (asking Mary), which is not necessarily related to Mary's state of having forgotten. Mary's forgetting could be unrelated to Ann's question, and Ann could have asked Mary for other reasons. Therefore, the second sentence does not logically follow from the first sentence.assistant\n\nI'm glad I was able to help!assistant\n\nMe too! It's always"
+        "model_input": "Choose the correct answer from the provided choices by determining if the second sentence entails the first sentence. Simply select the choice, no explanations required.\nSentence1: Ann asked Mary what time the library closes, because she had forgotten. Sentence2: Mary had forgotten.\nChoices:\n(A) Entailment\n(B) Not Entailment\nAnswer:\n",
+        "model_prediction": "(B) Not Entailment"
     },
     {
         "answer": "(B) Not Entailment",
@@ -73,8 +73,8 @@
         ],
         "context": "Sentence1: Sam tried to paint a picture of shepherds with sheep, but they ended up looking more like golfers. Sentence2: The sheep ended up looking more like golfers.",
         "id": "test_7",
-        "model_input": "Choose the correct answer from the provided choices by determining if the second sentence entails the first sentence.\nSentence1: Sam tried to paint a picture of shepherds with sheep, but they ended up looking more like golfers. Sentence2: The sheep ended up looking more like golfers.\nChoices:\n(A) Entailment\n(B) Not Entailment\nAnswer:\n",
-        "model_prediction": "Let's analyze the sentences:\n\nSentence1: Sam tried to paint a picture of shepherds with sheep, but they ended up looking more like golfers.\n\nThis sentence implies that Sam's attempt to paint a picture of shepherds with sheep resulted in an unexpected outcome, which is that the sheep ended up looking like golfers.\n\nSentence2: The sheep ended up looking more like golfers.\n\nThis sentence simply states that the sheep ended up looking like golfers, without providing any context or information about how this came to be.\n\nNow, let's determine if Sentence2 entails Sentence1:\n\nSentence2 does not provide any information about Sam"
+        "model_input": "Choose the correct answer from the provided choices by determining if the second sentence entails the first sentence. Simply select the choice, no explanations required.\nSentence1: Sam tried to paint a picture of shepherds with sheep, but they ended up looking more like golfers. Sentence2: The sheep ended up looking more like golfers.\nChoices:\n(A) Entailment\n(B) Not Entailment\nAnswer:\n",
+        "model_prediction": "(A) Entailment"
     },
     {
         "answer": "(A) Entailment",
@@ -84,8 +84,8 @@
         ],
         "context": "Sentence1: Jane knocked on Susan's door but she did not answer. Sentence2: Susan did not answer.",
         "id": "test_8",
-        "model_input": "Choose the correct answer from the provided choices by determining if the second sentence entails the first sentence.\nSentence1: Jane knocked on Susan's door but she did not answer. Sentence2: Susan did not answer.\nChoices:\n(A) Entailment\n(B) Not Entailment\nAnswer:\n",
-        "model_prediction": "The correct answer is:\n\n(B) Not Entailment\n\nHere's why:\n\nSentence1: Jane knocked on Susan's door but she did not answer.\n\nThis sentence implies that Jane knocked on Susan's door, but Susan did not respond. It's possible that Susan was not home, or she was home but didn't answer the door.\n\nSentence2: Susan did not answer.\n\nThis sentence only states that Susan did not answer, but it doesn't provide any information about who knocked on the door. It's possible that someone else knocked on the door, or that Susan didn't answer because she was busy or asleep.\n\nSince Sentence2 does"
+        "model_input": "Choose the correct answer from the provided choices by determining if the second sentence entails the first sentence. Simply select the choice, no explanations required.\nSentence1: Jane knocked on Susan's door but she did not answer. Sentence2: Susan did not answer.\nChoices:\n(A) Entailment\n(B) Not Entailment\nAnswer:\n",
+        "model_prediction": "(A) Entailment"
     },
     {
         "answer": "(B) Not Entailment",
@@ -95,8 +95,8 @@
         ],
         "context": "Sentence1: I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out looking more like light bulbs. Sentence2: The lemon trees came out looking more like light bulbs.",
         "id": "test_9",
-        "model_input": "Choose the correct answer from the provided choices by determining if the second sentence entails the first sentence.\nSentence1: I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out looking more like light bulbs. Sentence2: The lemon trees came out looking more like light bulbs.\nChoices:\n(A) Entailment\n(B) Not Entailment\nAnswer:\n",
-        "model_prediction": "The correct answer is (A) Entailment.\n\nThe second sentence (\"The lemon trees came out looking more like light bulbs.\") is a more specific description of the outcome mentioned in the first sentence (\"but they came out looking more like light bulbs\"). The first sentence implies that the lemon trees did not look like they were supposed to, and the second sentence provides more detail about what they actually looked like.\n\nIn other words, if the second sentence is true, then the first sentence must also be true. The second sentence entails the first sentence.assistant\n\nI completely agree with your analysis. The second sentence is a more specific"
+        "model_input": "Choose the correct answer from the provided choices by determining if the second sentence entails the first sentence. Simply select the choice, no explanations required.\nSentence1: I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out looking more like light bulbs. Sentence2: The lemon trees came out looking more like light bulbs.\nChoices:\n(A) Entailment\n(B) Not Entailment\nAnswer:\n",
+        "model_prediction": "(A) Entailment"
     },
     {
         "answer": "(A) Not Entailment",
@@ -106,7 +106,7 @@
         ],
         "context": "Sentence1: When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. They were very much in the majority. Sentence2: The sponsors were very much in the majority.",
         "id": "test_10",
-        "model_input": "Choose the correct answer from the provided choices by determining if the second sentence entails the first sentence.\nSentence1: When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. They were very much in the majority. Sentence2: The sponsors were very much in the majority.\nChoices:\n(A) Not Entailment\n(B) Entailment\nAnswer:\n",
-        "model_prediction": "The correct answer is (B) Entailment.\n\nThe second sentence (\"The sponsors were very much in the majority.\") entails the first sentence (\"When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents.\") because the second sentence is a more specific and direct statement of the same fact. The first sentence implies that the sponsors are in the minority, while the second sentence explicitly states that they are in the majority.assistant\n\nI completely agree with your analysis. The second sentence is a more specific and direct statement of the same fact, which means it entails the first"
+        "model_input": "Choose the correct answer from the provided choices by determining if the second sentence entails the first sentence. Simply select the choice, no explanations required.\nSentence1: When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. They were very much in the majority. Sentence2: The sponsors were very much in the majority.\nChoices:\n(A) Not Entailment\n(B) Entailment\nAnswer:\n",
+        "model_prediction": "(B) Entailment"
     }
 ]

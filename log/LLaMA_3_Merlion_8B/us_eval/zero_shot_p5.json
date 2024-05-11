@@ -36,7 +36,7 @@
         "question": "There was an accident at a manufacturing plant located in California which state generally allows prevailing parties to collect punitive damages. A worker from Washington was injured at the California plant and she filed suit in federal district court in her home state of Washington. Washington does not generally allow punitive damages. The plaintiff has alleged in their federal lawsuit filed in Washington that they are entitled to punitive damages. The court should",
         "answer": "(C) Apply the punitive damage rule in Washington because that is where the court is located.",
         "model_input": "As a person living in the United States, try your best to answer the question by selecting the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion:\nThere was an accident at a manufacturing plant located in California which state generally allows prevailing parties to collect punitive damages. A worker from Washington was injured at the California plant and she filed suit in federal district court in her home state of Washington. Washington does not generally allow punitive damages. The plaintiff has alleged in their federal lawsuit filed in Washington that they are entitled to punitive damages. The court should\n\nChoices:\n(A) Apply the punitive damage rule in Washington since that is where the plaintiff resides.\n(B) Let the jury in the case decide which state law of punitive damage should apply based upon their analysis of the relative culpability of the parties.\n(C) Apply the punitive damage rule in Washington because that is where the court is located.\n(D) Apply the punitive damage rule in California since that is where the accident occurred.\n\nAnswer:\n",
-        "model_prediction": "(A) Apply the punitive damage rule in Washington since that is where the plaintiff resides."
+        "model_prediction": "(D) Apply the punitive damage rule in California since that is where the accident occurred."
     },
     {
         "choices": [
@@ -101,7 +101,7 @@
         "question": "The standard tip in a restaurant is $ 15 \\%$ of the bill before tax. Many people in California find the tip by doubling the sales tax, which is $8.25 \\%$. By how many cents does this exceed the standard tip on a bill of $ \\$60 $ before tax?",
         "answer": "(C) 90",
         "model_input": "As a person living in the United States, try your best to answer the question by selecting the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion:\nThe standard tip in a restaurant is $ 15 \\%$ of the bill before tax. Many people in California find the tip by doubling the sales tax, which is $8.25 \\%$. By how many cents does this exceed the standard tip on a bill of $ \\$60 $ before tax?\n\nChoices:\n(A) 80\n(B) 60\n(C) 90\n(D) 70\n\nAnswer:\n",
-        "model_prediction": "Step 1: Calculate the standard tip."
+        "model_prediction": "To find the answer, we first need to calculate the standard tip and the tip based on doubling the sales tax."
     },
     {
         "choices": [
@@ -296,7 +296,7 @@
         "question": "The United States Supreme Court's decision in Roe v Wade is highly controversial because:",
         "answer": "(D) The majority held that the abortion law of Texas was unconstitutional because it violated a woman's right to privacy.",
         "model_input": "As a person living in the United States, try your best to answer the question by selecting the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion:\nThe United States Supreme Court's decision in Roe v Wade is highly controversial because:\n\nChoices:\n(A) It failed to consider the rights of fathers.\n(B) The court failed to consider the medical evidence.\n(C) It overlooked the common law relating to abortion.\n(D) The majority held that the abortion law of Texas was unconstitutional because it violated a woman's right to privacy.\n\nAnswer:\n",
-        "model_prediction": "D"
+        "model_prediction": "(D) The majority held that the abortion law of Texas was unconstitutional because it violated a woman's right to privacy."
     },
     {
         "choices": [
@@ -374,7 +374,7 @@
         "question": "Which of the following would be included in U.S. GDP calculations?",
         "answer": "(C) A worker donating $200 to the Red Cross",
         "model_input": "As a person living in the United States, try your best to answer the question by selecting the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion:\nWhich of the following would be included in U.S. GDP calculations?\n\nChoices:\n(A) High school students spending their Saturdays building homes for the homeless\n(B) An auto mechanic fixing his dentist’s car for a filling\n(C) A worker donating $200 to the Red Cross\n(D) A stay-at-home dad providing childcare for his children\n\nAnswer:\n",
-        "model_prediction": "(C) A worker donating $200 to the Red Cro"
+        "model_prediction": "(B) An auto mechanic fixing his dentist’s car for a filling"
     },
     {
         "choices": [
@@ -517,7 +517,7 @@
         "question": "In what US city can you find the Basketball Hall of Fame?",
         "answer": "(C) Springfield Massachusetts",
         "model_input": "As a person living in the United States, try your best to answer the question by selecting the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion:\nIn what US city can you find the Basketball Hall of Fame?\n\nChoices:\n(A) Cooperstown New York\n(B) Canton Ohio\n(C) Springfield Massachusetts\n(D) Lawrence Kansas\n\nAnswer:\n",
-        "model_prediction": "To answer this question, we need to identify the city where the Basketball Hall of Fame is located. "
+        "model_prediction": "(C) Springfield Massachusett"
     },
     {
         "choices": [
@@ -543,7 +543,7 @@
         "question": "Which of the following is included in U.S. GDP? I.   The market value of movies made in Africa by U.S. citizens II.   The market value of olive oil made in Italy and sold in the United States. III.   The market value of blue jeans made in the United States and sold in Japan IV.   The market value of wine made in the United States by Canadian citizens",
         "answer": "(D) III and IV only",
         "model_input": "As a person living in the United States, try your best to answer the question by selecting the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion:\nWhich of the following is included in U.S. GDP? I.   The market value of movies made in Africa by U.S. citizens II.   The market value of olive oil made in Italy and sold in the United States. III.   The market value of blue jeans made in the United States and sold in Japan IV.   The market value of wine made in the United States by Canadian citizens\n\nChoices:\n(A) I and III only\n(B) II III and IV only\n(C) II and IV only\n(D) III and IV only\n\nAnswer:\n",
-        "model_prediction": "(C) II and IV only"
+        "model_prediction": "(B) II III and IV only"
     },
     {
         "choices": [
@@ -699,7 +699,7 @@
         "question": "The Federal Open Market Committee",
         "answer": "(C) is part of the Federal Reserve System.",
         "model_input": "As a person living in the United States, try your best to answer the question by selecting the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion:\nThe Federal Open Market Committee\n\nChoices:\n(A) has seven members.\n(B) promotes free trade.\n(C) is part of the Federal Reserve System.\n(D) advises the President of the United States.\n\nAnswer:\n",
-        "model_prediction": "Step 1: Understand the task - The user wants to know the most appropriate option related to the Federal Open Market Committee."
+        "model_prediction": "(C) is part of the Federal Reserve System."
     },
     {
         "choices": [
@@ -790,7 +790,7 @@
         "question": "Given the structure of the electoral college system, presidential candidates tend to",
         "answer": "(A) campaign more heavily in states with large populations",
         "model_input": "As a person living in the United States, try your best to answer the question by selecting the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion:\nGiven the structure of the electoral college system, presidential candidates tend to\n\nChoices:\n(A) campaign more heavily in states with large populations\n(B) avoid battleground states and focus their campaigns on \"safe\" states\n(C) spend more television advertising money in the Plains States\n(D) campaign extensively in states that heavily favor one party over the other\n\nAnswer:\n",
-        "model_prediction": "(B) avoid battleground states and focus their campaigns on \"safe\" states"
+        "model_prediction": "(B) avoid battleground states and focus their campaigns on \"safe\" stat"
     },
     {
         "choices": [
@@ -907,7 +907,7 @@
         "question": "Congress enacts a $100 tax on the sale of any handgun to a private individual not for use in law enforcement or military duties. Will this new handgun tax survive a constitutional challenge?",
         "answer": "(A) Yes, if the dominant intent of Congress was that the tax would produce revenue.",
         "model_input": "As a person living in the United States, try your best to answer the question by selecting the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion:\nCongress enacts a $100 tax on the sale of any handgun to a private individual not for use in law enforcement or military duties. Will this new handgun tax survive a constitutional challenge?\n\nChoices:\n(A) Yes, if the dominant intent of Congress was that the tax would produce revenue.\n(B) No, if the tax does not result in a significant collection of revenue.\n(C) No, because the tax is clearly intended as a penalty on handgun ownership.\n(D) Yes, if Congress could have banned possession of handguns outright.\n\nAnswer:\n",
-        "model_prediction": "(A) Yes, if the dominant intent of Congress was that the tax would produce revenue."
+        "model_prediction": "(D) Yes, if Congress could have banned possession of handguns outright."
     },
     {
         "choices": [
@@ -985,7 +985,7 @@
         "question": "The Supreme Court case Regents of University of California v. Bakke concerned which of the following issues?",
         "answer": "(A) The use of racial quotas in public university admissions",
         "model_input": "As a person living in the United States, try your best to answer the question by selecting the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion:\nThe Supreme Court case Regents of University of California v. Bakke concerned which of the following issues?\n\nChoices:\n(A) The use of racial quotas in public university admissions\n(B) The rights of students to carry concealed weapons on campus\n(C) The rights of students to protest on a publicly funded campus\n(D) In-class prayer at a publicly funded school\n\nAnswer:\n",
-        "model_prediction": "(A) The use of racial quotas in public university admissions"
+        "model_prediction": "(A) The use of racial quotas in public university admissio"
     },
     {
         "choices": [
@@ -1024,7 +1024,7 @@
         "question": "Two related cases that focused on the right to privacy for all American citizens were",
         "answer": "(D) Griswold v. Connecticut and Roe v. Wade.",
         "model_input": "As a person living in the United States, try your best to answer the question by selecting the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion:\nTwo related cases that focused on the right to privacy for all American citizens were\n\nChoices:\n(A) Thornhill v. Alabama and Cox v. New Hampshire\n(B) Near v. Minnesota and New York Times v. Sullivan\n(C) Texas v. Johnson and Morse v. Frederick\n(D) Griswold v. Connecticut and Roe v. Wade.\n\nAnswer:\n",
-        "model_prediction": "(B) Near v. Minnesota and New York Times v. Sullivan"
+        "model_prediction": "(B) Near v. Minnesota and New York Times v. Sulliva"
     },
     {
         "choices": [
@@ -1167,7 +1167,7 @@
         "question": "A state is the only state that imposes a tax on the extraction of pitchblende. This black-colored mineral consists of massive uraninite and contains radium, which is the chief ore-mineral source of uranium. Minute quantities of plutonium are also found in pitchblende. This is particularly significant because plutonium undergoes slow disintegration with the emission of a helium nucleus to form uranium 235, and that is fissionable with slow neutrons to yield atomic energy. As such, pitchblende is vital to the economy of the entire country. Congress has recently enacted a statute forbidding any state from imposing a tax on the extraction of pitchblende. Because pitchblende is not mined in any other state, this federal legislation affects only the state. Thus, in practice, this federal law only limits the taxing power of the state. In light of the Constitution and this federal law, the state extraction tax on pitchblende is most likely",
         "answer": "(D) invalid, because when Congress exercises its plenary power over interstate commerce, the supremacy clause voids inconsistent state action.",
         "model_input": "As a person living in the United States, try your best to answer the question by selecting the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion:\nA state is the only state that imposes a tax on the extraction of pitchblende. This black-colored mineral consists of massive uraninite and contains radium, which is the chief ore-mineral source of uranium. Minute quantities of plutonium are also found in pitchblende. This is particularly significant because plutonium undergoes slow disintegration with the emission of a helium nucleus to form uranium 235, and that is fissionable with slow neutrons to yield atomic energy. As such, pitchblende is vital to the economy of the entire country. Congress has recently enacted a statute forbidding any state from imposing a tax on the extraction of pitchblende. Because pitchblende is not mined in any other state, this federal legislation affects only the state. Thus, in practice, this federal law only limits the taxing power of the state. In light of the Constitution and this federal law, the state extraction tax on pitchblende is most likely\n\nChoices:\n(A) valid, because Congress may not enact a law that places one state on an unequal footing with other states.\n(B) invalid, because Congress may use its general welfare power to prohibit state legislation that it deems harmful to the nation as a whole.\n(C) valid, because Congress does not have the authority to interfere with the taxing policies of a state.\n(D) invalid, because when Congress exercises its plenary power over interstate commerce, the supremacy clause voids inconsistent state action.\n\nAnswer:\n",
-        "model_prediction": "(B) invalid, because Congress may use its general welfare power to prohibit state legislation that it deems harmful to the nation as a whole."
+        "model_prediction": "(D) invalid, because when Congress exercises its plenary power over interstate commerce, the supremacy clause voids inconsistent state action."
     },
     {
         "choices": [
@@ -1206,7 +1206,7 @@
         "question": "This question refers to the following information.\nHere is the case of a woman employed in the manufacturing department of a Broadway house. It stands for a hundred like her own. She averages three dollars a week. Pay is $1.50 for her room; for breakfast she has a cup of coffee; lunch she cannot afford. One meal a day is her allowance. This woman is young, she is pretty. She has \"the world before her.\" Is it anything less than a miracle if she is guilty of nothing less than the \"early and improvident marriage,\" against which moralists exclaim as one of the prolific causes of the distresses of the poor? Almost any door might seem to offer a welcome escape from such slavery as this. \"I feel so much healthier since I got three square meals a day,\" said a lodger in one of the Girls' Homes. Two young sewing-girls came in seeking domestic service, so that they might get enough to eat. They had been only half-fed for some time, and starvation had driven them to the one door at which the pride of the American-born girl will not permit her to knock, though poverty be the price of her independence.\n—Jacob Riis, How the Other Half Lives, 1890\nThe situation faced by the young women in the passage above is most directly comparable to which of the following?",
         "answer": "(D) Detroit autoworkers in the 1930s",
         "model_input": "As a person living in the United States, try your best to answer the question by selecting the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion:\nThis question refers to the following information.\nHere is the case of a woman employed in the manufacturing department of a Broadway house. It stands for a hundred like her own. She averages three dollars a week. Pay is $1.50 for her room; for breakfast she has a cup of coffee; lunch she cannot afford. One meal a day is her allowance. This woman is young, she is pretty. She has \"the world before her.\" Is it anything less than a miracle if she is guilty of nothing less than the \"early and improvident marriage,\" against which moralists exclaim as one of the prolific causes of the distresses of the poor? Almost any door might seem to offer a welcome escape from such slavery as this. \"I feel so much healthier since I got three square meals a day,\" said a lodger in one of the Girls' Homes. Two young sewing-girls came in seeking domestic service, so that they might get enough to eat. They had been only half-fed for some time, and starvation had driven them to the one door at which the pride of the American-born girl will not permit her to knock, though poverty be the price of her independence.\n—Jacob Riis, How the Other Half Lives, 1890\nThe situation faced by the young women in the passage above is most directly comparable to which of the following?\n\nChoices:\n(A) Slaves in the antebellum South\n(B) American revolutionaries in the 1770s\n(C) Populist farmers in the 1890s\n(D) Detroit autoworkers in the 1930s\n\nAnswer:\n",
-        "model_prediction": "(D) Detroit autoworkers in the 1930s"
+        "model_prediction": "(A) Slaves in the antebellum South"
     },
     {
         "choices": [
@@ -1219,7 +1219,7 @@
         "question": "Which of the following statements does NOT accurately describe voting behavior in the United States?",
         "answer": "(A) A registered voter who has attained his or her General Educational Development (GED) is less likely to vote than a high school dropout.",
         "model_input": "As a person living in the United States, try your best to answer the question by selecting the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion:\nWhich of the following statements does NOT accurately describe voting behavior in the United States?\n\nChoices:\n(A) A registered voter who has attained his or her General Educational Development (GED) is less likely to vote than a high school dropout.\n(B) More women than men have voted in every presidential election since 1980.\n(C) Registered voters are more likely to vote in general elections than they are in primary elections.\n(D) Registered voters between the ages of 35 and 45 are more likely to vote than are those under the age of 21.\n\nAnswer:\n",
-        "model_prediction": "(A)"
+        "model_prediction": "(A) A registered voter who has attained his or her General Educational Development (GED) is less likely to vote than a high school dropout."
     },
     {
         "choices": [
@@ -1258,7 +1258,7 @@
         "question": "Among the following groups that have traditionally supposed the Democratic Party, which has the least liberal constituency?",
         "answer": "(D) White Southerners",
         "model_input": "As a person living in the United States, try your best to answer the question by selecting the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion:\nAmong the following groups that have traditionally supposed the Democratic Party, which has the least liberal constituency?\n\nChoices:\n(A) Northern ethnic minorities\n(B) Labor union members\n(C) African Americans\n(D) White Southerners\n\nAnswer:\n",
-        "model_prediction": "(D) White Southerners"
+        "model_prediction": "(D) White South"
     },
     {
         "choices": [
@@ -1284,7 +1284,7 @@
         "question": "Which of the following is a formal region?",
         "answer": "(A) Pennsylvania",
         "model_input": "As a person living in the United States, try your best to answer the question by selecting the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion:\nWhich of the following is a formal region?\n\nChoices:\n(A) Pennsylvania\n(B) The Pacific Northwest\n(C) Dixie\n(D) The market area of Winn-Dixie\n\nAnswer:\n",
-        "model_prediction": "(A) Pennsylvania"
+        "model_prediction": "(C) Dixi"
     },
     {
         "choices": [

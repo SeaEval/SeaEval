@@ -8,7 +8,7 @@
         "context": "Sentence1: Sam took French classes from Adam, because he was known to speak it fluently. Sentence2: Sam was known to speak it fluently.",
         "id": "test_1",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\nQuestion: Are the following two sentence entailment or not?\n\nSentence1: Sam took French classes from Adam, because he was known to speak it fluently. Sentence2: Sam was known to speak it fluently.\n\nChoices:\n(A) Not Entailment\n(B) Entailment\n\nAnswer:\n",
-        "model_prediction": "To determine if the two sentences are entailment or not, let's analyze them step by step."
+        "model_prediction": "(A) Not Entailment"
     },
     {
         "answer": "(B) Not Entailment",
@@ -19,7 +19,7 @@
         "context": "Sentence1: The drain is clogged with hair. It has to be removed. Sentence2: The drain has to be removed.",
         "id": "test_2",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\nQuestion: Are the following two sentence entailment or not?\n\nSentence1: The drain is clogged with hair. It has to be removed. Sentence2: The drain has to be removed.\n\nChoices:\n(A) Entailment\n(B) Not Entailment\n\nAnswer:\n",
-        "model_prediction": "To determine whether the two sentences are entailment or not, let's analyze them step by step:"
+        "model_prediction": "(A) Entailment"
     },
     {
         "answer": "(B) Not Entailment",
@@ -107,6 +107,6 @@
         "context": "Sentence1: When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. They were very much in the majority. Sentence2: The sponsors were very much in the majority.",
         "id": "test_10",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\nQuestion: Are the following two sentence entailment or not?\n\nSentence1: When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. They were very much in the majority. Sentence2: The sponsors were very much in the majority.\n\nChoices:\n(A) Not Entailment\n(B) Entailment\n\nAnswer:\n",
-        "model_prediction": "(B) Entailment"
+        "model_prediction": "(A) Not Entailment"
     }
 ]

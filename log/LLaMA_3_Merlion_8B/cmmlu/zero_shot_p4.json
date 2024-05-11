@@ -11,7 +11,7 @@
         ],
         "question": "肉牛屠宰后，胴体的哪个部位肉质较好",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n肉牛屠宰后，胴体的哪个部位肉质较好\n\n选项:\n(A) 大腿\n(B) 小腿\n(C) 腹\n(D) 胸\n\n答案:\n",
-        "model_prediction": " To analyze and choose the unique correct answer from the given options, we need to consider the quality and taste of the meat in each part of the carcass.\n\n问题:\n肉牛屠宰后，胴体的哪个部位肉质较好\n\n选项:\n(A) 大腿\n(B) 小腿\n(C) 腹\n(D) 胸\n\n分析:\n(A) 大腿: This part of the carcass is known for having high-quality meat with good flavor. The muscle in this area is well-marbled, which means it contains a higher proportion of fat, resulting in a tender and flavorful"
+        "model_prediction": "(A) 大腿"
     },
     {
         "id": "test_2",
@@ -25,7 +25,7 @@
         ],
         "question": "下列鸭品种中，产蛋量最高的品种是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n下列鸭品种中，产蛋量最高的品种是\n\n选项:\n(A) 樱桃谷鸭\n(B) 高邮鸭\n(C) 绍鸭\n(D) 北京鸭\n\n答案:\n",
-        "model_prediction": " (B) 高邮鸭</s>"
+        "model_prediction": "(B) 高邮鸭"
     },
     {
         "id": "test_3",
@@ -39,7 +39,7 @@
         ],
         "question": "常见家畜中输精管不形成输精管壶腹的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n常见家畜中输精管不形成输精管壶腹的是\n\n选项:\n(A) 马\n(B) 猪\n(C) 牛\n(D) 羊\n\n答案:\n",
-        "model_prediction": " The correct answer is (B) 猪.\n\nStep 1: Analyze the question\nThe question asks which common livestock does not have a well-formed epididymis (the part of the male reproductive system that stores and transports sperm).\n\nStep 2: Review the options\n(A) 马 (马)\n(B) 猪 (猪)\n(C) 牛 (牛)\n(D) 羊 (羊)\n\nStep 3: Eliminate incorrect options\n- (A) 马 (马) and (C) 牛 (牛) both have a well-formed epididymis.\n- (D) 羊"
+        "model_prediction": "(B) 猪"
     },
     {
         "id": "test_4",
@@ -53,7 +53,7 @@
         ],
         "question": "牛的发情周期平均为",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n牛的发情周期平均为\n\n选项:\n(A) 19～20天\n(B) 21天\n(C) 16～17天\n(D) 28天\n\n答案:\n",
-        "model_prediction": " 我将分析每个选项，并从中选择唯一的正确答案。\n\n(A) 19～20天：这可能是正确的答案，因为牛的发情周期一般为19-21天。\n\n(B) 21天：这也可能是正确的答案，因为牛的发情周期一般为19-21天。\n\n(C) 16～17天：这显然是不正确的答案，因为牛的发情周期通常不在这个范围内。\n\n(D) 28天：这也不是正确的答案，因为牛的发情周期一般为19-21天，而不是28天。\n\n在分析"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_5",
@@ -67,7 +67,7 @@
         ],
         "question": "羊胴体中，肉质较好的部位是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n羊胴体中，肉质较好的部位是\n\n选项:\n(A) 胸下肉\n(B) 肩胛肉\n(C) 后腿肉\n(D) 小腿肉\n\n答案:\n",
-        "model_prediction": " To analyze and select the unique correct answer from the given options, we can consider the characteristics of each option in relation to the question.\n\nQuestion: In the lamb carcass, which part has the highest quality meat?\n\nOptions:\n(A) Chest meat\n(B) Shoulder blade meat\n(C) Hind leg meat\n(D) Foreleg meat\n\nAnalysis:\n(A) Chest meat: This option refers to the meat found in the chest area of the lamb carcass. The meat in this area is known for its tenderness and high quality.\n\n(B) Shoulder blade meat: This option refers to the meat found around the shoulder blades of the lamb carc"
+        "model_prediction": "(A) 胸下肉"
     },
     {
         "id": "test_6",
@@ -81,7 +81,7 @@
         ],
         "question": "壁胸膜的分部不包括",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n壁胸膜的分部不包括\n\n选项:\n(A) 胸膜顶\n(B) 肋胸膜\n(C) 肺胸膜\n(D) 膈胸膜\n\n答案:\n",
-        "model_prediction": " 答案: (D) 膈胸膜</s>"
+        "model_prediction": "(C) 肺胸膜"
     },
     {
         "id": "test_7",
@@ -95,7 +95,7 @@
         ],
         "question": "属于蝶骨上的结构为",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n属于蝶骨上的结构为\n\n选项:\n(A) 棘孔\n(B) 破裂孔\n(C) 视神经管\n(D) 垂体窝\n\n答案:\n",
-        "model_prediction": " The task is asking you to analyze the given question and select the unique correct answer from the provided options. If you're not sure, choose the answer that seems most likely, without needing to explain your choice.\n\nQuestion: What belongs to the dipteran thorax structure?\n\nOptions:\n(A) Punctures\n(B) Fracture holes\n(C) Optic nerve canal\n(D) Hypopharyngeal invagination\n\nTo answer this question, you should have knowledge about dipteran thorax structures. The dipteran thorax is the middle part of the body in insects of the order Diptera, which includes"
+        "model_prediction": "(C) 视神经管"
     },
     {
         "id": "test_8",
@@ -109,7 +109,7 @@
         ],
         "question": "属于右心房的结构是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n属于右心房的结构是\n\n选项:\n(A) 肉柱\n(B) 室上嵴\n(C) 梳状肌\n(D) 乳头肌\n\n答案:\n",
-        "model_prediction": " 答案:\n(C) 梳状肌\n\n解释:\n\n右心房的结构主要包括肉柱,室上嵴,梳状肌,乳头肌等。\n\n(A) 肉柱（septum plicatum）：位于心房与心室之间，分隔心房和心室，右心房的肉柱称为右肉柱。\n(B) 室上嵴（crista terminalis）：位于心房和心室之间的分界线，右心房的室上嵴称为右室上嵴。\n(C) 梳状肌（"
+        "model_prediction": "(B) 室上嵴"
     },
     {
         "id": "test_9",
@@ -123,7 +123,7 @@
         ],
         "question": "咽的分部",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n咽的分部\n\n选项:\n(A) 鼻咽部\n(B) 口咽部\n(C) 咽隐窝\n(D) 喉咽部\n\n答案:\n",
-        "model_prediction": " 答案: (B) 口咽部</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_10",
@@ -137,7 +137,7 @@
         ],
         "question": "舌下神经核位于",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n舌下神经核位于\n\n选项:\n(A) 脑挢\n(B) 延髓\n(C) 中脑\n(D) 间脑\n\n答案:\n",
-        "model_prediction": " 答案:\n(B) 延髓\n\n解释:\n舌下神经核（Chorda tympani nucleus）位于延髓（medulla oblongata）内。延髓是大脑和脊髓之间的连接点，负责控制一些重要的生理功能，如心律、血压、呼吸和吞咽等。</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_11",
@@ -151,7 +151,7 @@
         ],
         "question": "著名民乐作品《十面埋伏》属于",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n著名民乐作品《十面埋伏》属于\n\n选项:\n(A) 弹拨乐\n(B) 管乐\n(C) 弦乐\n(D) 打击乐\n\n答案:\n",
-        "model_prediction": " To answer this question, let's analyze the given options and the information provided.\n\n问题:\n著名民乐作品《十面埋伏》属于\n\n选项:\n(A) 弹拨乐\n(B) 管乐\n(C) 弦乐\n(D) 打击乐\n\n答案:\n\n《十面埋伏》是一首著名的民乐作品。现在，我们需要确定它属于哪一类乐器。\n\n(A) 弹拨乐：弹拨乐指的是通过弹拨的乐器，如二胡,琵琶等。\n(B) 管乐：管乐指的是"
+        "model_prediction": "(C) 弦乐"
     },
     {
         "id": "test_12",
@@ -165,7 +165,7 @@
         ],
         "question": "审美的客体是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n审美的客体是\n\n选项:\n(A) 艺术受众\n(B) 艺术作品\n(C) 艺术家\n(D) 鉴赏者\n\n答案:\n",
-        "model_prediction": " (B) 艺术作品</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_13",
@@ -179,7 +179,7 @@
         ],
         "question": "吴带当风是指谁的绘画风格",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n吴带当风是指谁的绘画风格\n\n选项:\n(A) 苏轼\n(B) 吴道子\n(C) 曹不兴\n(D) 吴镇\n\n答案:\n",
-        "model_prediction": " (B) 吴道子</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_14",
@@ -193,7 +193,7 @@
         ],
         "question": "话剧《龙须沟》的作者是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n话剧《龙须沟》的作者是\n\n选项:\n(A) 曹禺\n(B) 洪深\n(C) 夏衍\n(D) 老舍\n\n答案:\n",
-        "model_prediction": " A) 曹禺</s>"
+        "model_prediction": "(A) 曹禺"
     },
     {
         "id": "test_15",
@@ -207,7 +207,7 @@
         ],
         "question": "《霓裳羽衣舞》是哪一时期宫廷乐舞。",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n《霓裳羽衣舞》是哪一时期宫廷乐舞。\n\n选项:\n(A) 唐\n(B) 宋\n(C) 元\n(D) 汉\n\n答案:\n",
-        "model_prediction": " The correct answer is (B) 宋.\n\n《霓裳羽衣舞》是中国宋代宫廷乐舞的代表，源于唐代，但是在宋代得到发展。因此，选项 (A) 唐和 (B) 宋都是正确的。然而，由于问题要求选择唯一的正确答案，我们只能选择 (B) 宋作为唯一的正确答案。</s>"
+        "model_prediction": "(B) 宋"
     },
     {
         "id": "test_16",
@@ -221,7 +221,7 @@
         ],
         "question": "以下星座天区内梅西叶天体最多的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n以下星座天区内梅西叶天体最多的是\n\n选项:\n(A) 猎户座\n(B) 船尾座\n(C) 蛇夫座\n(D) 武仙座\n\n答案:\n",
-        "model_prediction": " (D) 武仙座</s>"
+        "model_prediction": "(D) 武仙座"
     },
     {
         "id": "test_17",
@@ -235,7 +235,7 @@
         ],
         "question": "以下哪个国家在本年度没有发射月球探测器的计划",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n以下哪个国家在本年度没有发射月球探测器的计划\n\n选项:\n(A) 以色列\n(B) 俄罗斯\n(C) 日本\n(D) 印度\n\n答案:\n",
-        "model_prediction": " (A) 以色列</s>"
+        "model_prediction": "(A) 以色列"
     },
     {
         "id": "test_18",
@@ -249,7 +249,7 @@
         ],
         "question": "梅西叶天体M44位于（）的天区内",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n梅西叶天体M44位于（）的天区内\n\n选项:\n(A) 金牛座\n(B) 猎户座\n(C) 巨蟹座\n(D) 大犬座\n\n答案:\n",
-        "model_prediction": " The task is asking you to analyze and choose the unique correct answer from the given options. If you are unsure, you should choose the answer that seems most likely. In this case, you don't need to provide an explanation.\n\nProblem:\nMessier 44 (M44) is located in the ( ) constellation.\n\nOptions:\n(A) Taurus\n(B) Orion\n(C) Cancer\n(D) Canis Major\n\nAnswer:\n(A) Taurus</s>"
+        "model_prediction": "To analyze and choose the unique correct answer from the provided options, let's first understand the context of the question."
     },
     {
         "id": "test_19",
@@ -263,7 +263,7 @@
         ],
         "question": "在金星西大距时，在金星上看到的地球处于",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n在金星西大距时，在金星上看到的地球处于\n\n选项:\n(A) 方照\n(B) 冲\n(C) 上合\n(D) 留\n\n答案:\n",
-        "model_prediction": " (A) 方照</s>"
+        "model_prediction": "(A) 方照"
     },
     {
         "id": "test_20",
@@ -277,7 +277,7 @@
         ],
         "question": "太阳的光谱型是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n太阳的光谱型是\n\n选项:\n(A) A型\n(B) O型\n(C) G型\n(D) K型\n\n答案:\n",
-        "model_prediction": " To find the correct answer, let's analyze each option:\n\n(A) A-type: This type of star is typically very hot and luminous, with a surface temperature of around 10,000 K or more. The Sun's surface temperature is approximately 5,500 K, which is not hot enough to be classified as an A-type star.\n\n(B) O-type: These stars are even hotter and more luminous than A-type stars, with surface temperatures ranging from 30,000 K to 50,000 K. Again, the Sun's surface temperature is too low to be classified as an O-type star.\n\n(C) G"
+        "model_prediction": "(C) G型"
     },
     {
         "id": "test_21",
@@ -291,7 +291,7 @@
         ],
         "question": "商业伦理学最早出现在",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n商业伦理学最早出现在\n\n选项:\n(A) 英国\n(B) 美国\n(C) 意大利\n(D) 法国\n\n答案:\n",
-        "model_prediction": " 我会分析以下选项中的信息，找出哪个国家最早出现商业伦理学。\n\n(A) 英国：英国在工业革命中发挥了重要作用，但并非最早出现商业伦理学的国家。\n(B) 美国：美国在19世纪和20世纪初期经历了工业革命，并出现了许多商业伦理学的研究和实践。\n(C) 意大利：意大利在中世纪曾经是欧洲的一个重要贸易中心，但并不代表意大利最早出现商业伦理学。\n(D) 法国：法国"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_22",
@@ -305,7 +305,7 @@
         ],
         "question": "伦理学的核心是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n伦理学的核心是\n\n选项:\n(A) 描述伦理学\n(B) 元伦理学\n(C) 宗教伦理学\n(D) 规范伦理学\n\n答案:\n",
-        "model_prediction": " (B) 元伦理学</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_23",
@@ -319,7 +319,7 @@
         ],
         "question": "下列不属于人的基本权利的时",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n下列不属于人的基本权利的时\n\n选项:\n(A) 人格平等\n(B) 自由\n(C) 生命\n(D) 独立\n\n答案:\n",
-        "model_prediction": " B 自由</s>"
+        "model_prediction": "(C) 生命"
     },
     {
         "id": "test_24",
@@ -333,7 +333,7 @@
         ],
         "question": "关税的课税客体是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n关税的课税客体是\n\n选项:\n(A) 消费者\n(B) 进出境的货物\n(C) 海关\n(D) 进出口商\n\n答案:\n",
-        "model_prediction": " 答案:\n(B) 进出境的货物\n\n解释：\n关税是政府对进出境货物征收的一种税收。它主要用来保护国内产业和控制入口货物数量。因此，正确的答案是(B) 进出境的货物。</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_25",
@@ -347,7 +347,7 @@
         ],
         "question": "区域经济从本质上讲是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n区域经济从本质上讲是\n\n选项:\n(A) 一体化经济\n(B) 信用经济\n(C) 商品经济\n(D) 市场经济\n\n答案:\n",
-        "model_prediction": " To analyze and choose the correct answer from the given options, let's first understand the meaning of each option:\n\n(A) 一体化经济: Unification economy (referring to the unification of economies within a region)\n(B) 信用经济: Credit economy (referring to an economy based on credit and trust)\n(C) 商品经济: Commodity economy (referring to an economy based on the production and exchange of goods)\n(D) 市场经济: Market economy (referring to an economy based on the production, exchange, and distribution of goods and services according to the laws of supply and demand)\n\nNow, let's"
+        "model_prediction": "(A) 一体化经济"
     },
     {
         "id": "test_26",
@@ -361,7 +361,7 @@
         ],
         "question": "年龄大、合并症多、预期寿命短的股骨颈骨折患者，首选的治疗是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n年龄大、合并症多、预期寿命短的股骨颈骨折患者，首选的治疗是\n\n选项:\n(A) 半髋关节置换术\n(B) 手法复位+内固定\n(C) 全髋关节置换术\n(D) 切开复位+内固定\n\n答案:\n",
-        "model_prediction": " (B) 手法复位+内固定</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_27",
@@ -375,7 +375,7 @@
         ],
         "question": "革兰阴性菌所致脓毒症的临床特点是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n革兰阴性菌所致脓毒症的临床特点是\n\n选项:\n(A) 常形成转移性脓肿\n(B) 常继发于骨关节感染\n(C) 常并发休克\n(D) 常出现结膜瘀斑\n\n答案:\n",
-        "model_prediction": " (A) 常形成转移性脓肿</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_28",
@@ -389,7 +389,7 @@
         ],
         "question": "下列符合原发免疫性血小板减少症的检查结果的有",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n下列符合原发免疫性血小板减少症的检查结果的有\n\n选项:\n(A) BT和APTT延长\n(B) 骨髓巨核细胞体积变小\n(C) 骨髓巨核细胞数量减少\n(D) 血小板平均体积偏小\n\n答案:\n",
-        "model_prediction": " A</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_29",
@@ -403,7 +403,7 @@
         ],
         "question": "限制型心肌病的主要表现是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n限制型心肌病的主要表现是\n\n选项:\n(A) SAM征\n(B) 室壁运动普遍减弱\n(C) 右心衰症状\n(D) 奇脉\n\n答案:\n",
-        "model_prediction": " (B) 室壁运动普遍减弱</s>"
+        "model_prediction": "(B) 室壁运动普遍减弱"
     },
     {
         "id": "test_30",
@@ -417,7 +417,7 @@
         ],
         "question": "急性肾损伤进展期的主要死亡原因是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n急性肾损伤进展期的主要死亡原因是\n\n选项:\n(A) 水中毒\n(B) 感染\n(C) 低钾血症\n(D) 代谢性酸中毒\n\n答案:\n",
-        "model_prediction": " 答案:\n(B) 感染</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_31",
@@ -431,7 +431,7 @@
         ],
         "question": "在三淢因模型中给出 $\\mu_x^{(j)}=0.2 j， j=1，2，3$， 则 $q_x^{(2)}=()$ 。",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n在三淢因模型中给出 $\\mu_x^{(j)}=0.2 j， j=1，2，3$， 则 $q_x^{(2)}=()$ 。\n\n选项:\n(A) 0.33\n(B) 0.23\n(C) 0.03\n(D) 0.13\n\n答案:\n",
-        "model_prediction": " 我们需要根据三淞因模型的定义来计算 $q_x^{(2)}$。\n\n三淞因模型的定义为：\n$q_x^{(k)}=\\sum_{j=1}^K \\mu_x^{(j)}\\cdot p_x^{(k-j)}$，其中 $K$ 是模型的阶数。\n\n给定的 $\\mu_x^{(j)}=0.2j，j=1,2,3$，所以我们有：\n\n1. $\\mu_x^{(1)}=0.2$\n2. $\\mu_x^{(2)}=0."
+        "model_prediction": "我们需要根据三淞因模型计算 $q_x^{(2)}$。"
     },
     {
         "id": "test_32",
@@ -445,7 +445,7 @@
         ],
         "question": "已知现年 18 岁的王先生， 再生存 10 年的概率为 0.95 ， 再生存 30 年的概率为 0.75 ， 则 其现年 28 岁在达到 48 岁之前的死亡概率为 ( )。",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n已知现年 18 岁的王先生， 再生存 10 年的概率为 0.95 ， 再生存 30 年的概率为 0.75 ， 则 其现年 28 岁在达到 48 岁之前的死亡概率为 ( )。\n\n选项:\n(A) 0.2409\n(B) 0.2503\n(C) 0.2105\n(D) 0.2308\n\n答案:\n",
-        "model_prediction": " (B) 0.2503</s>"
+        "model_prediction": "我们需要找到王先生在现年 28 岁到达 48 岁之前的死亡概率。"
     },
     {
         "id": "test_33",
@@ -459,7 +459,7 @@
         ],
         "question": "某汽车一年内发生车祸次数服从混合泊松分布， 参数 $\\lambda$ 服从 $(0，6)$ 上的均匀分布。那 么， 该汽车一年内发生车祸的次数不超过 1 次的概率为 ( )。",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n某汽车一年内发生车祸次数服从混合泊松分布， 参数 $\\lambda$ 服从 $(0，6)$ 上的均匀分布。那 么， 该汽车一年内发生车祸的次数不超过 1 次的概率为 ( )。\n\n选项:\n(A) 0.33\n(B) 0.41\n(C) 0.39\n(D) 0.37\n\n答案:\n",
-        "model_prediction": " 我们知道该汽车一年内发生车祸次数服从混合泊松分布，参数 $\\lambda$ 服从 $(0,6)$ 上的均匀分布。我们需要求该汽车一年内发生车祸的次数不超过 1 次的概率。\n\n首先，泊松分布的概率密度函数为：\n\n$P(X=k) = \\frac{e^{-\\lambda}\\lambda^k}{k!}$\n\n其中，$k$ 表示发生车祸的次数，$\\lambda$ 表示泊松分布的参数。\n\n由于$\\lambda$服从$("
+        "model_prediction": "我们需要计算该汽车一年内发生车祸不超过1次的概率。首先，我们知道$\\lambda$服从$(0,6)$上均匀分布，这意味着$\\lambda$的概率密度函数为："
     },
     {
         "id": "test_34",
@@ -473,7 +473,7 @@
         ],
         "question": "已知 $S(x)=1-\\frac{x}{100}， 0 \\leqslant x \\leqslant 100$， 则 $f_{30}=(\\quad)$ 。",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n已知 $S(x)=1-\\frac{x}{100}， 0 \\leqslant x \\leqslant 100$， 则 $f_{30}=(\\quad)$ 。\n\n选项:\n(A) 0.6\n(B) 0.5\n(C) 0.7\n(D) 0.8\n\n答案:\n",
-        "model_prediction": " 答案: (B) 0.5\n\n我们可以通过以下步骤解答这个问题：\n\n1. 问题中给出了函数 $S(x)=1-\\frac{x}{100}$，其中 $0 \\leqslant x \\leqslant 100$。\n\n2. 我们需要找到当 $x=30$ 时，函数 $S(x)$ 的值。根据给定的函数式，$S(30)=1-\\frac{30}{100}$。\n\n3. 计算 $S(30)$ 的值：$S(30)=1-\\frac{3}{10}="
+        "model_prediction": "我们知道 $S(x)=1-\\frac{x}{100}$，其中 $0 \\leqslant x \\leqslant 100$。"
     },
     {
         "id": "test_35",
@@ -487,7 +487,7 @@
         ],
         "question": "已知 ${ }_s p_{10}=0.4$， 且 $\\mu_x=0.01+b x， x \\geqslant 0$， 则 $b$ 等于 $(\\quad$ 。",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n已知 ${ }_s p_{10}=0.4$， 且 $\\mu_x=0.01+b x， x \\geqslant 0$， 则 $b$ 等于 $(\\quad$ 。\n\n选项:\n(A) -0.05\n(B) -0.014\n(C) 0.014\n(D) 0.005\n\n答案:\n",
-        "model_prediction": " 我们需要分析问题中的信息和选项，以找到唯一的正确答案。\n\n问题中的信息包括：\n\n1. ${ }_s p_{10}=0.4$\n2. $\\mu_x=0.01+b x， x \\geqslant 0$\n\n我们需要根据这些信息和选项来找到正确的答案。\n\n1. 选项 (A) -0.05\n2. 选项 (B) -0.014\n3. 选项 (C) 0.014\n4. 选项 (D) 0.005\n\n现在，我们需要根据问题"
+        "model_prediction": "我们需要根据给定的信息，找出正确的答案。"
     },
     {
         "id": "test_36",
@@ -501,7 +501,7 @@
         ],
         "question": "教育的本体功能是什么? ()",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n教育的本体功能是什么? ()\n\n选项:\n(A) 经济功能\n(B) 社会功能\n(C) 政治功能\n(D) 育人功能\n\n答案:\n",
-        "model_prediction": " To analyze and choose the correct answer from the provided options, let's examine each option and its relation to the concept of education.\n\n(A) Economic functionality: This refers to the contribution of education to economic growth and development. While education does have an impact on the economy, it is not the primary function of education.\n\n(B) Social functionality: This refers to the role of education in promoting social cohesion, reducing inequalities, and fostering social mobility. Education plays a significant role in shaping society and its values, so this option is closely related to the concept of education.\n\n(C) Political functionality: This refers to the role of education in political decision-making"
+        "model_prediction": "(D) 育人功能"
     },
     {
         "id": "test_37",
@@ -515,7 +515,7 @@
         ],
         "question": "春秋时期出现的中国教育发展史上里程碑式的学校教育制度是 ()",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n春秋时期出现的中国教育发展史上里程碑式的学校教育制度是 ()\n\n选项:\n(A) 国学\n(B) 太学\n(C) 私学\n(D) 乡学\n\n答案:\n",
-        "model_prediction": " 答案:\n(B) 太学</s>"
+        "model_prediction": "(B) 太学"
     },
     {
         "id": "test_38",
@@ -529,7 +529,7 @@
         ],
         "question": "我国学校教育大约出现在()。",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n我国学校教育大约出现在()。\n\n选项:\n(A) 奴隶社会初期\n(B) 原始社会初期\n(C) 奴隶社会末期\n(D) 封建社会初期\n\n答案:\n",
-        "model_prediction": " 答案:\n(C) 奴隶社会末期\n\n分析:\n这个问题要求我们从四个选项中选出正确的答案。根据新加坡学校教育的历史背景，我们可以进行以下分析：\n\n(A) 奴隶社会初期：奴隶社会指的是古代社会中的一种社会制度。在这个阶段，人们还没有进入学校教育阶段，因此这个选项是不正确的。\n\n(B) 原始社会初期：原始社会指的是人类社会的最早阶段。在这个阶段，人类还没有发展到能够进行学校教育的程度，因此这个选项也是不"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_39",
@@ -543,7 +543,7 @@
         ],
         "question": "鲁迅在“三味书屋”所接触到的办学形式在我国最早兴盛于()",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n鲁迅在“三味书屋”所接触到的办学形式在我国最早兴盛于()\n\n选项:\n(A) 商周\n(B) 秦汉\n(C) 春秋战国\n(D) 盛唐\n\n答案:\n",
-        "model_prediction": " To analyze and select the unique correct answer from the provided options, we can follow these steps:\n\nStep 1: Understand the question and the context.\nThe question asks about the earliest period of time when the educational system similar to the one encountered by Lu Xun at \"Three Flavors Bookstore\" was prevalent in Singapore.\n\nStep 2: Review the given options.\n(A) 商周\n(B) 秦汉\n(C) 春秋战国\n(D) 盛唐\n\nStep 3: Identify the historical periods mentioned in the options.\n(A) 商周 refers to the period of the Zhou Dynasty in China, which is"
+        "model_prediction": "(B) 秦汉"
     },
     {
         "id": "test_40",
@@ -557,7 +557,7 @@
         ],
         "question": "在古代文献记载中，我国西周时期设在王都的小学和大学，总称为()",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n在古代文献记载中，我国西周时期设在王都的小学和大学，总称为()\n\n选项:\n(A) 乡学\n(B) 都学\n(C) 官学\n(D) 国学\n\n答案:\n",
-        "model_prediction": " 答案:\n(B) 都学</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_41",
@@ -571,7 +571,7 @@
         ],
         "question": "水道断面面积包括 ( )",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n水道断面面积包括 ( )\n\n选项:\n(A) 死水面积\n(B) 过水断面面积\n(C) 大断面\n(D) 过水断面面积和死水面积\n\n答案:\n",
-        "model_prediction": " 答案:\n(D) 过水断面面积和死水面积\n\n解释：水道断面面积包括了过水断面面积和死水面积。过水断面面积指的是水流通过水道的部分面积，死水面积则指的是水流不通过水道的部分面积。其他选项中的(A)(B)(C)并不是完整的水道断面面积。</s>"
+        "model_prediction": "(D) 过水断面面积和死水面积"
     },
     {
         "id": "test_42",
@@ -585,7 +585,7 @@
         ],
         "question": "流域围湖造田和填湖造田，将使流域蒸发[ ]。",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n流域围湖造田和填湖造田，将使流域蒸发[ ]。\n\n选项:\n(A) 增加\n(B) 不变\n(C) 减少\n(D) 难以肯定\n\n答案:\n",
-        "model_prediction": " To analyze and choose the unique correct answer from the provided options, we need to understand the relationship between the two processes mentioned: streamside waterlogged field (流域围湖造田) and filling the lake to create fields (填湖造田).\n\nThese processes have an impact on the evaporation in the region. Let's consider each option:\n\n(A) 增加 (Increase)\nStreamside waterlogged field and filling the lake to create fields could lead to an increase in evaporation, as these processes can potentially expand the area of water bodies, which would increase the surface area for evaporation.\n\n(B) 不变 (No change"
+        "model_prediction": "(C) 减少"
     },
     {
         "id": "test_43",
@@ -599,7 +599,7 @@
         ],
         "question": "水位观测的精度一般准确到 ()",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n水位观测的精度一般准确到 ()\n\n选项:\n(A) 0.01m\n(B) 1m\n(C) 0.001m\n(D) 0.lm\n\n答案:\n",
-        "model_prediction": " The task is to analyze the given options and select the only correct answer for the precision of water level observation. If unsure, choose the option that seems most likely. No explanation is needed.\n\nProblem: Water level observation's accuracy is generally precise to (___)\n\nOptions:\n(A) 0.01m\n(B) 1m\n(C) 0.001m\n(D) 0.1m\n\nAnswer:\n\nStep 1: Analyze the options\n(A) 0.01m: This is a very precise measurement.\n(B) 1m: This is a relatively large measurement.\n(C) 0."
+        "model_prediction": "(C) 0.001m"
     },
     {
         "id": "test_44",
@@ -613,7 +613,7 @@
         ],
         "question": "用浮标法测流，断面流量等于断面徐流量再乘以()",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n用浮标法测流，断面流量等于断面徐流量再乘以()\n\n选项:\n(A) 浮标系数\n(B) 水位\n(C) 糙率\n(D) 风速\n\n答案:\n",
-        "model_prediction": " The task is asking you to analyze and select the unique correct answer from the given options. If you are unsure, choose the option that you think is most likely to be correct, and do not need to provide any explanation.\n\nProblem:\nUsing the float method to measure the flow, the sectional flow rate is equal to the sectional cross-sectional flow rate, which is then multiplied by ()\n\nOptions:\n(A) Float coefficient\n(B) Water level\n(C) Roughness coefficient\n(D) Wind speed\n\nAnswer:\n(A) Float coefficient</s>"
+        "model_prediction": ") 浮标系数"
     },
     {
         "id": "test_45",
@@ -627,7 +627,7 @@
         ],
         "question": "一般情况下，某一地点的露点温度将比当地当时的气温[ ]。",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n一般情况下，某一地点的露点温度将比当地当时的气温[ ]。\n\n选项:\n(A) 高或相等\n(B) 低\n(C) 相等\n(D) 高\n\n答案:\n",
-        "model_prediction": " (B) 低</s>"
+        "model_prediction": "(B) 低"
     },
     {
         "id": "test_46",
@@ -641,7 +641,7 @@
         ],
         "question": "根据物权法规定，土地承包经营权的设立时间是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n根据物权法规定，土地承包经营权的设立时间是\n\n选项:\n(A) 土地承包经营权合同生效时\n(B) 土地承包经营权登记时\n(C) 取得土地承包经营权证时\n(D) 土地承包经营权合同成立时\n\n答案:\n",
-        "model_prediction": " 答案: (D) 土地承包经营权合同成立时</s>"
+        "model_prediction": "(A) 土地承包经营权合同生效时"
     },
     {
         "id": "test_47",
@@ -655,7 +655,7 @@
         ],
         "question": "以下选项中，属于邻接权客体的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n以下选项中，属于邻接权客体的是\n\n选项:\n(A) 计算机软件\n(B) 瑜伽录像制品\n(C) 具有独特造型的建筑物\n(D) 即兴演讲\n\n答案:\n",
-        "model_prediction": " (B) 瑜伽录像制品</s>"
+        "model_prediction": "(B) 瑜伽录像制品"
     },
     {
         "id": "test_48",
@@ -669,7 +669,7 @@
         ],
         "question": "下列行为如满足规定条件，应认定为伪造货币罪的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n下列行为如满足规定条件，应认定为伪造货币罪的是\n\n选项:\n(A) 铸造珍稀古钱币\n(B) 临摹欧元收藏\n(C) 将英镑揭层一分为二\n(D) 用黄金铸造流通的纪念金币\n\n答案:\n",
-        "model_prediction": " 答案:\n(D) 用黄金铸造流通的纪念金币\n\n解释：伪造货币罪是指在没有授权的情况下，制造、修改或使用伪造货币。选项(D) 用黄金铸造流通的纪念金币属于伪造货币罪，因为它是没有获得授权的情况下，制造流通的纪念金币。\n\n其他选项的解释：\n(A) 铸造珍稀古钱币：这属于收藏和研究古钱币的行为，不属于伪造货币"
+        "model_prediction": "(D) 用黄金铸造流通的纪念金币"
     },
     {
         "id": "test_49",
@@ -683,7 +683,7 @@
         ],
         "question": "不作为犯罪的主观方面",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n不作为犯罪的主观方面\n\n选项:\n(A) 只能是过失\n(B) 只能是故意\n(C) 不要求故意及过失\n(D) 可以是故意也可以是过失\n\n答案:\n",
-        "model_prediction": " 答案:\n(D) 可以是故意也可以是过失</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_50",
@@ -697,7 +697,7 @@
         ],
         "question": "下列选项中，构成原物与孳息关系的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n下列选项中，构成原物与孳息关系的是\n\n选项:\n(A) 母牛与其产下的牛犊\n(B) 水库与水库里的鱼\n(C) 果树与果树上的果实\n(D) 名画原件与其复制品\n\n答案:\n",
-        "model_prediction": " 答案:\n(C) 果树与果树上的果实</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_51",
@@ -711,7 +711,7 @@
         ],
         "question": "若f(x) 在 (a，b) 内单调有界， 则 f(x) 在 (a，b) 内间断点的类型只能是 ( ).",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n若f(x) 在 (a，b) 内单调有界， 则 f(x) 在 (a，b) 内间断点的类型只能是 ( ).\n\n选项:\n(A) 结论不确定\n(B) 既有第一类间断点也有第二类间断点\n(C) 第二类间断点\n(D) 第一类间断点\n\n答案:\n",
-        "model_prediction": " B\n\nThe problem states that f(x) is a monotonic function with bounded values in the interval (a, b). The question asks about the possible types of discontinuity points in this interval.\n\nA function is said to have a discontinuity if it is not continuous at a certain point. There are two types of discontinuities:\n\n1. First-class discontinuity: This occurs when the limit of the function from one side does not equal the limit from the other side.\n2. Second-class discontinuity: This occurs when the limit of the function does not exist from one or both sides.\n\nSince f(x) is a monotonic"
+        "model_prediction": "(A) 结论不确定"
     },
     {
         "id": "test_52",
@@ -725,7 +725,7 @@
         ],
         "question": "函数 $f(x)=\\frac{x-x^3}{\\sin \\pi x}$ 的可去间断点个数为.",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n函数 $f(x)=\\frac{x-x^3}{\\sin \\pi x}$ 的可去间断点个数为.\n\n选项:\n(A) 无穷多个\n(B) 2\n(C) 3\n(D) 1\n\n答案:\n",
-        "model_prediction": " 我将分析函数$f(x)=\\frac{x-x^3}{\\sin \\pi x}$的可去间断点个数。\n\n首先，注意到函数分子和分母都具有奇偶性，即当$x$为奇数时，分子和分母都为零；当$x$为偶数时，分子和分母都不为零。\n\n由于函数分母是$\\sin \\pi x$，在$x$为整数时，分母为零，因此函数在$x$为整数的点上有间断点。\n\n在$x$为整数的点"
+        "model_prediction": "我们可以通过分析函数的性质来确定可去间断点的个数。"
     },
     {
         "id": "test_53",
@@ -739,7 +739,7 @@
         ],
         "question": "若 $f(x)$ 的导函数是 $2^x(\\ln 2)^2$， 则 $f(x)$ 为 ( ).",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n若 $f(x)$ 的导函数是 $2^x(\\ln 2)^2$， 则 $f(x)$ 为 ( ).\n\n选项:\n(A) $\\frac{1}{\\ln 2} \\cdot 2^x+C$\n(B) $2^x(\\ln 2)^2+C$\n(C) $2^x \\ln 2+C$\n(D) $2^x+C$\n\n答案:\n",
-        "model_prediction": " 我们可以使用反导数的概念来解决这个问题。\n\n反导数是导数的反函数。换句话说，如果我们知道导数的表达式，我们可以找到反导数的表达式。\n\n在这个问题中，我们知道导函数是 $2^x(\\ln 2)^2$。我们可以将它分为两个部分：$2^x$ 和 $(\\ln 2)^2$。\n\n现在，我们可以分别求出这两个部分的反导数。对于 $2^x$，它的反导数是 $\\frac{1}{\\ln 2"
+        "model_prediction": "我们知道，如果 $f(x)$ 的导函数是 $g(x)$，则原函数 $f(x)$ 可以通过下列方式求得："
     },
     {
         "id": "test_54",
@@ -753,7 +753,7 @@
         ],
         "question": "设f(x)和F(x)分别为连续型随机变量X的概率密度和分布函数， 则下列函数 中可作为某随机变量的概率密度的是 . (多选)",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n设f(x)和F(x)分别为连续型随机变量X的概率密度和分布函数， 则下列函数 中可作为某随机变量的概率密度的是 . (多选)\n\n选项:\n(A) f(2x)\n(B) f(-x)\n(C) f(x)F(x)\n(D) 2xf(x^2)\n\n答案:\n",
-        "model_prediction": " (A) f(2x), (B) f(-x), (C) f(x)F(x)\n\n解释：\n\n问题要求我们从给定的选项中找出可以作为某个随机变量的概率密度函数。概率密度函数的性质包括非负性,积分为1，并且与分布函数的关系是F(x) = ∫_{-∞}^x f(t) dt。\n\n(A) f(2x)：将x替换为2x后，得到的函数仍然满足非负性和积分为1"
+        "model_prediction": "(A) f(2x)"
     },
     {
         "id": "test_55",
@@ -767,7 +767,7 @@
         ],
         "question": "设是 $f(x)$ 偶函数， $\\varphi(x)$ 是奇函数， 则下列函数(假设都有意义)中是奇函数的是 ( ).",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n设是 $f(x)$ 偶函数， $\\varphi(x)$ 是奇函数， 则下列函数(假设都有意义)中是奇函数的是 ( ).\n\n选项:\n(A) $\\varphi[\\varphi(x)]$\n(B) $f[\\varphi(x)]$\n(C) $\\varphi[f(x)]$\n(D) $f[f(x)]$\n\n答案:\n",
-        "model_prediction": " 我们首先需要了解什么是奇函数和偶函数。\n\n奇函数（odd function）是满足以下条件的函数：\n\n$f(-x) = -f(x)$\n\n偶函数（even function）是满足以下条件的函数：\n\n$f(-x) = f(x)$\n\n现在让我们分析每个选项：\n\n(A) $\\varphi[\\varphi(x)]$\n\n由于 $\\varphi(x)$ 是奇函数，因此 $\\varphi(-x) = -\\varphi(x)$。\n\n现在我们有：\n\n$\\varphi[\\varphi(-x)] = \\varphi[-\\varphi(x)]"
+        "model_prediction": "我们需要分析每个选项，看它们是否满足奇函数的定义，即当 x 是负数时，函数值等于当 x 是正数时的负数。"
     },
     {
         "id": "test_56",
@@ -781,7 +781,7 @@
         ],
         "question": "只有各年龄组的发病率资料，用()方法计算标化发病率。",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n只有各年龄组的发病率资料，用()方法计算标化发病率。\n\n选项:\n(A) 直接法\n(B) 间接法\n(C) 倒求法\n(D) 等比法\n\n答案:\n",
-        "model_prediction": " 答案:\n(A) 直接法</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_57",
@@ -795,7 +795,7 @@
         ],
         "question": "间接标准化法计算标化死亡率是：",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n间接标准化法计算标化死亡率是：\n\n选项:\n(A) SMR×标准人口死亡率\n(B) SMR×标准人口总数\n(C) SIR×标准人口总数\n(D) SIR×标准人口死亡率\n\n答案:\n",
-        "model_prediction": " (A) SMR×标准人口死亡率\n\n解释：间接标准化法（indirect standardization）用于计算标化死亡率（standardized mortality rate，简称SMR）。SMR的计算公式是：\n\nSMR = (实际死亡人数 / 实际人口数) / (预期死亡人数 / 标准人口数)\n\n因此，正确的选项是(A) SMR×标准人口死亡率。</s>"
+        "model_prediction": "(A) SMR×标准人口死亡率"
     },
     {
         "id": "test_58",
@@ -809,7 +809,7 @@
         ],
         "question": "抽样误差是由:",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n抽样误差是由:\n\n选项:\n(A) 测量引起\n(B) 抽样引起\n(C) 计算引起\n(D) 采样结果不准引起\n\n答案:\n",
-        "model_prediction": " (B) 抽样引起</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_59",
@@ -823,7 +823,7 @@
         ],
         "question": "SMR 为：",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\nSMR 为：\n\n选项:\n(A) 实际发病数/预期发病数\n(B) 预期死亡数/实际死亡数\n(C) 实际死亡数/预期死亡数\n(D) 预期发病数/实际发病数\n\n答案:\n",
-        "model_prediction": " 答案:\n(D) 预期发病数/实际发病数\n\n解释：SMR（Standardized Mortality Ratio）是指预期死亡数与实际死亡数的比值。因此，选项(D)预期发病数/实际发病数是正确的。</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_60",
@@ -837,7 +837,7 @@
         ],
         "question": "观察何种疾病死因是造成当地居民死亡的主要死因，用",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n观察何种疾病死因是造成当地居民死亡的主要死因，用\n\n选项:\n(A) 疾病别死亡率\n(B) 某病病死率\n(C) 死亡率\n(D) 死因构成比\n\n答案:\n",
-        "model_prediction": " 答案:(B) 某病病死率</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_61",
@@ -851,7 +851,7 @@
         ],
         "question": "胃蠕动开始的部位是在",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n胃蠕动开始的部位是在\n\n选项:\n(A) 胃窦\n(B) 胃贲门部\n(C) 胃幽门部\n(D) 胃中部\n\n答案:\n",
-        "model_prediction": " (B) 胃贲门部</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_62",
@@ -865,7 +865,7 @@
         ],
         "question": "可使胞质内cAMP水平增高的酶是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n可使胞质内cAMP水平增高的酶是\n\n选项:\n(A) 磷酸酶\n(B) 磷脂酶\n(C) 磷酸二酯酶\n(D) 腺苷酸环化酶\n\n答案:\n",
-        "model_prediction": " (C) 磷酸二酯酶</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_63",
@@ -879,7 +879,7 @@
         ],
         "question": "与线粒体内膜结合疏松容易被提取分离的细胞色素是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n与线粒体内膜结合疏松容易被提取分离的细胞色素是\n\n选项:\n(A) AA3\n(B) P450\n(C) B\n(D) C\n\n答案:\n",
-        "model_prediction": " 我将分析每个选项，并尝试找出与线粒体内膜结合的细胞色素。\n\n(A) AA3：AA3是谷氨酸氨基转移酶（aspartate aminotransferase，简称AA3）的缩写。AA3是一种存在于细胞中的酶，但它不与线粒体内膜结合，因此不符合问题的要求。\n\n(B) P450：P450是一种广泛存在于生物体内的酶。这些酶在生物体内参与多种代谢反应，但它们不与线"
+        "model_prediction": "(B) P450"
     },
     {
         "id": "test_64",
@@ -893,7 +893,7 @@
         ],
         "question": "在糖的有氧化过程，有几次底物水平磷酸化",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n在糖的有氧化过程，有几次底物水平磷酸化\n\n选项:\n(A) 4\n(B) 3\n(C) 2\n(D) 1\n\n答案:\n",
-        "model_prediction": " 答案:\n(C) 2\n\n解释:\n在糖的有氧化过程中，底物水平磷酸化（Substrate-level phosphorylation）发生两次。首先，在糖分解的第一阶段中，葡萄糖被分解成三羧酸。三羧酸循环中的关键反应是磷酸肌酸（ATP）被转化为磷酸腺苷（ADP）和磷酸（Pi）。这个过程需要底物水平磷酸化。之后，在第二阶段中，三羧酸再被分解"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_65",
@@ -907,7 +907,7 @@
         ],
         "question": "胆汁中于消化有关的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n胆汁中于消化有关的是\n\n选项:\n(A) 胆固醇\n(B) 胆色素\n(C) 胆绿素\n(D) 胆盐\n\n答案:\n",
-        "model_prediction": " 答案:\n(A) 胆固醇\n\n解释:\n胆汁是一种由肝脏分泌的液体，主要用于消化脂肪。胆汁中的主要成分包括胆固醇,胆色素,胆绿素,胆盐等。其中，胆固醇是胆汁中用于消化脂肪的主要成分。\n\n其他选项的解释：\n(B) 胆色素：胆色素是胆汁中的一种色素，用于保护胆汁中的脂质免受氧化的损"
+        "model_prediction": "(C) 胆绿素"
     },
     {
         "id": "test_66",
@@ -921,7 +921,7 @@
         ],
         "question": "关系数据库中的数据逻辑结构是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n关系数据库中的数据逻辑结构是\n\n选项:\n(A) ⼆维表格\n(B) 层次结构\n(C) 树形结构\n(D) ⽹状结构\n\n答案:\n",
-        "model_prediction": " (C) 树形结构</s>"
+        "model_prediction": "(D) 网状结构"
     },
     {
         "id": "test_67",
@@ -935,7 +935,7 @@
         ],
         "question": "下⾯属于端系统之间的协议是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n下⾯属于端系统之间的协议是\n\n选项:\n(A) TCP\n(B) PPP\n(C) IP\n(D) ARP\n\n答案:\n",
-        "model_prediction": " (C) IP</s>"
+        "model_prediction": "(C) IP"
     },
     {
         "id": "test_68",
@@ -949,7 +949,7 @@
         ],
         "question": "下列选项中，不属于线性结构的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n下列选项中，不属于线性结构的是\n\n选项:\n(A) 队列\n(B) 线性表\n(C) ⽹\n(D) 栈\n\n答案:\n",
-        "model_prediction": " (C) 网</s>"
+        "model_prediction": "(C) 网"
     },
     {
         "id": "test_69",
@@ -963,7 +963,7 @@
         ],
         "question": "RAM代表的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\nRAM代表的是\n\n选项:\n(A) ⾼速缓存器\n(B) 只读存储器\n(C) 随机存储器\n(D) 软盘存储器\n\n答案:\n",
-        "model_prediction": " (C) 随机存储器</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_70",
@@ -977,7 +977,7 @@
         ],
         "question": "算法的基本结构中不包括",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n算法的基本结构中不包括\n\n选项:\n(A) 循环结构\n(B) 顺序结构\n(C) 选择结构\n(D) 逻辑结构\n\n答案:\n",
-        "model_prediction": " The task is asking you to analyze the given options and choose the unique correct answer from the list. If you are unsure, you should choose the option that you think is most likely.\n\nHere are the options:\n(A) 循环结构\n(B) 顺序结构\n(C) 选择结构\n(D) 逻辑结构\n\nThe answer is (B) 顺序结构.</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_71",
@@ -991,7 +991,7 @@
         ],
         "question": "2003年上半年发生的较有影响的计算机及网络病毒是什么",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n2003年上半年发生的较有影响的计算机及网络病毒是什么\n\n选项:\n(A) SARS\n(B) 小球病毒\n(C) SQL杀手蠕虫\n(D) 手机病毒\n\n答案:\n",
-        "model_prediction": " 答案:\n(C) SQL杀手蠕虫\n\n2003年上半年发生的较有影响的计算机及网络病毒是SQL杀手蠕虫。这个蠕虫病毒在2003年5月开始广泛传播，主要攻击运行Microsoft SQL Server数据库的电脑系统。SQL杀手蠕虫导致许多企业和组织的数据库遭受破坏，导致业务中断和巨额损失。</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_72",
@@ -1005,7 +1005,7 @@
         ],
         "question": "以下不属于网络安全控制技术的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n以下不属于网络安全控制技术的是\n\n选项:\n(A) 访问控制技术\n(B) 防火墙技术\n(C) 数据备份与容灾技术\n(D) 入侵检测技术\n\n答案:\n",
-        "model_prediction": " The correct answer is (C) 数据备份与容灾技术.\n\nStep 1: Analyze the options\n(A) 访问控制技术: This is a technique used to control access to resources based on the user's identity and permissions.\n(B) 防火墙技术: This is a technique used to protect a computer network from unauthorized access or attacks.\n(C) 数据备份与容灾技术: This is a technique used to protect data by creating backups and ensuring data availability in case of system failures or disasters.\n(D) 入侵检测技术: This is a technique used to monitor a computer network for signs of unauthorized"
+        "model_prediction": "(C) 数据备份与容灾技术"
     },
     {
         "id": "test_73",
@@ -1019,7 +1019,7 @@
         ],
         "question": "人为的安全威胁包括主动攻击和被动攻击，以下属于被动攻击的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n人为的安全威胁包括主动攻击和被动攻击，以下属于被动攻击的是\n\n选项:\n(A) 后门\n(B) 特洛伊木马\n(C) 拒绝服务攻击\n(D) 流量分析\n\n答案:\n",
-        "model_prediction": " 答案:\n(C) 拒绝服务攻击</s>"
+        "model_prediction": "(A) 后门"
     },
     {
         "id": "test_74",
@@ -1033,7 +1033,7 @@
         ],
         "question": "以下选项中，不属于生物识别方法的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n以下选项中，不属于生物识别方法的是\n\n选项:\n(A) 指纹识别\n(B) 个人标记号识别\n(C) 掌纹识别\n(D) 人脸识别\n\n答案:\n",
-        "model_prediction": " (B) 个人标记号识别</s>"
+        "model_prediction": "(B) 个人标记号识别"
     },
     {
         "id": "test_75",
@@ -1047,7 +1047,7 @@
         ],
         "question": "信息网络安全的第一个时代",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n信息网络安全的第一个时代\n\n选项:\n(A) 九十年代中叶\n(B) 世纪之交\n(C) 专网时代\n(D) 九十年代中叶前\n\n答案:\n",
-        "model_prediction": " 答案:\n(A) 九十年代中叶</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_76",
@@ -1061,7 +1061,7 @@
         ],
         "question": "一平面简谐波在弹性媒质中传播，在某一瞬时，媒质中某质元正处于平衡位置，此时它的能量是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n一平面简谐波在弹性媒质中传播，在某一瞬时，媒质中某质元正处于平衡位置，此时它的能量是\n\n选项:\n(A) 动能为零，势能最大\n(B) 动能为零，势能为零\n(C) 动能最大，势能为零\n(D) 动能最大，势能最大\n\n答案:\n",
-        "model_prediction": " (B) 动能为零，势能为零\n\n解释：在弹性媒质中，简谐波的传播与媒质的弹性有关。当质元处于平衡位置时，它的速度为零，因此动能为零。由于质元处于平衡位置，它的势能也为零。因此，选项(B)是正确的答案。</s>"
+        "model_prediction": "(B) 动能为零，势能为零"
     },
     {
         "id": "test_77",
@@ -1075,7 +1075,7 @@
         ],
         "question": "一质点在光滑平面上，在外力作用下沿某一曲线运动，若突然将外力撤消，则该质点将作",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n一质点在光滑平面上，在外力作用下沿某一曲线运动，若突然将外力撤消，则该质点将作\n\n选项:\n(A) 匀速率曲线运动\n(B) 减速运动\n(C) 停止运动\n(D) 匀速直线运动\n\n答案:\n",
-        "model_prediction": " 答案:\n(C) 停止运动\n\n解释:\n当外力作用于质点时，质点沿着曲线运动。然而，当外力突然撤消，质点就不会受到外力影响，自然会停止运动。因此，正确答案是(C) 停止运动。</s>"
+        "model_prediction": "(C) 停止运动"
     },
     {
         "id": "test_78",
@@ -1089,7 +1089,7 @@
         ],
         "question": "下列关于重力概念的说法中，正确的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n下列关于重力概念的说法中，正确的是\n\n选项:\n(A) 空间向上飘的气球没有受到重力\n(B) 重力方向总是垂直于物体的支持面\n(C) 粉笔在使用时，质量变小，重力变小\n(D) 重力不随物体位置变化而变化\n\n答案:\n",
-        "model_prediction": " (B) 重力方向总是垂直于物体的支持面\n\n解释：\n\n(A) 空间向上飘的气球没有受到重力：这是错误的说法，因为气球在空间中依然受到地球的引力，气球上升是因为气球内的气体比周围空气的气压高，气球内的气体因此向下压缩，气球向上升。\n\n(C) 粉笔在使用时，质量变小，重力变小：这是错误的说法，因为重力只与物体的质量有关"
+        "model_prediction": "(B) 重力方向总是垂直于物体的支持面"
     },
     {
         "id": "test_79",
@@ -1103,7 +1103,7 @@
         ],
         "question": "关于简谐振动，下列说法中正确的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n关于简谐振动，下列说法中正确的是\n\n选项:\n(A) 质点在最大位移处，动能最大\n(B) 同一周期内没有两个完全相同的振动状态\n(C) 质点在最大位移处，振动的速度最大\n(D) 质点在平衡位置处，振动的速度为零\n\n答案:\n",
-        "model_prediction": " (B) 同一周期内没有两个完全相同的振动状态\n\n解释: 简谐振动（harmonic oscillation）指的是一个系统在无阻力和无摩擦的情况下，进行周期性的振动。这种振动具有几个特征，其中一个特点是同一周期内没有两个完全相同的振动状态。这是因为简谐振动是一个周期性变化的过程，振动的速度和位移随时间的变化而变化，导致振动状态的差异。\n\n其他选项的解释如下：\n\n(A) 质点在最大"
+        "model_prediction": "(B) 同一周期内没有两个完全相同的振动状态"
     },
     {
         "id": "test_80",
@@ -1117,7 +1117,7 @@
         ],
         "question": "电路中能产生持续电流的条件是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n电路中能产生持续电流的条件是\n\n选项:\n(A) 电路中有开关\n(B) 电路中有电源\n(C) 电路中有用电器\n(D) 电路中有电源，还要形成通路\n\n答案:\n",
-        "model_prediction": " (D) 电路中有电源，还要形成通路\n\n解释：电路中产生持续电流的条件是有电源和形成通路。电源是提供电能的设备，而通路是指电路中连接电源和用电器的导线。当电源供应充足并且形成通路时，电流便会持续流动，从而提供电能给用电器。</s>"
+        "model_prediction": "(D) 电路中有电源，还要形成通路"
     },
     {
         "id": "test_81",
@@ -1131,7 +1131,7 @@
         ],
         "question": "下列溶剂中能将沥青裂解蒸馏出的油分完全溶解的溶剂是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n下列溶剂中能将沥青裂解蒸馏出的油分完全溶解的溶剂是\n\n选项:\n(A) 工业酒精\n(B) 石油醚\n(C) 乙醇\n(D) 乙醚\n\n答案:\n",
-        "model_prediction": " (B) 石油醚</s>"
+        "model_prediction": "(B) 石油醚"
     },
     {
         "id": "test_82",
@@ -1145,7 +1145,7 @@
         ],
         "question": "路面厚度评定的否决指标是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n路面厚度评定的否决指标是\n\n选项:\n(A) 单点合格值\n(B) 厚度代表值\n(C) 单点极值\n(D) 厚度平均值\n\n答案:\n",
-        "model_prediction": " The answer is (B) 厚度代表值.\n\nIn order to analyze and select the correct answer from the given options, let's first understand the context and meaning of each option:\n\n(A) 单点合格值 (Single-point passing value): This refers to the minimum acceptable thickness of a road surface at a specific point. It doesn't necessarily represent the overall thickness of the road surface.\n\n(B) 厚度代表值 (Thickness representative value): This refers to the average thickness of the road surface at a specific point or along a certain stretch. It represents the overall thickness of the road surface.\n\n(C) 单点极值 ("
+        "model_prediction": "答案:"
     },
     {
         "id": "test_83",
@@ -1159,7 +1159,7 @@
         ],
         "question": "下列水泵中、可以连续给液体施加能量的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n下列水泵中、可以连续给液体施加能量的是\n\n选项:\n(A) 轴流泵\n(B) 射流泵\n(C) 齿轮泵\n(D) 活塞泵\n\n答案:\n",
-        "model_prediction": " (A) 轴流泵</s>"
+        "model_prediction": "(A) 轴流泵"
     },
     {
         "id": "test_84",
@@ -1173,7 +1173,7 @@
         ],
         "question": "路面沥青层渗水系数宜在什么时间进行测定",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n路面沥青层渗水系数宜在什么时间进行测定\n\n选项:\n(A) 交工验收前\n(B) 碾压成型后\n(C) 交工验收后\n(D) 通车一年后\n\n答案:\n",
-        "model_prediction": " 答案:\n(A) 交工验收前\n\n分析:\n在沥青路面的施工过程中，渗水系数的测定非常重要。渗水系数是指沥青层的渗透率，它可以反映沥青层的密度和质量。渗水系数的测定可以帮助工程师评估路面的稳定性,耐久性和防水性能。\n\n因此，在交工验收前进行渗水系数测定是合适的。这样可以确保沥青层的质量达到预期标准，并尽"
+        "model_prediction": "(B) 碾压成型后"
     },
     {
         "id": "test_85",
@@ -1187,7 +1187,7 @@
         ],
         "question": "悬臂式和锚定式挡土墙属于",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n悬臂式和锚定式挡土墙属于\n\n选项:\n(A) 桩、墙式\n(B) 扶壁式\n(C) 固定式\n(D) 重力式\n\n答案:\n",
-        "model_prediction": " (A) 桩、墙式</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_86",
@@ -1201,7 +1201,7 @@
         ],
         "question": "根据消费函数，随着收入增长，消费将",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n根据消费函数，随着收入增长，消费将\n\n选项:\n(A) 下降较小份额\n(B) 增长较小份额\n(C) 增长更大份额\n(D) 增长相同份额\n\n答案:\n",
-        "model_prediction": " 答案:\n(C) 增长更大份额\n\n解释:\n根据消费函数，随着收入增长，消费也会增加。因此，正确答案是(C) 增长更大份额，这意味着当收入增加时，消费也会增加，但增加的幅度可能会比收入增长幅度更大。</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_87",
@@ -1215,7 +1215,7 @@
         ],
         "question": "在新产品定价时的渗透定价策略是指",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n在新产品定价时的渗透定价策略是指\n\n选项:\n(A) 价格定得较低\n(B) 价格定得很低\n(C) 价格定得很高\n(D) 价格定得较高\n\n答案:\n",
-        "model_prediction": " 答案:(A) 价格定得较低\n\n分析:\n\n问题的关键在于\"渗透定价策略\"，这个策略的目的是使产品能够更广泛地进入市场。\n\n选项(A) 价格定得较低：在这个选项中，产品定价较低，能够吸引更多消费者购买，进而增加产品的渗透率。这符合渗透定价策略的目的。\n\n选项(B) 价格定得很低：这个选项的价格更低，但与选项(A)的差别不大。两者都符合"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_88",
@@ -1229,7 +1229,7 @@
         ],
         "question": "可以用于企业决策基础的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n可以用于企业决策基础的是\n\n选项:\n(A) 正常利润\n(B) 最大利润\n(C) 经济利润\n(D) 会计利润\n\n答案:\n",
-        "model_prediction": " 答案: (C) 经济利润\n\n解释: 在企业决策中，经济利润是最常用的利润类型。它是指企业在扣除所有生产要素的价格后所剩下的盈余。经济利润考虑到企业在市场中的竞争情况，并且能够帮助企业进行有效的资源配置和决策。\n\n(A) 正常利润：这是指企业在正常的市场情况下所能获得的利润。它不一定是最大的利润，但在正常的市场环境下，企业可以获得的利润水平。\n\n(B) 最"
+        "model_prediction": "(C) 经济利润"
     },
     {
         "id": "test_89",
@@ -1243,7 +1243,7 @@
         ],
         "question": "当边际产量为零时",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n当边际产量为零时\n\n选项:\n(A) 总产量最大\n(B) 平均产量最大\n(C) 平均产量为零\n(D) 总产量为零\n\n答案:\n",
-        "model_prediction": " A\n\nTo analyze the given problem, we need to understand the concepts of marginal, average, and total production.\n\n1. Marginal Production: The change in total production resulting from the production of one additional unit of output.\n\n2. Average Production: Total production divided by the number of units produced.\n\n3. Total Production: The total quantity of output produced.\n\nNow, let's consider the given statement: \"When the marginal product is zero.\"\n\nThis statement means that the production of one additional unit of output does not increase the total production. In other words, the marginal product is zero, and the total production remains constant.\n\nNow, let"
+        "model_prediction": "(C) 平均产量为零"
     },
     {
         "id": "test_90",
@@ -1257,7 +1257,7 @@
         ],
         "question": "当需求的收入弹性为正值时，则这种产品应为",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n当需求的收入弹性为正值时，则这种产品应为\n\n选项:\n(A) 正常货\n(B) 高档货\n(C) 都有可能\n(D) 低档货\n\n答案:\n",
-        "model_prediction": " 正确答案是(A)正常货。\n\n解释：\n\n收入弹性（income elasticity of demand）是衡量消费者对于产品价格变化的反应。收入弹性为正值表示消费者在收入增加时，会增加购买该产品的数量。这种情况下，产品属于正常货（necessities）或高档货（luxuries），这取决于产品的属性。\n\n正常货（necessities）是人们每天生活中必需品，例如食物,水,衣服等。这些产品的需求通常不受收入变化的影响，因为人们仍需要这些基本品"
+        "model_prediction": "(A) 正常货"
     },
     {
         "id": "test_91",
@@ -1271,7 +1271,7 @@
         ],
         "question": "以下不属于职业教育课程模式特点的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n以下不属于职业教育课程模式特点的是\n\n选项:\n(A) 共适性\n(B) 多样性\n(C) 直接性\n(D) 应变性\n\n答案:\n",
-        "model_prediction": " The answer is (C) 直接性\n\nStep 1: Analyze the given options\n(A) 共适性: This means adaptability, which is a characteristic of professional education.\n(B) 多样性: This means diversity, which is also a characteristic of professional education.\n(C) 直接性: This means directness, which is not a characteristic of professional education.\n(D) 应变性: This means flexibility, which is another characteristic of professional education.\n\nStep 2: Choose the option that does not fit the characteristics of professional education\nThe option (C) 直接性 does not fit the characteristics of professional"
+        "model_prediction": "(C) 直接性"
     },
     {
         "id": "test_92",
@@ -1285,7 +1285,7 @@
         ],
         "question": "学科课程的代表人物是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n学科课程的代表人物是\n\n选项:\n(A) 赞可夫\n(B) 布鲁纳\n(C) 罗杰斯\n(D) 赫尔巴特\n\n答案:\n",
-        "model_prediction": " To answer this question, we will analyze each of the options provided and identify the most appropriate answer. \n\nOption A: 赞可夫 (Zankov) - He was a Soviet psychologist and philosopher, primarily known for his work on the psychology of personality and the history of psychology. He did not specifically focus on the subject of the question, which is about the representation of a subject in a course.\n\nOption B: 布鲁纳 (Bruner) - He was an American psychologist who focused on cognitive development, particularly in the areas of perception, language, and thinking. He is known for his work on the \"spiral curriculum"
+        "model_prediction": "(B) 布鲁纳"
     },
     {
         "id": "test_93",
@@ -1299,7 +1299,7 @@
         ],
         "question": "职业学校的中心工作是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n职业学校的中心工作是\n\n选项:\n(A) 师资队伍建设\n(B) 专业建设\n(C) 学风建设\n(D) 校风建设\n\n答案:\n",
-        "model_prediction": " To analyze and select the unique correct answer from the given options, let's examine each option:\n\n(A) 师资队伍建设 - Teacher workforce development\n(B) 专业建设 - Professional development\n(C) 学风建设 - Academic culture development\n(D) 校风建设 - School culture development\n\nNow, let's consider the main focus of a vocational school:\n\nVocational schools, also known as career or technical schools, primarily focus on providing students with practical skills and knowledge needed for specific occupations.\n\nTaking this into account, let's evaluate each option:\n\n(A) 师资队伍建设 - This option focuses on developing the"
+        "model_prediction": "(B) 专业建设"
     },
     {
         "id": "test_94",
@@ -1313,7 +1313,7 @@
         ],
         "question": "下级的意见和信息向上级反映叫作哪种沟通",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n下级的意见和信息向上级反映叫作哪种沟通\n\n选项:\n(A) 上行\n(B) 平行\n(C) 下行\n(D) 正式\n\n答案:\n",
-        "model_prediction": " 答案: (C) 下行</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_95",
@@ -1327,7 +1327,7 @@
         ],
         "question": "在我国最早的管理学家是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n在我国最早的管理学家是\n\n选项:\n(A) 孟子\n(B) 荀子\n(C) 孔子\n(D) 老子\n\n答案:\n",
-        "model_prediction": " (B) 荀子</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_96",
@@ -1341,7 +1341,7 @@
         ],
         "question": "在跳闸命令和合闸命令同时存在时，应保证",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n在跳闸命令和合闸命令同时存在时，应保证\n\n选项:\n(A) 连续动作\n(B) 跳闸\n(C) 不动\n(D) 合闸\n\n答案:\n",
-        "model_prediction": " To analyze the provided options and choose the unique correct answer, let's first understand the context of the question.\n\nThe question is about jump and merge commands, which are likely related to traffic or train systems where vehicles need to jump over or merge with other vehicles.\n\nNow let's evaluate the options:\n\n(A) 连续动作 (Continuous action): This option is not specific enough and doesn't directly relate to jump and merge commands.\n\n(B) 跳闸 (Jump barrier): This option is related to the jump command, which could refer to vehicles jumping over a barrier.\n\n(C) 不动 (Not moving): This option doesn't seem"
+        "model_prediction": "(B) 跳闸"
     },
     {
         "id": "test_97",
@@ -1355,7 +1355,7 @@
         ],
         "question": "力对物体的作用效果是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n力对物体的作用效果是\n\n选项:\n(A) 平移和转动\n(B) 转动\n(C) 移动\n(D) 作功\n\n答案:\n",
-        "model_prediction": " (D) 作功</s>"
+        "model_prediction": "(D) 作功"
     },
     {
         "id": "test_98",
@@ -1369,7 +1369,7 @@
         ],
         "question": "与变压器气体继电器连接油管的坡度为",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n与变压器气体继电器连接油管的坡度为\n\n选项:\n(A) 2%-4%\n(B) 13%\n(C) 5%\n(D) 1%-5%\n\n答案:\n",
-        "model_prediction": " 答案: (B) 13%</s>"
+        "model_prediction": "(B) 13%"
     },
     {
         "id": "test_99",
@@ -1383,7 +1383,7 @@
         ],
         "question": "钳形电流表中的电流互感器（）一次线圈。",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n钳形电流表中的电流互感器（）一次线圈。\n\n选项:\n(A) 有1匝\n(B) 有5匝\n(C) 无\n(D) 有3匝\n\n答案:\n",
-        "model_prediction": " 我会分析钳形电流表中的电流互感器（）一次线圈的选项，并选择唯一的正确答案。\n\n(A) 有1匝\n(B) 有5匝\n(C) 无\n(D) 有3匝\n\n分析选项：\n(A) 有1匝：如果电流互感器的一次线圈只有1匝，那么它的作用可能会受到限制，因为线圈的匝数越多，电流互感器的转换比率越大，测量的电流范围也就越大。因此，这个选项"
+        "model_prediction": "(B) 有5匝"
     },
     {
         "id": "test_100",
@@ -1397,7 +1397,7 @@
         ],
         "question": "硅钢片中含硅量愈高，其可塑性就",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n硅钢片中含硅量愈高，其可塑性就\n\n选项:\n(A) 不一定变\n(B) 愈小\n(C) 不变\n(D) 愈大\n\n答案:\n",
-        "model_prediction": " (D) 愈大</s>"
+        "model_prediction": "(D) 愈大"
     },
     {
         "id": "test_101",
@@ -1411,7 +1411,7 @@
         ],
         "question": "我们经常吃的洋葱是植物的哪一部分",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n我们经常吃的洋葱是植物的哪一部分\n\n选项:\n(A) 茎\n(B) 叶\n(C) 根\n(D) 果实\n\n答案:\n",
-        "model_prediction": " (C) 根</s>"
+        "model_prediction": "(C) 根"
     },
     {
         "id": "test_102",
@@ -1425,7 +1425,7 @@
         ],
         "question": "世界上地势最低的国家是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n世界上地势最低的国家是\n\n选项:\n(A) 荷兰\n(B) 意大利\n(C) 波兰\n(D) 土耳其\n\n答案:\n",
-        "model_prediction": " Step 1: Analyze the question and options.\nThe question is asking for the country with the lowest elevation in the world.\n\nStep 2: Evaluate each option.\n(A) Netherlands: The Netherlands is a low-lying country with approximately 26% of its land below sea level. However, it is not the world's lowest country.\n(B) Italy: Italy has a diverse landscape, with mountains, plains, and coastal areas. The elevation varies across the country, but it is not the world's lowest country.\n(C) Poland: Poland is a country in Central Europe with a varied landscape, including mountains, plains, and coastal"
+        "model_prediction": "(A) 荷兰"
     },
     {
         "id": "test_103",
@@ -1439,7 +1439,7 @@
         ],
         "question": "有“绿城” 之称的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n有“绿城” 之称的是\n\n选项:\n(A) 贵州\n(B) 海口\n(C) 郑州\n(D) 昆明\n\n答案:\n",
-        "model_prediction": " 答案:\n(C) 郑州\n\n分析：郑州因城市绿化工作做得较好，获得了“绿城”之称。贵州,海口和昆明虽然也在进行绿化工作，但郑州的绿化程度较高，因此被称为“绿城”。</s>"
+        "model_prediction": "(D) 昆明"
     },
     {
         "id": "test_104",
@@ -1453,7 +1453,7 @@
         ],
         "question": "世界上产玉米最多的国家是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n世界上产玉米最多的国家是\n\n选项:\n(A) 俄罗撕\n(B) 美国\n(C) 中国\n(D) 法国\n\n答案:\n",
-        "model_prediction": " (B) 美国</s>"
+        "model_prediction": "(B) 美国"
     },
     {
         "id": "test_105",
@@ -1467,7 +1467,7 @@
         ],
         "question": "交通事故报警电话号码是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n交通事故报警电话号码是\n\n选项:\n(A) 110\n(B) 122\n(C) 120\n(D) 119\n\n答案:\n",
-        "model_prediction": " 答案:\n(C) 120</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_106",
@@ -1481,7 +1481,7 @@
         ],
         "question": "下列不属于获取信息的途径是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n下列不属于获取信息的途径是\n\n选项:\n(A) 看报纸\n(B) 看电视\n(C) 思考\n(D) 讨论\n\n答案:\n",
-        "model_prediction": " (C) 思考</s>"
+        "model_prediction": "(C) 思考"
     },
     {
         "id": "test_107",
@@ -1495,7 +1495,7 @@
         ],
         "question": "以下用于输出音频信息的设备是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n以下用于输出音频信息的设备是\n\n选项:\n(A) 打印机\n(B) 显示器\n(C) 绘图仪\n(D) 音箱\n\n答案:\n",
-        "model_prediction": " To solve this task, we need to analyze the provided options and select the one that is most relevant to outputting audio information.\n\nStep 1: Analyze the options\n(A) A printer is used to print text or images on paper.\n(B) A display is used to show visual information, such as text, images, or videos.\n(C) A drawing instrument is used to create visual art or diagrams.\n(D) An audio device, such as a speaker or sound system, is used to output audio information, such as music, sound effects, or spoken words.\n\nStep 2: Identify the most relevant option\nIn this case"
+        "model_prediction": "(D) 音箱"
     },
     {
         "id": "test_108",
@@ -1509,7 +1509,7 @@
         ],
         "question": "计算机处理信息时， 一个英文字母占用的字节数是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n计算机处理信息时， 一个英文字母占用的字节数是\n\n选项:\n(A) 2\n(B) 4\n(C) 8\n(D) 1\n\n答案:\n",
-        "model_prediction": " The correct answer is (D) 1.\n\nTo determine the number of bytes occupied by an English letter, we need to consider the binary representation of the letter and the encoding used.\n\nIn most cases, English letters are represented using ASCII (American Standard Code for Information Interchange). ASCII assigns a unique 7-bit binary number to each character, including letters, numbers, punctuation marks, and special characters. These 7 bits can represent 2^7 = 128 different characters.\n\nHowever, since there are only 26 letters in the English alphabet, ASCII uses the first 26 characters (0 to 25) to represent the letters"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_109",
@@ -1523,7 +1523,7 @@
         ],
         "question": "计算机断电后， 信息会消失的存储器是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n计算机断电后， 信息会消失的存储器是\n\n选项:\n(A) 软盘\n(B) 光盘\n(C) RAM\n(D) 硬盘\n\n答案:\n",
-        "model_prediction": " (C) RAM\n\n解释:\n计算机断电后，信息会消失的存储器是RAM（随机存取记忆体）。当计算机断电或关机时，RAM中的信息会消失，因为它使用的是动态随机存取记忆体（Dynamic Random Access Memory，DRAM），信息需要不断地刷新才能保持。\n\n相比之下，软盘（A）,光盘（B）和硬盘（D）都是非易失性存储器（non-volatile storage），即它们能够在断电或关机的情况下保持数据"
+        "model_prediction": "(C) RAM"
     },
     {
         "id": "test_110",
@@ -1537,7 +1537,7 @@
         ],
         "question": "在微型计算机中，CPU的名称是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n在微型计算机中，CPU的名称是\n\n选项:\n(A) 运算器\n(B) 中央处理器\n(C) 内存\n(D) 控制器\n\n答案:\n",
-        "model_prediction": " 答案: (B) 中央处理器</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_111",
@@ -1551,7 +1551,7 @@
         ],
         "question": "下列算式中，结果与 不相等的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n下列算式中，结果与 不相等的是\n\n选项:\n(A) 20÷500\n(B) 0.2÷0.5\n(C) 16÷40\n(D) 4÷10\n\n答案:\n",
-        "model_prediction": " 我们将分析每个选项中的算式，并比较它们的结果与 0.4 是否相等。\n\n(A) 20÷500\n20÷500 = 0.04\n\n(B) 0.2÷0.5\n0.2÷0.5 = 0.4\n\n(C) 16÷40\n16÷40 = 0.4\n\n(D) 4÷10\n4÷10 = 0.4\n\n从上述分析中，我们可以看出只有选项 (A) 的结果与 0.4 不相等，其结果为 0."
+        "model_prediction": "(A) 20÷500"
     },
     {
         "id": "test_112",
@@ -1565,7 +1565,7 @@
         ],
         "question": "集合A={1，2,3, 4}的真⼦集个数为",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n集合A={1，2,3, 4}的真⼦集个数为\n\n选项:\n(A) 14\n(B) 10\n(C) 11\n(D) 15\n\n答案:\n",
-        "model_prediction": " 我将根据问题的要求一步一步地分析和解答。\n\n问题要求我们找到集合A的真子集个数。集合A的元素为{1, 2, 3, 4}。真子集是指包含A中的每个元素的子集。\n\n首先，我们需要找出A中的所有元素的真子集：\n\n1. 真子集：{1}\n2. 真子集：{2}\n3. 真子集：{3}\n4. 真子集：{4}\n\n接下来，我们需要将这些真子集组合成更大的真子集"
+        "model_prediction": "我们需要找出集合A的真子集的个数。真子集是指包含在集合A中的每个元素的子集。"
     },
     {
         "id": "test_113",
@@ -1579,7 +1579,7 @@
         ],
         "question": "当X=[ ]时，5X-9=51",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n当X=[ ]时，5X-9=51\n\n选项:\n(A) 8.4\n(B) 1\n(C) 60\n(D) 12\n\n答案:\n",
-        "model_prediction": " To find the correct answer, we need to solve the equation 5X-9=51.\n\nStep 1: Add 9 to both sides of the equation.\n5X-9+9 = 51+9\n5X = 60\n\nStep 2: Divide both sides of the equation by 5.\n5X/5 = 60/5\nX = 12\n\nSo, the correct answer is (D) 12.</s>"
+        "model_prediction": "我们将提供的选项插入到方程式中，并求解："
     },
     {
         "id": "test_114",
@@ -1593,7 +1593,7 @@
         ],
         "question": "下⾯的数与0最接近的⼀个数是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n下⾯的数与0最接近的⼀个数是\n\n选项:\n(A) +5\n(B) -1\n(C) +2\n(D) -5\n\n答案:\n",
-        "model_prediction": " (B) -1</s>"
+        "model_prediction": "(B) -1"
     },
     {
         "id": "test_115",
@@ -1607,7 +1607,7 @@
         ],
         "question": "做⼀个圆柱形通⻛管要⽤多少铁⽪是求",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n做⼀个圆柱形通⻛管要⽤多少铁⽪是求\n\n选项:\n(A) 表⾯积\n(B) 体积\n(C) 侧⾯积\n(D) 底⾯积\n\n答案:\n",
-        "model_prediction": " 我们需要分析问题和选项，找出唯一的正确答案。\n\n问题：\n做一个圆柱形通风管要用多少铁板是求\n\n选项：\n(A) 表面积\n(B) 体积\n(C) 侧面积\n(D) 底面积\n\n分析：\n问题要求的是用多少铁板来做一个圆柱形通风管。我们需要找出与铁板相关的选项。\n\n(A) 表面积：与铁板面积相关\n(B) 体积：与铁板体积相关\n(C) 侧面积：与铁板侧"
+        "model_prediction": "(B) 体积"
     },
     {
         "id": "test_116",
@@ -1621,7 +1621,7 @@
         ],
         "question": "我国共有多少个少数民族",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n我国共有多少个少数民族\n\n选项:\n(A) 56\n(B) 50\n(C) 55\n(D) 51\n\n答案:\n",
-        "model_prediction": " 我将分析每个选项，并从中选择唯一的正确答案。\n\n(A) 56 - 我们可以排除这个选项，因为我国的少数民族数量应该是一个整数，而不是一个包含小数点的数字。\n(B) 50 - 这个选项可以排除，因为根据官方数据，我国的少数民族数量不超过50个。\n(C) 55 - 我们可以排除这个选项，因为根据官方数据，我国的少数民族数量不超过50个。\n(D) 51 - 这个选项可以排除，因为根据官方数据，我国的少"
+        "model_prediction": "我将分析每个选项，并从中选择唯一的正确答案。"
     },
     {
         "id": "test_117",
@@ -1635,7 +1635,7 @@
         ],
         "question": "赶年是（）的传统节日",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n赶年是（）的传统节日\n\n选项:\n(A) 瑶族\n(B) 土家族\n(C) 苗族\n(D) 侗族\n\n答案:\n",
-        "model_prediction": " (D) 侗族</s>"
+        "model_prediction": "(C) 苗族"
     },
     {
         "id": "test_118",
@@ -1649,7 +1649,7 @@
         ],
         "question": "下列民族中哪个民族是新中国成立后更改族称的",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n下列民族中哪个民族是新中国成立后更改族称的\n\n选项:\n(A) 保安族\n(B) 德昂族\n(C) 普米族\n(D) 基诺族\n\n答案:\n",
-        "model_prediction": " (B) 德昂族\n\n分析：根据提供的选项，德昂族是唯一在新中国成立后更改族称的民族。德昂族原名为克伦族，在新中国成立后，由于克伦族的英文拼写与\"克里姆林宫\"相近，可能会造成混淆，因此改称为德昂族。</s>"
+        "model_prediction": "(B) 德昂族"
     },
     {
         "id": "test_119",
@@ -1663,7 +1663,7 @@
         ],
         "question": "民族发展的决定性因素是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n民族发展的决定性因素是\n\n选项:\n(A) 社会生产力的发展\n(B) 经济发展\n(C) 民族精神\n(D) 阶级斗争\n\n答案:\n",
-        "model_prediction": " 答案:\n(A) 社会生产力的发展</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_120",
@@ -1677,7 +1677,7 @@
         ],
         "question": "“抓饭”是（）的特色饮食",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n“抓饭”是（）的特色饮食\n\n选项:\n(A) 藏族\n(B) 维吾尔族\n(C) 苗族\n(D) 朝鲜族\n\n答案:\n",
-        "model_prediction": " (B) 维吾尔族</s>"
+        "model_prediction": "B 维吾尔族"
     },
     {
         "id": "test_121",
@@ -1691,7 +1691,7 @@
         ],
         "question": "全身黄染是食用（）过量",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n全身黄染是食用（）过量\n\n选项:\n(A) 维生素B\n(B) 维生素A\n(C) 维生素C\n(D) 维生素D\n\n答案:\n",
-        "model_prediction": " 答案:\n (B) 维生素A</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_122",
@@ -1705,7 +1705,7 @@
         ],
         "question": "渗毒性强的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n渗毒性强的是\n\n选项:\n(A) 展青霉素\n(B) 赭曲霉毒素\n(C) 黄曲霉毒素\n(D) 橘青霉素\n\n答案:\n",
-        "model_prediction": " 我将分析每个选项的渗毒性强度，并根据我的分析选择唯一的正确答案。\n\n(A) 展青霉素：展青霉素是一种抗生素，用于治疗一些细菌感染。它的渗毒性强度一般不太高，因为它主要作用于细菌，而不是人体组织。\n\n(B) 赭曲霉毒素：赭曲霉毒素是一种神经毒素，主要由赭曲霉菌（Aspergillus flavus）产生。这种毒素具有很强的渗"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_123",
@@ -1719,7 +1719,7 @@
         ],
         "question": "速冻烹饪食品和蔬菜在解冻时宜采用",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n速冻烹饪食品和蔬菜在解冻时宜采用\n\n选项:\n(A) 沸水\n(B) 微波解冻\n(C) 热油\n(D) 以上全部\n\n答案:\n",
-        "model_prediction": " 答案:\n(D) 以上全部</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_124",
@@ -1733,7 +1733,7 @@
         ],
         "question": "泡沫干燥的产品的特点具有",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n泡沫干燥的产品的特点具有\n\n选项:\n(A) 价格低\n(B) 密度高\n(C) 速溶\n(D) 产品发泡\n\n答案:\n",
-        "model_prediction": " (C) 速溶</s>"
+        "model_prediction": "(D) 产品发泡"
     },
     {
         "id": "test_125",
@@ -1747,7 +1747,7 @@
         ],
         "question": "蛋白质在人体中的功能不包括",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n蛋白质在人体中的功能不包括\n\n选项:\n(A) 转运\n(B) 酶\n(C) 储存能量\n(D) 贮存\n\n答案:\n",
-        "model_prediction": " (C) 储存能量</s>"
+        "model_prediction": "(C) 储存能量"
     },
     {
         "id": "test_126",
@@ -1761,7 +1761,7 @@
         ],
         "question": "基因型为AaBBCc的个体所产生的配子种类有",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n基因型为AaBBCc的个体所产生的配子种类有\n\n选项:\n(A) 4种\n(B) 8种\n(C) 2种\n(D) 6种\n\n答案:\n",
-        "model_prediction": " (B) 8种\n\n解释:\n\n基因型AaBBCc表示这个个体拥有A,B,C,c四个基因，每个基因都有两种可能的对立基因（A/a、B/C、c）。因此，每个基因都有两种可能的表达方式。\n\n当这个个体进行配子形成时，每个基因都有两种可能的配子表达方式。例如，基因A有两种可能的配子：A或a。基因B有两种可能的配子：B或C。基因C"
+        "model_prediction": "我将分析每个基因对配子的贡献，并计算出可能的配子种类。"
     },
     {
         "id": "test_127",
@@ -1775,7 +1775,7 @@
         ],
         "question": "组成核酸的核苷酸和碱基各有几种",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n组成核酸的核苷酸和碱基各有几种\n\n选项:\n(A) 4种和4种\n(B) 8种和8种\n(C) 4种和5种\n(D) 8种和5种\n\n答案:\n",
-        "model_prediction": " 答案: (B) 8种和8种\n\n解释: 核酸由核苷酸组成，而核苷酸由碱基和糖苷（sugar phosphate backbone）组成。核酸中常见的核苷酸有四种，即腺嘌呤（adenine，A）,鸟嘌呤（guanine，G）,嘌呤（cytosine，C）和尿嘧啶（thymine，T）。其中，腺嘌呤和鸟嘌呤是嘌"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_128",
@@ -1789,7 +1789,7 @@
         ],
         "question": "以下哪些因素可以导致染色体畸变",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n以下哪些因素可以导致染色体畸变\n\n选项:\n(A) 辐射\n(B) 化学物质\n(C) 正常细胞的生物化学反应\n(D) 以上所有\n\n答案:\n",
-        "model_prediction": " (D) 以上所有\n\n分析:\n\n问题要求分析哪些因素可能导致染色体畸变。我们需要考虑以下因素：\n\n(A) 辐射：高能量辐射（如放射性物质或宇宙射线）可以破坏细胞的DNA，导致染色体畸变。\n(B) 化学物质：一些化学物质（如重金属或有毒化学物质）也可能破坏细胞的DNA，导致染色体畸变。\n(C) 正常细胞的生物化学反应：正常细胞中的生物化学反应可以导致"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_129",
@@ -1803,7 +1803,7 @@
         ],
         "question": "四倍体细胞具有",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n四倍体细胞具有\n\n选项:\n(A) 4对染色体\n(B) 每条染色体具有4个拷贝\n(C) 4条染色体\n(D) 4个核\n\n答案:\n",
-        "model_prediction": " 答案:\n(B) 每条染色体具有4个拷贝\n\n解释:\n四倍体细胞具有4个拷贝的每条染色体。这是因为四倍体细胞拥有两倍于常规细胞的染色体。每个染色体都有两个拷贝，而每个染色体拷贝都有完整的基因组。因此，选项(B)是正确的答案。</s>"
+        "model_prediction": "(B) 每条染色体具有4个拷贝"
     },
     {
         "id": "test_130",
@@ -1817,7 +1817,7 @@
         ],
         "question": "墨西哥影响最大的报纸是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n墨西哥影响最大的报纸是\n\n选项:\n(A) 《至上报》\n(B) 《日报》\n(C) 《墨西哥太阳报》\n(D) 《墨西哥先驱报》\n\n答案:\n",
-        "model_prediction": " (C) 《墨西哥太阳报》</s>"
+        "model_prediction": "(C) 《墨西哥太阳报》"
     },
     {
         "id": "test_131",
@@ -1831,7 +1831,7 @@
         ],
         "question": "目前德国最有影响的新闻周刊是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n目前德国最有影响的新闻周刊是\n\n选项:\n(A) 《经济学家》\n(B) 《财富》\n(C) 《时代》\n(D) 《明镜》\n\n答案:\n",
-        "model_prediction": " (D) 《明镜》</s>"
+        "model_prediction": "答案: (D) 《明镜》"
     },
     {
         "id": "test_132",
@@ -1845,7 +1845,7 @@
         ],
         "question": "克林顿政府对外政策的三大支柱之一是什么",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n克林顿政府对外政策的三大支柱之一是什么\n\n选项:\n(A) 经济安全\n(B) 科技安全\n(C) 社会安全\n(D) 国家安全\n\n答案:\n",
-        "model_prediction": " (D) 国家安全</s>"
+        "model_prediction": "答案: (D) 国家安全"
     },
     {
         "id": "test_133",
@@ -1859,7 +1859,7 @@
         ],
         "question": "从政体上讲，美国是哪种形式的共和制",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n从政体上讲，美国是哪种形式的共和制\n\n选项:\n(A) 邦联制\n(B) 联邦制\n(C) 总统制\n(D) 两党制\n\n答案:\n",
-        "model_prediction": " The task is asking you to analyze the given question and choose the unique correct answer from the provided options. If you are unsure, select the answer that you think is most likely. You do not need to provide an explanation.\n\nQuestion: From a political system perspective, the United States is which type of republic?\n\nOptions:\n(A) Confederacy\n(B) Federation\n(C) Presidential system\n(D) Two-party system\n\nAnswer: (B) Federation</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_134",
@@ -1873,7 +1873,7 @@
         ],
         "question": "战后下列美国总统中属于共和党的是哪一位",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n战后下列美国总统中属于共和党的是哪一位\n\n选项:\n(A) 卡特\n(B) 艾森豪威尔\n(C) 杜鲁门\n(D) 克林顿\n\n答案:\n",
-        "model_prediction": " B\n\n解释：\n\n问题要求我们从给定的选项中选择唯一的正确答案。问题中提到的是战后（World War II之后）的美国总统。\n\n选项A：卡特（Jimmy Carter）是美国第39任总统，他在1977年至1981年担任总统。卡特是民主党的成员，因此不属于共和党。\n\n选项B：艾森豪威尔（Dwight D. Eisenhower）是美国第34任总统，他在1953年至1961年担任总统。艾森豪威尔是共和党的"
+        "model_prediction": "(B) 艾森豪威尔"
     },
     {
         "id": "test_135",
@@ -1887,7 +1887,7 @@
         ],
         "question": "给健康大鼠静脉注射大量的低渗食盐水后，下列变化合理的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n给健康大鼠静脉注射大量的低渗食盐水后，下列变化合理的是\n\n选项:\n(A) 大鼠的排尿量增加\n(B) 肾小管重吸收水能力增强\n(C) 胰岛B细胞分泌胰岛素增加\n(D) 细胞外液渗透压升高\n\n答案:\n",
-        "model_prediction": " 答案: (D) 细胞外液渗透压升高</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_136",
@@ -1901,7 +1901,7 @@
         ],
         "question": "下列生理活动与生物膜无关的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n下列生理活动与生物膜无关的是\n\n选项:\n(A) tRNA携带氨基酸进入核糖体\n(B) [H]和氧气结合生成水\n(C) 神经递质释放到突触间隙\n(D) 唾液腺细胞分泌唾液淀粉酶\n\n答案:\n",
-        "model_prediction": " C\n\n解释: 生物膜是一种细菌或其他微生物形成的薄膜，通常附着在各种表面。生物膜中的细菌和其他微生物通过各种生理活动来生存和繁殖。然而，突触间隙释放神经递质并不属于生物膜的生理活动。\n\n(A) tRNA携带氨基酸进入核糖体是蛋白质合成的过程，属于细胞内的生理活动，不与生物膜有关。\n(B) [H]和氧气结合生成水是细胞呼吸的一部分，属于细胞"
+        "model_prediction": "(C) 神经递质释放到突触间隙"
     },
     {
         "id": "test_137",
@@ -1915,7 +1915,7 @@
         ],
         "question": "将一株质量为20 g的黄瓜幼苗栽种在光照等适宜的环境中，一段时间后植株达到40 g，其增加的质量来自于",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n将一株质量为20 g的黄瓜幼苗栽种在光照等适宜的环境中，一段时间后植株达到40 g，其增加的质量来自于\n\n选项:\n(A) 水、矿质元素和土壤\n(B) 光、矿质元素和水\n(C) 光、矿质元素和空气\n(D) 水、矿质元素和空气\n\n答案:\n",
-        "model_prediction": " 答案:\n(B) 光、矿质元素和水</s>"
+        "model_prediction": "(B) 光、矿质元素和水"
     },
     {
         "id": "test_138",
@@ -1929,7 +1929,7 @@
         ],
         "question": "关于蛋白质的叙述，错误的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n关于蛋白质的叙述，错误的是\n\n选项:\n(A) 人体血浆中含有浆细胞分泌的蛋白质\n(B) DNA和蛋白质是染色体的组成成分\n(C) 核糖体上合成的蛋白质不能在细胞核中发挥作用\n(D) rRNA能参与蛋白质的生物合成\n\n答案:\n",
-        "model_prediction": " (C) 核糖体上合成的蛋白质不能在细胞核中发挥作用</s>"
+        "model_prediction": "(C) 核糖体上合成的蛋白质不能在细胞核中发挥作用"
     },
     {
         "id": "test_139",
@@ -1943,7 +1943,7 @@
         ],
         "question": "下列关于细胞凋亡的叙述，错误的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n下列关于细胞凋亡的叙述，错误的是\n\n选项:\n(A) 细胞凋亡不出现在胚胎发育过程中\n(B) 被病原体感染的细胞可通过细胞凋亡清除\n(C) 细胞凋亡受细胞自身基因的调控\n(D) 细胞凋亡也称为细胞编程性死亡\n\n答案:\n",
-        "model_prediction": " A</s>"
+        "model_prediction": "(A) 细胞凋亡不出现在胚胎发育过程中"
     },
     {
         "id": "test_140",
@@ -1957,7 +1957,7 @@
         ],
         "question": "分子式为C4H8Cl2的同分异构体有(不考虑立体异构)",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n分子式为C4H8Cl2的同分异构体有(不考虑立体异构)\n\n选项:\n(A) 7种\n(B) 10种\n(C) 8种\n(D) 9种\n\n答案:\n",
-        "model_prediction": " C4H8Cl2的同分异构体有8种。因此，正确答案是(C) 8种。</s>"
+        "model_prediction": "我们首先需要了解分子式C4H8Cl2的结构。这个分子有两个氯原子，所以我们需要考虑氯原子的排列。"
     },
     {
         "id": "test_141",
@@ -1971,7 +1971,7 @@
         ],
         "question": "中华民族的发明创造为人类文明进步做出了巨大贡献。下列我国古代发明中，不涉及化学反应的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n中华民族的发明创造为人类文明进步做出了巨大贡献。下列我国古代发明中，不涉及化学反应的是\n\n选项:\n(A) 湿法炼铜\n(B) 打磨磁石制指南针\n(C) 铁的冶炼\n(D) 烧结粘土制陶瓷\n\n答案:\n",
-        "model_prediction": " The task is asking you to analyze the provided information and choose the unique correct answer from the given options. If you are unsure, you should choose the answer that seems most likely, without providing any explanation.\n\nThe question is about the contributions of Chinese inventions and innovations to human civilization. The task is to identify which of the following ancient Chinese inventions does not involve a chemical reaction:\n\n(A) Wet method for smelting copper\n(B) Polishing a magnet to make a compass\n(C) Iron smelting\n(D) Firing clay to make ceramics\n\nThe answer is (B) Polishing a magnet to make a compass. This"
+        "model_prediction": "(B) 打磨磁石制指南针"
     },
     {
         "id": "test_142",
@@ -1985,7 +1985,7 @@
         ],
         "question": "下列物质性质与应用对应关系正确的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n下列物质性质与应用对应关系正确的是\n\n选项:\n(A) 晶体硅熔点高硬度大，可用于制作半导体材料\n(B) 氧化铁能与酸反应，可用于是制作红色涂料\n(C) 氢氧化铝具有弱碱性，可用于制胃酸中和剂\n(D) 漂白粉在空气中不稳定，可用于漂白纸张\n\n答案:\n",
-        "model_prediction": " (C) 氢氧化铝具有弱碱性，可用于制胃酸中和剂</s>"
+        "model_prediction": "(A) 晶体硅熔点高硬度大，可用于制作半导体材料"
     },
     {
         "id": "test_143",
@@ -1999,7 +1999,7 @@
         ],
         "question": "防冻剂是一种能在低温下防止物料中水分结冰的物质，下列可用于防冻剂的物质中，含有氮元素的有机物是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n防冻剂是一种能在低温下防止物料中水分结冰的物质，下列可用于防冻剂的物质中，含有氮元素的有机物是\n\n选项:\n(A) 亚硝酸钠[NaNO2]\n(B) 氯化钙[CaCl2]\n(C) 尿素[CO(NH2)2]\n(D) 甲醇[CH3OH]\n\n答案:\n",
-        "model_prediction": " (A) 亚硝酸钠[NaNO2]</s>"
+        "model_prediction": "(C) 尿素[CO(NH2)2]"
     },
     {
         "id": "test_144",
@@ -2013,7 +2013,7 @@
         ],
         "question": "分子式为C4H10O并能与金属钠反应放出氢气的有机物有",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n分子式为C4H10O并能与金属钠反应放出氢气的有机物有\n\n选项:\n(A) 6种\n(B) 5种\n(C) 4种\n(D) 3种\n\n答案:\n",
-        "model_prediction": " 我们可以通过以下步骤分析这个问题：\n\n1. 首先，我们知道分子式为C4H10O的有机物的化学式是C4H10O。\n2. 接下来，我们需要找到能与金属钠反应放出氢气的有机物。\n3. 有机物与金属钠的反应通常是通过加盐（NaOH）和乙醇（C2H5OH）来进行。\n4. 通过分析有机物的结构和化学性质，我们可以排除一些可能的有机物。\n5. 在分析"
+        "model_prediction": "(D) 3种"
     },
     {
         "id": "test_145",
@@ -2027,7 +2027,7 @@
         ],
         "question": "世界面积最大的内陆国家是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n世界面积最大的内陆国家是\n\n选项:\n(A) 巴基斯坦\n(B) 哈萨克斯坦\n(C) 吉尔吉斯斯坦\n(D) 塔吉克斯坦\n\n答案:\n",
-        "model_prediction": " (B) 哈萨克斯坦</s>"
+        "model_prediction": "(B) 哈萨克斯坦"
     },
     {
         "id": "test_146",
@@ -2041,7 +2041,7 @@
         ],
         "question": "早春季节，融雪漏⽃的形成，会导致胡杨树主⼲周围",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n早春季节，融雪漏⽃的形成，会导致胡杨树主⼲周围\n\n选项:\n(A) 积雪厚度变⼤\n(B) 地下⽔位下降\n(C) 植被数量增加\n(D) ⾍害概率减⼩\n\n答案:\n",
-        "model_prediction": " (B) 地下水位下降\n\n解释：早春季节融雪时，融化的雪水会渗入土壤，导致地下水位下降。地下水位下降会导致土壤中的水分减少，胡杨树周围的土壤缺水。缺水的情况会影响胡杨树的生长和健康，包括增加融雪漏水的可能性。</s>"
+        "model_prediction": "(B) 地下⽔位下降"
     },
     {
         "id": "test_147",
@@ -2055,7 +2055,7 @@
         ],
         "question": "⼤洋板块与⼤陆板块碰撞，可能形成",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n⼤洋板块与⼤陆板块碰撞，可能形成\n\n选项:\n(A) 岛弧和裂⾕\n(B) 岛弧和海沟\n(C) 海岭和裂⾕\n(D) 海岭和海沟\n\n答案:\n",
-        "model_prediction": " (B) 岛弧和海沟</s>"
+        "model_prediction": "(B) 岛弧和海沟"
     },
     {
         "id": "test_148",
@@ -2069,7 +2069,7 @@
         ],
         "question": "我国⽔资源的空间分布特点是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n我国⽔资源的空间分布特点是\n\n选项:\n(A) 东南多，⻄北少\n(B) ⻄北多，⻄南少\n(C) 北⽅多，南⽅少\n(D) 东北多，⻄南少\n\n答案:\n",
-        "model_prediction": " A) 东南多，⻄北少</s>"
+        "model_prediction": "(B) 西北多，东南少"
     },
     {
         "id": "test_149",
@@ -2083,7 +2083,7 @@
         ],
         "question": "世界上最大的岛屿是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n世界上最大的岛屿是\n\n选项:\n(A) 台湾岛\n(B) 马达加斯加岛\n(C) 格陵兰岛\n(D) 海南岛\n\n答案:\n",
-        "model_prediction": " 答案:\n(B) 马达加斯加岛\n\n分析：\n在给定的选项中，我们可以排除一些不太可能的答案。台湾岛和海南岛都是中国大陆的一部分，因此它们不能是世界上最大的岛屿。格陵兰岛虽然是一个大岛，但它不是世界上最大的岛屿。\n\n因此，我们剩下的选项是马达加斯加岛。根据世界自然基金会的数据，马达加斯加岛是世界上面积最大的岛屿之一。虽然它不是世界上最大的岛屿，但它仍然"
+        "model_prediction": "(C) 格陵兰岛"
     },
     {
         "id": "test_150",
@@ -2097,7 +2097,7 @@
         ],
         "question": "从6位同学中任意选出4位参加公益活动，不同的选法共有",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n从6位同学中任意选出4位参加公益活动，不同的选法共有\n\n选项:\n(A) 15种\n(B) 6种\n(C) 10种\n(D) 30种\n\n答案:\n",
-        "model_prediction": " 我将分析每个选项中的可能性。\n\n(A) 15种：这是一个合理的可能性，因为从6个同学中选出4个，需要排列组合（permutation and combination），其中有15种可能的选法。\n\n(B) 6种：这是一个不可能的选项，因为从6个同学中选出4个，需要排列组合，其中不可能只有6种可能的选法。\n\n(C) 10种：这是一个不可能的选项，因为从6个同学中选出4个，需要排列组合，其中不可能只有10种"
+        "model_prediction": "我将分析每个选项，并从中选择唯一的正确答案。"
     },
     {
         "id": "test_151",
@@ -2111,7 +2111,7 @@
         ],
         "question": "在等差数列中已知a5=5 ，a20=63则a11+a14=",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n在等差数列中已知a5=5 ，a20=63则a11+a14=\n\n选项:\n(A) 80\n(B) 68\n(C) 58\n(D) 70\n\n答案:\n",
-        "model_prediction": " (A) 80\n\n解答：\n首先，我们需要理解等差数列的性质。等差数列的第n项可以通过公式 a_n = a_1 + (n-1)d 得到，其中a_1是第一个项，d是等差的值。\n\n问题中给出了a_5 = 5和a_20 = 63这两个条件，我们可以利用它们来推导出等差数列的其他项。\n\n首先，我们可以利用a_5 = 5和a_20 = 63这两个条件，来计算等差数列的"
+        "model_prediction": "我们首先观察给定的等差数列。我们知道a5=5和a20=63。我们可以利用这些信息来推断出等差数列的公差(d)。"
     },
     {
         "id": "test_152",
@@ -2125,7 +2125,7 @@
         ],
         "question": "已知⼀个等差数列的⾸项为1，公差为3，那么该数列的前5项和为",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n已知⼀个等差数列的⾸项为1，公差为3，那么该数列的前5项和为\n\n选项:\n(A) 10\n(B) 35\n(C) 30\n(D) 20\n\n答案:\n",
-        "model_prediction": " 我们需要计算该等差数列的前5项和。首先，我们需要找到前5项的值。\n\n首项 (a1) = 1\n\n公差 (d) = 3\n\n第n项的公式为：an = a1 + (n-1)d\n\n我们需要找到前5项的值，即 n = 1, 2, 3, 4, 5。\n\n1. a1 = 1 (已知)\n2. a2 = a1 + (2-1)d = 1 + (2-1) * 3 = 1"
+        "model_prediction": "我将分析每个选项，并比较它们与给定等差数列的前五项和是否相符。"
     },
     {
         "id": "test_153",
@@ -2139,7 +2139,7 @@
         ],
         "question": "从6位同学中任意选出4位参加公益活动，不同的选发有",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n从6位同学中任意选出4位参加公益活动，不同的选发有\n\n选项:\n(A) 15种\n(B) 30种\n(C) 6种\n(D) 10种\n\n答案:\n",
-        "model_prediction": " A. 15种</s>"
+        "model_prediction": "(B) 30种"
     },
     {
         "id": "test_154",
@@ -2153,7 +2153,7 @@
         ],
         "question": "若直线x+y+m=0与圆x^2+y^2=m相切，则m=",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n若直线x+y+m=0与圆x^2+y^2=m相切，则m=\n\n选项:\n(A) 无解\n(B) 2\n(C) sqrt{2}\n(D) 0或2\n\n答案:\n",
-        "model_prediction": " 我们首先需要找出直线和圆相切的点。由于直线和圆相切，直线必然是圆的直径。因此，我们可以用直线方程x+y+m=0来表示圆的直径。\n\n现在，我们可以用直线方程来代入圆的标准方程x^2+y^2=r^2。这里，我们将直线方程中的x+y+m=0代入圆方程，得到：\n\nx^2+y^2=m^2\n\n由于直线x+y+m=0是圆的直径，直线的"
+        "model_prediction": "我们将分析这两个方程式之间的关系，并从给定的选项中选择唯一的正确答案。"
     },
     {
         "id": "test_155",
@@ -2167,7 +2167,7 @@
         ],
         "question": "某⼈先向东⾛2m，接着向⻄⾛6m，最后向南⾛3m，则他在这段运动中的位移的⼤⼩和路程分别是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n某⼈先向东⾛2m，接着向⻄⾛6m，最后向南⾛3m，则他在这段运动中的位移的⼤⼩和路程分别是\n\n选项:\n(A) 5m，11m\n(B) 11m，11m\n(C) 5m，5m\n(D) 11m，5m\n\n答案:\n",
-        "model_prediction": " (A) 5m，11m</s>"
+        "model_prediction": "(D) 11m，5m"
     },
     {
         "id": "test_156",
@@ -2181,7 +2181,7 @@
         ],
         "question": "两只灯泡分别接在两个电路中，下列判断正确的是（）",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n两只灯泡分别接在两个电路中，下列判断正确的是（）\n\n选项:\n(A) 在电路中实际功率⼤的灯较亮\n(B) 接在电压⾼的电路两端的那盏灯较亮\n(C) 额定功率⼤的灯泡较亮\n(D) 额定电压⾼的灯泡较亮\n\n答案:\n",
-        "model_prediction": " (B) 接在电压⾼的电路两端的那盏灯较亮</s>"
+        "model_prediction": "(C) 额定功率⼤的灯泡较亮"
     },
     {
         "id": "test_157",
@@ -2195,7 +2195,7 @@
         ],
         "question": "根据打点计时器的纸带，我们可以从纸带直接得到的物理量是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n根据打点计时器的纸带，我们可以从纸带直接得到的物理量是\n\n选项:\n(A) 运动物体的瞬时速度\n(B) 运动物体的加速度\n(C) 运动物体的位移\n(D) 运动物体的平均速度\n\n答案:\n",
-        "model_prediction": " 答案:\n(C) 运动物体的位移\n\n解释:\n\n打点计时器的纸带记录的是时间的变化。根据纸带上的点的间隔，我们可以计算出瞬时速度的变化（选项A），但这不是直接得到的物理量。\n\n同样的，我们可以计算出加速度的变化（选项B），但这也不是直接得到的物理量。\n\n位移（选项C）是指物体从初始位置移动到终止位置的距离。由于打点计时器的纸带记录的是时间的变化，我们可以根据纸带"
+        "model_prediction": "(C) 运动物体的位移"
     },
     {
         "id": "test_158",
@@ -2209,7 +2209,7 @@
         ],
         "question": "油罐⻋后⾯都有⼀条拖地的铁链，其作⽤是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n油罐⻋后⾯都有⼀条拖地的铁链，其作⽤是\n\n选项:\n(A) 把电荷导⼊⼤地，避免由静电造成危害\n(B) 做为油罐⻋的标志\n(C) 发出响声，提醒其他⻋辆和⾏⼈的注意\n(D) 向外界散热\n\n答案:\n",
-        "model_prediction": " (A) 把电荷导⼊⼤地，避免由静电造成危害</s>"
+        "model_prediction": "(A) 把电荷导⼊⼤地，避免由静电造成危害"
     },
     {
         "id": "test_159",
@@ -2223,7 +2223,7 @@
         ],
         "question": "汽⻋以20m/s的速度做匀速直线运动，刹⻋的加速度⼤⼩为5m/s2，那么刹⻋后4s与刹⻋后6s汽⻋通过 的位移之⽐为",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n汽⻋以20m/s的速度做匀速直线运动，刹⻋的加速度⼤⼩为5m/s2，那么刹⻋后4s与刹⻋后6s汽⻋通过 的位移之⽐为\n\n选项:\n(A) 4:3\n(B) 1:1\n(C) 2:3\n(D) 4:9\n\n答案:\n",
-        "model_prediction": " 答案:\n(B) 1:1\n\n解释:\n刹车后的位移与刹车前的位移之比为刹车前的速度与刹车后的速度之比。\n\n刹车前的速度是20m/s。要计算刹车后的速度，我们需要知道刹车后的速度是多少。刹车后的速度是刹车前的速度减去刹车后的速度的变化率（刹车加速度）乘以时间。\n\n刹车加速度是5m/s²，时间是4s。所以刹车后的速度是：\n\n�"
+        "model_prediction": "(B) 1:1"
     },
     {
         "id": "test_160",
@@ -2237,7 +2237,7 @@
         ],
         "question": "下列关于世界贸易组织的表述正确的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n下列关于世界贸易组织的表述正确的是\n\n选项:\n(A) 它是由欧洲联盟、北美自由贸易区等组织合并而成\n(B) 它是少数发达国家控制世界市场的工具\n(C) 它的正式运转标志着世界经济“一超多强”格局的结束\n(D) 它是囊括当今世界经济各领域的多边贸易体制\n\n答案:\n",
-        "model_prediction": " (D) 它是囊括当今世界经济各领域的多边贸易体制\n\n解释：世界贸易组织（WTO）是一个多边贸易体制，旨在促进全球贸易的自由化和便利化。它的成立标志着世界经济多边贸易体制的发展，而不是如选项(C)所说的结束\"一超多强\"格局。关于欧洲联盟和北美自由贸易区等组织的合并，世界贸易组织并非如此组成。选项(B)表述了世界"
+        "model_prediction": "(D) 它是囊括当今世界经济各领域的多边贸易体制"
     },
     {
         "id": "test_161",
@@ -2251,7 +2251,7 @@
         ],
         "question": "在经济学中，人们常说国际贸易是经济增长的“发动机”。之所以这样说，是因为国际贸易",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n在经济学中，人们常说国际贸易是经济增长的“发动机”。之所以这样说，是因为国际贸易\n\n选项:\n(A) 能够发挥一国的经济优势\n(B) 能够为一国赚取外汇\n(C) 是一种复杂的交换活动\n(D) 能满足人们消费多样性的需求\n\n答案:\n",
-        "model_prediction": " (A) 能够发挥一国的经济优势</s>"
+        "model_prediction": "(A) 能够发挥一国的经济优势"
     },
     {
         "id": "test_162",
@@ -2265,7 +2265,7 @@
         ],
         "question": "青瓷是中国著名传统瓷器的一种，以瓷质细腻，线条明快流畅、造型端庄浑朴、色泽纯洁而斑斓著称于世。精美绝伦的青瓷体现了中华文化",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n青瓷是中国著名传统瓷器的一种，以瓷质细腻，线条明快流畅、造型端庄浑朴、色泽纯洁而斑斓著称于世。精美绝伦的青瓷体现了中华文化\n\n选项:\n(A) 体现时代，摒弃传统\n(B) 独树一帜，独领风骚\n(C) 求同存异，兼收并蓄\n(D) 源远流长，唯我独尊\n\n答案:\n",
-        "model_prediction": " (C) 求同存异，兼收并蓄</s>"
+        "model_prediction": "(D) 源远流长，唯我独尊"
     },
     {
         "id": "test_163",
@@ -2279,7 +2279,7 @@
         ],
         "question": "随着市场经济的进一步发展，我国企业越来越重视对知识产权、商标的申请和保护。这一现象主要体现了市场经济的",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n随着市场经济的进一步发展，我国企业越来越重视对知识产权、商标的申请和保护。这一现象主要体现了市场经济的\n\n选项:\n(A) 竞争性\n(B) 开放性\n(C) 平等性\n(D) 法制性\n\n答案:\n",
-        "model_prediction": " 答案:(A) 竞争性\n\n解释:\n\n随着市场经济的进一步发展，我国企业越来越重视对知识产权、商标的申请和保护。这一现象主要体现了市场经济的竞争性。\n\n在市场经济中，企业之间存在着激烈的竞争。为了在激烈的竞争环境中取得优势，企业需要不断创新、开发新产品和服务，以满足消费者的需求。知识产权和商标的申请和保护，是企业维护其创新成果和品牌声誉的重要手段。\n\n因此，随"
+        "model_prediction": "(A) 竞争性"
     },
     {
         "id": "test_164",
@@ -2293,7 +2293,7 @@
         ],
         "question": "广东省肇庆市端州区罗某利用信用卡恶意透支2.78万元，2010年5月被警方拘留。这说明",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n广东省肇庆市端州区罗某利用信用卡恶意透支2.78万元，2010年5月被警方拘留。这说明\n\n选项:\n(A) 人们必须守信，自觉维护信用安全\n(B) 信用卡可以集存款、取款、贷款、消费、结算为一体\n(C) 信用卡为现代社会金融犯罪提供了条件\n(D) 信用卡必须由收入高的人持有\n\n答案:\n",
-        "model_prediction": " (A) 人们必须守信，自觉维护信用安全</s>"
+        "model_prediction": "(A) 人们必须守信，自觉维护信用安全"
     },
     {
         "id": "test_165",
@@ -2307,7 +2307,7 @@
         ],
         "question": "心理学研究表明，在交际方面",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n心理学研究表明，在交际方面\n\n选项:\n(A) 男优于女\n(B) 男女无差异\n(C) 不一定\n(D) 女优于男\n\n答案:\n",
-        "model_prediction": " 答案:\n(B) 男女无差异\n\n解释:\n\n在心理学研究中，交际能力是一个复杂的概念，涉及到个体的社会技能,情感表达,自信心等方面。因此，研究结果可能会因不同的研究设计,样本,测量方法等因素而有所不同。\n\n然而，根据多项研究，男女在交际方面的表现并没有显著差异。虽然有些研究发现男性的交际能力可能比女性来得高，但这可能是因为研究设计的局限，如样本中男性和女性"
+        "model_prediction": "(B) 男女无差异"
     },
     {
         "id": "test_166",
@@ -2321,7 +2321,7 @@
         ],
         "question": "按需求层次论，排列在最低层次的需要是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n按需求层次论，排列在最低层次的需要是\n\n选项:\n(A) 安全需要\n(B) 生理需要\n(C) 性需要\n(D) 生存需要\n\n答案:\n",
-        "model_prediction": " (D) 生存需要</s>"
+        "model_prediction": "(A) 安全需要"
     },
     {
         "id": "test_167",
@@ -2335,7 +2335,7 @@
         ],
         "question": "桑德拉·贝姆的男女双性化量表测量的是男女的",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n桑德拉·贝姆的男女双性化量表测量的是男女的\n\n选项:\n(A) 气质差异\n(B) 能力差异\n(C) 性格差异\n(D) 社会差异\n\n答案:\n",
-        "model_prediction": " 答案:\n(A) 气质差异\n\n解释:\n桑德拉·贝姆（Sandra Bem）的男女双性化量表（Bem Sex-Role Inventory）是用来测量男女气质的差异。气质包括了性别角色,社会角色,行为和价值观等方面的差异。量表中的问题旨在了解个体对性别角色的看法和行为，以此来评估个体的气质差异。</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_168",
@@ -2349,7 +2349,7 @@
         ],
         "question": "下列激素促进卵泡的募集和生长的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n下列激素促进卵泡的募集和生长的是\n\n选项:\n(A) LH\n(B) PRL\n(C) FSH\n(D) PG\n\n答案:\n",
-        "model_prediction": " To find the correct answer, we need to analyze the given options and determine which one is responsible for promoting the development of ovarian follicles.\n\n(A) LH - Luteinizing Hormone is responsible for the release of an egg from the ovary during ovulation.\n(B) PRL - Prolactin is involved in the regulation of milk production after childbirth.\n(C) FSH - Follicle-Stimulating Hormone is responsible for the growth and maturation of ovarian follicles.\n(D) PG - Prostaglandins are hormone-like substances that play a role in various physiological processes, such as pain sensation and inflammation."
+        "model_prediction": "(C) FSH"
     },
     {
         "id": "test_169",
@@ -2363,7 +2363,7 @@
         ],
         "question": "艾滋病的三种传播途径不包括",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n艾滋病的三种传播途径不包括\n\n选项:\n(A) 母婴\n(B) 血液\n(C) 握手及共同进餐等\n(D) 性接触\n\n答案:\n",
-        "model_prediction": " To analyze and select the unique correct answer from the given options, let's break down each option and evaluate its relevance to the transmission of AIDS.\n\nOption (A) 母婴: This option refers to the transmission of HIV from a mother to her child during pregnancy, childbirth, or breastfeeding. This is indeed a way in which HIV can be transmitted.\n\nOption (B) 血液: This option refers to the transmission of HIV through contaminated blood, blood products, or through blood transfusions. This is also a way in which HIV can be transmitted.\n\nOption (C) 握手及共同进餐等: This option"
+        "model_prediction": "(C) 握手及共同进餐等"
     },
     {
         "id": "test_170",
@@ -2377,7 +2377,7 @@
         ],
         "question": "被称为“纸黄金”的国际储备是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n被称为“纸黄金”的国际储备是\n\n选项:\n(A) 欧元\n(B) 英镑\n(C) 特别提款权\n(D) “稀缺货币”\n\n答案:\n",
-        "model_prediction": " The task is asking you to analyze the given information and choose the unique correct answer from the provided options. If you are unsure, you should choose the option that you think is most likely to be correct. In this case, you do not need to explain your choice.\n\nThe question asks you to identify what is referred to as \"paper gold\" in international reserves.\n\nThe options provided are:\n\n(A) Euro\n(B) Pound Sterling (British Pound)\n(C) Special Drawing Rights (SDRs)\n(D) \"Scarce Currency\"\n\nNow, let's analyze the options:\n\n(A) Euro: The Euro is a common currency used in the European"
+        "model_prediction": "(C) 特别提款权"
     },
     {
         "id": "test_171",
@@ -2391,7 +2391,7 @@
         ],
         "question": "在目前西方国家，数量最多的公司形式是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n在目前西方国家，数量最多的公司形式是\n\n选项:\n(A) 两合公司\n(B) 有限公司\n(C) 股份有限公司\n(D) 无限公司\n\n答案:\n",
-        "model_prediction": " Answer: (B) 有限公司\n\nExplanation: In Western countries, the most common type of company is limited liability company (有限公司). This is because limited liability companies offer a balance between the simplicity and flexibility of a sole proprietorship and the limited liability of a corporation. This type of company structure is widely used by small and medium-sized businesses, as well as some larger enterprises.</s>"
+        "model_prediction": "(B) 有限公司"
     },
     {
         "id": "test_172",
@@ -2405,7 +2405,7 @@
         ],
         "question": "依大陆法，由于本人的意思而产生的代理为",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n依大陆法，由于本人的意思而产生的代理为\n\n选项:\n(A) 意定代理\n(B) 法定代理\n(C) 指定代理\n(D) 意定代理和指定代理\n\n答案:\n",
-        "model_prediction": " 答案:\n (A) 意定代理</s>"
+        "model_prediction": ") 意定代理"
     },
     {
         "id": "test_173",
@@ -2419,7 +2419,7 @@
         ],
         "question": "在大陆法国家，直接代理人称为",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n在大陆法国家，直接代理人称为\n\n选项:\n(A) 民事代理人\n(B) 行纪人\n(C) 商业代理人\n(D) 法定代理人\n\n答案:\n",
-        "model_prediction": " The task is to choose the correct answer from the given options based on the analysis of the question.\n\nStep 1: Understand the question and the provided options.\nThe question asks for the term used in mainland China for \"direct proxy.\"\n\nStep 2: Analyze the options and choose the most relevant answer.\n(A) 民事代理人 - This means \"civil proxy\" and is not directly related to \"direct proxy.\"\n(B) 行纪人 - This term is not related to the concept of \"direct proxy.\"\n(C) 商业代理人 - This means \"commercial proxy\" and is not directly related to \"direct proxy.\"\n(D"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_174",
@@ -2433,7 +2433,7 @@
         ],
         "question": "航空器的国籍是指",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n航空器的国籍是指\n\n选项:\n(A) 航空器登记国的国籍\n(B) 航空器所有人的国籍\n(C) 机长的国籍\n(D) 航空器承租人的国籍\n\n答案:\n",
-        "model_prediction": " (A) 航空器登记国的国籍</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_175",
@@ -2447,7 +2447,7 @@
         ],
         "question": "据事说理的方法有",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n据事说理的方法有\n\n选项:\n(A) 比喻式\n(B) 依托式\n(C) 比照式\n(D) 类比式\n\n答案:\n",
-        "model_prediction": " 答案: (B) 依托式\n\n解释: 依托式说理是指在进行说理时，运用自己或他人具有权威性的事实,道理,经验,知识等作为依托，来推动自己的论点，达到说理的目的。其他选项中的说理方法并不适用于这个问题。</s>"
+        "model_prediction": "(B) 依托式"
     },
     {
         "id": "test_176",
@@ -2461,7 +2461,7 @@
         ],
         "question": "新闻“属”的概念是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n新闻“属”的概念是\n\n选项:\n(A) 事实\n(B) 报道\n(C) 信息\n(D) 宣传\n\n答案:\n",
-        "model_prediction": " B</s>"
+        "model_prediction": "(B) 报道"
     },
     {
         "id": "test_177",
@@ -2475,7 +2475,7 @@
         ],
         "question": "深度报道是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n深度报道是\n\n选项:\n(A) 一种报道理念\n(B) 一种评论形式\n(C) 一种新闻体裁\n(D) 一种报道方式\n\n答案:\n",
-        "model_prediction": " (C) 一种新闻体裁</s>"
+        "model_prediction": "(C) 一种新闻体裁"
     },
     {
         "id": "test_178",
@@ -2489,7 +2489,7 @@
         ],
         "question": "我们把传播过程中产生信息的过程和行为称为",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n我们把传播过程中产生信息的过程和行为称为\n\n选项:\n(A) 编码\n(B) 译码\n(C) 制码\n(D) 释码\n\n答案:\n",
-        "model_prediction": " (B) 译码</s>"
+        "model_prediction": "(B) 译码"
     },
     {
         "id": "test_179",
@@ -2503,7 +2503,7 @@
         ],
         "question": "信息表现形式有语言、符号和",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n信息表现形式有语言、符号和\n\n选项:\n(A) 文字\n(B) 雕塑\n(C) 声音\n(D) 图像\n\n答案:\n",
-        "model_prediction": " 我将分析每个选项，找出唯一的正确答案。\n\n(A) 语言：信息表现形式中，语言是人类沟通的主要方式，通过声音或文字来传递信息。因此，这选项与信息表现形式有关。\n\n(B) 雕塑：雕塑是艺术形式之一，通过塑造和雕琢材料，创造出具有形状和立体感的艺术作品。虽然雕塑可以作为信息的表现形式，但它不属于信息表现形式的主要组成部分。\n\n(C) 声音：声音是信息表现形式中的一种，"
+        "model_prediction": "(D) 图像"
     },
     {
         "id": "test_180",
@@ -2517,7 +2517,7 @@
         ],
         "question": "下列选项中，属于私法的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n下列选项中，属于私法的是\n\n选项:\n(A) 民法\n(B) 刑事诉讼法\n(C) 国际法\n(D) 宪法\n\n答案:\n",
-        "model_prediction": " 答案:\n(B) 刑事诉讼法\n\n解释:私法主要涉及个人之间的法律关系，例如民事诉讼,婚姻,继承等。根据问题中的选项：\n\n(A) 民法：涉及个人之间的法律关系，如婚姻,继承等，因此属于私法。\n(B) 刑事诉讼法：涉及对犯罪行为的起诉和处理，主要关注公民的权利和义务，属于公共法。\n(C) 国际法：涉及不同国家之间的法律关系，包括国际关系"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_181",
@@ -2531,7 +2531,7 @@
         ],
         "question": "下列各项中，不属于法律实施的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n下列各项中，不属于法律实施的是\n\n选项:\n(A) 立法\n(B) 执法\n(C) 守法\n(D) 法律监督\n\n答案:\n",
-        "model_prediction": " 我将分析每个选项，并选择唯一的正确答案。\n\n(A) 立法：立法是制定法律的过程，因此属于法律实施的一部分。\n\n(B) 执法：执法是执行法律的过程，包括警察,法官等负责确保人们遵守法律，因此属于法律实施的一部分。\n\n(C) 守法：守法是指遵守法律的行为。守法是人们对法律的响应，属于法律实施的一部分。\n\n(D) 法律监督：法律监督是指对法律和司法系统进行监督和评估，以确保它们有效"
+        "model_prediction": "(D) 法律监督"
     },
     {
         "id": "test_182",
@@ -2545,7 +2545,7 @@
         ],
         "question": "普通法与衡平法的划分出现在",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n普通法与衡平法的划分出现在\n\n选项:\n(A) 英美法系\n(B) 大陆法系\n(C) 社会主义法系\n(D) 伊斯兰法系\n\n答案:\n",
-        "model_prediction": " 答案:\n(A) 英美法系\n\n解释：普通法（Common Law）和衡平法（Equity）是英美法系中两种不同的法律体系。普通法是源自英国，主要通过判例法（Case Law）发展的法律体系，而衡平法则是为了弥补普通法的不足而产生的。因此，普通法与衡平法的划分出现在英美法系。</s>"
+        "model_prediction": ") 英美法系"
     },
     {
         "id": "test_183",
@@ -2559,7 +2559,7 @@
         ],
         "question": "当代中国法的渊源中最重要的部分是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n当代中国法的渊源中最重要的部分是\n\n选项:\n(A) 法规\n(B) 宪法\n(C) 成文法\n(D) 习惯法\n\n答案:\n",
-        "model_prediction": " B\n\nTo answer this question, let's analyze the given options and their meanings:\n\nA. 法规 (Fǎguī) - Regulations or rules. These are usually specific instructions or guidelines issued by a government or organization.\n\nB. 宪法 (Xiànfǎ) - Constitution. This is a fundamental law that establishes the framework and principles of a government or state.\n\nC. 成文法 (Chéngrénfǎ) - Statute law or enacted law. This refers to laws that are created by legislative bodies and are written down in statutes.\n\nD. 习惯法 (Xíguǎn"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_184",
@@ -2573,7 +2573,7 @@
         ],
         "question": "引起财产继承关系的法律事实属于",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n引起财产继承关系的法律事实属于\n\n选项:\n(A) 事件\n(B) 消极行为\n(C) 行为\n(D) 积极行为\n\n答案:\n",
-        "model_prediction": " (C) 行为</s>"
+        "model_prediction": "(C) 行为"
     },
     {
         "id": "test_185",
@@ -2587,7 +2587,7 @@
         ],
         "question": "人们在实践中形成的具有实现可能性的对未来的向往和追求，称为",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n人们在实践中形成的具有实现可能性的对未来的向往和追求，称为\n\n选项:\n(A) 理想\n(B) 信仰\n(C) 幻想\n(D) 信念\n\n答案:\n",
-        "model_prediction": " A) 理想</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_186",
@@ -2601,7 +2601,7 @@
         ],
         "question": "我国第一部社会主义类型的宪法通过的时间是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n我国第一部社会主义类型的宪法通过的时间是\n\n选项:\n(A) 1978年\n(B) 1982年\n(C) 1954年\n(D) 1949年\n\n答案:\n",
-        "model_prediction": " 答案:\n(C) 1954年\n\n解释:\n新加坡的第一部社会主义类型宪法是1954年的新加坡宪法。这部宪法是在新加坡自治邦时期通过的。当时，新加坡仍然是英国殖民地的一部分。1954年宪法的主要内容包括了宪法法院,国会,内阁,总统,公民权和基本人权等方面。</s>"
+        "model_prediction": "(C) 1954年"
     },
     {
         "id": "test_187",
@@ -2615,7 +2615,7 @@
         ],
         "question": "在犯罪构成中，刑法所保护的而为犯罪行为所危害的社会关系是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n在犯罪构成中，刑法所保护的而为犯罪行为所危害的社会关系是\n\n选项:\n(A) 犯罪主观方面\n(B) 犯罪客观方面\n(C) 犯罪客体\n(D) 犯罪主体\n\n答案:\n",
-        "model_prediction": " 答案:\n(C) 犯罪客体\n\n解释：犯罪客体指的是刑法所保护的而为犯罪行为所危害的社会关系。它是犯罪行为的对象，是犯罪行为所可能危害的社会利益。其他选项中，(A) 犯罪主观方面, (B) 犯罪客观方面和 (D) 犯罪主体都与犯罪客体的概念有所不同。因此，正确答案是 (C) 犯罪客体。</s>"
+        "model_prediction": "(C) 犯罪客体"
     },
     {
         "id": "test_188",
@@ -2629,7 +2629,7 @@
         ],
         "question": "体现统治阶级意志的，由国家制定或认可的，并由国家强制力保障实施的社会规范是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n体现统治阶级意志的，由国家制定或认可的，并由国家强制力保障实施的社会规范是\n\n选项:\n(A) 法律规范\n(B) 宗教规范\n(C) 纪律规范\n(D) 道德规范\n\n答案:\n",
-        "model_prediction": " A) 法律规范\n\n分析：\n在给定的选项中，法律规范是由国家制定或认可的，并由国家强制力保障实施的社会规范。其他选项如宗教规范、纪律规范和道德规范虽然也可以影响人们的行为，但它们不是由国家强制实施的规范。</s>"
+        "model_prediction": ") 法律规范"
     },
     {
         "id": "test_189",
@@ -2643,7 +2643,7 @@
         ],
         "question": "在国家法律体系中居于核心地位、具有最高法律效力的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n在国家法律体系中居于核心地位、具有最高法律效力的是\n\n选项:\n(A) 刑法\n(B) 经济法\n(C) 宪法\n(D) 行政法\n\n答案:\n",
-        "model_prediction": " 答案:\n(C) 宪法\n\n在国家法律体系中，宪法具有最高的法律效力。宪法规定了国家的基本原则,权力结构,制度安排等重要内容，具有指导和约束国家机关,社会组织和公民活动的作用。其他法律法规都是依据宪法制定的。</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_190",
@@ -2657,7 +2657,7 @@
         ],
         "question": "下列选项哪一个指的是必定有真假的语确的字符串。",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n下列选项哪一个指的是必定有真假的语确的字符串。\n\n选项:\n(A) 命题\n(B) 陈述\n(C) 语句\n(D) 推论\n\n答案:\n",
-        "model_prediction": " (C) 语句</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_191",
@@ -2671,7 +2671,7 @@
         ],
         "question": "亚里士多德的论证评价标准不包括",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n亚里士多德的论证评价标准不包括\n\n选项:\n(A) 逻辑标准\n(B) 分析标准\n(C) 论辩标准\n(D) 修辞标准\n\n答案:\n",
-        "model_prediction": " 答案:\n(C) 论辩标准</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_192",
@@ -2685,7 +2685,7 @@
         ],
         "question": "论证的三重功能不包括",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n论证的三重功能不包括\n\n选项:\n(A) 反驳\n(B) 证成\n(C) 说服\n(D) 推论\n\n答案:\n",
-        "model_prediction": " 我将分析每个选项，确定哪个选项不属于论证的三重功能。\n\n(A) 反驳：反驳是一种论证形式，用来对抗或驳斥另一个论点或论证。因此，它是论证的一部分。\n\n(B) 证成：证成是论证的核心，目的是通过提出论点、提供证据和论证来证明一个论点的真实性。\n\n(C) 说服：说服是指通过论证来改变或影响他人的观点或行为。说服与论证密"
+        "model_prediction": "(A) 反驳"
     },
     {
         "id": "test_193",
@@ -2699,7 +2699,7 @@
         ],
         "question": "论证评价的基本标准不包括",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n论证评价的基本标准不包括\n\n选项:\n(A) 谬误标准\n(B) 修辞标准\n(C) 论辩标准\n(D) 形式逻辑标准\n\n答案:\n",
-        "model_prediction": " 我将分析每个选项，然后从中选择唯一的正确答案。\n\n(A) 谬误标准：谬误标准指的是在论证中使用错误或不真实的信息。这个选项与论证评价的基本标准相关，因此不应该是正确的答案。\n\n(B) 修辞标准：修辞标准指的是论证中使用的语言和表达方式。这个选项与论证评价的基本标准相关，因此也不应该是正确的答案。\n\n(C) 论辩标准：论辩标准指的是论证中使用的逻辑和论点。"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_194",
@@ -2713,7 +2713,7 @@
         ],
         "question": "支持谬误的情形不包括",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n支持谬误的情形不包括\n\n选项:\n(A) 合成谬误\n(B) 演绎无效\n(C) 偷换论题\n(D) 分解谬误\n\n答案:\n",
-        "model_prediction": " (B) 演绎无效</s>"
+        "model_prediction": "(B) 演绎无效"
     },
     {
         "id": "test_195",
@@ -2727,7 +2727,7 @@
         ],
         "question": "SVM在下列那种情况下表现糟糕",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\nSVM在下列那种情况下表现糟糕\n\n选项:\n(A) 含噪声数据与重叠数据点\n(B) 线性可分数据\n(C) 清洗过的数据\n(D) 以上都不是\n\n答案:\n",
-        "model_prediction": " (A) 含噪声数据与重叠数据点</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_196",
@@ -2741,7 +2741,7 @@
         ],
         "question": "从给定的句子、段落中识别人名、组织名的过程称为",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n从给定的句子、段落中识别人名、组织名的过程称为\n\n选项:\n(A) 词干提取\n(B) 命名实体识别\n(C) 新词发现\n(D) 情感分析\n\n答案:\n",
-        "model_prediction": " 答案:\n(B) 命名实体识别\n\n解释:\n\n在给定的问题中，我们需要识别出句子或段落中的人名、组织名等。这个过程称为命名实体识别（Named Entity Recognition，简称NER）。\n\n其他选项的解释：\n\n(A) 词干提取：它是从词汇中抽取词干的过程，目的是为了简化词汇以进行进一步的分析。\n\n(C) 新词发现：它是从大规模的文本数据中，自动发现和识别出新词的过程。\n\n(D"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_197",
@@ -2755,7 +2755,7 @@
         ],
         "question": "针对“北京 是 中国 的 首都”这一分词后的结果，不经过预处理，可以生成多少个3-gram短语",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n针对“北京 是 中国 的 首都”这一分词后的结果，不经过预处理，可以生成多少个3-gram短语\n\n选项:\n(A) 2\n(B) 5\n(C) 4\n(D) 3\n\n答案:\n",
-        "model_prediction": " (B) 5</s>"
+        "model_prediction": "(B) 5"
     },
     {
         "id": "test_198",
@@ -2769,7 +2769,7 @@
         ],
         "question": "统计模式分类问题中，当先验概率未知时，可以使用",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n统计模式分类问题中，当先验概率未知时，可以使用\n\n选项:\n(A) N-P判决\n(B) 最小最大损失准则\n(C) 最小损失准则\n(D) 最小误判概率准则\n\n答案:\n",
-        "model_prediction": " (D) 最小误判概率准则</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_199",
@@ -2783,7 +2783,7 @@
         ],
         "question": "请选择下面可以应用隐马尔科夫(HMM)模型的选项",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n请选择下面可以应用隐马尔科夫(HMM)模型的选项\n\n选项:\n(A) 基因序列数据集\n(B) 股票市场数据集\n(C) 电影浏览数据集\n(D) 所有以上\n\n答案:\n",
-        "model_prediction": " (D) 所有以上</s>"
+        "model_prediction": "(A) 基因序列数据集"
     },
     {
         "id": "test_200",
@@ -2797,7 +2797,7 @@
         ],
         "question": "在管理协调中，常常担当主体角色的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n在管理协调中，常常担当主体角色的是\n\n选项:\n(A) 信道\n(B) 信源\n(C) 信宿\n(D) 信息\n\n答案:\n",
-        "model_prediction": " The answer is (B) 信源.\n\nStep 1: Analyze the question and understand the context.\nThe question is about management coordination, and it asks which entity usually takes the main role in this context.\n\nStep 2: Evaluate the provided options.\n(A) 信道: This refers to the communication channel, which is not the main role in management coordination.\n(B) 信源: This refers to the source of the information, which is often responsible for initiating the communication and providing information.\n(C) 信宿: This refers to the destination of the information, which is not the main role in management coordination.\n(D) 信息"
+        "model_prediction": "(B) 信源"
     },
     {
         "id": "test_201",
@@ -2811,7 +2811,7 @@
         ],
         "question": "人们从两个或两个以上备选行动方案中做出选择的管理环节是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n人们从两个或两个以上备选行动方案中做出选择的管理环节是\n\n选项:\n(A) 控制\n(B) 协调\n(C) 决策\n(D) 计划\n\n答案:\n",
-        "model_prediction": " C) 决策</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_202",
@@ -2825,7 +2825,7 @@
         ],
         "question": "控制的目的在于",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n控制的目的在于\n\n选项:\n(A) 使群体步调一致\n(B) 寻找错误\n(C) 衡量雇员绩效\n(D) 使组织实际工作与计划一致\n\n答案:\n",
-        "model_prediction": " A</s>"
+        "model_prediction": "(A) 使群体步调一致"
     },
     {
         "id": "test_203",
@@ -2839,7 +2839,7 @@
         ],
         "question": "需要层次论认为，人的最低层需要是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n需要层次论认为，人的最低层需要是\n\n选项:\n(A) 尊重需要\n(B) 社交需要\n(C) 安全需要\n(D) 生理需要\n\n答案:\n",
-        "model_prediction": " 答案:\n(C) 安全需要\n\n分析:\n\n根据需要层次论（Maslow's Hierarchy of Needs），人在满足了基本生理需求后，会逐步向更高层次的需求发展。这些需求层次依次为：\n\n1. 生理需要（physiological needs）\n2. 安全需要（safety needs）\n3. 社交需要（social needs）\n4. 尊重需要（esteem needs）\n5. 自我实现需要（self-actualization needs）\n\n问题中提到的\"人的最低层需要\"，正是生理需要（C）。"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_204",
@@ -2853,7 +2853,7 @@
         ],
         "question": "不属于目标管理特点的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n不属于目标管理特点的是\n\n选项:\n(A) 自觉管理\n(B) 民主管理\n(C) 过程管理\n(D) 成果管理\n\n答案:\n",
-        "model_prediction": " 答案:\n(A) 自觉管理\n\n解释：\n\n问题要求我们从给出的选项中找出不属于目标管理特点的选项。目标管理（Goal Management）是一种管理方式，通过设定目标和绩效指标来实现企业的战略目标。目标管理的特点包括：\n\n1. 成果管理（Result Management）：通过设定目标和绩效指标来衡量员工的表现，确保员工达到目标。\n2. 过程管理（Process Management）：通过对工作流程的优化和改善，提高工作效率和"
+        "model_prediction": "(B) 民主管理"
     },
     {
         "id": "test_205",
@@ -2867,7 +2867,7 @@
         ],
         "question": "马斯洛需要层次理论中的最低层次是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n马斯洛需要层次理论中的最低层次是\n\n选项:\n(A) 自我实现的需要\n(B) 生理需要\n(C) 社会需要\n(D) 安全需要\n\n答案:\n",
-        "model_prediction": " B</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_206",
@@ -2881,7 +2881,7 @@
         ],
         "question": "下列属于不可扩张市场的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n下列属于不可扩张市场的是\n\n选项:\n(A) 高档化妆品市场\n(B) 食盐市场\n(C) 家用电器市场\n(D) 汽车市场\n\n答案:\n",
-        "model_prediction": " 答案:(B) 食盐市场</s>"
+        "model_prediction": "(B) 食盐市场"
     },
     {
         "id": "test_207",
@@ -2895,7 +2895,7 @@
         ],
         "question": "低机会和低威胁的业务属于",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n低机会和低威胁的业务属于\n\n选项:\n(A) 冒险业务\n(B) 成熟业务\n(C) 理想业务\n(D) 困难业务\n\n答案:\n",
-        "model_prediction": " B\n\n分析:\n\n问题要求分析以下选项中唯一的正确答案，关于低机会和低威胁的业务。我们将逐一分析选项：\n\n(A) 冒险业务：冒险业务通常涉及高风险、高回报的业务模式，低机会和低威胁的业务并不属于冒险业务。\n\n(B) 成熟业务：成熟业务通常指的是已经稳定发展、具有较高市场占有率的业务。低机会和低威胁的业务可能属于成熟业务，因为它们已经稳定发展、具有较低风险和威胁"
+        "model_prediction": "(B) 成熟业务"
     },
     {
         "id": "test_208",
@@ -2909,7 +2909,7 @@
         ],
         "question": "顾客从本企业所购产品占该产品所有顾客的百分比是指",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n顾客从本企业所购产品占该产品所有顾客的百分比是指\n\n选项:\n(A) 顾客渗透率\n(B) 顾客忠诚度\n(C) 价格选择性\n(D) 顾客选择性\n\n答案:\n",
-        "model_prediction": " 答案:(A) 顾客渗透率</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_209",
@@ -2923,7 +2923,7 @@
         ],
         "question": "企业产品订价的最终目的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n企业产品订价的最终目的是\n\n选项:\n(A) 获得最大利润\n(B) 价格具有竞争力\n(C) 符合政策要求\n(D) 使顾客满意\n\n答案:\n",
-        "model_prediction": " 答案:\n(A) 获得最大利润</s>"
+        "model_prediction": ") 获得最大利润"
     },
     {
         "id": "test_210",
@@ -2937,7 +2937,7 @@
         ],
         "question": "“从个别到一般，从一般到个别”的思维方法是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n“从个别到一般，从一般到个别”的思维方法是\n\n选项:\n(A) 归纳与演绎\n(B) 分析与综合\n(C) 抽象到具体\n(D) 实践到认识\n\n答案:\n",
-        "model_prediction": " 答案:\n(A) 归纳与演绎\n\n解释：这道题目要求我们分析并从提供的选项中选择唯一的正确答案。我们可以从问题中提取关键信息，来帮助我们选择正确的选项。\n\n关键信息：思维方法是“从个别到一般，从一般到个别”。\n\n解释：这个思维方法是指从个别事物开始，归纳出它们的共同特点，然后再将这些特点应用到新的个别事物上，从而解决问题。\n\n因此，正确的选项是(A) 归"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_211",
@@ -2951,7 +2951,7 @@
         ],
         "question": "必然王国和自由王国是社会发展的",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n必然王国和自由王国是社会发展的\n\n选项:\n(A) 两条不同的道路\n(B) 两种不同的状态\n(C) 两种不同的选择\n(D) 两种不同的理想\n\n答案:\n",
-        "model_prediction": " 答案:\n(B) 两种不同的状态\n\n解释:\n必然王国和自由王国分别代表了强制性和自由选择的社会发展道路。两者之间存在着不同的社会状态，强调不同的价值观和社会制度。因此，正确的选项是(B) 两种不同的状态。</s>"
+        "model_prediction": "(B) 两种不同的状态"
     },
     {
         "id": "test_212",
@@ -2965,7 +2965,7 @@
         ],
         "question": "在垄断资本主义阶段占统治地位的资本是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n在垄断资本主义阶段占统治地位的资本是\n\n选项:\n(A) 农业资本\n(B) 银行资本\n(C) 金融资本\n(D) 工业资本\n\n答案:\n",
-        "model_prediction": " (D) 工业资本</s>"
+        "model_prediction": "(D) 工业资本"
     },
     {
         "id": "test_213",
@@ -2979,7 +2979,7 @@
         ],
         "question": "最鲜明体现资本主义国家实质的国家职能是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n最鲜明体现资本主义国家实质的国家职能是\n\n选项:\n(A) 社会职能\n(B) 对外交往职能\n(C) 政治职能\n(D) 经济职能\n\n答案:\n",
-        "model_prediction": " 答案:\n(D) 经济职能\n\n分析:\n资本主义国家的实质是市场经济，国家主要通过经济手段来实现国家的目标。因此，选项(D)经济职能是最符合题意的答案。其他选项：\n\n(A) 社会职能：资本主义国家的社会职能是维护社会秩序和保障公民的权利和利益，但它不是资本主义国家的实质。\n\n(B) 对外交往职能：资本主义国家的对外交往职能是促进国际贸易和合作，但"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_214",
@@ -2993,7 +2993,7 @@
         ],
         "question": "提出价值规律是“一只看不见的手”是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n提出价值规律是“一只看不见的手”是\n\n选项:\n(A) 马克思\n(B) 亚当斯密\n(C) 威廉配第\n(D) 大卫李嘉图\n\n答案:\n",
-        "model_prediction": " 答案:\n(B) 亚当斯密</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_215",
@@ -3007,7 +3007,7 @@
         ],
         "question": "中枢神经系统活动所需的热能量直接来自",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n中枢神经系统活动所需的热能量直接来自\n\n选项:\n(A) 脂肪酸\n(B) 蛋白质\n(C) 脂肪\n(D) 葡萄糖\n\n答案:\n",
-        "model_prediction": " 答案:\n(D) 葡萄糖</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_216",
@@ -3021,7 +3021,7 @@
         ],
         "question": "鱼类食物中含有较为丰富的无机盐是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n鱼类食物中含有较为丰富的无机盐是\n\n选项:\n(A) 钙，镁\n(B) 钙，铁\n(C) 钙，碘\n(D) 铁，碘\n\n答案:\n",
-        "model_prediction": " 答案:\n(C) 钙，碘\n\n解释:\n\n鱼类食物中含有丰富的无机盐，其中钙和碘是较为显著的成分。\n\n(A) 锰和镁：鱼类食物中含有丰富的锰和镁，但这两个元素不在给定的选项中。\n\n(B) 钙和铁：虽然鱼类食物中含有丰富的钙，但铁的含量并不比其他食物高。\n\n(D) 铁和碘：虽然鱼类食物中含有丰富的"
+        "model_prediction": "(C) 钙，碘"
     },
     {
         "id": "test_217",
@@ -3035,7 +3035,7 @@
         ],
         "question": "牛磺酸含量丰富的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n牛磺酸含量丰富的是\n\n选项:\n(A) 淡水产品\n(B) 贝类的肉质\n(C) 鸡蛋\n(D) 鱼类的肉质\n\n答案:\n",
-        "model_prediction": " (B) 贝类的肉质</s>"
+        "model_prediction": "(B) 贝类的肉质"
     },
     {
         "id": "test_218",
@@ -3049,7 +3049,7 @@
         ],
         "question": "蛋白质的消化的开始部位为",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n蛋白质的消化的开始部位为\n\n选项:\n(A) 口腔\n(B) 小肠\n(C) 胃\n(D) 大肠\n\n答案:\n",
-        "model_prediction": " (C) 胃</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_219",
@@ -3063,7 +3063,7 @@
         ],
         "question": "下列豆制品含维生素C较多的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n下列豆制品含维生素C较多的是\n\n选项:\n(A) 豆浆\n(B) 豆芽\n(C) 豆腐\n(D) 豆腐干\n\n答案:\n",
-        "model_prediction": " To analyze and choose the unique correct answer from the provided options, follow these steps:\n\n1. Understand the question: We need to identify which of the four options has the highest content of Vitamin C among the soybean products.\n\n2. Evaluate the options:\n\n(A) 豆浆 (Soy milk): Soy milk does not naturally contain high levels of Vitamin C.\n\n(B) 豆芽 (Soy sprouts): Soy sprouts are a good source of Vitamin C, as they are rich in nutrients and have not been processed.\n\n(C) 豆腐 (Tofu): Tofu is made from soybeans and"
+        "model_prediction": "(B) 豆芽"
     },
     {
         "id": "test_220",
@@ -3077,7 +3077,7 @@
         ],
         "question": "“一切皆流，无物常驻。”是谁的观点",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n“一切皆流，无物常驻。”是谁的观点\n\n选项:\n(A) 黑格尔\n(B) 巴门尼德\n(C) 苏格拉底\n(D) 赫拉克利特\n\n答案:\n",
-        "model_prediction": " The answer is (D) Heraclitus.\n\nStep 1: Understand the question\nThe question asks for the person who holds the viewpoint \"everything is in flux, nothing is permanent.\"\n\nStep 2: Analyze the options\n(A) Hegel - He was a German philosopher who focused on the concept of \"Spirit\" and its development throughout history.\n(B) Parmenides - He was a Greek philosopher who believed in the concept of \"Being\" and argued that change and motion are illusions.\n(C) Socrates - He was a Greek philosopher who focused on the examination of ideas and the pursuit of wisdom.\n(D) Heracl"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_221",
@@ -3091,7 +3091,7 @@
         ],
         "question": "“人是万物的尺度”是谁提出的命题。",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n“人是万物的尺度”是谁提出的命题。\n\n选项:\n(A) 普罗泰戈拉\n(B) 泰勒斯\n(C) 巴门尼德\n(D) 赫拉克利特\n\n答案:\n",
-        "model_prediction": " 答案:\n(A) 普罗泰戈拉</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_222",
@@ -3105,7 +3105,7 @@
         ],
         "question": "建立了神正论的是。",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n建立了神正论的是。\n\n选项:\n(A) 苏格拉底\n(B) 圣奥古斯丁\n(C) 巴门尼德\n(D) 柏拉图\n\n答案:\n",
-        "model_prediction": " The answer is (A) 苏格拉底.\n\nStep 1: Understand the question\nThe question is asking who established the theory of \"The Good\" (神正论).\n\nStep 2: Analyze the options\n(A) 苏格拉底 - Socrates was a Greek philosopher who questioned the nature of goodness and virtue.\n(B) 圣奥古斯丁 - Augustine of Hippo was a Christian theologian and philosopher who wrote about the nature of good and evil.\n(C) 巴门尼德 - Parmenides was a Greek philosopher who wrote about the nature of reality and truth, which can be related"
+        "model_prediction": "(B) 圣奥古斯丁"
     },
     {
         "id": "test_223",
@@ -3119,7 +3119,7 @@
         ],
         "question": "美学属于（）范畴",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n美学属于（）范畴\n\n选项:\n(A) 伦理学\n(B) 文学\n(C) 化学\n(D) 哲学\n\n答案:\n",
-        "model_prediction": " 答案: (D) 哲学</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_224",
@@ -3133,7 +3133,7 @@
         ],
         "question": "整个人类发端以来，所有问题最终归结起来无非是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n整个人类发端以来，所有问题最终归结起来无非是\n\n选项:\n(A) 精神问题\n(B) 种族问题\n(C) 温饱问题\n(D) 生死问题\n\n答案:\n",
-        "model_prediction": " 分析:\n\n问题要求分析人类发端以来，所有问题最终归结的答案。从提供的选项中，我们可以看到以下选项：\n\n(A) 精神问题\n(B) 种族问题\n(C) 温饱问题\n(D) 生死问题\n\n解答：\n\n从历史和现实生活中，我们可以看到这些问题在人类社会中一直存在。其中，温饱问题和生死问题是最基本的需求，影响着人类的生存和发展。精神问题和种族问题则反映在人类的思想和情感方面。\n\n综合分析，这"
+        "model_prediction": "(D) 生死问题"
     },
     {
         "id": "test_225",
@@ -3147,7 +3147,7 @@
         ],
         "question": "租入固定资产登记簿属于",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n租入固定资产登记簿属于\n\n选项:\n(A) 联合账簿\n(B) 备查账簿\n(C) 分类账簿\n(D) 序时账簿\n\n答案:\n",
-        "model_prediction": " The task is asking you to analyze the given options and select the unique correct answer. If you are unsure, choose the answer you think is most likely, without providing any explanation.\n\nThe question is asking you to identify the type of account that the \"rental fixed assets register\" belongs to. The options provided are:\n\n(A) Joint account\n(B) Subsidiary account\n(C) Classification account\n(D) Time period account\n\nTo find the correct answer, you should consider the nature of the rental fixed assets register. This register is used to record the details of fixed assets that are rented by a company.\n\nBased on the nature"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_226",
@@ -3161,7 +3161,7 @@
         ],
         "question": "企业按规定从税后净利润中提取的积累资金是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n企业按规定从税后净利润中提取的积累资金是\n\n选项:\n(A) 利润分配\n(B) 未分配利润\n(C) 应付利润\n(D) 盈余公积\n\n答案:\n",
-        "model_prediction": " 答案: (B) 未分配利润</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_227",
@@ -3175,7 +3175,7 @@
         ],
         "question": "在财政会计中，“在途款”账户的性质是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n在财政会计中，“在途款”账户的性质是\n\n选项:\n(A) 资产\n(B) 支出\n(C) 收入\n(D) 负债\n\n答案:\n",
-        "model_prediction": " (B) 支出</s>"
+        "model_prediction": "(B) 支出"
     },
     {
         "id": "test_228",
@@ -3189,7 +3189,7 @@
         ],
         "question": "行政单位固定资产减少时，其注销的价值是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n行政单位固定资产减少时，其注销的价值是\n\n选项:\n(A) 账面原价\n(B) 重置价值\n(C) 现行市价\n(D) 可变现净值\n\n答案:\n",
-        "model_prediction": " 答案:(B) 重置价值</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_229",
@@ -3203,7 +3203,7 @@
         ],
         "question": "下列各项中，属于负债类科目的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n下列各项中，属于负债类科目的是\n\n选项:\n(A) 长期待摊费用\n(B) 应收账款\n(C) 预收账款\n(D) 预付账款\n\n答案:\n",
-        "model_prediction": " The answer is (D) 预付账款.\n\nStep 1: Analyze the given options.\n(A) 长期待摊费用: This is an expense related to depreciation or amortization of long-term assets.\n(B) 应收账款: This is a current asset representing money owed to the company by its customers.\n(C) 预收账款: This is a current asset representing money paid in advance by customers for goods or services not yet delivered.\n(D) 预付账款: This is a current liability representing money paid in advance for goods or services not yet received.\n\nStep 2: Determine which option is a liability"
+        "model_prediction": "(B) 应收账款"
     },
     {
         "id": "test_230",
@@ -3217,7 +3217,7 @@
         ],
         "question": "犯罪分子具有刑法规定的减轻处罚情节的，应当在（）判处刑罚。",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n犯罪分子具有刑法规定的减轻处罚情节的，应当在（）判处刑罚。\n\n选项:\n(A) 法定刑幅度内按照最低刑\n(B) 法定刑以内\n(C) 法定最高刑以下\n(D) 法定刑以下\n\n答案:\n",
-        "model_prediction": " 答案:\n(C) 法定最高刑以下\n\n解释:\n根据刑法规定，犯罪分子具有刑法规定的减轻处罚情节的，应当在法定最高刑以下判处刑罚。其他选项中，选项(A)仅规定按照最低刑，但并未提及减轻处罚情节；选项(B)和选项(D)都没有提及法定最高刑的概念。因此，唯一的正确答案是选项(C)。</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_231",
@@ -3231,7 +3231,7 @@
         ],
         "question": "甲意欲抢劫银行，在去银行途中，因违章乱穿马路，被车撞伤，其处于抢劫的（）形态。",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n甲意欲抢劫银行，在去银行途中，因违章乱穿马路，被车撞伤，其处于抢劫的（）形态。\n\n选项:\n(A) 不构成犯罪\n(B) 犯罪既遂\n(C) 犯罪预备\n(D) 犯意表示\n\n答案:\n",
-        "model_prediction": " 答案:\n(A) 不构成犯罪</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_232",
@@ -3245,7 +3245,7 @@
         ],
         "question": "对累犯从重处罚的刑罚制度，体现了我国刑法的",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n对累犯从重处罚的刑罚制度，体现了我国刑法的\n\n选项:\n(A) 罪责刑相适应原则\n(B) 惩罚与教育相结合原则\n(C) 刑法适用平等原则\n(D) 罪刑法定原则\n\n答案:\n",
-        "model_prediction": " (A) 罪责刑相适应原则\n\n在分析所有选项之前，让我们先了解什么是累犯和罪责刑相适应原则。\n\n累犯（recidivist）指的是重犯者，指的是那些曾经犯罪，受到法律制裁，但在刑满或缓刑期间再次犯罪的人。针对累犯，法律通常会从重处罚，以达到预防和阻吓作用。\n\n罪责刑相适应原则（proportionality principle）是一种刑事法律原则，指的是罪行的严重性与刑"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_233",
@@ -3259,7 +3259,7 @@
         ],
         "question": "下列选项中，属于处分行为的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n下列选项中，属于处分行为的是\n\n选项:\n(A) 抛弃所有权的行为\n(B) 捐助行为\n(C) 委托行为\n(D) 签订货物买卖合同\n\n答案:\n",
-        "model_prediction": " A</s>"
+        "model_prediction": "(A) 抛弃所有权的行为"
     },
     {
         "id": "test_234",
@@ -3273,7 +3273,7 @@
         ],
         "question": "行为人欲杀甲而向甲开枪，结果既杀死甲又伤害了乙，这属于",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n行为人欲杀甲而向甲开枪，结果既杀死甲又伤害了乙，这属于\n\n选项:\n(A) 牵连犯\n(B) 继续犯\n(C) 想象竞合犯\n(D) 连续犯\n\n答案:\n",
-        "model_prediction": " (A) 牵连犯</s>"
+        "model_prediction": "(A) 牵连犯"
     },
     {
         "id": "test_235",
@@ -3287,7 +3287,7 @@
         ],
         "question": "下列属于转移性钙化的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n下列属于转移性钙化的是\n\n选项:\n(A) 结核病灶钙化\n(B) 肺间质钙化\n(C) 血栓钙化\n(D) 粥瘤钙化\n\n答案:\n",
-        "model_prediction": " (C) 血栓钙化</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_236",
@@ -3301,7 +3301,7 @@
         ],
         "question": "麻醉平面达脐部时，相对应的脊神经节段是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n麻醉平面达脐部时，相对应的脊神经节段是\n\n选项:\n(A) T6\n(B) T12\n(C) T8\n(D) T10\n\n答案:\n",
-        "model_prediction": " 我将分析每个选项，然后选择唯一的正确答案。\n\n(A) T6: 这个选项位于脐部以下，但麻醉平面达脐部，因此不符合。\n\n(B) T12: 这个选项位于脐部以下，但麻醉平面达脐部，因此不符合。\n\n(C) T8: 这个选项位于脐部以下，但麻醉平面达脐部，因此不符合。\n\n(D) T10: 这个选项位于脐部以下，但麻醉平面达脐部，因此不符合。\n\n经过分析"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_237",
@@ -3315,7 +3315,7 @@
         ],
         "question": "胃癌好发的部位是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n胃癌好发的部位是\n\n选项:\n(A) 胃前壁\n(B) 胃后壁\n(C) 胃底\n(D) 胃窦\n\n答案:\n",
-        "model_prediction": " To analyze the provided options, let's first understand the anatomy of the stomach and the locations where stomach cancer (gastric cancer) typically occurs.\n\nThe stomach is a J-shaped organ in the upper left part of the abdomen. It is divided into three main parts: the fundus, the body, and the antrum. The walls of the stomach are covered with a layer of epithelial cells, which are at risk of developing cancer.\n\nNow, let's examine the given options:\n\n(A) 胃前壁 (Stomach anterior wall)\n(B) 胃后壁 (Stomach posterior wall)\n(C) �"
+        "model_prediction": "(A) 胃前壁"
     },
     {
         "id": "test_238",
@@ -3329,7 +3329,7 @@
         ],
         "question": "适合于分娩镇痛的局麻药是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n适合于分娩镇痛的局麻药是\n\n选项:\n(A) 普鲁卡因\n(B) 利多卡因\n(C) 布比卡因\n(D) 丁卡因\n\n答案:\n",
-        "model_prediction": " A\n\n步骤1: 了解问题\n问题要求分析并从提供的选项中选择唯一的正确答案。问题是关于适合用于分娩镇痛的局麻药。\n\n步骤2: 分析选项\n(A) 普鲁卡因：普鲁卡因是一种局部麻醉药，用于局部麻醉和止痛。\n(B) 利多卡因：利多卡因是一种局部麻醉药，用于局部麻醉和止痛。\n(C) 布比卡因：布比卡因是一种局部"
+        "model_prediction": "(A) 普鲁卡因"
     },
     {
         "id": "test_239",
@@ -3343,7 +3343,7 @@
         ],
         "question": "原发性甲减与继发性甲减鉴别的关键指标是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n原发性甲减与继发性甲减鉴别的关键指标是\n\n选项:\n(A) TSH\n(B) rT3\n(C) T3\n(D) T4\n\n答案:\n",
-        "model_prediction": " (A) TSH</s>"
+        "model_prediction": ") TSH"
     },
     {
         "id": "test_240",
@@ -3357,7 +3357,7 @@
         ],
         "question": "躁狂发作、抑郁发作属于",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n躁狂发作、抑郁发作属于\n\n选项:\n(A) 心境障碍\n(B) 应激后障碍\n(C) 人格障碍\n(D) 急性应激障碍\n\n答案:\n",
-        "model_prediction": " 答案:\n(B) 应激后障碍\n\n解释：躁狂发作和抑郁发作属于精神障碍的一种，即应激后障碍。这种障碍会在经历压力或不良刺激后出现。其他选项中，心境障碍（A）和急性应激障碍（D）与应激后障碍（B）类似，但不包含躁狂发作和抑郁发作。人格障碍（C）则与这两个症状无关。</s"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_241",
@@ -3371,7 +3371,7 @@
         ],
         "question": "活泼好动或行动缓慢是人的（）特性的表现。",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n活泼好动或行动缓慢是人的（）特性的表现。\n\n选项:\n(A) 能力\n(B) 兴趣\n(C) 性格\n(D) 气质\n\n答案:\n",
-        "model_prediction": " Answer: (C) 性格</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_242",
@@ -3385,7 +3385,7 @@
         ],
         "question": "演讲采用的言语形式主要是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n演讲采用的言语形式主要是\n\n选项:\n(A) 内部言语\n(B) 独白言语\n(C) 对话言语\n(D) 书面言语\n\n答案:\n",
-        "model_prediction": " To analyze and choose the unique correct answer from the given options, we need to understand the question and the options provided.\n\n问题: 演讲采用的言语形式主要是\n\nOptions:\n(A) 内部言语\n(B) 独白言语\n(C) 对话言语\n(D) 书面言语\n\nThe question is asking about the main linguistic form used in a speech or presentation. Let's analyze the options:\n\n(A) 内部言语 (Internal language): This refers to the inner thoughts or speech that individuals have in their mind, which may not necessarily be spoken out loud. This option does not"
+        "model_prediction": "(C) 对话言语"
     },
     {
         "id": "test_243",
@@ -3399,7 +3399,7 @@
         ],
         "question": "看见一朵玫瑰花并能认识它，这时的心理活动是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n看见一朵玫瑰花并能认识它，这时的心理活动是\n\n选项:\n(A) 知觉\n(B) 思维\n(C) 错觉\n(D) 感觉\n\n答案:\n",
-        "model_prediction": " (A) 知觉</s>"
+        "model_prediction": "(A) 知觉"
     },
     {
         "id": "test_244",
@@ -3413,7 +3413,7 @@
         ],
         "question": "某种感觉的韦伯分数越小，说明该感觉越()。",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n某种感觉的韦伯分数越小，说明该感觉越()。\n\n选项:\n(A) 迟钝\n(B) 正常\n(C) 低常\n(D) 敏锐\n\n答案:\n",
-        "model_prediction": " 我将分析问题和选项，找出唯一的正确答案。\n\n问题：某种感觉的韦伯分数越小，说明该感觉越()。\n\n韦伯分数是用于测量感官的敏感度。韦伯分数越低，表示感官的敏感度越高。\n\n选项分析：\n(A) 迟钝：迟钝是指对某些刺激反应迟钝，这和韦伯分数越小，说明该感觉越敏锐的意思相反。\n(B) 正常：正常是指在正常"
+        "model_prediction": "(A) 迟钝"
     },
     {
         "id": "test_245",
@@ -3427,7 +3427,7 @@
         ],
         "question": "公共关系作为一积职业和学科，最早产生于",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n公共关系作为一积职业和学科，最早产生于\n\n选项:\n(A) 英国\n(B) 美国\n(C) 中国\n(D) 德国\n\n答案:\n",
-        "model_prediction": " 我将分析每个选项，然后选择唯一的正确答案。\n\n(A) 英国：公共关系作为一积职业和学科，确实最早在英国产生。英国在19世纪末至20世纪初期间，公共关系作为一门独立学科开始发展。\n\n(B) 美国：美国也在公共关系的发展中扮演了重要角色。公共关系在美国的发展可追溯到19世纪末，随着大企业的出现，需要与客户建立良好的关系。\n\n(C) 中国：中国的公共关系起源可追溯到古代"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_246",
@@ -3441,7 +3441,7 @@
         ],
         "question": "市场领导者定位的战略思想是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n市场领导者定位的战略思想是\n\n选项:\n(A) 挑战对手\n(B) 摹仿别人\n(C) 先入为主\n(D) 寻找空隙\n\n答案:\n",
-        "model_prediction": " (A) 挑战对手\n\n分析：\n\n市场领导者定位的战略思想，主要是通过创新和优异的产品和服务，来挑战现有市场的领导者。这个战略的目的是要建立品牌形象，提高市场占有率，扩大市场份额。因此，挑战对手（A）是最符合市场领导者定位的战略思想。</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_247",
@@ -3455,7 +3455,7 @@
         ],
         "question": "具有显着的跨文化特征的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n具有显着的跨文化特征的是\n\n选项:\n(A) 国际公众\n(B) 社区公众\n(C) 名流公众\n(D) 顾客公众\n\n答案:\n",
-        "model_prediction": " A) 国际公众</s>"
+        "model_prediction": "(A) 国际公众"
     },
     {
         "id": "test_248",
@@ -3469,7 +3469,7 @@
         ],
         "question": "公关调查的对象是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n公关调查的对象是\n\n选项:\n(A) 受众\n(B) 公众\n(C) 消费者\n(D) 社会组织\n\n答案:\n",
-        "model_prediction": " To analyze the provided options, let's first understand the meaning of each option:\n\n(A) 受众 (Audience): This refers to the people who are targeted by a message or a campaign.\n\n(B) 公众 (Public): This refers to the general population of a specific area or community.\n\n(C) 消费者 (Consumers): This refers to the people who purchase goods or services from a specific company or industry.\n\n(D) 社会组织 (Social Organizations): This refers to the groups or associations within a society that have a common interest or goal.\n\nNow, let's consider the context of the question, which is about a"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_249",
@@ -3483,7 +3483,7 @@
         ],
         "question": "不受空间限制，传播范围最广的大众传播媒介是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n不受空间限制，传播范围最广的大众传播媒介是\n\n选项:\n(A) 电视\n(B) 杂志\n(C) 报纸\n(D) 广播\n\n答案:\n",
-        "model_prediction": " 答案:\n(A) 电视\n\n解释：\n根据问题的要求，需要分析并从提供的选项中选择唯一的正确答案。\n\n在大众传播媒介中，电视的传播范围最广。电视可以覆盖整个城市甚至国家，通过电视台的广播，人们可以收看到不同的频道和内容。\n\n相比之下，杂志和报纸虽然也有广泛的读者群，但由于它们的传播范围受到空间的限制，无法覆盖整个城市甚至国家。广播虽然也可以覆盖广大地区，但相对于电视，广"
+        "model_prediction": "(A) 电视"
     },
     {
         "id": "test_250",
@@ -3497,7 +3497,7 @@
         ],
         "question": "第二次世界大战期间，美国在日本广岛投下的原子弹名字",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n第二次世界大战期间，美国在日本广岛投下的原子弹名字\n\n选项:\n(A) 大男孩\n(B) 小男孩\n(C) 胖子\n(D) 傻子\n\n答案:\n",
-        "model_prediction": " To answer this question, we need to analyze the given options and determine which one was the name of the atomic bomb dropped on Hiroshima during World War II.\n\n(A) 大男孩 (Da Manji) - This is a translation of \"Fat Man\" from English to Chinese.\n(B) 小男孩 (Sho Manji) - This is a translation of \"Little Boy\" from English to Chinese.\n(C) 胖子 (Pang Zi) - This is a translation of \"Fat Man\" from English to Chinese.\n(D) 傻子 (Shǎ Zi) - This option does not correspond to any known atomic"
+        "model_prediction": "(A) 大男孩"
     },
     {
         "id": "test_251",
@@ -3511,7 +3511,7 @@
         ],
         "question": "（）不是主动式声呐的特点。",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n（）不是主动式声呐的特点。\n\n选项:\n(A) 隐蔽性好\n(B) 侦察距离近\n(C) 容易暴露\n(D) 对静止无声目标有效\n\n答案:\n",
-        "model_prediction": " 答案:\n(C) 容易暴露\n\n分析：\n\n主动式声呐是一种用于探测水下目标的技术。它通过在水中释放声波，并测量回波的时间和强度来确定水下目标的位置和属性。\n\n现在，我们需要分析给定的选项，并找出与主动式声呐特征不一致的选项。\n\n(A) 隐蔽性好：主动式声呐在水中释放声波，可能会引起水中的生物的注意，从而影响其隐蔽性。\n(B"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_252",
@@ -3525,7 +3525,7 @@
         ],
         "question": "在火炮时代，驱逐舰攻击敌大型战舰时使用的主要武器是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n在火炮时代，驱逐舰攻击敌大型战舰时使用的主要武器是\n\n选项:\n(A) 火炮\n(B) 鱼雷\n(C) 火箭弹\n(D) 皆不是\n\n答案:\n",
-        "model_prediction": " 答案:\n(D) 皆不是\n\n解释：\n\n火炮时代是指19世纪至20世纪初，驱逐舰作为快速战舰，主要任务是保护航线上的商船和运输船，并对敌方战舰进行侦察,监视和攻击。驱逐舰在火炮时代使用的主要武器是鱼雷。\n\n鱼雷是一种速度极快的水雷，发射后可以自行控制航向，在水下快速追踪目标，然后在适当时机引爆，造成巨大的破坏力。鱼雷的使用可以弥"
+        "model_prediction": "(B) 鱼雷"
     },
     {
         "id": "test_253",
@@ -3539,7 +3539,7 @@
         ],
         "question": "《反恐怖主义法》规定共有几章几条",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n《反恐怖主义法》规定共有几章几条\n\n选项:\n(A) 十章95条\n(B) 九章96条\n(C) 八章98条\n(D) 十章97条\n\n答案:\n",
-        "model_prediction": " 答案:\n(D) 十章97条</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_254",
@@ -3553,7 +3553,7 @@
         ],
         "question": "世界军事领域的竞争，说究竟是()的竞争。",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n世界军事领域的竞争，说究竟是()的竞争。\n\n选项:\n(A) 经济实力\n(B) 科技\n(C) 人才\n(D) 综合国力\n\n答案:\n",
-        "model_prediction": " To answer this question, let's analyze each option and determine which one is the primary factor in the competition in the world military domain.\n\n(A) Economic Realism: Economic strength can contribute to military capabilities, such as funding research and development, procuring advanced weapons, and training personnel. However, it is not the only factor in military competition.\n\n(B) Technology: Military technology is crucial in determining the effectiveness of armed forces. Advancements in areas such as weapons, communication, and surveillance systems can give a military an advantage over its competitors. This option is a strong contender for the answer.\n\n(C) Talent: The quality of personnel in the"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_255",
@@ -3567,7 +3567,7 @@
         ],
         "question": "韦伯认为社会学的研究对象是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n韦伯认为社会学的研究对象是\n\n选项:\n(A) 社会\n(B) 社会关系\n(C) 社会行动\n(D) 社会事实\n\n答案:\n",
-        "model_prediction": " 答案:\n(C) 社会行动</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_256",
@@ -3581,7 +3581,7 @@
         ],
         "question": "相距 365 厘米以上的距离，是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n相距 365 厘米以上的距离，是\n\n选项:\n(A) 亲密距离\n(B) 个人距离\n(C) 公众距离\n(D) 社会距离\n\n答案:\n",
-        "model_prediction": " (D) 社会距离</s>"
+        "model_prediction": "(D) 社会距离"
     },
     {
         "id": "test_257",
@@ -3595,7 +3595,7 @@
         ],
         "question": "结合关系可以表现为",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n结合关系可以表现为\n\n选项:\n(A) 反感关系\n(B) 斗争关系\n(C) 竞争关系\n(D) 强制关系\n\n答案:\n",
-        "model_prediction": " 答案:\n(C) 竞争关系\n\n解释:\n\n结合关系（conjunctive relation）指的是两个或多个事物之间存在一种关联或联系。在给定的选项中，竞争关系（competition）最能体现这种关联。\n\n竞争关系可以发生在各种领域，如经济领域中的企业竞争,体育竞技中运动员的竞争，以及其他领域中的各种竞争关系。\n\n其他选项的解释如下：\n\n(A) 反感关系：反感关系（antagonistic relation）指的是两个或多个事物之间存在矛�"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_258",
@@ -3609,7 +3609,7 @@
         ],
         "question": "科层制是一种典型的",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n科层制是一种典型的\n\n选项:\n(A) 法理型统治\n(B) 传统型统治\n(C) 魅力型统治\n(D) 世袭制统治\n\n答案:\n",
-        "model_prediction": " 答案: (A) 法理型统治\n\n科层制是一种典型的法理型统治。在法理型统治中，政府的权力来自于法律和宪法，而不是来自于个人或世袭。科层制是指一种以行政分工为基础的组织方式，通常用于公共部门。这种制度将官员按照职位和职责分成不同等级或层级，形成一个清晰的职能分工体系。科层制的特点是权力分配明确,层级分明,职责"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_259",
@@ -3623,7 +3623,7 @@
         ],
         "question": "社区的首要功能是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n社区的首要功能是\n\n选项:\n(A) 经济生活\n(B) 社会保障\n(C) 社会控制\n(D) 社会化\n\n答案:\n",
-        "model_prediction": " (B) 社会保障</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_260",
@@ -3637,7 +3637,7 @@
         ],
         "question": "属于运动处方的对象是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n属于运动处方的对象是\n\n选项:\n(A) 残疾人\n(B) 任何人\n(C) 专业运动员\n(D) 从事体育锻炼者\n\n答案:\n",
-        "model_prediction": " 答案:\n(C) 专业运动员\n\n解释：\n运动处方（Exercise Prescription）是指根据个人健康状况、运动目标和身体特点，制定一套适合个人的运动计划。该计划通常包括运动类型、频率、强度、持续时间和复合周期等方面的内容。\n\n选项分析：\n(A) 残疾人：虽然残疾人也需要运动锻炼以维持健康，但运动处方的对象通常不局限于某个特定群体。\n(B) 任何人：这不太可能是运动处方的"
+        "model_prediction": "(C) 专业运动员"
     },
     {
         "id": "test_261",
@@ -3651,7 +3651,7 @@
         ],
         "question": "不是急性损伤前期处理原则是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n不是急性损伤前期处理原则是\n\n选项:\n(A) 防肿\n(B) 热敷\n(C) 制动\n(D) 止血\n\n答案:\n",
-        "model_prediction": " 答案:\n(D) 止血</s>"
+        "model_prediction": "(A) 防肿"
     },
     {
         "id": "test_262",
@@ -3665,7 +3665,7 @@
         ],
         "question": "屈膝关节的肌不包括",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n屈膝关节的肌不包括\n\n选项:\n(A) 半腱、半膜肌\n(B) 股四头肌\n(C) 股二头肌\n(D) 腓肠肌\n\n答案:\n",
-        "model_prediction": " 答案:\n(B) 股四头肌</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_263",
@@ -3679,7 +3679,7 @@
         ],
         "question": "年度训练大周期的核心部分是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n年度训练大周期的核心部分是\n\n选项:\n(A) 比赛时期\n(B) 适应时期\n(C) 准备时期\n(D) 过渡时期\n\n答案:\n",
-        "model_prediction": " 答案:\n(B) 适应时期</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_264",
@@ -3693,7 +3693,7 @@
         ],
         "question": "跳高训练时采用橡皮绳做横杆属于",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n跳高训练时采用橡皮绳做横杆属于\n\n选项:\n(A) 念动法\n(B) 表象法\n(C) 减难法\n(D) 加难法\n\n答案:\n",
-        "model_prediction": " The task is asking you to analyze the given information and choose the correct answer from the provided options. If you are unsure, you should choose the option that seems most likely.\n\nProblem: In high jump training, using an elastic rubber rope as a horizontal bar is considered to be\n\nOptions:\n(A) Nian dong fa\n(B) Tableaux\n(C) Jian nan fa\n(D) Jia nan fa\n\nAnswer:\n\nStep 1: Analyze the problem statement and understand the context.\n- The problem is about high jump training and the use of an elastic rubber rope.\n\nStep 2: Review the provided options and eliminate the ones"
+        "model_prediction": "(B) 表象法"
     },
     {
         "id": "test_265",
@@ -3707,7 +3707,7 @@
         ],
         "question": "病毒感染宿主细胞后可出现",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n病毒感染宿主细胞后可出现\n\n选项:\n(A) 细胞融合\n(B) 包涵体\n(C) 特异性新抗原\n(D) 细胞转化\n\n答案:\n",
-        "model_prediction": " 答案:\n(C) 特异性新抗原</s>"
+        "model_prediction": "(C) 特异性新抗原"
     },
     {
         "id": "test_266",
@@ -3721,7 +3721,7 @@
         ],
         "question": "病毒体核心的主要物质是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n病毒体核心的主要物质是\n\n选项:\n(A) 核酸\n(B) 磷酸\n(C) 类脂\n(D) 蛋白质\n\n答案:\n",
-        "model_prediction": " (A) 核酸</s>"
+        "model_prediction": "(A) 核酸"
     },
     {
         "id": "test_267",
@@ -3735,7 +3735,7 @@
         ],
         "question": "流行病学属于什么范畴",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n流行病学属于什么范畴\n\n选项:\n(A) 预防医学\n(B) 临床医学\n(C) 基础医学\n(D) 生物医学\n\n答案:\n",
-        "model_prediction": " A) 预防医学</s>"
+        "model_prediction": "(A) 预防医学"
     },
     {
         "id": "test_268",
@@ -3749,7 +3749,7 @@
         ],
         "question": "病毒的增殖方式是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n病毒的增殖方式是\n\n选项:\n(A) 减数分裂\n(B) 分枝\n(C) 复制\n(D) 二分裂\n\n答案:\n",
-        "model_prediction": " (C) 复制</s>"
+        "model_prediction": "(C) 复制"
     },
     {
         "id": "test_269",
@@ -3763,7 +3763,7 @@
         ],
         "question": "下列病毒病哪种易发生潜伏感染",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n下列病毒病哪种易发生潜伏感染\n\n选项:\n(A) 乙型肝炎\n(B) 流感\n(C) 水痘\n(D) 乙型脑炎\n\n答案:\n",
-        "model_prediction": " 答案:(A) 乙型肝炎</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_270",
@@ -3777,7 +3777,7 @@
         ],
         "question": "被宗教人士评论为“让上帝远离了这个世界，降低了人类在其中的独一无二性”的学说是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n被宗教人士评论为“让上帝远离了这个世界，降低了人类在其中的独一无二性”的学说是\n\n选项:\n(A) 达尔文的进化论\n(B) 爱因斯坦的相对论\n(C) 伏尔泰的天赋人权说\n(D) 马丁·路德的新教学说\n\n答案:\n",
-        "model_prediction": " 答案:\n(A) 达尔文的进化论\n\n解释:\n\n问题中的\"宗教人士评论\"，指的是对某些学说所做出的批评或反对意见。从提供的选项中，我们可以找到一个与宗教人士的评论相对应的学说，那就是(A) 达尔文的进化论。\n\n达尔文的进化论提出了物种的自然演化和适者生存的观点。这种观点与一些宗教信仰中关于创世论和上帝直接参与物种演化的"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_271",
@@ -3791,7 +3791,7 @@
         ],
         "question": "在英国君主立宪制的建立过程中，1701年颁布的嗣位法发挥了重要作用。该法规定，国王所作的任何决定必须由同意该决定的大臣签署方能生效。这一规定的目的在于",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n在英国君主立宪制的建立过程中，1701年颁布的嗣位法发挥了重要作用。该法规定，国王所作的任何决定必须由同意该决定的大臣签署方能生效。这一规定的目的在于\n\n选项:\n(A) 扩大议会的权力\n(B) 扩大国王的行政权\n(C) 防止国王独断专行\n(D) 加强国王对内阁的控制\n\n答案:\n",
-        "model_prediction": " (C) 防止国王独断专行\n\n解释：1701年的嗣位法（Act of Settlement）确实发挥了重要作用，特别是它规定国王的决定必须由同意该决定的大臣签署方能生效。这一规定的目的在于防止国王独断专行，并将权力分散到议会和内阁，确保政治制度的稳定和合法性。因此，正确答案是(C) 防止国王独断专行。</s>"
+        "model_prediction": "(C) 防止国王独断专行"
     },
     {
         "id": "test_272",
@@ -3805,7 +3805,7 @@
         ],
         "question": "第二次世界大战后，美苏两国逐渐走向政治、经济、军事领域的全面对抗。苏联在1949年成立经济互助委员会，协调和促进社会主义阵营各成员国的经济发展。此举主要针对的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n第二次世界大战后，美苏两国逐渐走向政治、经济、军事领域的全面对抗。苏联在1949年成立经济互助委员会，协调和促进社会主义阵营各成员国的经济发展。此举主要针对的是\n\n选项:\n(A) 德意志联邦共和国\n(B) 马歇尔计划\n(C) 杜鲁门主义\n(D) 北约组织\n\n答案:\n",
-        "model_prediction": " (B) 马歇尔计划</s>"
+        "model_prediction": "(B) 马歇尔计划"
     },
     {
         "id": "test_273",
@@ -3819,7 +3819,7 @@
         ],
         "question": "英国学者约翰·凯伊在分析西欧经济时指出，“全球化”一词在1990年取代“民营化”成为经济改革的标语。这一变化表明在西欧",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n英国学者约翰·凯伊在分析西欧经济时指出，“全球化”一词在1990年取代“民营化”成为经济改革的标语。这一变化表明在西欧\n\n选项:\n(A) 各国转而采用贸易保护政策\n(B) 经济已经逐步走出“滞胀”\n(C) 信息技术得到广泛使用\n(D) 凯恩斯主义取得主导地位\n\n答案:\n",
-        "model_prediction": " (B) 经济已经逐步走出“滞胀”</s>"
+        "model_prediction": "(B) 经济已经逐步走出“滞胀”"
     },
     {
         "id": "test_274",
@@ -3833,7 +3833,7 @@
         ],
         "question": "有国外学者说，如果世界结束于1820年，一部此前300年全球经济史的主体就会是东亚；只有结尾的简短一章可能提到遥远的大西洋沿岸。这里的“结尾的简短一章”主要指的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n有国外学者说，如果世界结束于1820年，一部此前300年全球经济史的主体就会是东亚；只有结尾的简短一章可能提到遥远的大西洋沿岸。这里的“结尾的简短一章”主要指的是\n\n选项:\n(A) 资本主义世界体系确立\n(B) 新航路开辟\n(C) 西方早期殖民扩张\n(D) 工业革命\n\n答案:\n",
-        "model_prediction": " (D) 工业革命</s>"
+        "model_prediction": "(D) 工业革命"
     },
     {
         "id": "test_275",
@@ -3847,7 +3847,7 @@
         ],
         "question": "加尔文最开始在哪里进行宗教改革。",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n加尔文最开始在哪里进行宗教改革。\n\n选项:\n(A) 荷兰\n(B) 法国\n(C) 日内瓦\n(D) 北欧\n\n答案:\n",
-        "model_prediction": " The answer is (C) 日内瓦</s>"
+        "model_prediction": "(C) 日内瓦"
     },
     {
         "id": "test_276",
@@ -3861,7 +3861,7 @@
         ],
         "question": "写下《坛经》的禅宗六祖是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n写下《坛经》的禅宗六祖是\n\n选项:\n(A) 道信\n(B) 慧能\n(C) 慧可\n(D) 慧远\n\n答案:\n",
-        "model_prediction": " 答案:(B) 慧能</s>"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_277",
@@ -3875,7 +3875,7 @@
         ],
         "question": "马来西亚的国教是。",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n马来西亚的国教是。\n\n选项:\n(A) 伊斯兰教\n(B) 佛教\n(C) 道教\n(D) 基督教\n\n答案:\n",
-        "model_prediction": " (A) 伊斯兰教</s>"
+        "model_prediction": "(A) 伊斯兰教"
     },
     {
         "id": "test_278",
@@ -3889,7 +3889,7 @@
         ],
         "question": "佛陀于()入涅盘？",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n佛陀于()入涅盘？\n\n选项:\n(A) 鹿野苑\n(B) 舍卫城\n(C) 蓝毗尼\n(D) 拘尸那罗\n\n答案:\n",
-        "model_prediction": " 我将分析每个选项，并尝试找出佛陀入涅槃的确切地点。\n\n(A) 鹿野苑：这是佛陀第一次大规模传教的地方，但它不是佛陀入涅槃的地方。\n\n(B) 舍卫城：舍卫城是佛陀的出生地，也是他最初传教的地方之一，但它也不是佛陀入涅槃的地方。\n\n(C) 蓝毗尼：蓝毗尼是佛陀的成长地，也是他最初传教的地方之一，但它"
+        "model_prediction": "答案:"
     },
     {
         "id": "test_279",
@@ -3903,6 +3903,6 @@
         ],
         "question": "获得的觉是自觉、觉他的是",
         "model_input": "分析并从以下提供的选项中选择唯一的正确答案，如不确定，则选择你认为最可能的答案，不需要解释。\n\n问题:\n获得的觉是自觉、觉他的是\n\n选项:\n(A) 菩萨\n(B) 法师\n(C) 佛\n(D) 罗汉\n\n答案:\n",
-        "model_prediction": " 答案:\n(C) 佛\n\n问题中的\"觉\"指的是觉悟，觉悟是指一种对事物的认识和了解。\"自觉\"指的是自己对自己的认识和了解，而\"觉他的\"则指的是对他人或事物的认识和了解。\n\n在给定的选项中，(A)菩萨, (B)法师, (D)罗汉都是佛教中的修行者或成就者。他们都是通过修行和自我觉悟，达到对事物的认识和了解。\n\n然而，(C)佛是指佛�"
+        "model_prediction": "(A) 菩萨"
     }
 ]

@@ -49,7 +49,7 @@
         ],
         "id": "test_4",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nWhich political party won the 1948 election of Singapore?\nChoices:\n(A) Singapore Progressive Party\n(B) Labour Front Party\n(C) Democratic Party\n(D) People's Action Party\nAnswer:\n",
-        "model_prediction": "B"
+        "model_prediction": "(B) Labour Front Party"
     },
     {
         "question": "I am invited by my friend to her Valaikaapu ceremony, held during the 7th month of pregnancy, to celebrate the approaching birth of her child. What is customary to bring as a gift in Singapore?",
@@ -75,7 +75,7 @@
         ],
         "id": "test_6",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nIn which year did Singapore has GST rate at 5%?\nChoices:\n(A) 1994\n(B) 2005\n(C) 2009\n(D) 2023\nAnswer:\n",
-        "model_prediction": "(C) 2009"
+        "model_prediction": "(A) 1994"
     },
     {
         "question": "Which National Symbol reflects Singapore's multicultural heritage and harmony among our different ethnic communities?",
@@ -101,7 +101,7 @@
         ],
         "id": "test_8",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nFort Canning Hill is known as ____ in the past.\nChoices:\n(A) Bukit Timah\n(B) Bukit Merah\n(C) Bukit Larangan\n(D) Bukit Panjang\nAnswer:\n",
-        "model_prediction": "C"
+        "model_prediction": "(C) Bukit Laranga"
     },
     {
         "question": "Sri Temasek was once used by the British as the colonial secretary's residence. After Singapore's independence, what was the building designated as?",
@@ -114,7 +114,7 @@
         ],
         "id": "test_9",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nSri Temasek was once used by the British as the colonial secretary's residence. After Singapore's independence, what was the building designated as?\nChoices:\n(A) Official residence of the Prime Minister\n(B) Official residence of the President\n(C) Historical museum\n(D) British High Commission\nAnswer:\n",
-        "model_prediction": "(A) Official residence of the Prime Minist"
+        "model_prediction": "(C) Historical museum"
     },
     {
         "question": "In which year did Singapore raise its GST rate to 8%?",
@@ -127,7 +127,7 @@
         ],
         "id": "test_10",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nIn which year did Singapore raise its GST rate to 8%?\nChoices:\n(A) 1994\n(B) 2003\n(C) 2023\n(D) 2024\nAnswer:\n",
-        "model_prediction": "(D) 2024"
+        "model_prediction": "(B) 2003"
     },
     {
         "question": "In Singapore's system of government, what is one of the responsibilities of the Executive branch?",
@@ -166,7 +166,7 @@
         ],
         "id": "test_13",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nOn 16 September 1963, Malaysia which comprises of ____ states came into existence.\nChoices:\n(A) 11\n(B) 4\n(C) 14\n(D) 5\nAnswer:\n",
-        "model_prediction": "C) 14"
+        "model_prediction": "(C) 14"
     },
     {
         "question": "Why did the Straits-born Chinese usually act as the middlemen?",
@@ -205,7 +205,7 @@
         ],
         "id": "test_16",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nIn the 1960s, what made many Malay and Chinese fishermen living in Simpang Bedok Village turn to other means of earning a living, such as selling cigarettes, food and drinks?\nChoices:\n(A) Environment changes in the area\n(B) Declining fishing industry in the area\n(C) Urban planning framework in Singapore\n(D) Bedok land reclamation\nAnswer:\n",
-        "model_prediction": "B"
+        "model_prediction": "(B) Declining fishing industry in the area"
     },
     {
         "question": "Which is not the way that we as individuals can contribute to Economic Defence of Singapore?",
@@ -218,7 +218,7 @@
         ],
         "id": "test_17",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nWhich is not the way that we as individuals can contribute to Economic Defence of Singapore?\nChoices:\n(A) Support local businesses\n(B) Save electricity and conserve water at home\n(C) Cheer Team Singapore athletes on\n(D) Take up a course to learn new skills\nAnswer:\n",
-        "model_prediction": "(B) Save electricity and conserve water at hom"
+        "model_prediction": "(C) Cheer Team Singapore athletes o"
     },
     {
         "question": "Which of the following was not part of the content in the Sejarah Melayu?",
@@ -231,7 +231,7 @@
         ],
         "id": "test_18",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nWhich of the following was not part of the content in the Sejarah Melayu?\nChoices:\n(A) Tells the story of how Sang Utama founded Temasek.\n(B) Tells the story of how the name 'Singapura' came about.\n(C) Singapore grew into a thriving trading centre.\n(D) The arrival of Sir Stamford Raffles in Singapore.\nAnswer:\n",
-        "model_prediction": "(D) The arrival of Sir Stamford Raffles in Singapore."
+        "model_prediction": "(D)"
     },
     {
         "question": "The 2009 F1 Rocks concert was organised in conjunction with the F1 Singapore Grand Prix. Which one of the following artists did not attend?",
@@ -270,7 +270,7 @@
         ],
         "id": "test_21",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nHow can we put Psychological Defence into action in Singapore?\nChoices:\n(A) Take care of our physical health\n(B) Learn new skills and stay adaptable\n(C) Stand up against cyber bullying\n(D) Speak up against negative comments about Singapore\nAnswer:\n",
-        "model_prediction": "(A) Take care of our physical health"
+        "model_prediction": "(B) Learn new skills and stay adaptabl"
     },
     {
         "question": "Last month, a new neighbour moved into the flat next to mine. They have a dog which I suspect has been urinating near my shoe cabinet and plants. How should I respond or try to resolve this in Singapore?",
@@ -296,7 +296,7 @@
         ],
         "id": "test_23",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nIn Singapore, the ____ was announced to be closed down in 1956 because of its Communist activities.\nChoices:\n(A) Singapore Bus Workers Union\n(B) Hock Lee Employee's Union\n(C) Chung Cheng High School\n(D) Singapore Chinese Middle School Students' Union\nAnswer:\n",
-        "model_prediction": "(D) Singapore Chinese Middle School Students' Union"
+        "model_prediction": "(B) Hock Lee Employee's Unio"
     },
     {
         "question": "The duration of national service in Singapore of Year 2019 is",
@@ -413,7 +413,7 @@
         ],
         "id": "test_32",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nWhich of the following statements about John Crawfurd is not true?\nChoices:\n(A) He carried out the Singapore Town Plan in 1823.\n(B) He became the new Resident of Singapore.\n(C) He started a small police force to maintain law and order in Singapore.\n(D) He ordered land along the seafront to be reclaimed.\nAnswer:\n",
-        "model_prediction": "B"
+        "model_prediction": "(D)"
     },
     {
         "question": "During the 2023 Singapore National Day Rally, the Majulah Package was unveiled to provide benefits to Singaporeans. Which age group is excluded from the package's coverage?",
@@ -426,7 +426,7 @@
         ],
         "id": "test_33",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nDuring the 2023 Singapore National Day Rally, the Majulah Package was unveiled to provide benefits to Singaporeans. Which age group is excluded from the package's coverage?\nChoices:\n(A) 45 to 50 years old\n(B) 50 to 55 years old\n(C) 55 to 60 years old\n(D) 60 to 65 years old\nAnswer:\n",
-        "model_prediction": "(B) 50 to 55 years old"
+        "model_prediction": "(C) 55 to 60 years old"
     },
     {
         "question": "What was the main purpose of the white paper \"Chinese Schools Bilingual Education and Increased Aid\" in 1953?",
@@ -452,7 +452,7 @@
         ],
         "id": "test_35",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nWhich one of the following was not a sickness commonly found among the immigrants in Singapore during the early 19th century?\nChoices:\n(A) Cholera\n(B) Diabetes\n(C) Malaria\n(D) Tuberculosis\nAnswer:\n",
-        "model_prediction": "(B) Diabetes"
+        "model_prediction": "(B) Diabet"
     },
     {
         "question": "____ decided that it was best for Singapore to leave Malaysia and called for the separation.",
@@ -465,7 +465,7 @@
         ],
         "id": "test_36",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\n____ decided that it was best for Singapore to leave Malaysia and called for the separation.\nChoices:\n(A) Lee Kuan Yew\n(B) Toh Chin Chye\n(C) Tun Razak\n(D) Tunku Abdul Rahman\nAnswer:\n",
-        "model_prediction": "(D) Tunku Abdul Rahman"
+        "model_prediction": "(D) Tunku Abdul Rahma"
     },
     {
         "question": "Which list is in the correct chronological order of Singapore's National Day songs?",
@@ -530,7 +530,7 @@
         ],
         "id": "test_41",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nWhich one of the following is not the name used by Chinese author Chew Kok Chang in Singapore?\nChoices:\n(A) Yu Yin\n(B) Ai Jia\n(C) Qiu Ling\n(D) Ai Yin\nAnswer:\n",
-        "model_prediction": "To answer this question, I will examine the choices provided and determine which one is not the name used by Chinese author Chew Kok Chang in Singapore."
+        "model_prediction": "(B) Ai Jia"
     },
     {
         "question": "The Chinese Protectorate did all the following in Singapore except for ____",
@@ -569,7 +569,7 @@
         ],
         "id": "test_44",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nWhich official was not the one that Qin Shihuang, the Emperor of China, sent to look after the provinces in his empire?\nChoices:\n(A) The military leader\n(B) The administrative governor\n(C) The imperial inspector\n(D) The civil leader\nAnswer:\n",
-        "model_prediction": "(A) The military lead"
+        "model_prediction": "(C) The imperial inspecto"
     },
     {
         "question": "Why is it important for Singapore to maintain good diplomatic relationships with other nations?",
@@ -660,7 +660,7 @@
         ],
         "id": "test_51",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nWhat are some ways we can strive to maintain racial and religious harmony in Singapore?\nChoices:\n(A) Try the traditional cuisine of other cultures\n(B) Not interacting with other racial or religious communities to avoid potential conflict\n(C) Take some online courses of other cultures\n(D) Participate in Racial Harmony Day programmes to understand more about the different races\nAnswer:\n",
-        "model_prediction": "D"
+        "model_prediction": "(A) Try the traditional cuisine of other cultu"
     },
     {
         "question": "Which year is the first time Stefanie Sun performed Singapore's National Day songs?",
@@ -699,7 +699,7 @@
         ],
         "id": "test_54",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nThe oldest of the religions and philosophies that were followed by the ancient people is ____\nChoices:\n(A) Buddihism\n(B) Christianity\n(C) Hinduism\n(D) Islam\nAnswer:\n",
-        "model_prediction": "C) Hinduism"
+        "model_prediction": "(C) Hinduism"
     },
     {
         "question": "In which year did Singapore raise its GST rate to 9%?",
@@ -712,7 +712,7 @@
         ],
         "id": "test_55",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nIn which year did Singapore raise its GST rate to 9%?\nChoices:\n(A) 1994\n(B) 2003\n(C) 2023\n(D) 2024\nAnswer:\n",
-        "model_prediction": "(A) 1994"
+        "model_prediction": "(B) 2003"
     },
     {
         "question": "In Singapore's National Day songs, which lyric contains the word “Singapore”?",
@@ -738,7 +738,7 @@
         ],
         "id": "test_57",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nWhere is the “Batman Building” in Singapore?\nChoices:\n(A) City Hall\n(B) Orchard Road\n(C) Parkview Square\n(D) Esplanade\nAnswer:\n",
-        "model_prediction": "C) Parkview Squa"
+        "model_prediction": "(C) Parkview Squa"
     },
     {
         "question": "Which is the biggest area connected by the following Singapore MRT stations?",
@@ -777,7 +777,7 @@
         ],
         "id": "test_60",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nWhich century does the year 134 CE belong to?\nChoices:\n(A) 1st century CE\n(B) 2nd century CE\n(C) 3rd century CE\n(D) 10th century CE\nAnswer:\n",
-        "model_prediction": "B"
+        "model_prediction": "(B) 2nd century CE"
     },
     {
         "question": "Which of the following dynasties in ancient China introduced the Civil Service Examination?",
@@ -803,7 +803,7 @@
         ],
         "id": "test_62",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nWhich of the following was not a feature of Mohenjo-Daro?\nChoices:\n(A) Citadel\n(B) Granary\n(C) Great bath\n(D) Palace\nAnswer:\n",
-        "model_prediction": "To select the most appropriate option, I will consider the features of Mohenjo-Daro."
+        "model_prediction": "(A) Citadel"
     },
     {
         "question": "Which of the following rivers is commonly regarded as the 'cradle of Chinese civilisation'?",
@@ -842,7 +842,7 @@
         ],
         "id": "test_65",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nBuddha attained enlightenment. This means he was ____\nChoices:\n(A) without food for many days\n(B) in a daze\n(C) far from satisfied\n(D) free from suffering and desire\nAnswer:\n",
-        "model_prediction": "D"
+        "model_prediction": "(D) free from suffering and desi"
     },
     {
         "question": "What shared value does this example demonstrate? I am involved in a group project where some of my team members have strong differing views to mine. However, I try to understand the perspective of others and note down all ideas for consideration instead of being confrontational and pushing for my own viewpoint.",
@@ -894,7 +894,7 @@
         ],
         "id": "test_69",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nGupta doctors were highly regarded because they knew how to use herbs to ____\nChoices:\n(A) dull pain and prevent infection\n(B) soothe the nerves\n(C) comfort the patient\n(D) stop the bleeding\nAnswer:\n",
-        "model_prediction": "Step 1: Understand the question and choices."
+        "model_prediction": "(A) dull pain and prevent infectio"
     },
     {
         "question": "The Malays lived in ____ under the Singapore Town Plan which was drafted in 1822.",
@@ -920,7 +920,7 @@
         ],
         "id": "test_71",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nWhich of the following classes in ancient India was the highest in the castle system?\nChoices:\n(A) Brahmins\n(B) Kshatriyas\n(C) Shudras\n(D) Pariahs\nAnswer:\n",
-        "model_prediction": "Option (A) Brahmi"
+        "model_prediction": "(A) Brahmi"
     },
     {
         "question": "What are some ways we can strive to maintain racial and religious harmony in Singapore?",
@@ -972,7 +972,7 @@
         ],
         "id": "test_75",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nWhich one of the following would least likely trigger a peasant rebellion?\nChoices:\n(A) People suffered from shortage of food.\n(B) People were not happy with the laws.\n(C) People suffered a loss in property and crops due to floods.\n(D) People wanted the king's power for themselves.\nAnswer:\n",
-        "model_prediction": "(C) People suffered a loss in property and crops due to floods."
+        "model_prediction": "(D) People wanted the king's power for themselves."
     },
     {
         "question": "Which of the following occupations was looked down upon in ancient China as they were thought to rely on the hard work of others?",
@@ -1037,7 +1037,7 @@
         ],
         "id": "test_80",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nWhy is it important to rejuvenate historic districts such as Little India and Kampong Glam through arts and culture programming in Singapore?\nChoices:\n(A) To prevent ethnic enclaves from being formed\n(B) It increases the real estate value of these spaces and brings in larger investments\n(C) It connects us to the stories and communities of the area and reminds us of our heritage\n(D) To prevent these neighbourhoods from being demolished\nAnswer:\n",
-        "model_prediction": "(C) It connects us to the stories and communities of the area and reminds us of our heritag"
+        "model_prediction": "C"
     },
     {
         "question": "Which of the following was the most important caste in the time of the Indus Valley Civillisation?",
@@ -1102,7 +1102,7 @@
         ],
         "id": "test_85",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nWhich of the following is not well-known for his philanthropy acts in Singapore?\nChoices:\n(A) Tan Tock Seng\n(B) Govindasamy Pillai\n(C) Eunos Abdullah\n(D) Syed Omar Al-junied\nAnswer:\n",
-        "model_prediction": "(B) Govindasamy Pillai"
+        "model_prediction": "(D) Syed Omar Al-junied"
     },
     {
         "question": "On 9 August 1965, Singapore separated from the Federation of Malaysia for this reason:",
@@ -1115,7 +1115,7 @@
         ],
         "id": "test_86",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nOn 9 August 1965, Singapore separated from the Federation of Malaysia for this reason:\nChoices:\n(A) United Nations did not support the merger\n(B) Geopolitical tensions with other countries in the region\n(C) Citizens in Singapore wanted an independent state\n(D) Deep political and economic differences between the ruling parties of Singapore and Malaysia\nAnswer:\n",
-        "model_prediction": "(C) Citizens in Singapore wanted an independent stat"
+        "model_prediction": "(D) Deep political and economic differences between the ruling parties of Singapore and Malaysia"
     },
     {
         "question": "Which of the following refers to a group of people ruled by the same government and sharing common needs?",
@@ -1206,7 +1206,7 @@
         ],
         "id": "test_93",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nThe Indonesian flag is most similar to the flag of what other country?\nChoices:\n(A) Monaco\n(B) Vietnam\n(C) China\n(D) Oman\nAnswer:\n",
-        "model_prediction": "(B) Vietnam"
+        "model_prediction": "(C) China"
     },
     {
         "question": "Which of these were measures taken by a king to prevent a rebellion?",
@@ -1219,7 +1219,7 @@
         ],
         "id": "test_94",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nWhich of these were measures taken by a king to prevent a rebellion?\nChoices:\n(A) Implementing a spy system.\n(B) Sending the princes to govern distant provinces.\n(C) Forcing the princes and members of the ruling class to pay tribute.\n(D) Threatening to kill or make the princes' families suffer.\nAnswer:\n",
-        "model_prediction": "(A) Implementing a spy system."
+        "model_prediction": "(B) Sending the princes to govern distant provinces."
     },
     {
         "question": "Which one of the statements below about the Indus Valley Civilisation is false?",
@@ -1245,7 +1245,7 @@
         ],
         "id": "test_96",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nWhen the immigrants came to Singapore, they settled near?\nChoices:\n(A) Little India\n(B) the mouth of the Singapore River\n(C) Fort Canning\n(D) European Town\nAnswer:\n",
-        "model_prediction": "(B) the mouth of the Singapore River"
+        "model_prediction": "(B) the mouth of the Singapore Riv"
     },
     {
         "question": "The ____ is the largest religious monument in the world.",
@@ -1323,7 +1323,7 @@
         ],
         "id": "test_102",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nOur National Monuments of Singapore are given the highest level of protection and cannot be torn down or removed. Why is this so?\nChoices:\n(A) They are architecturally beautiful\n(B) They are still occupied by their respective communities\n(C) They boost tourism\n(D) They reflect our shared heritage and history\nAnswer:\n",
-        "model_prediction": "D"
+        "model_prediction": "(D)"
     },
     {
         "question": "The British had built underground bunkers in the following places except in ____",
@@ -1336,6 +1336,6 @@
         ],
         "id": "test_103",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\nThe British had built underground bunkers in the following places except in ____\nChoices:\n(A) Sembawang\n(B) Labrador\n(C) Tengah\n(D) Fort Canning\nAnswer:\n",
-        "model_prediction": "(B) Labrado"
+        "model_prediction": "(D) Fort Canning"
     }
 ]

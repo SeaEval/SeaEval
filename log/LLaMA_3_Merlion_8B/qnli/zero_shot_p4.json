@@ -52,7 +52,7 @@
         ],
         "answer": "(A) Answerable",
         "model_input": "Based on the question and paragraph, determine if the answer can be inferred from the paragraph. Select the most appropriate choice as the answer. Simply select the choice, no explanations required.\n\nQuestion: The influence of India can be seen in which religious art objects from Thailand, Burma and Cambodia? Paragraph: Refined Hindu and Buddhist sculptures reflect the influence of India; items on show include betel-nut cutters, ivory combs and bronze palanquin hooks.\n\nChoices:\n(A) Answerable\n(B) Not Answerable\n\nAnswer:\n",
-        "model_prediction": "(B) Not Answerabl"
+        "model_prediction": "(A) Answerabl"
     },
     {
         "id": "test_6",
@@ -96,7 +96,7 @@
         ],
         "answer": "(A) Answerable",
         "model_input": "Based on the question and paragraph, determine if the answer can be inferred from the paragraph. Select the most appropriate choice as the answer. Simply select the choice, no explanations required.\n\nQuestion: What is the name of the current King of Thebes in the play? Paragraph: One of the oldest depictions of civil disobedience is in Sophocles' play Antigone, in which Antigone, one of the daughters of former King of Thebes, Oedipus, defies Creon, the current King of Thebes, who is trying to stop her from giving her brother Polynices a proper burial.\n\nChoices:\n(A) Answerable\n(B) Not Answerable\n\nAnswer:\n",
-        "model_prediction": "(B) Not Answerabl"
+        "model_prediction": "(A) Answerabl"
     },
     {
         "id": "test_10",
@@ -107,6 +107,6 @@
         ],
         "answer": "(A) Answerable",
         "model_input": "Based on the question and paragraph, determine if the answer can be inferred from the paragraph. Select the most appropriate choice as the answer. Simply select the choice, no explanations required.\n\nQuestion: How long did Western Europe control Cyprus? Paragraph: The conquest of Cyprus by the Anglo-Norman forces of the Third Crusade opened a new chapter in the history of the island, which would be under Western European domination for the following 380 years.\n\nChoices:\n(A) Answerable\n(B) Not Answerable\n\nAnswer:\n",
-        "model_prediction": "(A) Answerable"
+        "model_prediction": "(A) Answerabl"
     }
 ]

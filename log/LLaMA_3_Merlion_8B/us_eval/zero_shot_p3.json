@@ -10,7 +10,7 @@
         "question": "In American government, the power to declare war rests with",
         "answer": "(B) Congress.",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nIn American government, the power to declare war rests with\nChoices:\n(A) the secretary of defense.\n(B) Congress.\n(C) the chairman of the Joint Chiefs of Staff.\n(D) the president of the United States.\nAnswer:\n",
-        "model_prediction": "(B) Congress."
+        "model_prediction": "(D) the president of the United States."
     },
     {
         "choices": [
@@ -23,7 +23,7 @@
         "question": "Which of these is not a component of the 'American Creed'?",
         "answer": "(C) Autocracy",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nWhich of these is not a component of the 'American Creed'?\nChoices:\n(A) Equality\n(B) Liberty\n(C) Autocracy\n(D) Individualism\nAnswer:\n",
-        "model_prediction": "(C) Autocracy"
+        "model_prediction": "C"
     },
     {
         "choices": [
@@ -36,7 +36,7 @@
         "question": "There was an accident at a manufacturing plant located in California which state generally allows prevailing parties to collect punitive damages. A worker from Washington was injured at the California plant and she filed suit in federal district court in her home state of Washington. Washington does not generally allow punitive damages. The plaintiff has alleged in their federal lawsuit filed in Washington that they are entitled to punitive damages. The court should",
         "answer": "(C) Apply the punitive damage rule in Washington because that is where the court is located.",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nThere was an accident at a manufacturing plant located in California which state generally allows prevailing parties to collect punitive damages. A worker from Washington was injured at the California plant and she filed suit in federal district court in her home state of Washington. Washington does not generally allow punitive damages. The plaintiff has alleged in their federal lawsuit filed in Washington that they are entitled to punitive damages. The court should\nChoices:\n(A) Apply the punitive damage rule in Washington since that is where the plaintiff resides.\n(B) Let the jury in the case decide which state law of punitive damage should apply based upon their analysis of the relative culpability of the parties.\n(C) Apply the punitive damage rule in Washington because that is where the court is located.\n(D) Apply the punitive damage rule in California since that is where the accident occurred.\nAnswer:\n",
-        "model_prediction": "(A) Apply the punitive damage rule in Washington since that is where the plaintiff resides."
+        "model_prediction": "(D) Apply the punitive damage rule in California since that is where the accident occurred."
     },
     {
         "choices": [
@@ -75,7 +75,7 @@
         "question": "Each of the two main political parties of the United States is organized",
         "answer": "(C) as a relatively independent organization that exists at all levels of government",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nEach of the two main political parties of the United States is organized\nChoices:\n(A) as a single party with a presence at the national level only\n(B) in a top-down fashion, so that instructions are dispersed from the national level to the state and local levels\n(C) as a relatively independent organization that exists at all levels of government\n(D) into a federal structure in which state and local parties have no power\nAnswer:\n",
-        "model_prediction": "I would choose option (B) as the most appropriate answer. This is because the two main political parties in the United States are organized in a hierarchical structure, with the national level playing a significant role in setting the overall direction and policies of the party. The state and local levels then work within this framework to implement the party's agenda and engage with voters at a more local level."
+        "model_prediction": "(B) in a top-down fashion, so that instructions are dispersed from the national level to the state and local level"
     },
     {
         "choices": [
@@ -101,7 +101,7 @@
         "question": "The standard tip in a restaurant is $ 15 \\%$ of the bill before tax. Many people in California find the tip by doubling the sales tax, which is $8.25 \\%$. By how many cents does this exceed the standard tip on a bill of $ \\$60 $ before tax?",
         "answer": "(C) 90",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nThe standard tip in a restaurant is $ 15 \\%$ of the bill before tax. Many people in California find the tip by doubling the sales tax, which is $8.25 \\%$. By how many cents does this exceed the standard tip on a bill of $ \\$60 $ before tax?\nChoices:\n(A) 80\n(B) 60\n(C) 90\n(D) 70\nAnswer:\n",
-        "model_prediction": "The standard tip is $15\\%$ of the bill, which is $60 * 0.15 = 9$."
+        "model_prediction": "The standard tip is $15\\%$ of the bill, which is $0.15 \\times 60 = 9$ dollars."
     },
     {
         "choices": [
@@ -270,7 +270,7 @@
         "question": "In mobster lingo if you 'sing like a canary' what are you doing?",
         "answer": "(C) talking to the cops",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nIn mobster lingo if you 'sing like a canary' what are you doing?\nChoices:\n(A) killing an enemy\n(B) impersonating Sinatra\n(C) talking to the cops\n(D) betting on horses\nAnswer:\n",
-        "model_prediction": "Option (C) talking to the cop"
+        "model_prediction": "(C) talking to the cop"
     },
     {
         "choices": [
@@ -322,7 +322,7 @@
         "question": "Who was the first American in space?",
         "answer": "(C) Alan Shepard",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nWho was the first American in space?\nChoices:\n(A) John Glenn\n(B) Buzz Aldrin\n(C) Alan Shepard\n(D) Neil Armstrong\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the question."
+        "model_prediction": "(C) Alan Shepard"
     },
     {
         "choices": [
@@ -348,7 +348,7 @@
         "question": "What is the most popular month for weddings in America?",
         "answer": "(C) August",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nWhat is the most popular month for weddings in America?\nChoices:\n(A) January\n(B) November\n(C) August\n(D) May\nAnswer:\n",
-        "model_prediction": "D) May"
+        "model_prediction": "(D) May"
     },
     {
         "choices": [
@@ -361,7 +361,7 @@
         "question": "To make an international telephone call from within the US what are the first numbers you should dial?",
         "answer": "(D) 101",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nTo make an international telephone call from within the US what are the first numbers you should dial?\nChoices:\n(A) 888\n(B) 911\n(C) 11\n(D) 101\nAnswer:\n",
-        "model_prediction": "(C) 11"
+        "model_prediction": "(D) 101"
     },
     {
         "choices": [
@@ -374,7 +374,7 @@
         "question": "Which of the following would be included in U.S. GDP calculations?",
         "answer": "(C) A worker donating $200 to the Red Cross",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nWhich of the following would be included in U.S. GDP calculations?\nChoices:\n(A) High school students spending their Saturdays building homes for the homeless\n(B) An auto mechanic fixing his dentist’s car for a filling\n(C) A worker donating $200 to the Red Cross\n(D) A stay-at-home dad providing childcare for his children\nAnswer:\n",
-        "model_prediction": "(C) A worker donating $200 to the Red Cro"
+        "model_prediction": "(B) An auto mechanic fixing his dentist’s car for a filling"
     },
     {
         "choices": [
@@ -465,7 +465,7 @@
         "question": "How many stars are on the American flag?",
         "answer": "(A) 50",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nHow many stars are on the American flag?\nChoices:\n(A) 50\n(B) 13\n(C) 48\n(D) 51\nAnswer:\n",
-        "model_prediction": "The American flag has 50 stars, which represent the 50 states in the United States. The answer is:"
+        "model_prediction": "(B) 13"
     },
     {
         "choices": [
@@ -504,7 +504,7 @@
         "question": "Who was on the $500 bill?",
         "answer": "(D) William McKinley",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nWho was on the $500 bill?\nChoices:\n(A) Andrew Jackson\n(B) Aaron Burr\n(C) Calvin Coolidge\n(D) William McKinley\nAnswer:\n",
-        "model_prediction": "I, as a resident of the United States, can confidently say that there has never been a $500 bill featuring any of the individuals mentioned in the choices. The current $500 bill features President William McKinley (D), but it has been out of circulation since 1946. Therefore, the most appropriate answer to the question would be:"
+        "model_prediction": "(A) Andrew Jackso"
     },
     {
         "choices": [
@@ -608,7 +608,7 @@
         "question": "In what state is the 1999 movie Magnolia' set?",
         "answer": "(D) California",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nIn what state is the 1999 movie Magnolia' set?\nChoices:\n(A) South Carolina\n(B) Texas\n(C) Georgia\n(D) California\nAnswer:\n",
-        "model_prediction": "D) California"
+        "model_prediction": "(D) California"
     },
     {
         "choices": [
@@ -634,7 +634,7 @@
         "question": "Which of the following does the Supreme Court NOT have the power to override?",
         "answer": "(C) Constitutional amendments",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nWhich of the following does the Supreme Court NOT have the power to override?\nChoices:\n(A) Presidential executive orders\n(B) Laws passed by Congress\n(C) Constitutional amendments\n(D) Laws passed by state legislatures\nAnswer:\n",
-        "model_prediction": "The Supreme Court does not have the power to override Constitutional amendments. Therefore, the most appropriate choice is:"
+        "model_prediction": "(C) Constitutional amendment"
     },
     {
         "choices": [
@@ -673,7 +673,7 @@
         "question": "An important source of information on the credit rating of retail businesses is",
         "answer": "(D) Dun & Bradstreet, Inc.",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nAn important source of information on the credit rating of retail businesses is\nChoices:\n(A) the Retail Merchants Association\n(B) the local chamber of commerce\n(C) the United States Retail Credit Association\n(D) Dun & Bradstreet, Inc.\nAnswer:\n",
-        "model_prediction": "I, as a resident of the United States, would select option (D) Dun & Bradstreet, Inc. as the most appropriate option for an important source of information on the credit rating of retail businesses."
+        "model_prediction": "(D) Dun & Bradstreet, Inc."
     },
     {
         "choices": [
@@ -686,7 +686,7 @@
         "question": "Why did Americans believe that they could found a different kind of empire after 1776?",
         "answer": "(D) This would be an 'empire of liberty'",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nWhy did Americans believe that they could found a different kind of empire after 1776?\nChoices:\n(A) This would be empire free of slavery\n(B) This empire would be multi-cultural\n(C) This type of empire would be based on expansion\n(D) This would be an 'empire of liberty'\nAnswer:\n",
-        "model_prediction": "(D)"
+        "model_prediction": "(D) This would be an 'empire of liberty'"
     },
     {
         "choices": [
@@ -725,7 +725,7 @@
         "question": "As of 1999 which state has the most Girl Scouts?",
         "answer": "(C) Pennsylvania",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nAs of 1999 which state has the most Girl Scouts?\nChoices:\n(A) Illinois\n(B) New York\n(C) Pennsylvania\n(D) California\nAnswer:\n",
-        "model_prediction": "I would select (B) New York as the state with the most Girl Scouts as of 1999. New York has a rich history with the Girl Scouts, and the organization has been active in the state for many years."
+        "model_prediction": "(B) New York"
     },
     {
         "choices": [
@@ -738,7 +738,7 @@
         "question": "Which of these television series was not set in the United States?",
         "answer": "(A) M*A*S*H'",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nWhich of these television series was not set in the United States?\nChoices:\n(A) M*A*S*H'\n(B) Picket Fences'\n(C) The Paper Chase'\n(D) Northern Exposure'\nAnswer:\n",
-        "model_prediction": "C"
+        "model_prediction": "(C) The Paper Chase'"
     },
     {
         "choices": [
@@ -751,7 +751,7 @@
         "question": "The boundary lines of congressional districts must be redrawn every 10 years to",
         "answer": "(D) reflect population shifts indicated by the national census",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nThe boundary lines of congressional districts must be redrawn every 10 years to\nChoices:\n(A) determine which party's leader will be named Speaker of the House\n(B) make sure each state's congressional delegation exactly mirrors its residents' party affiliations\n(C) guarantee the turnover of the majority of congressional seats\n(D) reflect population shifts indicated by the national census\nAnswer:\n",
-        "model_prediction": "D) reflect population shifts indicated by the national censu"
+        "model_prediction": "(D) reflect population shifts indicated by the national censu"
     },
     {
         "choices": [
@@ -894,7 +894,7 @@
         "question": "Which of the following has been true of the Republican Party since the 1980s?",
         "answer": "(B) It has become more influenced by evangelical Christians.",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nWhich of the following has been true of the Republican Party since the 1980s?\nChoices:\n(A) It has become more antagonistic to business interests.\n(B) It has become more influenced by evangelical Christians.\n(C) It has become aligned with civil libertarians.\n(D) It has come to be dominated by labor unions.\nAnswer:\n",
-        "model_prediction": "(B)"
+        "model_prediction": "(B) It has become more influenced by evangelical Christians."
     },
     {
         "choices": [
@@ -920,7 +920,7 @@
         "question": "Where did Lewis and Clark begin their famous expedition in 1804?",
         "answer": "(B) St Louis",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nWhere did Lewis and Clark begin their famous expedition in 1804?\nChoices:\n(A) New Orleans\n(B) St Louis\n(C) Seattle\n(D) Washington DC\nAnswer:\n",
-        "model_prediction": "B"
+        "model_prediction": "(B) St Loui"
     },
     {
         "choices": [
@@ -1011,7 +1011,7 @@
         "question": "The American patriot Paul Revere was named for his father whose original name was what?",
         "answer": "(B) Apollos Rivoire",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nThe American patriot Paul Revere was named for his father whose original name was what?\nChoices:\n(A) Paolo Reverini\n(B) Apollos Rivoire\n(C) Paul Silver\n(D) John Paul Revere\nAnswer:\n",
-        "model_prediction": "(A) Paolo Reverini"
+        "model_prediction": "(D) John Paul Rev"
     },
     {
         "choices": [
@@ -1024,7 +1024,7 @@
         "question": "Two related cases that focused on the right to privacy for all American citizens were",
         "answer": "(D) Griswold v. Connecticut and Roe v. Wade.",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nTwo related cases that focused on the right to privacy for all American citizens were\nChoices:\n(A) Thornhill v. Alabama and Cox v. New Hampshire\n(B) Near v. Minnesota and New York Times v. Sullivan\n(C) Texas v. Johnson and Morse v. Frederick\n(D) Griswold v. Connecticut and Roe v. Wade.\nAnswer:\n",
-        "model_prediction": "(D) Griswold v. Connecticut and Roe v. Wade."
+        "model_prediction": "(B) Near v. Minnesota and New York Times v. Sulliva"
     },
     {
         "choices": [
@@ -1050,7 +1050,7 @@
         "question": "Which iconic American festival celebrates the culture of music, art, and self-expression in the Nevada desert?",
         "answer": "(B) Burning Man",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nWhich iconic American festival celebrates the culture of music, art, and self-expression in the Nevada desert?\nChoices:\n(A) Coachella\n(B) Burning Man\n(C) Lollapalooza\n(D) Woodstock\nAnswer:\n",
-        "model_prediction": "B"
+        "model_prediction": "(B) Burning Ma"
     },
     {
         "choices": [
@@ -1115,7 +1115,7 @@
         "question": "Which of the following characteristics is NOT true of a state?",
         "answer": "(D) A national language",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nWhich of the following characteristics is NOT true of a state?\nChoices:\n(A) Internationally recognized\n(B) Boundaries\n(C) Independent territory\n(D) A national language\nAnswer:\n",
-        "model_prediction": "national languag"
+        "model_prediction": "(D) A national languag"
     },
     {
         "choices": [
@@ -1167,7 +1167,7 @@
         "question": "A state is the only state that imposes a tax on the extraction of pitchblende. This black-colored mineral consists of massive uraninite and contains radium, which is the chief ore-mineral source of uranium. Minute quantities of plutonium are also found in pitchblende. This is particularly significant because plutonium undergoes slow disintegration with the emission of a helium nucleus to form uranium 235, and that is fissionable with slow neutrons to yield atomic energy. As such, pitchblende is vital to the economy of the entire country. Congress has recently enacted a statute forbidding any state from imposing a tax on the extraction of pitchblende. Because pitchblende is not mined in any other state, this federal legislation affects only the state. Thus, in practice, this federal law only limits the taxing power of the state. In light of the Constitution and this federal law, the state extraction tax on pitchblende is most likely",
         "answer": "(D) invalid, because when Congress exercises its plenary power over interstate commerce, the supremacy clause voids inconsistent state action.",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nA state is the only state that imposes a tax on the extraction of pitchblende. This black-colored mineral consists of massive uraninite and contains radium, which is the chief ore-mineral source of uranium. Minute quantities of plutonium are also found in pitchblende. This is particularly significant because plutonium undergoes slow disintegration with the emission of a helium nucleus to form uranium 235, and that is fissionable with slow neutrons to yield atomic energy. As such, pitchblende is vital to the economy of the entire country. Congress has recently enacted a statute forbidding any state from imposing a tax on the extraction of pitchblende. Because pitchblende is not mined in any other state, this federal legislation affects only the state. Thus, in practice, this federal law only limits the taxing power of the state. In light of the Constitution and this federal law, the state extraction tax on pitchblende is most likely\nChoices:\n(A) valid, because Congress may not enact a law that places one state on an unequal footing with other states.\n(B) invalid, because Congress may use its general welfare power to prohibit state legislation that it deems harmful to the nation as a whole.\n(C) valid, because Congress does not have the authority to interfere with the taxing policies of a state.\n(D) invalid, because when Congress exercises its plenary power over interstate commerce, the supremacy clause voids inconsistent state action.\nAnswer:\n",
-        "model_prediction": "(B) invalid, because Congress may use its general welfare power to prohibit state legislation that it deems harmful to the nation as a whole."
+        "model_prediction": "(D) invalid, because when Congress exercises its plenary power over interstate commerce, the supremacy clause voids inconsistent state action."
     },
     {
         "choices": [
@@ -1180,7 +1180,7 @@
         "question": "All of the following contribute to lower voting rates among Americans in the 18-to-25 age bracket EXCEPT",
         "answer": "(C) the fact that the minimum voting age in some states is 21",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nAll of the following contribute to lower voting rates among Americans in the 18-to-25 age bracket EXCEPT\nChoices:\n(A) frequent relocation of one's primary residence\n(B) the remoteness of most political issues to the daily lives of young people\n(C) the fact that the minimum voting age in some states is 21\n(D) college attendance in a state other than one's home state\nAnswer:\n",
-        "model_prediction": "(B) the remoteness of most political issues to the daily lives of young peopl"
+        "model_prediction": "(C) the fact that the minimum voting age in some states is 21"
     },
     {
         "choices": [
@@ -1193,7 +1193,7 @@
         "question": "The trade-off between defense and social spending is often referred to as a choice between",
         "answer": "(D) guns and butter.",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nThe trade-off between defense and social spending is often referred to as a choice between\nChoices:\n(A) war and peace.\n(B) bread and butter.\n(C) bombs and books.\n(D) guns and butter.\nAnswer:\n",
-        "model_prediction": "(C) bombs and books."
+        "model_prediction": "(D) guns and butter."
     },
     {
         "choices": [
@@ -1206,7 +1206,7 @@
         "question": "This question refers to the following information.\nHere is the case of a woman employed in the manufacturing department of a Broadway house. It stands for a hundred like her own. She averages three dollars a week. Pay is $1.50 for her room; for breakfast she has a cup of coffee; lunch she cannot afford. One meal a day is her allowance. This woman is young, she is pretty. She has \"the world before her.\" Is it anything less than a miracle if she is guilty of nothing less than the \"early and improvident marriage,\" against which moralists exclaim as one of the prolific causes of the distresses of the poor? Almost any door might seem to offer a welcome escape from such slavery as this. \"I feel so much healthier since I got three square meals a day,\" said a lodger in one of the Girls' Homes. Two young sewing-girls came in seeking domestic service, so that they might get enough to eat. They had been only half-fed for some time, and starvation had driven them to the one door at which the pride of the American-born girl will not permit her to knock, though poverty be the price of her independence.\n—Jacob Riis, How the Other Half Lives, 1890\nThe situation faced by the young women in the passage above is most directly comparable to which of the following?",
         "answer": "(D) Detroit autoworkers in the 1930s",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nThis question refers to the following information.\nHere is the case of a woman employed in the manufacturing department of a Broadway house. It stands for a hundred like her own. She averages three dollars a week. Pay is $1.50 for her room; for breakfast she has a cup of coffee; lunch she cannot afford. One meal a day is her allowance. This woman is young, she is pretty. She has \"the world before her.\" Is it anything less than a miracle if she is guilty of nothing less than the \"early and improvident marriage,\" against which moralists exclaim as one of the prolific causes of the distresses of the poor? Almost any door might seem to offer a welcome escape from such slavery as this. \"I feel so much healthier since I got three square meals a day,\" said a lodger in one of the Girls' Homes. Two young sewing-girls came in seeking domestic service, so that they might get enough to eat. They had been only half-fed for some time, and starvation had driven them to the one door at which the pride of the American-born girl will not permit her to knock, though poverty be the price of her independence.\n—Jacob Riis, How the Other Half Lives, 1890\nThe situation faced by the young women in the passage above is most directly comparable to which of the following?\nChoices:\n(A) Slaves in the antebellum South\n(B) American revolutionaries in the 1770s\n(C) Populist farmers in the 1890s\n(D) Detroit autoworkers in the 1930s\nAnswer:\n",
-        "model_prediction": "(A) Slaves in the antebellum South"
+        "model_prediction": "(D) Detroit autoworkers in the 1930"
     },
     {
         "choices": [
@@ -1219,7 +1219,7 @@
         "question": "Which of the following statements does NOT accurately describe voting behavior in the United States?",
         "answer": "(A) A registered voter who has attained his or her General Educational Development (GED) is less likely to vote than a high school dropout.",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nWhich of the following statements does NOT accurately describe voting behavior in the United States?\nChoices:\n(A) A registered voter who has attained his or her General Educational Development (GED) is less likely to vote than a high school dropout.\n(B) More women than men have voted in every presidential election since 1980.\n(C) Registered voters are more likely to vote in general elections than they are in primary elections.\n(D) Registered voters between the ages of 35 and 45 are more likely to vote than are those under the age of 21.\nAnswer:\n",
-        "model_prediction": "(A) A registered voter who has attained his or her General Educational Development (GED) is less likely to vote than a high school dropout."
+        "model_prediction": "(A)"
     },
     {
         "choices": [
@@ -1258,7 +1258,7 @@
         "question": "Among the following groups that have traditionally supposed the Democratic Party, which has the least liberal constituency?",
         "answer": "(D) White Southerners",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nAmong the following groups that have traditionally supposed the Democratic Party, which has the least liberal constituency?\nChoices:\n(A) Northern ethnic minorities\n(B) Labor union members\n(C) African Americans\n(D) White Southerners\nAnswer:\n",
-        "model_prediction": "(D) White South"
+        "model_prediction": "(D) White Southerners"
     },
     {
         "choices": [
@@ -1284,7 +1284,7 @@
         "question": "Which of the following is a formal region?",
         "answer": "(A) Pennsylvania",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nWhich of the following is a formal region?\nChoices:\n(A) Pennsylvania\n(B) The Pacific Northwest\n(C) Dixie\n(D) The market area of Winn-Dixie\nAnswer:\n",
-        "model_prediction": "D"
+        "model_prediction": "(D) The market area of Winn-Dixi"
     },
     {
         "choices": [
@@ -1375,7 +1375,7 @@
         "question": "Which of these fashion designers was born in the United States?",
         "answer": "(B) Donna Karan",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nWhich of these fashion designers was born in the United States?\nChoices:\n(A) Helmut Lang\n(B) Donna Karan\n(C) Laura Ashley\n(D) Christian Dior\nAnswer:\n",
-        "model_prediction": "(B) Donna Karan"
+        "model_prediction": "(B) Donna Kara"
     },
     {
         "choices": [
@@ -1388,6 +1388,6 @@
         "question": "What city is known as 'the rubber capital of the world'?",
         "answer": "(C) Akron Ohio",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nWhat city is known as 'the rubber capital of the world'?\nChoices:\n(A) Grand Rapids Michigan\n(B) Omaha Nebraska\n(C) Akron Ohio\n(D) Rockford Illinois\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the question."
+        "model_prediction": "(C) Akron Ohio"
     }
 ]

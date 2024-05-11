@@ -88,7 +88,7 @@
         "question": "Voters in which of the following categories would be LEAST likely to vote?",
         "answer": "(A) Voters aged 18-29",
         "model_input": "Please provide your answers to the following questions related to the United States by selecting the most likely option from the choices provided. Simply select the choice, no explanations required.\n\nQuestion:\nVoters in which of the following categories would be LEAST likely to vote?\n\nChoices:\n(A) Voters aged 18-29\n(B) Blue-collar workers who belong to a union\n(C) Voters who are active in their political parties\n(D) Professionals\n\nAnswer:\n",
-        "model_prediction": "(D) Professional"
+        "model_prediction": "(A) Voters aged 18-29"
     },
     {
         "choices": [
@@ -101,7 +101,7 @@
         "question": "The standard tip in a restaurant is $ 15 \\%$ of the bill before tax. Many people in California find the tip by doubling the sales tax, which is $8.25 \\%$. By how many cents does this exceed the standard tip on a bill of $ \\$60 $ before tax?",
         "answer": "(C) 90",
         "model_input": "Please provide your answers to the following questions related to the United States by selecting the most likely option from the choices provided. Simply select the choice, no explanations required.\n\nQuestion:\nThe standard tip in a restaurant is $ 15 \\%$ of the bill before tax. Many people in California find the tip by doubling the sales tax, which is $8.25 \\%$. By how many cents does this exceed the standard tip on a bill of $ \\$60 $ before tax?\n\nChoices:\n(A) 80\n(B) 60\n(C) 90\n(D) 70\n\nAnswer:\n",
-        "model_prediction": "To find the standard tip on a bill of $60, we first need to calculate the tax on the bill:"
+        "model_prediction": "To find the difference between the two tips, we first need to calculate the standard tip and the tip based on doubling the sales tax."
     },
     {
         "choices": [
@@ -166,7 +166,7 @@
         "question": "Which of the following is generally understood to be the purpose of the Tenth Amendment to the Constitution?",
         "answer": "(D) It reserves powers to the states.",
         "model_input": "Please provide your answers to the following questions related to the United States by selecting the most likely option from the choices provided. Simply select the choice, no explanations required.\n\nQuestion:\nWhich of the following is generally understood to be the purpose of the Tenth Amendment to the Constitution?\n\nChoices:\n(A) It allows for trial by jury in common-law cases.\n(B) It grants voting rights to all American women.\n(C) It lowers the legal voting age from 21 to 18.\n(D) It reserves powers to the states.\n\nAnswer:\n",
-        "model_prediction": "D) It reserves powers to the states."
+        "model_prediction": "(D) It reserves powers to the states."
     },
     {
         "choices": [
@@ -283,7 +283,7 @@
         "question": "What power was granted to the states by the Articles of Confederation but not by the Constitution?",
         "answer": "(D) Coining money",
         "model_input": "Please provide your answers to the following questions related to the United States by selecting the most likely option from the choices provided. Simply select the choice, no explanations required.\n\nQuestion:\nWhat power was granted to the states by the Articles of Confederation but not by the Constitution?\n\nChoices:\n(A) Having representation in Congress\n(B) Appealing to the president to adjudicate disputes\n(C) Authorizing constitutional amendments\n(D) Coining money\n\nAnswer:\n",
-        "model_prediction": "(B) Appealing to the president to adjudicate disput"
+        "model_prediction": "(D) Coining money"
     },
     {
         "choices": [
@@ -374,7 +374,7 @@
         "question": "Which of the following would be included in U.S. GDP calculations?",
         "answer": "(C) A worker donating $200 to the Red Cross",
         "model_input": "Please provide your answers to the following questions related to the United States by selecting the most likely option from the choices provided. Simply select the choice, no explanations required.\n\nQuestion:\nWhich of the following would be included in U.S. GDP calculations?\n\nChoices:\n(A) High school students spending their Saturdays building homes for the homeless\n(B) An auto mechanic fixing his dentist’s car for a filling\n(C) A worker donating $200 to the Red Cross\n(D) A stay-at-home dad providing childcare for his children\n\nAnswer:\n",
-        "model_prediction": "(A) High school students spending their Saturdays building homes for the homel"
+        "model_prediction": "(B) An auto mechanic fixing his dentist’s car for a filling"
     },
     {
         "choices": [
@@ -465,7 +465,7 @@
         "question": "How many stars are on the American flag?",
         "answer": "(A) 50",
         "model_input": "Please provide your answers to the following questions related to the United States by selecting the most likely option from the choices provided. Simply select the choice, no explanations required.\n\nQuestion:\nHow many stars are on the American flag?\n\nChoices:\n(A) 50\n(B) 13\n(C) 48\n(D) 51\n\nAnswer:\n",
-        "model_prediction": "(A) 50"
+        "model_prediction": "(B) 13"
     },
     {
         "choices": [
@@ -478,7 +478,7 @@
         "question": "Complete this sentence: “As American as...",
         "answer": "(D) Apple Pie",
         "model_input": "Please provide your answers to the following questions related to the United States by selecting the most likely option from the choices provided. Simply select the choice, no explanations required.\n\nQuestion:\nComplete this sentence: “As American as...\n\nChoices:\n(A) Tacos\n(B) Texas Barbecue\n(C) The hamburger\n(D) Apple Pie\n\nAnswer:\n",
-        "model_prediction": "(D) Apple Pie"
+        "model_prediction": "(D) Apple Pi"
     },
     {
         "choices": [
@@ -504,7 +504,7 @@
         "question": "Who was on the $500 bill?",
         "answer": "(D) William McKinley",
         "model_input": "Please provide your answers to the following questions related to the United States by selecting the most likely option from the choices provided. Simply select the choice, no explanations required.\n\nQuestion:\nWho was on the $500 bill?\n\nChoices:\n(A) Andrew Jackson\n(B) Aaron Burr\n(C) Calvin Coolidge\n(D) William McKinley\n\nAnswer:\n",
-        "model_prediction": "To answer this question, I will analyze the choices provided and select the most likely option based on historical context."
+        "model_prediction": "(A) Andrew Jackso"
     },
     {
         "choices": [
@@ -517,7 +517,7 @@
         "question": "In what US city can you find the Basketball Hall of Fame?",
         "answer": "(C) Springfield Massachusetts",
         "model_input": "Please provide your answers to the following questions related to the United States by selecting the most likely option from the choices provided. Simply select the choice, no explanations required.\n\nQuestion:\nIn what US city can you find the Basketball Hall of Fame?\n\nChoices:\n(A) Cooperstown New York\n(B) Canton Ohio\n(C) Springfield Massachusetts\n(D) Lawrence Kansas\n\nAnswer:\n",
-        "model_prediction": "C"
+        "model_prediction": "(C) Springfield Massachusett"
     },
     {
         "choices": [
@@ -530,7 +530,7 @@
         "question": "Your new ‘client is a 37-year-old woman whose symptoms meet the diagnostic criteria for Major Depressive Disorder. After your third session with her, she tells you that she was in treatment with another psychologist but terminated after the psychologist made sexual advances toward her. She does not want you to discuss this matter with anyone. To be consistent with the provisions of the ethics codes of the American and Canadian Psychology Association, your best course of action would be to:",
         "answer": "(B) discuss the client's options with her and maintain her confidentiality unless she signs a release.",
         "model_input": "Please provide your answers to the following questions related to the United States by selecting the most likely option from the choices provided. Simply select the choice, no explanations required.\n\nQuestion:\nYour new ‘client is a 37-year-old woman whose symptoms meet the diagnostic criteria for Major Depressive Disorder. After your third session with her, she tells you that she was in treatment with another psychologist but terminated after the psychologist made sexual advances toward her. She does not want you to discuss this matter with anyone. To be consistent with the provisions of the ethics codes of the American and Canadian Psychology Association, your best course of action would be to:\n\nChoices:\n(A) inform the client of the limits of confidentiality and report the unethical behavior.\n(B) discuss the client's options with her and maintain her confidentiality unless she signs a release.\n(C) inform the client of the limits of confidentiality and contact the other psychologist.\n(D) contact the Ethics Committee to determine what the appropriate steps would be in this situation.\n\nAnswer:\n",
-        "model_prediction": "(D) contact the Ethics Committee to determine what the appropriate steps would be in this situation."
+        "model_prediction": "(B) discuss the client's options with her and maintain her confidentiality unless she signs a release."
     },
     {
         "choices": [
@@ -569,7 +569,7 @@
         "question": "The loss of a ____ is regarded in the U. S. as the most severe loss and frequently produces guilt in addition to other emotions.",
         "answer": "(C) Child",
         "model_input": "Please provide your answers to the following questions related to the United States by selecting the most likely option from the choices provided. Simply select the choice, no explanations required.\n\nQuestion:\nThe loss of a ____ is regarded in the U. S. as the most severe loss and frequently produces guilt in addition to other emotions.\n\nChoices:\n(A) Parent\n(B) Sibling\n(C) Child\n(D) Spouse\n\nAnswer:\n",
-        "model_prediction": "C"
+        "model_prediction": "(C) Child"
     },
     {
         "choices": [
@@ -725,7 +725,7 @@
         "question": "As of 1999 which state has the most Girl Scouts?",
         "answer": "(C) Pennsylvania",
         "model_input": "Please provide your answers to the following questions related to the United States by selecting the most likely option from the choices provided. Simply select the choice, no explanations required.\n\nQuestion:\nAs of 1999 which state has the most Girl Scouts?\n\nChoices:\n(A) Illinois\n(B) New York\n(C) Pennsylvania\n(D) California\n\nAnswer:\n",
-        "model_prediction": "(A) Illinoi"
+        "model_prediction": "(B) New York"
     },
     {
         "choices": [
@@ -790,7 +790,7 @@
         "question": "Given the structure of the electoral college system, presidential candidates tend to",
         "answer": "(A) campaign more heavily in states with large populations",
         "model_input": "Please provide your answers to the following questions related to the United States by selecting the most likely option from the choices provided. Simply select the choice, no explanations required.\n\nQuestion:\nGiven the structure of the electoral college system, presidential candidates tend to\n\nChoices:\n(A) campaign more heavily in states with large populations\n(B) avoid battleground states and focus their campaigns on \"safe\" states\n(C) spend more television advertising money in the Plains States\n(D) campaign extensively in states that heavily favor one party over the other\n\nAnswer:\n",
-        "model_prediction": "(B) avoid battleground states and focus their campaigns on \"safe\" states"
+        "model_prediction": "(B) avoid battleground states and focus their campaigns on \"safe\" stat"
     },
     {
         "choices": [
@@ -842,7 +842,7 @@
         "question": "Which of the following is NOT true of executive orders?",
         "answer": "(D) Presidents avoid using executive orders for controversial actions.",
         "model_input": "Please provide your answers to the following questions related to the United States by selecting the most likely option from the choices provided. Simply select the choice, no explanations required.\n\nQuestion:\nWhich of the following is NOT true of executive orders?\n\nChoices:\n(A) Executive orders bypass congressional approval.\n(B) Executive orders have the same effect as laws passed by Congress.\n(C) Presidents have made increased use of executive orders since the 1970s.\n(D) Presidents avoid using executive orders for controversial actions.\n\nAnswer:\n",
-        "model_prediction": "(D) Presidents avoid using executive orders for controversial actions."
+        "model_prediction": "(A) Executive orders bypass congressional approval."
     },
     {
         "choices": [
@@ -868,7 +868,7 @@
         "question": "Which of the following was a significant reason for the electoral success of Franklin Roosevelt's New Deal coalition during the 1930s?",
         "answer": "(A) A major shift of African American voters from the Republican to the Democratic Party",
         "model_input": "Please provide your answers to the following questions related to the United States by selecting the most likely option from the choices provided. Simply select the choice, no explanations required.\n\nQuestion:\nWhich of the following was a significant reason for the electoral success of Franklin Roosevelt's New Deal coalition during the 1930s?\n\nChoices:\n(A) A major shift of African American voters from the Republican to the Democratic Party\n(B) A major shift of urban voters in Northern states from the Republican to the Democratic Party\n(C) A focus on mobilizing young voters\n(D) A focus on a bipartisan approach to major social and economic legislation\n\nAnswer:\n",
-        "model_prediction": "(A) A major shift of African American voters from the Republican to the Democratic Party"
+        "model_prediction": "(B) A major shift of urban voters in Northern states from the Republican to the Democratic Party"
     },
     {
         "choices": [
@@ -907,7 +907,7 @@
         "question": "Congress enacts a $100 tax on the sale of any handgun to a private individual not for use in law enforcement or military duties. Will this new handgun tax survive a constitutional challenge?",
         "answer": "(A) Yes, if the dominant intent of Congress was that the tax would produce revenue.",
         "model_input": "Please provide your answers to the following questions related to the United States by selecting the most likely option from the choices provided. Simply select the choice, no explanations required.\n\nQuestion:\nCongress enacts a $100 tax on the sale of any handgun to a private individual not for use in law enforcement or military duties. Will this new handgun tax survive a constitutional challenge?\n\nChoices:\n(A) Yes, if the dominant intent of Congress was that the tax would produce revenue.\n(B) No, if the tax does not result in a significant collection of revenue.\n(C) No, because the tax is clearly intended as a penalty on handgun ownership.\n(D) Yes, if Congress could have banned possession of handguns outright.\n\nAnswer:\n",
-        "model_prediction": "(C) No, because the tax is clearly intended as a penalty on handgun ownership."
+        "model_prediction": "(D) Yes, if Congress could have banned possession of handguns outright."
     },
     {
         "choices": [
@@ -985,7 +985,7 @@
         "question": "The Supreme Court case Regents of University of California v. Bakke concerned which of the following issues?",
         "answer": "(A) The use of racial quotas in public university admissions",
         "model_input": "Please provide your answers to the following questions related to the United States by selecting the most likely option from the choices provided. Simply select the choice, no explanations required.\n\nQuestion:\nThe Supreme Court case Regents of University of California v. Bakke concerned which of the following issues?\n\nChoices:\n(A) The use of racial quotas in public university admissions\n(B) The rights of students to carry concealed weapons on campus\n(C) The rights of students to protest on a publicly funded campus\n(D) In-class prayer at a publicly funded school\n\nAnswer:\n",
-        "model_prediction": "(A) The use of racial quotas in public university admissions"
+        "model_prediction": "(A) The use of racial quotas in public university admissio"
     },
     {
         "choices": [
@@ -1076,7 +1076,7 @@
         "question": "What US president is mentioned by name in the opening theme song of TV's 'All in the Family'?",
         "answer": "(B) Herbert Hoover",
         "model_input": "Please provide your answers to the following questions related to the United States by selecting the most likely option from the choices provided. Simply select the choice, no explanations required.\n\nQuestion:\nWhat US president is mentioned by name in the opening theme song of TV's 'All in the Family'?\n\nChoices:\n(A) Harry Truman\n(B) Herbert Hoover\n(C) Calvin Coolidge\n(D) Richard Nixon\n\nAnswer:\n",
-        "model_prediction": "(A) Harry Truma"
+        "model_prediction": "(D) Richard Nixo"
     },
     {
         "choices": [
@@ -1167,7 +1167,7 @@
         "question": "A state is the only state that imposes a tax on the extraction of pitchblende. This black-colored mineral consists of massive uraninite and contains radium, which is the chief ore-mineral source of uranium. Minute quantities of plutonium are also found in pitchblende. This is particularly significant because plutonium undergoes slow disintegration with the emission of a helium nucleus to form uranium 235, and that is fissionable with slow neutrons to yield atomic energy. As such, pitchblende is vital to the economy of the entire country. Congress has recently enacted a statute forbidding any state from imposing a tax on the extraction of pitchblende. Because pitchblende is not mined in any other state, this federal legislation affects only the state. Thus, in practice, this federal law only limits the taxing power of the state. In light of the Constitution and this federal law, the state extraction tax on pitchblende is most likely",
         "answer": "(D) invalid, because when Congress exercises its plenary power over interstate commerce, the supremacy clause voids inconsistent state action.",
         "model_input": "Please provide your answers to the following questions related to the United States by selecting the most likely option from the choices provided. Simply select the choice, no explanations required.\n\nQuestion:\nA state is the only state that imposes a tax on the extraction of pitchblende. This black-colored mineral consists of massive uraninite and contains radium, which is the chief ore-mineral source of uranium. Minute quantities of plutonium are also found in pitchblende. This is particularly significant because plutonium undergoes slow disintegration with the emission of a helium nucleus to form uranium 235, and that is fissionable with slow neutrons to yield atomic energy. As such, pitchblende is vital to the economy of the entire country. Congress has recently enacted a statute forbidding any state from imposing a tax on the extraction of pitchblende. Because pitchblende is not mined in any other state, this federal legislation affects only the state. Thus, in practice, this federal law only limits the taxing power of the state. In light of the Constitution and this federal law, the state extraction tax on pitchblende is most likely\n\nChoices:\n(A) valid, because Congress may not enact a law that places one state on an unequal footing with other states.\n(B) invalid, because Congress may use its general welfare power to prohibit state legislation that it deems harmful to the nation as a whole.\n(C) valid, because Congress does not have the authority to interfere with the taxing policies of a state.\n(D) invalid, because when Congress exercises its plenary power over interstate commerce, the supremacy clause voids inconsistent state action.\n\nAnswer:\n",
-        "model_prediction": "(B) invalid, because Congress may use its general welfare power to prohibit state legislation that it deems harmful to the nation as a whole."
+        "model_prediction": "(D) invalid, because when Congress exercises its plenary power over interstate commerce, the supremacy clause voids inconsistent state action."
     },
     {
         "choices": [
@@ -1284,7 +1284,7 @@
         "question": "Which of the following is a formal region?",
         "answer": "(A) Pennsylvania",
         "model_input": "Please provide your answers to the following questions related to the United States by selecting the most likely option from the choices provided. Simply select the choice, no explanations required.\n\nQuestion:\nWhich of the following is a formal region?\n\nChoices:\n(A) Pennsylvania\n(B) The Pacific Northwest\n(C) Dixie\n(D) The market area of Winn-Dixie\n\nAnswer:\n",
-        "model_prediction": "(C) Dixie"
+        "model_prediction": "(C) Dixi"
     },
     {
         "choices": [
@@ -1349,7 +1349,7 @@
         "question": "The AP Psychology examination given by the College Board in May exemplifies which of the following types of tests?",
         "answer": "(A) achievement",
         "model_input": "Please provide your answers to the following questions related to the United States by selecting the most likely option from the choices provided. Simply select the choice, no explanations required.\n\nQuestion:\nThe AP Psychology examination given by the College Board in May exemplifies which of the following types of tests?\n\nChoices:\n(A) achievement\n(B) projective\n(C) intelligence\n(D) aptitude\n\nAnswer:\n",
-        "model_prediction": "(D) aptitude"
+        "model_prediction": "(D) aptitud"
     },
     {
         "choices": [
@@ -1362,7 +1362,7 @@
         "question": "Who was president of the United States when Bill Clinton was born?",
         "answer": "(C) Harry S Truman",
         "model_input": "Please provide your answers to the following questions related to the United States by selecting the most likely option from the choices provided. Simply select the choice, no explanations required.\n\nQuestion:\nWho was president of the United States when Bill Clinton was born?\n\nChoices:\n(A) Herbert Hoover\n(B) Dwight Eisenhower\n(C) Harry S Truman\n(D) Franklin Roosevelt\n\nAnswer:\n",
-        "model_prediction": "(C) Harry S Truman"
+        "model_prediction": "(C) Harry S Truma"
     },
     {
         "choices": [

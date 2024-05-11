@@ -1,34 +1,34 @@
 {
-    "overall_acc": 0.8934873949579832,
+    "overall_acc": 0.8102941176470588,
     "language_acc": {
-        "Spanish": 0.9058823529411765,
-        "English": 0.915126050420168,
-        "Chinese": 0.8697478991596639,
-        "Vietnamese": 0.8831932773109243
+        "Spanish": 0.8848739495798319,
+        "English": 0.8142857142857143,
+        "Chinese": 0.7630252100840336,
+        "Vietnamese": 0.7789915966386555
     },
-    "consistency_score_2": 0.8563025210084034,
-    "consistency_score_3": 0.7915966386554621,
-    "consistency_score_4": 0.746218487394958,
+    "consistency_score_2": 0.7879551820728291,
+    "consistency_score_3": 0.7092436974789916,
+    "consistency_score_4": 0.6655462184873949,
     "detailed_consistency_score": {
         "2_combine": {
-            "Spanish,English": 0.8966386554621849,
-            "Spanish,Chinese": 0.8436974789915966,
-            "Spanish,Vietnamese": 0.8495798319327731,
-            "English,Chinese": 0.8554621848739495,
-            "English,Vietnamese": 0.8672268907563025,
-            "Chinese,Vietnamese": 0.8252100840336134
+            "Spanish,English": 0.8092436974789916,
+            "Spanish,Chinese": 0.7605042016806722,
+            "Spanish,Vietnamese": 0.7764705882352941,
+            "English,Chinese": 0.7890756302521008,
+            "English,Vietnamese": 0.8109243697478992,
+            "Chinese,Vietnamese": 0.7815126050420168
         },
         "3_combine": {
-            "Spanish,English,Chinese": 0.8050420168067227,
-            "Spanish,English,Vietnamese": 0.8142857142857143,
-            "Spanish,Chinese,Vietnamese": 0.7647058823529411,
-            "English,Chinese,Vietnamese": 0.7823529411764706
+            "Spanish,English,Chinese": 0.7109243697478992,
+            "Spanish,English,Vietnamese": 0.7201680672268908,
+            "Spanish,Chinese,Vietnamese": 0.6882352941176471,
+            "English,Chinese,Vietnamese": 0.7176470588235294
         },
         "4_combine": {
-            "Spanish,English,Chinese,Vietnamese": 0.746218487394958
+            "Spanish,English,Chinese,Vietnamese": 0.6655462184873949
         }
     },
-    "AC3_2": 0.8744998491152861,
-    "AC3_3": 0.8394615394593914,
-    "AC3_4": 0.8132395199736593
+    "AC3_2": 0.7989685327252546,
+    "AC3_3": 0.7564089426231012,
+    "AC3_4": 0.7308218546710168
 }

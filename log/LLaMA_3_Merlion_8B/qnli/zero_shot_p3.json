@@ -8,7 +8,7 @@
         ],
         "answer": "(A) Answerable",
         "model_input": "Determine if the question can be answered from the paragraph and select the correct answer from the provided choices. Simply select the choice, no explanations required.\nQuestion: What book recognizes the importance of the Chalcedonian Creed? Paragraph: The Book of Discipline also recognizes the importance of the Chalcedonian Creed of the Council of Chalcedon.\nChoices:\n(A) Answerable\n(B) Not Answerable\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the main subject of the question, which is the book that recognizes the importance of the Chalcedonian Creed."
+        "model_prediction": "(A) Answerabl"
     },
     {
         "id": "test_2",

@@ -62,7 +62,7 @@
         "question": "This question refers to the following information.\n\"The far-reaching, the boundless future will be the era of American greatness. In its magnificent domain of space and time, the nation of many nations is destined to manifest to mankind the excellence of divine principles; to establish on earth the noblest temple ever dedicated to the worship of the Most High—the Sacred and the True. Its floor shall be a hemisphere—its roof the firmament of the star-studded heavens, and its congregation a Union of many Republics, comprising hundreds of happy millions, calling, owning no man master, but governed by God's natural and moral law of equality, the law of brotherhood—of 'peace and good will amongst men.'\"\nJohn L. O'Sullivan, \"The Great Nation of Futurity,\" 1839\nBetween 1820 and 1854, the greatest number of immigrants to the United States came from",
         "answer": "(C) Ireland",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nThis question refers to the following information.\n\"The far-reaching, the boundless future will be the era of American greatness. In its magnificent domain of space and time, the nation of many nations is destined to manifest to mankind the excellence of divine principles; to establish on earth the noblest temple ever dedicated to the worship of the Most High—the Sacred and the True. Its floor shall be a hemisphere—its roof the firmament of the star-studded heavens, and its congregation a Union of many Republics, comprising hundreds of happy millions, calling, owning no man master, but governed by God's natural and moral law of equality, the law of brotherhood—of 'peace and good will amongst men.'\"\nJohn L. O'Sullivan, \"The Great Nation of Futurity,\" 1839\nBetween 1820 and 1854, the greatest number of immigrants to the United States came from\n\nChoices:\n(A) France\n(B) England\n(C) Ireland\n(D) Russia\n\nAnswer:\n",
-        "model_prediction": "C) Ireland"
+        "model_prediction": "(C) Ireland"
     },
     {
         "choices": [
@@ -88,7 +88,7 @@
         "question": "Voters in which of the following categories would be LEAST likely to vote?",
         "answer": "(A) Voters aged 18-29",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nVoters in which of the following categories would be LEAST likely to vote?\n\nChoices:\n(A) Voters aged 18-29\n(B) Blue-collar workers who belong to a union\n(C) Voters who are active in their political parties\n(D) Professionals\n\nAnswer:\n",
-        "model_prediction": "(D) Professionals"
+        "model_prediction": "(A) Voters aged 18-29"
     },
     {
         "choices": [
@@ -114,7 +114,7 @@
         "question": "When daylight-saving time arrives in the spring how do most Americans turn their clocks?",
         "answer": "(C) one hour forward",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhen daylight-saving time arrives in the spring how do most Americans turn their clocks?\n\nChoices:\n(A) two hours backward\n(B) two hours forward\n(C) one hour forward\n(D) one hour backward\n\nAnswer:\n",
-        "model_prediction": "To answer this question, we need to consider the purpose of daylight-saving time (DST) and how it affects the clocks."
+        "model_prediction": "(C) one hour forward"
     },
     {
         "choices": [
@@ -153,7 +153,7 @@
         "question": "________ men, on the average, begin engaging in sexual intercourse approximately two years later than ________ men do.",
         "answer": "(D) Mexican Americans and whites; African Americans",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\n________ men, on the average, begin engaging in sexual intercourse approximately two years later than ________ men do.\n\nChoices:\n(A) African Americans; whites and Latinos\n(B) Whites; African Americans and Latinos\n(C) Mexican Americans; African Americans and whites\n(D) Mexican Americans and whites; African Americans\n\nAnswer:\n",
-        "model_prediction": "(B) Whites; African Americans and Latinos"
+        "model_prediction": "(B) Whites; African Americans and Latino"
     },
     {
         "choices": [
@@ -257,7 +257,7 @@
         "question": "What is the final word of the Pledge of Allegiance?",
         "answer": "(A) all",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhat is the final word of the Pledge of Allegiance?\n\nChoices:\n(A) all\n(B) America\n(C) stands\n(D) indivisible\n\nAnswer:\n",
-        "model_prediction": "(C) stand"
+        "model_prediction": "(B) America"
     },
     {
         "choices": [
@@ -270,7 +270,7 @@
         "question": "In mobster lingo if you 'sing like a canary' what are you doing?",
         "answer": "(C) talking to the cops",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nIn mobster lingo if you 'sing like a canary' what are you doing?\n\nChoices:\n(A) killing an enemy\n(B) impersonating Sinatra\n(C) talking to the cops\n(D) betting on horses\n\nAnswer:\n",
-        "model_prediction": "(C) talking to the cops"
+        "model_prediction": "(C) talking to the cop"
     },
     {
         "choices": [
@@ -283,7 +283,7 @@
         "question": "What power was granted to the states by the Articles of Confederation but not by the Constitution?",
         "answer": "(D) Coining money",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhat power was granted to the states by the Articles of Confederation but not by the Constitution?\n\nChoices:\n(A) Having representation in Congress\n(B) Appealing to the president to adjudicate disputes\n(C) Authorizing constitutional amendments\n(D) Coining money\n\nAnswer:\n",
-        "model_prediction": "(B) Appealing to the president to adjudicate disput"
+        "model_prediction": "(A) Having representation in Cong"
     },
     {
         "choices": [
@@ -322,7 +322,7 @@
         "question": "Who was the first American in space?",
         "answer": "(C) Alan Shepard",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWho was the first American in space?\n\nChoices:\n(A) John Glenn\n(B) Buzz Aldrin\n(C) Alan Shepard\n(D) Neil Armstrong\n\nAnswer:\n",
-        "model_prediction": "C) Alan Shepard"
+        "model_prediction": "(C) Alan Shepard"
     },
     {
         "choices": [
@@ -335,7 +335,7 @@
         "question": "The prevalence of HIV among Latino-Americans compared to other ethic groups in the U.S. is:",
         "answer": "(A) Higher than all other ethnic groups except African-Americans",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nThe prevalence of HIV among Latino-Americans compared to other ethic groups in the U.S. is:\n\nChoices:\n(A) Higher than all other ethnic groups except African-Americans\n(B) Highest\n(C) Higher than in all other ethnic groups except African-Americans and\n(D) Native Americans\n\nAnswer:\n",
-        "model_prediction": "(A) Higher than all other ethnic groups except African-Americans"
+        "model_prediction": "(A) Higher than all other ethnic groups except African-America"
     },
     {
         "choices": [
@@ -374,7 +374,7 @@
         "question": "Which of the following would be included in U.S. GDP calculations?",
         "answer": "(C) A worker donating $200 to the Red Cross",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhich of the following would be included in U.S. GDP calculations?\n\nChoices:\n(A) High school students spending their Saturdays building homes for the homeless\n(B) An auto mechanic fixing his dentist’s car for a filling\n(C) A worker donating $200 to the Red Cross\n(D) A stay-at-home dad providing childcare for his children\n\nAnswer:\n",
-        "model_prediction": "(C) A worker donating $200 to the Red Cro"
+        "model_prediction": "(B) An auto mechanic fixing his dentist’s car for a filling"
     },
     {
         "choices": [
@@ -426,7 +426,7 @@
         "question": "Which of the following groups of Americans have the lowest rate of alcohol abuse?",
         "answer": "(A) Asian-American",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhich of the following groups of Americans have the lowest rate of alcohol abuse?\n\nChoices:\n(A) Asian-American\n(B) White\n(C) Native-American\n(D) African-American\n\nAnswer:\n",
-        "model_prediction": "(A) Asian-American"
+        "model_prediction": "(A) Asian-America"
     },
     {
         "choices": [
@@ -465,7 +465,7 @@
         "question": "How many stars are on the American flag?",
         "answer": "(A) 50",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nHow many stars are on the American flag?\n\nChoices:\n(A) 50\n(B) 13\n(C) 48\n(D) 51\n\nAnswer:\n",
-        "model_prediction": "To answer this question, we need to consider the design of the American flag."
+        "model_prediction": "(B) 13"
     },
     {
         "choices": [
@@ -478,7 +478,7 @@
         "question": "Complete this sentence: “As American as...",
         "answer": "(D) Apple Pie",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nComplete this sentence: “As American as...\n\nChoices:\n(A) Tacos\n(B) Texas Barbecue\n(C) The hamburger\n(D) Apple Pie\n\nAnswer:\n",
-        "model_prediction": "(D) Apple Pie"
+        "model_prediction": "(D) Apple Pi"
     },
     {
         "choices": [
@@ -543,7 +543,7 @@
         "question": "Which of the following is included in U.S. GDP? I.   The market value of movies made in Africa by U.S. citizens II.   The market value of olive oil made in Italy and sold in the United States. III.   The market value of blue jeans made in the United States and sold in Japan IV.   The market value of wine made in the United States by Canadian citizens",
         "answer": "(D) III and IV only",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhich of the following is included in U.S. GDP? I.   The market value of movies made in Africa by U.S. citizens II.   The market value of olive oil made in Italy and sold in the United States. III.   The market value of blue jeans made in the United States and sold in Japan IV.   The market value of wine made in the United States by Canadian citizens\n\nChoices:\n(A) I and III only\n(B) II III and IV only\n(C) II and IV only\n(D) III and IV only\n\nAnswer:\n",
-        "model_prediction": "(D) III and IV only"
+        "model_prediction": "(B) II III and IV only"
     },
     {
         "choices": [
@@ -582,7 +582,7 @@
         "question": "How many innings are there in a regular Major League Baseball game?",
         "answer": "(B) nine",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nHow many innings are there in a regular Major League Baseball game?\n\nChoices:\n(A) eight\n(B) nine\n(C) seven\n(D) ten\n\nAnswer:\n",
-        "model_prediction": "To answer this question, we can refer to the rules of Major League Baseball. "
+        "model_prediction": "(B) ni"
     },
     {
         "choices": [
@@ -738,7 +738,7 @@
         "question": "Which of these television series was not set in the United States?",
         "answer": "(A) M*A*S*H'",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhich of these television series was not set in the United States?\n\nChoices:\n(A) M*A*S*H'\n(B) Picket Fences'\n(C) The Paper Chase'\n(D) Northern Exposure'\n\nAnswer:\n",
-        "model_prediction": "To answer this question, let's analyze each choice and determine if it is set in the United States or not."
+        "model_prediction": "(C) The Paper Chase'"
     },
     {
         "choices": [
@@ -751,7 +751,7 @@
         "question": "The boundary lines of congressional districts must be redrawn every 10 years to",
         "answer": "(D) reflect population shifts indicated by the national census",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nThe boundary lines of congressional districts must be redrawn every 10 years to\n\nChoices:\n(A) determine which party's leader will be named Speaker of the House\n(B) make sure each state's congressional delegation exactly mirrors its residents' party affiliations\n(C) guarantee the turnover of the majority of congressional seats\n(D) reflect population shifts indicated by the national census\n\nAnswer:\n",
-        "model_prediction": "(D) reflect population shifts indicated by the national census"
+        "model_prediction": "(D) reflect population shifts indicated by the national censu"
     },
     {
         "choices": [
@@ -790,7 +790,7 @@
         "question": "Given the structure of the electoral college system, presidential candidates tend to",
         "answer": "(A) campaign more heavily in states with large populations",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nGiven the structure of the electoral college system, presidential candidates tend to\n\nChoices:\n(A) campaign more heavily in states with large populations\n(B) avoid battleground states and focus their campaigns on \"safe\" states\n(C) spend more television advertising money in the Plains States\n(D) campaign extensively in states that heavily favor one party over the other\n\nAnswer:\n",
-        "model_prediction": "(D) campaign extensively in states that heavily favor one party over the other"
+        "model_prediction": "(B) avoid battleground states and focus their campaigns on \"safe\" stat"
     },
     {
         "choices": [
@@ -816,7 +816,7 @@
         "question": "Experiencing intense feelings of shame and guilt upon admitting to a counselor that a family problem exists is common among traditional",
         "answer": "(B) Asian-Americans",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nExperiencing intense feelings of shame and guilt upon admitting to a counselor that a family problem exists is common among traditional\n\nChoices:\n(A) Hispanics\n(B) Asian-Americans\n(C) Native North Americans\n(D) African-Americans\n\nAnswer:\n",
-        "model_prediction": "(A) Hispanics"
+        "model_prediction": "(A) Hispanic"
     },
     {
         "choices": [
@@ -842,7 +842,7 @@
         "question": "Which of the following is NOT true of executive orders?",
         "answer": "(D) Presidents avoid using executive orders for controversial actions.",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhich of the following is NOT true of executive orders?\n\nChoices:\n(A) Executive orders bypass congressional approval.\n(B) Executive orders have the same effect as laws passed by Congress.\n(C) Presidents have made increased use of executive orders since the 1970s.\n(D) Presidents avoid using executive orders for controversial actions.\n\nAnswer:\n",
-        "model_prediction": "(B) Executive orders have the same effect as laws passed by Congress."
+        "model_prediction": "(A) Executive orders bypass congressional approval."
     },
     {
         "choices": [
@@ -985,7 +985,7 @@
         "question": "The Supreme Court case Regents of University of California v. Bakke concerned which of the following issues?",
         "answer": "(A) The use of racial quotas in public university admissions",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nThe Supreme Court case Regents of University of California v. Bakke concerned which of the following issues?\n\nChoices:\n(A) The use of racial quotas in public university admissions\n(B) The rights of students to carry concealed weapons on campus\n(C) The rights of students to protest on a publicly funded campus\n(D) In-class prayer at a publicly funded school\n\nAnswer:\n",
-        "model_prediction": "(A) The use of racial quotas in public university admissions"
+        "model_prediction": "(A) The use of racial quotas in public university admissio"
     },
     {
         "choices": [
@@ -1102,7 +1102,7 @@
         "question": "How many days of annual leave do Americans typically receive?",
         "answer": "(C) 10 days plus paid public holidays",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nHow many days of annual leave do Americans typically receive?\n\nChoices:\n(A) 15 days\n(B) 20 days\n(C) 10 days plus paid public holidays\n(D) 24 days plus paid public holidays\n\nAnswer:\n",
-        "model_prediction": "To answer this question, I will look at the choices provided and consider the typical amount of annual leave Americans receive."
+        "model_prediction": "(C) 10 days plus paid public holiday"
     },
     {
         "choices": [
@@ -1180,7 +1180,7 @@
         "question": "All of the following contribute to lower voting rates among Americans in the 18-to-25 age bracket EXCEPT",
         "answer": "(C) the fact that the minimum voting age in some states is 21",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nAll of the following contribute to lower voting rates among Americans in the 18-to-25 age bracket EXCEPT\n\nChoices:\n(A) frequent relocation of one's primary residence\n(B) the remoteness of most political issues to the daily lives of young people\n(C) the fact that the minimum voting age in some states is 21\n(D) college attendance in a state other than one's home state\n\nAnswer:\n",
-        "model_prediction": "(B) the remoteness of most political issues to the daily lives of young people"
+        "model_prediction": "(C) the fact that the minimum voting age in some states is 21"
     },
     {
         "choices": [
@@ -1284,7 +1284,7 @@
         "question": "Which of the following is a formal region?",
         "answer": "(A) Pennsylvania",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhich of the following is a formal region?\n\nChoices:\n(A) Pennsylvania\n(B) The Pacific Northwest\n(C) Dixie\n(D) The market area of Winn-Dixie\n\nAnswer:\n",
-        "model_prediction": "(C) Dixie"
+        "model_prediction": "(D) The market area of Winn-Dixie"
     },
     {
         "choices": [
@@ -1349,7 +1349,7 @@
         "question": "The AP Psychology examination given by the College Board in May exemplifies which of the following types of tests?",
         "answer": "(A) achievement",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nThe AP Psychology examination given by the College Board in May exemplifies which of the following types of tests?\n\nChoices:\n(A) achievement\n(B) projective\n(C) intelligence\n(D) aptitude\n\nAnswer:\n",
-        "model_prediction": "(D) aptitude"
+        "model_prediction": "(D) aptitud"
     },
     {
         "choices": [
@@ -1362,7 +1362,7 @@
         "question": "Who was president of the United States when Bill Clinton was born?",
         "answer": "(C) Harry S Truman",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWho was president of the United States when Bill Clinton was born?\n\nChoices:\n(A) Herbert Hoover\n(B) Dwight Eisenhower\n(C) Harry S Truman\n(D) Franklin Roosevelt\n\nAnswer:\n",
-        "model_prediction": "(B) Dwight Eisenho"
+        "model_prediction": "(C) Harry S Truma"
     },
     {
         "choices": [
@@ -1375,7 +1375,7 @@
         "question": "Which of these fashion designers was born in the United States?",
         "answer": "(B) Donna Karan",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhich of these fashion designers was born in the United States?\n\nChoices:\n(A) Helmut Lang\n(B) Donna Karan\n(C) Laura Ashley\n(D) Christian Dior\n\nAnswer:\n",
-        "model_prediction": "(B) Donna Karan"
+        "model_prediction": "(B) Donna Kara"
     },
     {
         "choices": [

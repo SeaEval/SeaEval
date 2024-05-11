@@ -10,7 +10,7 @@
         "question": "In American government, the power to declare war rests with",
         "answer": "(B) Congress.",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nIn American government, the power to declare war rests with\nChoices:\n(A) the secretary of defense.\n(B) Congress.\n(C) the chairman of the Joint Chiefs of Staff.\n(D) the president of the United States.\nAnswer:\n",
-        "model_prediction": "(D) the president of the United States."
+        "model_prediction": "(B) Congress."
     },
     {
         "choices": [
@@ -36,7 +36,7 @@
         "question": "There was an accident at a manufacturing plant located in California which state generally allows prevailing parties to collect punitive damages. A worker from Washington was injured at the California plant and she filed suit in federal district court in her home state of Washington. Washington does not generally allow punitive damages. The plaintiff has alleged in their federal lawsuit filed in Washington that they are entitled to punitive damages. The court should",
         "answer": "(C) Apply the punitive damage rule in Washington because that is where the court is located.",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nThere was an accident at a manufacturing plant located in California which state generally allows prevailing parties to collect punitive damages. A worker from Washington was injured at the California plant and she filed suit in federal district court in her home state of Washington. Washington does not generally allow punitive damages. The plaintiff has alleged in their federal lawsuit filed in Washington that they are entitled to punitive damages. The court should\nChoices:\n(A) Apply the punitive damage rule in Washington since that is where the plaintiff resides.\n(B) Let the jury in the case decide which state law of punitive damage should apply based upon their analysis of the relative culpability of the parties.\n(C) Apply the punitive damage rule in Washington because that is where the court is located.\n(D) Apply the punitive damage rule in California since that is where the accident occurred.\nAnswer:\n",
-        "model_prediction": "The correct answer is (A) Apply the punitive damage rule in Washington since that is where the plaintiff resides."
+        "model_prediction": "(D) Apply the punitive damage rule in California since that is where the accident occurred."
     },
     {
         "choices": [
@@ -101,7 +101,7 @@
         "question": "The standard tip in a restaurant is $ 15 \\%$ of the bill before tax. Many people in California find the tip by doubling the sales tax, which is $8.25 \\%$. By how many cents does this exceed the standard tip on a bill of $ \\$60 $ before tax?",
         "answer": "(C) 90",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nThe standard tip in a restaurant is $ 15 \\%$ of the bill before tax. Many people in California find the tip by doubling the sales tax, which is $8.25 \\%$. By how many cents does this exceed the standard tip on a bill of $ \\$60 $ before tax?\nChoices:\n(A) 80\n(B) 60\n(C) 90\n(D) 70\nAnswer:\n",
-        "model_prediction": "The standard tip is $15\\%$ of the bill, which is $15\\% \\times \\$60 = \\$9$."
+        "model_prediction": "The standard tip is $15\\%$ of the bill, which is $0.15 \\times 60 = 9$ dollars."
     },
     {
         "choices": [
@@ -153,7 +153,7 @@
         "question": "________ men, on the average, begin engaging in sexual intercourse approximately two years later than ________ men do.",
         "answer": "(D) Mexican Americans and whites; African Americans",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\n________ men, on the average, begin engaging in sexual intercourse approximately two years later than ________ men do.\nChoices:\n(A) African Americans; whites and Latinos\n(B) Whites; African Americans and Latinos\n(C) Mexican Americans; African Americans and whites\n(D) Mexican Americans and whites; African Americans\nAnswer:\n",
-        "model_prediction": "(A) African Americans; whites and Latino"
+        "model_prediction": "(B) Whites; African Americans and Latino"
     },
     {
         "choices": [
@@ -179,7 +179,7 @@
         "question": "Which of the following U.S. main immigration flow associations is NOT correct?",
         "answer": "(D) 1870–1914—Asians",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nWhich of the following U.S. main immigration flow associations is NOT correct?\nChoices:\n(A) 1965–present—Hispanics\n(B) 1870–1914—Eastern and southern Europeans\n(C) Pioneer settlement to 1870—Germans, British, Scotch-Irish, Africans\n(D) 1870–1914—Asians\nAnswer:\n",
-        "model_prediction": "The correct answer is (D) 1870–1914—Asians."
+        "model_prediction": "(D) 1870–1914—Asia"
     },
     {
         "choices": [
@@ -218,7 +218,7 @@
         "question": "Which fast food chain used the advertising slogan 'Where's the beef?'",
         "answer": "(B) Wendy's",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nWhich fast food chain used the advertising slogan 'Where's the beef?'\nChoices:\n(A) Burger King\n(B) Wendy's\n(C) McDonald's\n(D) Kentucky Fried Chicken\nAnswer:\n",
-        "model_prediction": "(B) Wendy'"
+        "model_prediction": "(B) Wendy's"
     },
     {
         "choices": [
@@ -244,7 +244,7 @@
         "question": "What was the first American college to become coeducational?",
         "answer": "(D) Oberlin College",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nWhat was the first American college to become coeducational?\nChoices:\n(A) Antioch College\n(B) Grinnell College\n(C) Dartmouth College\n(D) Oberlin College\nAnswer:\n",
-        "model_prediction": "(D) Oberlin Colleg"
+        "model_prediction": "(D) Oberlin College"
     },
     {
         "choices": [
@@ -257,7 +257,7 @@
         "question": "What is the final word of the Pledge of Allegiance?",
         "answer": "(A) all",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nWhat is the final word of the Pledge of Allegiance?\nChoices:\n(A) all\n(B) America\n(C) stands\n(D) indivisible\nAnswer:\n",
-        "model_prediction": "The final word of the Pledge of Allegiance is (A) all."
+        "model_prediction": "(C) stand"
     },
     {
         "choices": [
@@ -309,7 +309,7 @@
         "question": "The highest risk of HIV infection among drug users in the U.S. is in:",
         "answer": "(B) The east coast",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nThe highest risk of HIV infection among drug users in the U.S. is in:\nChoices:\n(A) The central United States (Kansas, Missouri etc.)\n(B) The east coast\n(C) Southern California\n(D) The Pacific Northwest (Washington, Oregon, Idaho)\nAnswer:\n",
-        "model_prediction": "(A) The central United States (Kansas, Missouri etc.)"
+        "model_prediction": "(B) The east coast"
     },
     {
         "choices": [
@@ -530,7 +530,7 @@
         "question": "Your new ‘client is a 37-year-old woman whose symptoms meet the diagnostic criteria for Major Depressive Disorder. After your third session with her, she tells you that she was in treatment with another psychologist but terminated after the psychologist made sexual advances toward her. She does not want you to discuss this matter with anyone. To be consistent with the provisions of the ethics codes of the American and Canadian Psychology Association, your best course of action would be to:",
         "answer": "(B) discuss the client's options with her and maintain her confidentiality unless she signs a release.",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nYour new ‘client is a 37-year-old woman whose symptoms meet the diagnostic criteria for Major Depressive Disorder. After your third session with her, she tells you that she was in treatment with another psychologist but terminated after the psychologist made sexual advances toward her. She does not want you to discuss this matter with anyone. To be consistent with the provisions of the ethics codes of the American and Canadian Psychology Association, your best course of action would be to:\nChoices:\n(A) inform the client of the limits of confidentiality and report the unethical behavior.\n(B) discuss the client's options with her and maintain her confidentiality unless she signs a release.\n(C) inform the client of the limits of confidentiality and contact the other psychologist.\n(D) contact the Ethics Committee to determine what the appropriate steps would be in this situation.\nAnswer:\n",
-        "model_prediction": "(A) inform the client of the limits of confidentiality and report the unethical behavior."
+        "model_prediction": "(B) discuss the client's options with her and maintain her confidentiality unless she signs a release."
     },
     {
         "choices": [
@@ -582,7 +582,7 @@
         "question": "How many innings are there in a regular Major League Baseball game?",
         "answer": "(B) nine",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nHow many innings are there in a regular Major League Baseball game?\nChoices:\n(A) eight\n(B) nine\n(C) seven\n(D) ten\nAnswer:\n",
-        "model_prediction": "(B) ni"
+        "model_prediction": "(B) nine"
     },
     {
         "choices": [
@@ -621,7 +621,7 @@
         "question": "This question refers to the following information.\nAn Act to place certain restrictions on Immigration and to provide for the removal from the Commonwealth of Prohibited Immigrants.\n…\n3. The immigration into the Commonwealth of the persons described in any of the following paragraphs in this section (hereinafter called \"prohibited immigrants\") is prohibited, namely\n(a) Any person who when asked to do so by an officer fails to write out at dictation and sign in the presence of the officer a passage of fifty words in length in a European language directed by the officer;\n(b) Any person in the opinion of the Minister or of an officer to become a charge upon the public or upon any public or charitable organisation;\n…\n(g) Any persons under a contract or agreement to perform manual labour within the Commonwealth: Provided that this paragraph shall not apply to workmen exempted by the Minister for special skill required by Australia…\nImmigration Restriction Act of 1901 (Australia)\nWhereas in the opinion of the Government of the United States the coming of Chinese laborers to this country endangers the good order of certain localities within the territory thereof;\nTherefore,\nBe it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That from and after the expiration of ninety days next after the passage of this act, the coming of Chinese laborers to the United States be suspended; and during such suspension it shall not be lawful for any Chinese laborer to come, or having so come after the expiration of said ninety days to remain within the United States.\nSEC. 2. That the master of every vessel who shall knowingly bring within the United States on such vessel, and land or permit to be landed, any Chinese laborer, from any foreign port or place, shall be deemed guilty of a misdemeanor, and on conviction thereof shall be punished by a fine of not more than five hundred dollars for each and every such Chinese laborer so brought, and may be also imprisoned for a term not exceeding one year….\nChinese Exclusion Act of 1882 (United States)\nThe emphasis on language in the first passage is most safely interpreted as",
         "answer": "(D) a tactic allowing the exclusion of non-Europeans without referring directly to race.",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nThis question refers to the following information.\nAn Act to place certain restrictions on Immigration and to provide for the removal from the Commonwealth of Prohibited Immigrants.\n…\n3. The immigration into the Commonwealth of the persons described in any of the following paragraphs in this section (hereinafter called \"prohibited immigrants\") is prohibited, namely\n(a) Any person who when asked to do so by an officer fails to write out at dictation and sign in the presence of the officer a passage of fifty words in length in a European language directed by the officer;\n(b) Any person in the opinion of the Minister or of an officer to become a charge upon the public or upon any public or charitable organisation;\n…\n(g) Any persons under a contract or agreement to perform manual labour within the Commonwealth: Provided that this paragraph shall not apply to workmen exempted by the Minister for special skill required by Australia…\nImmigration Restriction Act of 1901 (Australia)\nWhereas in the opinion of the Government of the United States the coming of Chinese laborers to this country endangers the good order of certain localities within the territory thereof;\nTherefore,\nBe it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That from and after the expiration of ninety days next after the passage of this act, the coming of Chinese laborers to the United States be suspended; and during such suspension it shall not be lawful for any Chinese laborer to come, or having so come after the expiration of said ninety days to remain within the United States.\nSEC. 2. That the master of every vessel who shall knowingly bring within the United States on such vessel, and land or permit to be landed, any Chinese laborer, from any foreign port or place, shall be deemed guilty of a misdemeanor, and on conviction thereof shall be punished by a fine of not more than five hundred dollars for each and every such Chinese laborer so brought, and may be also imprisoned for a term not exceeding one year….\nChinese Exclusion Act of 1882 (United States)\nThe emphasis on language in the first passage is most safely interpreted as\nChoices:\n(A) an attempt to bar all immigrants regardless of origin.\n(B) a measure to ensure that all immigrants possessed useful expertise.\n(C) a concern for high educational standards in a rapidly growing society.\n(D) a tactic allowing the exclusion of non-Europeans without referring directly to race.\nAnswer:\n",
-        "model_prediction": "The emphasis on language in the first passage is most safely interpreted as:"
+        "model_prediction": "(D) a tactic allowing the exclusion of non-Europeans without referring directly to race."
     },
     {
         "choices": [
@@ -712,7 +712,7 @@
         "question": "In which urban US setting below would you expect to find planned communities?",
         "answer": "(A) Suburbs",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nIn which urban US setting below would you expect to find planned communities?\nChoices:\n(A) Suburbs\n(B) Transition zones\n(C) Ghettos\n(D) CBDs\nAnswer:\n",
-        "model_prediction": "(A) Suburb"
+        "model_prediction": "(A) Suburbs"
     },
     {
         "choices": [
@@ -725,7 +725,7 @@
         "question": "As of 1999 which state has the most Girl Scouts?",
         "answer": "(C) Pennsylvania",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nAs of 1999 which state has the most Girl Scouts?\nChoices:\n(A) Illinois\n(B) New York\n(C) Pennsylvania\n(D) California\nAnswer:\n",
-        "model_prediction": "(D) California"
+        "model_prediction": "(B) New York"
     },
     {
         "choices": [
@@ -751,7 +751,7 @@
         "question": "The boundary lines of congressional districts must be redrawn every 10 years to",
         "answer": "(D) reflect population shifts indicated by the national census",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nThe boundary lines of congressional districts must be redrawn every 10 years to\nChoices:\n(A) determine which party's leader will be named Speaker of the House\n(B) make sure each state's congressional delegation exactly mirrors its residents' party affiliations\n(C) guarantee the turnover of the majority of congressional seats\n(D) reflect population shifts indicated by the national census\nAnswer:\n",
-        "model_prediction": "The correct answer is (D) reflect population shifts indicated by the national census."
+        "model_prediction": "(D) reflect population shifts indicated by the national censu"
     },
     {
         "choices": [
@@ -816,7 +816,7 @@
         "question": "Experiencing intense feelings of shame and guilt upon admitting to a counselor that a family problem exists is common among traditional",
         "answer": "(B) Asian-Americans",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nExperiencing intense feelings of shame and guilt upon admitting to a counselor that a family problem exists is common among traditional\nChoices:\n(A) Hispanics\n(B) Asian-Americans\n(C) Native North Americans\n(D) African-Americans\nAnswer:\n",
-        "model_prediction": "The task is to read a question and select the correct answer from the choices provided. There is no need to provide explanations for the answers."
+        "model_prediction": "(A) Hispanic"
     },
     {
         "choices": [
@@ -907,7 +907,7 @@
         "question": "Congress enacts a $100 tax on the sale of any handgun to a private individual not for use in law enforcement or military duties. Will this new handgun tax survive a constitutional challenge?",
         "answer": "(A) Yes, if the dominant intent of Congress was that the tax would produce revenue.",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nCongress enacts a $100 tax on the sale of any handgun to a private individual not for use in law enforcement or military duties. Will this new handgun tax survive a constitutional challenge?\nChoices:\n(A) Yes, if the dominant intent of Congress was that the tax would produce revenue.\n(B) No, if the tax does not result in a significant collection of revenue.\n(C) No, because the tax is clearly intended as a penalty on handgun ownership.\n(D) Yes, if Congress could have banned possession of handguns outright.\nAnswer:\n",
-        "model_prediction": "(A) Yes, if the dominant intent of Congress was that the tax would produce revenue."
+        "model_prediction": "(D) Yes, if Congress could have banned possession of handguns outright."
     },
     {
         "choices": [
@@ -920,7 +920,7 @@
         "question": "Where did Lewis and Clark begin their famous expedition in 1804?",
         "answer": "(B) St Louis",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nWhere did Lewis and Clark begin their famous expedition in 1804?\nChoices:\n(A) New Orleans\n(B) St Louis\n(C) Seattle\n(D) Washington DC\nAnswer:\n",
-        "model_prediction": "(B) St Louis"
+        "model_prediction": "(B) St Loui"
     },
     {
         "choices": [
@@ -959,7 +959,7 @@
         "question": "In the United States what is the first day of spring?",
         "answer": "(C) 21-Mar",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nIn the United States what is the first day of spring?\nChoices:\n(A) 21-Feb\n(B) 21-Apr\n(C) 21-Mar\n(D) 21-May\nAnswer:\n",
-        "model_prediction": "The first day of spring in the United States is on March 21. Therefore, the correct answer is:"
+        "model_prediction": "(C) 21-Ma"
     },
     {
         "choices": [
@@ -1050,7 +1050,7 @@
         "question": "Which iconic American festival celebrates the culture of music, art, and self-expression in the Nevada desert?",
         "answer": "(B) Burning Man",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nWhich iconic American festival celebrates the culture of music, art, and self-expression in the Nevada desert?\nChoices:\n(A) Coachella\n(B) Burning Man\n(C) Lollapalooza\n(D) Woodstock\nAnswer:\n",
-        "model_prediction": "(B) Burning Ma"
+        "model_prediction": "(B) Burning Man"
     },
     {
         "choices": [
@@ -1089,7 +1089,7 @@
         "question": "Which of these college football programs has produced the most Heisman Trophy winners?",
         "answer": "(B) Notre Dame",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nWhich of these college football programs has produced the most Heisman Trophy winners?\nChoices:\n(A) Michigan\n(B) Notre Dame\n(C) Oklahoma\n(D) USC\nAnswer:\n",
-        "model_prediction": "To answer this question, we need to determine which college football program has produced the most Heisman Trophy winners. "
+        "model_prediction": "(C) Oklahoma"
     },
     {
         "choices": [
@@ -1102,7 +1102,7 @@
         "question": "How many days of annual leave do Americans typically receive?",
         "answer": "(C) 10 days plus paid public holidays",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nHow many days of annual leave do Americans typically receive?\nChoices:\n(A) 15 days\n(B) 20 days\n(C) 10 days plus paid public holidays\n(D) 24 days plus paid public holidays\nAnswer:\n",
-        "model_prediction": "C) 10 days plus paid public holiday"
+        "model_prediction": "(C) 10 days plus paid public holiday"
     },
     {
         "choices": [
@@ -1115,7 +1115,7 @@
         "question": "Which of the following characteristics is NOT true of a state?",
         "answer": "(D) A national language",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nWhich of the following characteristics is NOT true of a state?\nChoices:\n(A) Internationally recognized\n(B) Boundaries\n(C) Independent territory\n(D) A national language\nAnswer:\n",
-        "model_prediction": "The correct answer is (D) A national language."
+        "model_prediction": "(D) A national languag"
     },
     {
         "choices": [
@@ -1180,7 +1180,7 @@
         "question": "All of the following contribute to lower voting rates among Americans in the 18-to-25 age bracket EXCEPT",
         "answer": "(C) the fact that the minimum voting age in some states is 21",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nAll of the following contribute to lower voting rates among Americans in the 18-to-25 age bracket EXCEPT\nChoices:\n(A) frequent relocation of one's primary residence\n(B) the remoteness of most political issues to the daily lives of young people\n(C) the fact that the minimum voting age in some states is 21\n(D) college attendance in a state other than one's home state\nAnswer:\n",
-        "model_prediction": "(B) the remoteness of most political issues to the daily lives of young peopl"
+        "model_prediction": "(C) the fact that the minimum voting age in some states is 21"
     },
     {
         "choices": [
@@ -1193,7 +1193,7 @@
         "question": "The trade-off between defense and social spending is often referred to as a choice between",
         "answer": "(D) guns and butter.",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nThe trade-off between defense and social spending is often referred to as a choice between\nChoices:\n(A) war and peace.\n(B) bread and butter.\n(C) bombs and books.\n(D) guns and butter.\nAnswer:\n",
-        "model_prediction": "(B) bread and butter."
+        "model_prediction": "(D) guns and butter."
     },
     {
         "choices": [
@@ -1206,7 +1206,7 @@
         "question": "This question refers to the following information.\nHere is the case of a woman employed in the manufacturing department of a Broadway house. It stands for a hundred like her own. She averages three dollars a week. Pay is $1.50 for her room; for breakfast she has a cup of coffee; lunch she cannot afford. One meal a day is her allowance. This woman is young, she is pretty. She has \"the world before her.\" Is it anything less than a miracle if she is guilty of nothing less than the \"early and improvident marriage,\" against which moralists exclaim as one of the prolific causes of the distresses of the poor? Almost any door might seem to offer a welcome escape from such slavery as this. \"I feel so much healthier since I got three square meals a day,\" said a lodger in one of the Girls' Homes. Two young sewing-girls came in seeking domestic service, so that they might get enough to eat. They had been only half-fed for some time, and starvation had driven them to the one door at which the pride of the American-born girl will not permit her to knock, though poverty be the price of her independence.\n—Jacob Riis, How the Other Half Lives, 1890\nThe situation faced by the young women in the passage above is most directly comparable to which of the following?",
         "answer": "(D) Detroit autoworkers in the 1930s",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nThis question refers to the following information.\nHere is the case of a woman employed in the manufacturing department of a Broadway house. It stands for a hundred like her own. She averages three dollars a week. Pay is $1.50 for her room; for breakfast she has a cup of coffee; lunch she cannot afford. One meal a day is her allowance. This woman is young, she is pretty. She has \"the world before her.\" Is it anything less than a miracle if she is guilty of nothing less than the \"early and improvident marriage,\" against which moralists exclaim as one of the prolific causes of the distresses of the poor? Almost any door might seem to offer a welcome escape from such slavery as this. \"I feel so much healthier since I got three square meals a day,\" said a lodger in one of the Girls' Homes. Two young sewing-girls came in seeking domestic service, so that they might get enough to eat. They had been only half-fed for some time, and starvation had driven them to the one door at which the pride of the American-born girl will not permit her to knock, though poverty be the price of her independence.\n—Jacob Riis, How the Other Half Lives, 1890\nThe situation faced by the young women in the passage above is most directly comparable to which of the following?\nChoices:\n(A) Slaves in the antebellum South\n(B) American revolutionaries in the 1770s\n(C) Populist farmers in the 1890s\n(D) Detroit autoworkers in the 1930s\nAnswer:\n",
-        "model_prediction": "The situation faced by the young women in the passage above is most directly comparable to:"
+        "model_prediction": "(D) Detroit autoworkers in the 1930"
     },
     {
         "choices": [
@@ -1271,7 +1271,7 @@
         "question": "What rank entitles a general in the US Army to wear three stars?",
         "answer": "(C) lieutenant general",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nWhat rank entitles a general in the US Army to wear three stars?\nChoices:\n(A) major general\n(B) corporal general\n(C) lieutenant general\n(D) brigadier general\nAnswer:\n",
-        "model_prediction": "Step 1: Read the question and understand what is being asked."
+        "model_prediction": "(C) lieutenant general"
     },
     {
         "choices": [
@@ -1362,7 +1362,7 @@
         "question": "Who was president of the United States when Bill Clinton was born?",
         "answer": "(C) Harry S Truman",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nWho was president of the United States when Bill Clinton was born?\nChoices:\n(A) Herbert Hoover\n(B) Dwight Eisenhower\n(C) Harry S Truman\n(D) Franklin Roosevelt\nAnswer:\n",
-        "model_prediction": "(C) Harry S Truman"
+        "model_prediction": "(C) Harry S Truma"
     },
     {
         "choices": [
@@ -1375,7 +1375,7 @@
         "question": "Which of these fashion designers was born in the United States?",
         "answer": "(B) Donna Karan",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nWhich of these fashion designers was born in the United States?\nChoices:\n(A) Helmut Lang\n(B) Donna Karan\n(C) Laura Ashley\n(D) Christian Dior\nAnswer:\n",
-        "model_prediction": "(B) Donna Kara"
+        "model_prediction": "(B) Donna Karan"
     },
     {
         "choices": [
