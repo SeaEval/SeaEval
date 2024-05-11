@@ -130,3 +130,13 @@ To use SeaEval to evaluate your own model, you can just add your model to `model
 }
 ```
 
+[CRAFT: Extracting and Tuning Cultural Instructions from the Wild](https://arxiv.org/abs/2405.03138)
+```
+@article{wang2024craft,
+  title={CRAFT: Extracting and Tuning Cultural Instructions from the Wild},
+  author={Wang, Bin and Lin, Geyu and Liu, Zhengyuan and Wei, Chengwei and Chen, Nancy F},
+  journal={arXiv preprint arXiv:2405.03138},
+  year={2024}
+}
+```
+
