@@ -32,16 +32,6 @@ def LLaMA_3_Merlion_8B_model_loader(self):
 
 def LLaMA_3_Merlion_8B_model_generation(self, batch_input):
 
-    '''
-    batch_input_templated = []
-    for sample in batch_input:    
-        #messages = [{"role": "user", "content": sample}]
-        #sample_templated = self.tokenizer.apply_chat_template(messages, return_tensors="pt", tokenize=False)
-        sample_templated = "<s>[INST] " + sample + " [/INST]"
-        batch_input_templated.append(sample_templated)
-
-    batch_input = batch_input_templated
-    '''
     
     # add template
     batch_input = ["[INST] "+sample+" [/INST]" for sample in batch_input]

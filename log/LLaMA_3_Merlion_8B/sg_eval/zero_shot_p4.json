@@ -36,7 +36,7 @@
         ],
         "id": "test_3",
         "model_input": "Please answer the following Singapore-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nI have just moved to Singapore, and I am excited to dine out at the hawker centres and try some of the local cuisine. What are some behaviours or social norms that I should not do?\n\nChoices:\n(A) Leave used tissues and food remnants on the table for the cleaners to clear\n(B) Return food trays and crockery to designated tray return points\n(C) Address the stallholders as 'Uncle' or 'Aunty' especially if they are older than me\n(D) To communicate more effectively with stallholders, use local lingo like 'dabao' when taking away food\n\nAnswer:\n",
-        "model_prediction": "B"
+        "model_prediction": "(A) Leave used tissues and food remnants on the table for the cleaners to clea"
     },
     {
         "question": "Which political party won the 1948 election of Singapore?",
@@ -166,7 +166,7 @@
         ],
         "id": "test_13",
         "model_input": "Please answer the following Singapore-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nOn 16 September 1963, Malaysia which comprises of ____ states came into existence.\n\nChoices:\n(A) 11\n(B) 4\n(C) 14\n(D) 5\n\nAnswer:\n",
-        "model_prediction": "(C) 14"
+        "model_prediction": "To answer this question, let's examine the information provided:"
     },
     {
         "question": "Why did the Straits-born Chinese usually act as the middlemen?",
@@ -192,7 +192,7 @@
         ],
         "id": "test_15",
         "model_input": "Please answer the following Singapore-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhich of the following items would be considered the least suitable gift to bring to a Singaporean family during Lunar New Year?\n\nChoices:\n(A) A red packet\n(B) Ten dollar cash\n(C) An pineapple\n(D) Two organges\n\nAnswer:\n",
-        "model_prediction": "(C) An pineappl"
+        "model_prediction": "(C) An pineapple"
     },
     {
         "question": "In the 1960s, what made many Malay and Chinese fishermen living in Simpang Bedok Village turn to other means of earning a living, such as selling cigarettes, food and drinks?",
@@ -296,7 +296,7 @@
         ],
         "id": "test_23",
         "model_input": "Please answer the following Singapore-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nIn Singapore, the ____ was announced to be closed down in 1956 because of its Communist activities.\n\nChoices:\n(A) Singapore Bus Workers Union\n(B) Hock Lee Employee's Union\n(C) Chung Cheng High School\n(D) Singapore Chinese Middle School Students' Union\n\nAnswer:\n",
-        "model_prediction": "(B) Hock Lee Employee's Unio"
+        "model_prediction": "(D) Singapore Chinese Middle School Students' Unio"
     },
     {
         "question": "The duration of national service in Singapore of Year 2019 is",
@@ -361,7 +361,7 @@
         ],
         "id": "test_28",
         "model_input": "Please answer the following Singapore-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhy were fishermen, hawkers and shopkeepers important occupations of the immigrant in Singapore?\n\nChoices:\n(A) These jobs allowed people to work in comfortable surroundings.\n(B) These people helped in attracting traders to come to Singapore.\n(C) These people provided everyone with daily necessities at low prices.\n(D) These were well-paid jobs and did not require hard work.\n\nAnswer:\n",
-        "model_prediction": "(C) These people provided everyone with daily necessities at low prices."
+        "model_prediction": "C) These people provided everyone with daily necessities at low prices."
     },
     {
         "question": "What is a language spoken by the Peranakans that is a result of the intermarriages between people of different heritage, in Singapore?",
@@ -426,7 +426,7 @@
         ],
         "id": "test_33",
         "model_input": "Please answer the following Singapore-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nDuring the 2023 Singapore National Day Rally, the Majulah Package was unveiled to provide benefits to Singaporeans. Which age group is excluded from the package's coverage?\n\nChoices:\n(A) 45 to 50 years old\n(B) 50 to 55 years old\n(C) 55 to 60 years old\n(D) 60 to 65 years old\n\nAnswer:\n",
-        "model_prediction": "(B) 50 to 55 years old"
+        "model_prediction": "(A) 45 to 50 years old"
     },
     {
         "question": "What was the main purpose of the white paper \"Chinese Schools Bilingual Education and Increased Aid\" in 1953?",
@@ -439,7 +439,7 @@
         ],
         "id": "test_34",
         "model_input": "Please answer the following Singapore-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhat was the main purpose of the white paper \"Chinese Schools Bilingual Education and Increased Aid\" in 1953?\n\nChoices:\n(A) To promote Chinese language and culture in schools\n(B) To provide financial aid to all schools in Singapore\n(C) To introduce English Education in local schools\n(D) To reform the government-run schools and government-aided mission schools\n\nAnswer:\n",
-        "model_prediction": "(D) To reform the government-run schools and government-aided mission school"
+        "model_prediction": "(A) To promote Chinese language and culture in school"
     },
     {
         "question": "Which one of the following was not a sickness commonly found among the immigrants in Singapore during the early 19th century?",
@@ -452,7 +452,7 @@
         ],
         "id": "test_35",
         "model_input": "Please answer the following Singapore-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhich one of the following was not a sickness commonly found among the immigrants in Singapore during the early 19th century?\n\nChoices:\n(A) Cholera\n(B) Diabetes\n(C) Malaria\n(D) Tuberculosis\n\nAnswer:\n",
-        "model_prediction": "(B) Diabet"
+        "model_prediction": "(B) Diabetes"
     },
     {
         "question": "____ decided that it was best for Singapore to leave Malaysia and called for the separation.",
@@ -465,7 +465,7 @@
         ],
         "id": "test_36",
         "model_input": "Please answer the following Singapore-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\n____ decided that it was best for Singapore to leave Malaysia and called for the separation.\n\nChoices:\n(A) Lee Kuan Yew\n(B) Toh Chin Chye\n(C) Tun Razak\n(D) Tunku Abdul Rahman\n\nAnswer:\n",
-        "model_prediction": "(D) Tunku Abdul Rahman"
+        "model_prediction": "(A) Lee Kuan Y"
     },
     {
         "question": "Which list is in the correct chronological order of Singapore's National Day songs?",
@@ -530,7 +530,7 @@
         ],
         "id": "test_41",
         "model_input": "Please answer the following Singapore-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhich one of the following is not the name used by Chinese author Chew Kok Chang in Singapore?\n\nChoices:\n(A) Yu Yin\n(B) Ai Jia\n(C) Qiu Ling\n(D) Ai Yin\n\nAnswer:\n",
-        "model_prediction": "(D) Ai Yi"
+        "model_prediction": "(A) Yu Yin"
     },
     {
         "question": "The Chinese Protectorate did all the following in Singapore except for ____",
@@ -543,7 +543,7 @@
         ],
         "id": "test_42",
         "model_input": "Please answer the following Singapore-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nThe Chinese Protectorate did all the following in Singapore except for ____\n\nChoices:\n(A) setting up the 'Po Leung Kuk'\n(B) abolishing the Chinese secret societies\n(C) inspecting all the coolie ships\n(D) helping the Chinese settle their quarrels\n\nAnswer:\n",
-        "model_prediction": "(A) setting up the 'Po Leung Kuk'"
+        "model_prediction": "(B) abolishing the Chinese secret societi"
     },
     {
         "question": "The ____ in Buddhism are the two teachings",
@@ -582,7 +582,7 @@
         ],
         "id": "test_45",
         "model_input": "Please answer the following Singapore-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhy is it important for Singapore to maintain good diplomatic relationships with other nations?\n\nChoices:\n(A) We will be protected in the event of a war\n(B) We can pick sides if there are strained relations between other nations\n(C) For our economic survival\n(D) Singaporeans can travel more freely into other countries\n\nAnswer:\n",
-        "model_prediction": "(C) For our economic survival"
+        "model_prediction": "C) For our economic survival"
     },
     {
         "question": "According to the Indus stone seals, what did the ancient Indus people have?",
@@ -647,7 +647,7 @@
         ],
         "id": "test_50",
         "model_input": "Please answer the following Singapore-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nHistorians have to ensure that their evidence contains statements that agree with one another. This means that the statements are ____\n\nChoices:\n(A) credible\n(B) corroborative\n(C) consistent\n(D) inconsistent\n\nAnswer:\n",
-        "model_prediction": "(B) corroborativ"
+        "model_prediction": "(C) consistent"
     },
     {
         "question": "What are some ways we can strive to maintain racial and religious harmony in Singapore?",
@@ -660,7 +660,7 @@
         ],
         "id": "test_51",
         "model_input": "Please answer the following Singapore-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhat are some ways we can strive to maintain racial and religious harmony in Singapore?\n\nChoices:\n(A) Try the traditional cuisine of other cultures\n(B) Not interacting with other racial or religious communities to avoid potential conflict\n(C) Take some online courses of other cultures\n(D) Participate in Racial Harmony Day programmes to understand more about the different races\n\nAnswer:\n",
-        "model_prediction": "(A) Try the traditional cuisine of other cultu"
+        "model_prediction": "(D) Participate in Racial Harmony Day programmes to understand more about the different rac"
     },
     {
         "question": "Which year is the first time Stefanie Sun performed Singapore's National Day songs?",
@@ -673,7 +673,7 @@
         ],
         "id": "test_52",
         "model_input": "Please answer the following Singapore-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhich year is the first time Stefanie Sun performed Singapore's National Day songs?\n\nChoices:\n(A) 1999\n(B) 2002\n(C) 2005\n(D) 2008\n\nAnswer:\n",
-        "model_prediction": "(B) 2002"
+        "model_prediction": "(D) 2008"
     },
     {
         "question": "Trade officials appointed to look after the needs of foreign traders during the time of the Melaka Sultanate were known as ____",
@@ -699,7 +699,7 @@
         ],
         "id": "test_54",
         "model_input": "Please answer the following Singapore-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nThe oldest of the religions and philosophies that were followed by the ancient people is ____\n\nChoices:\n(A) Buddihism\n(B) Christianity\n(C) Hinduism\n(D) Islam\n\nAnswer:\n",
-        "model_prediction": "C) Hinduism"
+        "model_prediction": "(C) Hinduism"
     },
     {
         "question": "In which year did Singapore raise its GST rate to 9%?",
@@ -712,7 +712,7 @@
         ],
         "id": "test_55",
         "model_input": "Please answer the following Singapore-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nIn which year did Singapore raise its GST rate to 9%?\n\nChoices:\n(A) 1994\n(B) 2003\n(C) 2023\n(D) 2024\n\nAnswer:\n",
-        "model_prediction": "(B) 2003"
+        "model_prediction": "(D) 2024"
     },
     {
         "question": "In Singapore's National Day songs, which lyric contains the word “Singapore”?",
@@ -842,7 +842,7 @@
         ],
         "id": "test_65",
         "model_input": "Please answer the following Singapore-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nBuddha attained enlightenment. This means he was ____\n\nChoices:\n(A) without food for many days\n(B) in a daze\n(C) far from satisfied\n(D) free from suffering and desire\n\nAnswer:\n",
-        "model_prediction": "(D) free from suffering and desi"
+        "model_prediction": "D) free from suffering and desi"
     },
     {
         "question": "What shared value does this example demonstrate? I am involved in a group project where some of my team members have strong differing views to mine. However, I try to understand the perspective of others and note down all ideas for consideration instead of being confrontational and pushing for my own viewpoint.",
@@ -933,7 +933,7 @@
         ],
         "id": "test_72",
         "model_input": "Please answer the following Singapore-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhat are some ways we can strive to maintain racial and religious harmony in Singapore?\n\nChoices:\n(A) Try the traditional cuisine of other cultures\n(B) Ask a neighbour of a different race to explain more about their cultural practices\n(C) Not interacting with other racial or religious communities to avoid potential conflict\n(D) Take some online courses of other cultures\n\nAnswer:\n",
-        "model_prediction": "(B) Ask a neighbour of a different race to explain more about their cultural practic"
+        "model_prediction": "(A) Try the traditional cuisine of other cultures"
     },
     {
         "question": "The opening of the Suez Canal brought about ____",
@@ -946,7 +946,7 @@
         ],
         "id": "test_73",
         "model_input": "Please answer the following Singapore-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nThe opening of the Suez Canal brought about ____\n\nChoices:\n(A) a drastic fall in Singapore's trade.\n(B) a great expansion in Singapore's trade.\n(C) a rush for food in Singapore.\n(D) the outbreak of diseases in Singapore.\n\nAnswer:\n",
-        "model_prediction": "(B) a great expansion in Singapore's trade."
+        "model_prediction": "B"
     },
     {
         "question": "Which MRT station is most near to the NTU?",
@@ -985,7 +985,7 @@
         ],
         "id": "test_76",
         "model_input": "Please answer the following Singapore-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhich of the following occupations was looked down upon in ancient China as they were thought to rely on the hard work of others?\n\nChoices:\n(A) Craftsmen\n(B) Farmers\n(C) Scholars\n(D) Traders\n\nAnswer:\n",
-        "model_prediction": "(A) Craftsm"
+        "model_prediction": "(A) Craftsmen"
     },
     {
         "question": "Which one of the following is not the albums and singles written by Singapore singer-songwriter Art Fazil?",
@@ -1063,7 +1063,7 @@
         ],
         "id": "test_82",
         "model_input": "Please answer the following Singapore-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWho was the first Protector of the Chinese in May 1877?\n\nChoices:\n(A) Dr Lim Boon Keng\n(B) William Pickering\n(C) Thomas Dunman\n(D) Gan Eng Seng\n\nAnswer:\n",
-        "model_prediction": "(A) Dr Lim Boon Keng"
+        "model_prediction": "(B) William Pickering"
     },
     {
         "question": "\"Mandate of Heaven\" is the right to rule as a result of the blessing and approval of ____",
@@ -1089,7 +1089,7 @@
         ],
         "id": "test_84",
         "model_input": "Please answer the following Singapore-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhat are some ways we can practise/live out the shared value 'community support and respect for the individual' in Singapore?\n\nChoices:\n(A) Visit religious sites of other communities\n(B) Put the nation and community first in times of crisis\n(C) Choose to live near our parents\n(D) Help to run errands for seniors in our residential estate\n\nAnswer:\n",
-        "model_prediction": "(B) Put the nation and community first in times of crisi"
+        "model_prediction": "(D) Help to run errands for seniors in our residential estat"
     },
     {
         "question": "Which of the following is not well-known for his philanthropy acts in Singapore?",
@@ -1141,7 +1141,7 @@
         ],
         "id": "test_88",
         "model_input": "Please answer the following Singapore-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhy is the Central Provident Fund (CPF) important?\n\nChoices:\n(A) It provides a safety-net for our children\n(B) We do not have to rely on alternative savings plans\n(C) We can reduce our taxable income by topping up our CPF\n(D) It helps us to be self-reliant in setting aside funds for our retirement\n\nAnswer:\n",
-        "model_prediction": "(D) It helps us to be self-reliant in setting aside funds for our retirement"
+        "model_prediction": "D) It helps us to be self-reliant in setting aside funds for our retirement"
     },
     {
         "question": "By welcoming people from different backgrounds, cultures and nationalities into our workforce of Singapore, we benefit economically in the following way:",
@@ -1167,7 +1167,7 @@
         ],
         "id": "test_90",
         "model_input": "Please answer the following Singapore-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nTo avoid linking the dating system to Christianity, which of the following can we use?\n\nChoices:\n(A) AD and BC\n(B) CE and BCE\n(C) AD and BCE\n(D) CE and BC\n\nAnswer:\n",
-        "model_prediction": "(B) CE and BCE"
+        "model_prediction": "To avoid linking the dating system to Christianity, we can use:"
     },
     {
         "question": "Why did the Deputy Prime Minister Goh Chok Tong suggest the need for Singapore to adopt a set of shared national values?",
@@ -1180,7 +1180,7 @@
         ],
         "id": "test_91",
         "model_input": "Please answer the following Singapore-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhy did the Deputy Prime Minister Goh Chok Tong suggest the need for Singapore to adopt a set of shared national values?\n\nChoices:\n(A) To spur economic growth and advance our position in the global market\n(B) To anchor a Singaporean identity that represents our multicultural heritage and the values that have shaped our success\n(C) To reduce underlying tensions caused by the race riots\n(D) To instil in students values that would support their professional goals\n\nAnswer:\n",
-        "model_prediction": "(B) To anchor a Singaporean identity that represents our multicultural heritage and the values that have shaped our succ"
+        "model_prediction": "(C) To reduce underlying tensions caused by the race riot"
     },
     {
         "question": "What do you call a government system in which the king owned all the land but gave land to lords who then ruled it for him out of loyalty to the king?",
@@ -1219,7 +1219,7 @@
         ],
         "id": "test_94",
         "model_input": "Please answer the following Singapore-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhich of these were measures taken by a king to prevent a rebellion?\n\nChoices:\n(A) Implementing a spy system.\n(B) Sending the princes to govern distant provinces.\n(C) Forcing the princes and members of the ruling class to pay tribute.\n(D) Threatening to kill or make the princes' families suffer.\n\nAnswer:\n",
-        "model_prediction": "(B) Sending the princes to govern distant provinces."
+        "model_prediction": "(A) Implementing a spy system."
     },
     {
         "question": "Which one of the statements below about the Indus Valley Civilisation is false?",
@@ -1323,7 +1323,7 @@
         ],
         "id": "test_102",
         "model_input": "Please answer the following Singapore-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nOur National Monuments of Singapore are given the highest level of protection and cannot be torn down or removed. Why is this so?\n\nChoices:\n(A) They are architecturally beautiful\n(B) They are still occupied by their respective communities\n(C) They boost tourism\n(D) They reflect our shared heritage and history\n\nAnswer:\n",
-        "model_prediction": "(D)"
+        "model_prediction": "(D) They reflect our shared heritage and history"
     },
     {
         "question": "The British had built underground bunkers in the following places except in ____",

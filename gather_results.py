@@ -99,7 +99,7 @@ MODEL_LIST={
     'qwen_1_5_7b'                    : ['7B', 'https://huggingface.co/Qwen/Qwen1.5-7B'],
     'qwen_1_5_7b_chat'               : ['7B', 'https://huggingface.co/Qwen/Qwen1.5-7B-Chat'],
 
-    # 'LLaMA_3_Merlion_8B': ['8B', 'https://seaeval.github.io/'],
+    'LLaMA_3_Merlion_8B': ['8B', 'https://seaeval.github.io/'],
 
 }
 
