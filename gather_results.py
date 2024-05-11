@@ -16,6 +16,7 @@
 import json
 
 MODEL_LIST={
+    
       'alpaca-7b'                      : ['7B', 'https://github.com/tatsu-lab/stanford_alpaca'],
 
       'vicuna-7b'                      : ['7B', 'https://huggingface.co/lmsys/vicuna-7b-v1.3'],
@@ -53,9 +54,7 @@ MODEL_LIST={
     'mistral_7b_v0_1'         : ['7B', 'https://huggingface.co/mistralai/Mistral-7B-v0.1'],
     'chatglm2_6b'             : ['6B', 'https://huggingface.co/THUDM/chatglm2-6b'],
     'chatglm3_6b'             : ['6B', 'https://huggingface.co/THUDM/chatglm3-6b'],
-    'qwen_1_5_7b_chat'        : ['7B', 'https://huggingface.co/Qwen/Qwen1.5-7B-Chat'],
     'mt0_xxl'                 : ['13B', 'https://huggingface.co/bigscience/mt0-xxl'],
-    'qwen_1_5_7b'             : ['7B', 'https://huggingface.co/Qwen/Qwen1.5-7B'],
     'gemma_2b'                : ['7B', 'https://huggingface.co/google/gemma-2b'],
     'gemma_2b_it'             : ['7B', 'https://huggingface.co/google/gemma-2b-it'],
     'gemma_7b'                : ['7B', 'https://huggingface.co/google/gemma-7b'],
@@ -101,8 +100,10 @@ MODEL_LIST={
     'gemma_7b'                       : ['7B', 'https://huggingface.co/google/gemma-7b'],
     'gemma_2b_it'                    : ['>2B', 'https://huggingface.co/google/gemma-2b-it'],
     'gemma_7b_it'                    : ['7B', 'https://huggingface.co/google/gemma-7b-it'],
+    'qwen_1_5_7b'                    : ['7B', 'https://huggingface.co/Qwen/Qwen1.5-7B'],
+    'qwen_1_5_7b_chat'               : ['7B', 'https://huggingface.co/Qwen/Qwen1.5-7B-Chat'],
 
-    'hf_sg_regional_llama3_8b'       : ['8B', 'https://seaeval.github.io/'],
+    'LLaMA_3_Merlion_8B': ['8B', 'https://seaeval.github.io/'],
 
 }
 
