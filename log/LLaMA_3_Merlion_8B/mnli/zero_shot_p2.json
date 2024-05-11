@@ -1,0 +1,122 @@
+[
+    {
+        "choices": [
+            "(A) Neutral",
+            "(B) Entailment",
+            "(C) Contradiction"
+        ],
+        "id": "test_1",
+        "context": "Premise: Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter. Hypothesis: The shelter was not informed about the hijacking of the helicopter.",
+        "answer": "(C) Contradiction",
+        "model_input": "Determine the relationship between the following two sentences. Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nPremise: Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter. Hypothesis: The shelter was not informed about the hijacking of the helicopter.\nChoices:\n(A) Neutral\n(B) Entailment\n(C) Contradiction\nAnswer:\n",
+        "model_prediction": " C) Contradiction"
+    },
+    {
+        "choices": [
+            "(A) Neutral",
+            "(B) Contradiction",
+            "(C) Entailment"
+        ],
+        "id": "test_2",
+        "context": "Premise: Unfortunately, the mistake is compounded and perpetuated by dragging in expressions like man in the street, the average working man , and others, and, as a result, the entire argument degenerates. Hypothesis: Expressions like man in the street help further the argument in question.",
+        "answer": "(B) Contradiction",
+        "model_input": "Determine the relationship between the following two sentences. Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nPremise: Unfortunately, the mistake is compounded and perpetuated by dragging in expressions like man in the street, the average working man , and others, and, as a result, the entire argument degenerates. Hypothesis: Expressions like man in the street help further the argument in question.\nChoices:\n(A) Neutral\n(B) Contradiction\n(C) Entailment\nAnswer:\n",
+        "model_prediction": " Answer:\n(C) Entailment\n\nExplanation:\nThe premise states that expressions like \"man in the street\" and others are causing the argument to degenerate. The hypothesis suggests that these expressions help further the argument. Since the hypothesis is in line with the premise, the relationship between the two sentences is one of entailment."
+    },
+    {
+        "choices": [
+            "(A) Neutral",
+            "(B) Entailment",
+            "(C) Contradiction"
+        ],
+        "id": "test_3",
+        "context": "Premise: They touch an object, hold it up, or point to it while looking at another person to make sure he or she notices. Hypothesis: They will never get attention by pointing at an object while looking at another person.",
+        "answer": "(C) Contradiction",
+        "model_input": "Determine the relationship between the following two sentences. Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nPremise: They touch an object, hold it up, or point to it while looking at another person to make sure he or she notices. Hypothesis: They will never get attention by pointing at an object while looking at another person.\nChoices:\n(A) Neutral\n(B) Entailment\n(C) Contradiction\nAnswer:\n",
+        "model_prediction": " C) Contradiction"
+    },
+    {
+        "choices": [
+            "(A) Contradiction",
+            "(B) Entailment",
+            "(C) Neutral"
+        ],
+        "id": "test_4",
+        "context": "Premise: His vigorous strides soon enabled him to gain upon them, and by the time he, in his turn, reached the corner the distance between them was sensibly lessened. Hypothesis: He walked quickly after them, having gained considerably upon rounding the corner.",
+        "answer": "(B) Entailment",
+        "model_input": "Determine the relationship between the following two sentences. Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nPremise: His vigorous strides soon enabled him to gain upon them, and by the time he, in his turn, reached the corner the distance between them was sensibly lessened. Hypothesis: He walked quickly after them, having gained considerably upon rounding the corner.\nChoices:\n(A) Contradiction\n(B) Entailment\n(C) Neutral\nAnswer:\n",
+        "model_prediction": " (B) Entailment"
+    },
+    {
+        "choices": [
+            "(A) Neutral",
+            "(B) Contradiction",
+            "(C) Entailment"
+        ],
+        "id": "test_5",
+        "context": "Premise: My usual partner.' Hypothesis: My usual partner told him to go away.",
+        "answer": "(A) Neutral",
+        "model_input": "Determine the relationship between the following two sentences. Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nPremise: My usual partner.' Hypothesis: My usual partner told him to go away.\nChoices:\n(A) Neutral\n(B) Contradiction\n(C) Entailment\nAnswer:\n",
+        "model_prediction": " To determine the relationship between the premise and the hypothesis, let's analyze them step by step:\n\n1. Analyze the premise: \"My usual partner.\"\nThis statement is a simple description of someone's usual partner.\n\n2. Analyze the hypothesis: \"My usual partner told him to go away.\"\nThis statement implies that the usual partner gave a specific instruction to someone else.\n\n3. Compare the premise and the hypothesis.\nThe premise is a simple statement about someone's usual partner, while the hypothesis adds a specific action performed by the usual partner. \n\n4. Determine the relationship between the two sentences.\nThe hypothesis introduces new information that is not"
+    },
+    {
+        "choices": [
+            "(A) Contradiction",
+            "(B) Neutral",
+            "(C) Entailment"
+        ],
+        "id": "test_6",
+        "context": "Premise: This was followed by a second radio transmission, with sounds of screaming. Hypothesis: There was another radio transmission that had a lot of people screaming.",
+        "answer": "(C) Entailment",
+        "model_input": "Determine the relationship between the following two sentences. Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nPremise: This was followed by a second radio transmission, with sounds of screaming. Hypothesis: There was another radio transmission that had a lot of people screaming.\nChoices:\n(A) Contradiction\n(B) Neutral\n(C) Entailment\nAnswer:\n",
+        "model_prediction": " C) Entailment"
+    },
+    {
+        "choices": [
+            "(A) Contradiction",
+            "(B) Neutral",
+            "(C) Entailment"
+        ],
+        "id": "test_7",
+        "context": "Premise: When all the individual pieces of the garment have been modified and entered into the computer system, the final garment pattern is ready to be cut and sewn into a sample garment. Hypothesis: The final pattern would be ready to become a sample after the individual parts of the garment have been fixed and uploaded onto the computer system.",
+        "answer": "(C) Entailment",
+        "model_input": "Determine the relationship between the following two sentences. Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nPremise: When all the individual pieces of the garment have been modified and entered into the computer system, the final garment pattern is ready to be cut and sewn into a sample garment. Hypothesis: The final pattern would be ready to become a sample after the individual parts of the garment have been fixed and uploaded onto the computer system.\nChoices:\n(A) Contradiction\n(B) Neutral\n(C) Entailment\nAnswer:\n",
+        "model_prediction": " (C) Entailment"
+    },
+    {
+        "choices": [
+            "(A) Neutral",
+            "(B) Entailment",
+            "(C) Contradiction"
+        ],
+        "id": "test_8",
+        "context": "Premise: NIPA had already recognized mineral exploration as investment, and in 1996, NIPA reclassified government purchases of plant and equipment as investment. Hypothesis: NIPA said mineral exploration is an investment, especially oil and gas.",
+        "answer": "(A) Neutral",
+        "model_input": "Determine the relationship between the following two sentences. Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nPremise: NIPA had already recognized mineral exploration as investment, and in 1996, NIPA reclassified government purchases of plant and equipment as investment. Hypothesis: NIPA said mineral exploration is an investment, especially oil and gas.\nChoices:\n(A) Neutral\n(B) Entailment\n(C) Contradiction\nAnswer:\n",
+        "model_prediction": " (B) Entailment"
+    },
+    {
+        "choices": [
+            "(A) Entailment",
+            "(B) Contradiction",
+            "(C) Neutral"
+        ],
+        "id": "test_9",
+        "context": "Premise: Our studies of business units with differing levels of the four practices indicate that firms with the complete set of practices achieve similar or slightly better performance in regard to the percentage of goods delivered complete and on time, although these differences between business units are not very dramatic. Hypothesis: Differences in business units that utilized the four practices to varying degrees were not very big.",
+        "answer": "(A) Entailment",
+        "model_input": "Determine the relationship between the following two sentences. Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nPremise: Our studies of business units with differing levels of the four practices indicate that firms with the complete set of practices achieve similar or slightly better performance in regard to the percentage of goods delivered complete and on time, although these differences between business units are not very dramatic. Hypothesis: Differences in business units that utilized the four practices to varying degrees were not very big.\nChoices:\n(A) Entailment\n(B) Contradiction\n(C) Neutral\nAnswer:\n",
+        "model_prediction": " To determine the relationship between the premise and the hypothesis, let's analyze them step by step:\n\n1. Premise: The premise states that their studies show that firms with the complete set of practices achieve similar or slightly better performance in regard to the percentage of goods delivered complete and on time, although these differences are not very dramatic.\n\n2. Hypothesis: The hypothesis states that the differences in business units that utilized the four practices to varying degrees were not very big.\n\nComparing the premise and the hypothesis, we can see that they both convey the same idea: the differences in business units that utilize the four practices to varying degrees are not"
+    },
+    {
+        "choices": [
+            "(A) Entailment",
+            "(B) Neutral",
+            "(C) Contradiction"
+        ],
+        "id": "test_10",
+        "context": "Premise: Ocho Rios is Spanish for  eight rivers,  but this name is not descriptive of the area. Hypothesis: The area doesn't have eight rivers, only four.",
+        "answer": "(B) Neutral",
+        "model_input": "Determine the relationship between the following two sentences. Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nPremise: Ocho Rios is Spanish for  eight rivers,  but this name is not descriptive of the area. Hypothesis: The area doesn't have eight rivers, only four.\nChoices:\n(A) Entailment\n(B) Neutral\n(C) Contradiction\nAnswer:\n",
+        "model_prediction": " (C) Contradiction"
+    }
+]
