@@ -101,7 +101,7 @@
         "question": "The standard tip in a restaurant is $ 15 \\%$ of the bill before tax. Many people in California find the tip by doubling the sales tax, which is $8.25 \\%$. By how many cents does this exceed the standard tip on a bill of $ \\$60 $ before tax?",
         "answer": "(C) 90",
         "model_input": "Please provide your answers to the following questions related to the United States by selecting the most likely option from the choices provided. Simply select the choice, no explanations required.\n\nQuestion:\nThe standard tip in a restaurant is $ 15 \\%$ of the bill before tax. Many people in California find the tip by doubling the sales tax, which is $8.25 \\%$. By how many cents does this exceed the standard tip on a bill of $ \\$60 $ before tax?\n\nChoices:\n(A) 80\n(B) 60\n(C) 90\n(D) 70\n\nAnswer:\n",
-        "model_prediction": "To find the difference between the two tips, we first need to calculate the standard tip and the tip based on doubling the sales tax."
+        "model_prediction": "To find the standard tip, we first calculate 15% of $60:"
     },
     {
         "choices": [
@@ -868,7 +868,7 @@
         "question": "Which of the following was a significant reason for the electoral success of Franklin Roosevelt's New Deal coalition during the 1930s?",
         "answer": "(A) A major shift of African American voters from the Republican to the Democratic Party",
         "model_input": "Please provide your answers to the following questions related to the United States by selecting the most likely option from the choices provided. Simply select the choice, no explanations required.\n\nQuestion:\nWhich of the following was a significant reason for the electoral success of Franklin Roosevelt's New Deal coalition during the 1930s?\n\nChoices:\n(A) A major shift of African American voters from the Republican to the Democratic Party\n(B) A major shift of urban voters in Northern states from the Republican to the Democratic Party\n(C) A focus on mobilizing young voters\n(D) A focus on a bipartisan approach to major social and economic legislation\n\nAnswer:\n",
-        "model_prediction": "(B) A major shift of urban voters in Northern states from the Republican to the Democratic Party"
+        "model_prediction": "(A) A major shift of African American voters from the Republican to the Democratic Party"
     },
     {
         "choices": [

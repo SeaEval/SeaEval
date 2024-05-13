@@ -197,7 +197,7 @@
             ],
             "question": "Khi một số chia cho 4, câu trả lời là 160 với số dư là 2. Số đó là bao nhiêu?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nKhi một số chia cho 4, câu trả lời là 160 với số dư là 2. Số đó là bao nhiêu?\n\nChoices:\n(A) 642\n(B) 638\n(C) 42\n(D) 38\n\nAnswer:\n",
-            "model_prediction": "(D) 38"
+            "model_prediction": "To solve this problem, we need to find the number that satisfies the given conditions:"
         },
         "Chinese": {
             "answer": "(A) 642",
@@ -221,7 +221,7 @@
             ],
             "question": "Cuando cierto número se divide entre 4, el resultado es 160 con resto 2. ¿Cuál es el número?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nCuando cierto número se divide entre 4, el resultado es 160 con resto 2. ¿Cuál es el número?\n\nChoices:\n(A) 642\n(B) 638\n(C) 42\n(D) 38\n\nAnswer:\n",
-            "model_prediction": "(C) 42"
+            "model_prediction": "To solve this problem, we need to find the number that satisfies the given conditions. Let's break down the information given:"
         },
         "Malay": {
             "answer": "(A) 642",
@@ -257,7 +257,7 @@
             ],
             "question": "When a certain number is divided by 4, the answer is 160 with a remainder of 2. What is the number?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nWhen a certain number is divided by 4, the answer is 160 with a remainder of 2. What is the number?\n\nChoices:\n(A) 642\n(B) 638\n(C) 42\n(D) 38\n\nAnswer:\n",
-            "model_prediction": "To solve this problem, we can use the division formula: dividend = (divisor * quotient) + remainder."
+            "model_prediction": "To find the number, we can use the formula:"
         }
     },
     {
@@ -407,7 +407,7 @@
             ],
             "question": "Syarikat transnasional mengagihkan operasi mereka",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nSyarikat transnasional mengagihkan operasi mereka\n\nChoices:\n(A) berdasarkan kelebihan perbandingan.\n(B) dengan menjalankan perkhidmatan perakaunan dan penyelidikan yang paling menjimatkan.\n(C) melalui pembuatan barangan di mana kos pengeluaran adalah yang tertinggi.\n(D) dengan ibu pejabat yang terletak di LDC.\n\nAnswer:\n",
-            "model_prediction": "(D) dengan ibu pejabat yang terletak di LDC."
+            "model_prediction": "(D) with the head office located in LDC."
         },
         "Indonesian": {
             "answer": "(A) berdasarkan keunggulan komparatif.",
@@ -470,7 +470,7 @@
             ],
             "question": "下列关于蛋白质水解作用的叙述哪一项是正确的？",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\n下列关于蛋白质水解作用的叙述哪一项是正确的？\n\nChoices:\n(A) 所有组织蛋白质以或多或少相同的速率进行分解代谢。\n(B) 组织蛋白质分解代谢的速率全天或多或少是恒定的。\n(C) 所有要分解代谢的蛋白质都标有肽泛素。\n(D) 溶酶体酶提供组织蛋白质分解代谢的唯一机制。\n\nAnswer:\n",
-            "model_prediction": "(B) 组织蛋白质分解代谢的速率全天或多或少是恒定的。"
+            "model_prediction": "(D) 溶酶体酶提供组织蛋白质分解代谢的唯一机制。"
         },
         "Spanish": {
             "answer": "(B) La tasa de catabolismo de las proteínas tisulares es más o menos constante a lo largo del día.",
@@ -818,7 +818,7 @@
             ],
             "question": "最丰富的信息表达形式是什么？",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\n最丰富的信息表达形式是什么？\n\nChoices:\n(A) 视频会议\n(B) 面对面\n(C) 电子邮件\n(D) 电话\n\nAnswer:\n",
-            "model_prediction": "(A) 视频会议"
+            "model_prediction": "(B) 面对面"
         },
         "Spanish": {
             "answer": "(B) Cara a cara",
@@ -917,7 +917,7 @@
             ],
             "question": "¿Cuántos enteros positivos son factores de 120 y también factores de 40?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\n¿Cuántos enteros positivos son factores de 120 y también factores de 40?\n\nChoices:\n(A) 1\n(B) 3\n(C) 8\n(D) 4\n\nAnswer:\n",
-            "model_prediction": "(B) 3"
+            "model_prediction": "To solve this problem, we need to find the positive integers that are factors of both 120 and 40."
         },
         "Malay": {
             "answer": "(C) 8",
@@ -953,7 +953,7 @@
             ],
             "question": "How many positive integers are factors of 120 and also factors of 40?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nHow many positive integers are factors of 120 and also factors of 40?\n\nChoices:\n(A) 1\n(B) 3\n(C) 8\n(D) 4\n\nAnswer:\n",
-            "model_prediction": "(B) 3"
+            "model_prediction": "To find the answer, we need to find the common factors of 120 and 40."
         }
     },
     {
@@ -1016,7 +1016,7 @@
             ],
             "question": "Semakin banyak kesan buruk kekurangan zat makanan semasa kehidupan kanak-kanak dan dewasa telah dikenal pasti. Kesan pemakanan berlebihan cth. berat badan berlebihan dan obesiti kurang dikenali. Berat badan berlebihan dan obesiti dikaitkan dengan yang berikut",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nSemakin banyak kesan buruk kekurangan zat makanan semasa kehidupan kanak-kanak dan dewasa telah dikenal pasti. Kesan pemakanan berlebihan cth. berat badan berlebihan dan obesiti kurang dikenali. Berat badan berlebihan dan obesiti dikaitkan dengan yang berikut\n\nChoices:\n(A) Penyakit kardiovaskular\n(B) Kanser payudara\n(C) Diabetes jenis 2 (permulaan matang)\n(D) semua pilihan yang diberikan adalah betul\n\nAnswer:\n",
-            "model_prediction": "(A) Penyakit kardiovaskular"
+            "model_prediction": "(D) semua pilihan yang diberikan adalah betul"
         },
         "Indonesian": {
             "answer": "(D) semua opsi yang diberikan benar",
@@ -1190,7 +1190,7 @@
             ],
             "question": "Kebimbangan utama mengenai penggunaan jangka panjang chlorpromazine ialah ia boleh mengakibatkan perkembangan yang manakah antara berikut?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nKebimbangan utama mengenai penggunaan jangka panjang chlorpromazine ialah ia boleh mengakibatkan perkembangan yang manakah antara berikut?\n\nChoices:\n(A) krisis hipertensi akut\n(B) amnesia anterograde yang mendalam\n(C) diskinesia lambat\n(D) ketoksikan buah pinggang\n\nAnswer:\n",
-            "model_prediction": "(D) ketoksikan buah pinggang"
+            "model_prediction": "(C) diskinesia lambat"
         },
         "Indonesian": {
             "answer": "(C) diskinesia tardif",
@@ -1700,7 +1700,7 @@
             ],
             "question": "Los récords mundiales femeninos han mejorado rápidamente en los últimos años principalmente porque:",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nLos récords mundiales femeninos han mejorado rápidamente en los últimos años principalmente porque:\n\nChoices:\n(A) las mujeres han desarrollado una mayor masa muscular.\n(B) las mujeres han comenzado a entrenar a una edad más temprana.\n(C) Actualmente hay más mujeres que practican deporte.\n(D) Las mujeres ahora pueden correr más rápido que los hombres.\n\nAnswer:\n",
-            "model_prediction": "(B) las mujeres han comenzado a entrenar a una edad más temprana."
+            "model_prediction": "(D) Las mujeres ahora pueden correr más rápido que los hombres."
         },
         "Malay": {
             "answer": "(C) lebih ramai wanita kini menceburi bidang sukan.",
@@ -1736,7 +1736,7 @@
             ],
             "question": "Women's world record performances have improved rapidly in recent years mainly because:",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nWomen's world record performances have improved rapidly in recent years mainly because:\n\nChoices:\n(A) women have evolved a greater muscle mass.\n(B) women have started training at an earlier age.\n(C) more women are now engaged in sport.\n(D) women can now run faster than men.\n\nAnswer:\n",
-            "model_prediction": "(C) more women are now engaged in sport."
+            "model_prediction": "C"
         }
     },
     {
@@ -1985,7 +1985,7 @@
             ],
             "question": "Manakah dari berikut ini yang bukan merupakan alat ekonomi dalam kebijakan keamanan?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nManakah dari berikut ini yang bukan merupakan alat ekonomi dalam kebijakan keamanan?\n\nChoices:\n(A) Diplomasi\n(B) Perdagangan\n(C) Sanksi\n(D) Bantuan\n\nAnswer:\n",
-            "model_prediction": "(B) Perdagangan"
+            "model_prediction": "(B) Perdaganga"
         },
         "English": {
             "answer": "(A) Diplomacy",
@@ -2533,7 +2533,7 @@
             ],
             "question": "Alin sa mga sumusunod na pahayag ang totoo tungkol sa pagtataya sa econometrics?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nAlin sa mga sumusunod na pahayag ang totoo tungkol sa pagtataya sa econometrics?\n\nChoices:\n(A) Ang kakayahan na in-sample na pagtataya ay isang mahinang pagsubok ng kasapatan ng modelo\n(B) Ang mga structural na pagtataya ay mas simple na gawin kaysa sa mga mula sa mga modelo na time-series\n(C) Ang mga pagtataya ay maaari lamang gawin para sa datos na time-series\n(D) Ang mga maling modelo ay tiyak na magkakamali sa hula\n\nAnswer:\n",
-            "model_prediction": "(C) Ang mga pagtataya ay maaari lamang gawin para sa datos na time-seri"
+            "model_prediction": "(A) Ang kakayahan na in-sample na pagtataya ay isang mahinang pagsubok ng kasapatan ng modelo"
         },
         "id": "test_30",
         "Vietnamese": {
@@ -2546,7 +2546,7 @@
             ],
             "question": "Phát biểu nào sau đây đúng về dự báo trong kinh tế lượng?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nPhát biểu nào sau đây đúng về dự báo trong kinh tế lượng?\n\nChoices:\n(A) Khả năng dự báo trong mẫu là một thử nghiệm kém về tính đầy đủ của mô hình\n(B) Dự báo cấu trúc được thực hiện đơn giản hơn so với dự báo từ các mô hình chuỗi thời gian\n(C) Dự báo chỉ có thể được thực hiện cho dữ liệu chuỗi thời gian\n(D) Các mô hình được chỉ định sai chắc chắn sẽ tạo ra những dự báo không chính xác\n\nAnswer:\n",
-            "model_prediction": "(B) Dự báo cấu trúc được thực hiện đơn giản hơn so với dự báo từ các mô hình chuỗi thời gia"
+            "model_prediction": "(D) Các mô hình được chỉ định sai chắc chắn sẽ tạo ra những dự báo không chính xác"
         },
         "Chinese": {
             "answer": "(A) 样本内预测能力不足以检验模型的充分性",
@@ -2633,7 +2633,7 @@
             ],
             "question": "Lễ hội nào của đạo Hindu liên quan đến việc trang trí nhà cửa bằng đèn, đốt pháo và mặc quần áo mới?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nLễ hội nào của đạo Hindu liên quan đến việc trang trí nhà cửa bằng đèn, đốt pháo và mặc quần áo mới?\n\nChoices:\n(A) Navaratri\n(B) Deepavali\n(C) Diwali\n(D) Holi\n\nAnswer:\n",
-            "model_prediction": "(C) Diwali"
+            "model_prediction": "(B) Deepavali"
         },
         "Chinese": {
             "answer": "(B) 屠妖节",
@@ -2756,7 +2756,7 @@
             ],
             "question": "Jerry membaca buku setebal 200 muka surat dalam masa 10 jam. Pada kadar itu, berapa lamakah masa yang diambilnya untuk membaca buku setebal 320 muka surat?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nJerry membaca buku setebal 200 muka surat dalam masa 10 jam. Pada kadar itu, berapa lamakah masa yang diambilnya untuk membaca buku setebal 320 muka surat?\n\nChoices:\n(A) 32 jam\n(B) 16 jam\n(C) 24 jam\n(D) 18 jam\n\nAnswer:\n",
-            "model_prediction": "(B) 16 jam"
+            "model_prediction": "To solve this problem, we need to find the time it takes for Jerry to read a 320-page book."
         },
         "Indonesian": {
             "answer": "(B) 16 jam",
@@ -2780,7 +2780,7 @@
             ],
             "question": "Jerry read a 200-page book in 10 hours. At that rate, how long will it take him to read a 320-page book?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nJerry read a 200-page book in 10 hours. At that rate, how long will it take him to read a 320-page book?\n\nChoices:\n(A) 32 hours\n(B) 16 hours\n(C) 24 hours\n(D) 18 hours\n\nAnswer:\n",
-            "model_prediction": "To solve this problem, we need to determine the rate at which Jerry reads the book. We can do this by dividing the number of pages by the number of hours."
+            "model_prediction": "To solve this problem, we need to determine Jerry's reading rate and then use that rate to find out how long it will take him to read a 320-page book."
         }
     },
     {
@@ -2807,7 +2807,7 @@
             ],
             "question": "Một đồ thị rời rạc được coi là hoàn chỉnh nếu có một cạnh nối bất kỳ cặp đỉnh nào. Một đồ thị đầy đủ 10 đỉnh có bao nhiêu cạnh?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nMột đồ thị rời rạc được coi là hoàn chỉnh nếu có một cạnh nối bất kỳ cặp đỉnh nào. Một đồ thị đầy đủ 10 đỉnh có bao nhiêu cạnh?\n\nChoices:\n(A) 10\n(B) 20\n(C) 25\n(D) 45\n\nAnswer:\n",
-            "model_prediction": "To solve this problem, we need to understand the concept of a complete graph. A complete graph is a graph where every pair of distinct vertices is connected by a unique edge."
+            "model_prediction": "To determine the correct answer, we need to understand the concept of a complete graph."
         },
         "Chinese": {
             "answer": "(D) 45",
@@ -2831,7 +2831,7 @@
             ],
             "question": "Un gráfico discreto está completo si hay una arista que conecta cualquier par de vértices. ¿Cuántas aristas tiene un gráfico completo con 10 vértices?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nUn gráfico discreto está completo si hay una arista que conecta cualquier par de vértices. ¿Cuántas aristas tiene un gráfico completo con 10 vértices?\n\nChoices:\n(A) 10\n(B) 20\n(C) 25\n(D) 45\n\nAnswer:\n",
-            "model_prediction": "(C) 25"
+            "model_prediction": "To find the number of edges in a complete graph with 10 vertices, we can use the formula:"
         },
         "Malay": {
             "answer": "(D) 45",
@@ -2843,7 +2843,7 @@
             ],
             "question": "Graf diskret adalah lengkap jika terdapat tepian yang menghubungkan sebarang pasangan sudut. Berapakah jumlah tepian dalam graf lengkap dengan 10 sudut?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nGraf diskret adalah lengkap jika terdapat tepian yang menghubungkan sebarang pasangan sudut. Berapakah jumlah tepian dalam graf lengkap dengan 10 sudut?\n\nChoices:\n(A) 10\n(B) 20\n(C) 25\n(D) 45\n\nAnswer:\n",
-            "model_prediction": "(B) 20"
+            "model_prediction": "To find the correct answer, we need to understand the concept of a complete graph and the formula for calculating the number of edges in a complete graph."
         },
         "Indonesian": {
             "answer": "(D) 45",
@@ -2867,7 +2867,7 @@
             ],
             "question": "A discrete graph is complete if there is an edge connecting any pair of vertices. How many edges does a complete graph with 10 vertices have?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nA discrete graph is complete if there is an edge connecting any pair of vertices. How many edges does a complete graph with 10 vertices have?\n\nChoices:\n(A) 10\n(B) 20\n(C) 25\n(D) 45\n\nAnswer:\n",
-            "model_prediction": "(C) 25"
+            "model_prediction": "To find the number of edges in a complete graph with 10 vertices, we can use the formula:"
         }
     },
     {
@@ -3005,7 +3005,7 @@
             ],
             "question": "¿Qué hace que una relación dure, según Sternberg?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\n¿Qué hace que una relación dure, según Sternberg?\n\nChoices:\n(A) compromiso\n(B) intimidad\n(C) pasión\n(D) decisión\n\nAnswer:\n",
-            "model_prediction": ") compromiso"
+            "model_prediction": "(A) compromiso"
         },
         "Malay": {
             "answer": "(A) komitmen",
@@ -3029,7 +3029,7 @@
             ],
             "question": "Apa yang membuat suatu hubungan bertahan lama, menurut Sternberg?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nApa yang membuat suatu hubungan bertahan lama, menurut Sternberg?\n\nChoices:\n(A) komitmen\n(B) keintiman\n(C) gairah\n(D) keputusan\n\nAnswer:\n",
-            "model_prediction": "komitm"
+            "model_prediction": ") komitm"
         },
         "English": {
             "answer": "(A) commitment",
@@ -3068,7 +3068,7 @@
             ],
             "question": "Giải phương trình v − 26 = 68.",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nGiải phương trình v − 26 = 68.\n\nChoices:\n(A) 42\n(B) 94\n(C) 88\n(D) −42\n\nAnswer:\n",
-            "model_prediction": "To solve the given equation, we need to isolate the variable 'v'. "
+            "model_prediction": "To solve the given equation, we need to isolate the variable 'v'. Here's the equation:"
         },
         "Chinese": {
             "answer": "(B) 94",
@@ -3080,7 +3080,7 @@
             ],
             "question": "求解方程 v − 26 = 68。",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\n求解方程 v − 26 = 68。\n\nChoices:\n(A) 42\n(B) 94\n(C) 88\n(D) −42\n\nAnswer:\n",
-            "model_prediction": "To solve the given equation, we need to isolate the variable v. The equation is:"
+            "model_prediction": "To solve the equation v - 26 = 68, follow these steps:"
         },
         "Spanish": {
             "answer": "(B) 94",
@@ -3266,7 +3266,7 @@
             ],
             "question": "La capacidad de las empresas para entrar y salir de un mercado a lo largo del tiempo significa que",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nLa capacidad de las empresas para entrar y salir de un mercado a lo largo del tiempo significa que\n\nChoices:\n(A) el costo marginal es cero\n(B) La curva de oferta de largo plazo es más inelástica.\n(C) el ingreso marginal es cero\n(D) La curva de oferta de largo plazo es más elástica.\n\nAnswer:\n",
-            "model_prediction": "(B) La curva de oferta de largo plazo es más inelástica."
+            "model_prediction": "(D) La curva de oferta de largo plazo es más elástica."
         },
         "Malay": {
             "answer": "(D) keluk penawaran jangka panjang lebih anjal",
@@ -3503,7 +3503,7 @@
             ],
             "question": "Sự tiến hóa qua lại song song của các loài có liên quan chặt chẽ với nhau, được minh họa bằng mối quan hệ săn mồi-con mồi.",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nSự tiến hóa qua lại song song của các loài có liên quan chặt chẽ với nhau, được minh họa bằng mối quan hệ săn mồi-con mồi.\n\nChoices:\n(A) Tiến hóa hội tụ\n(B) Sự tiến hóa khác nhau\n(C) đồng tiến hóa\n(D) Tiến hóa song song\n\nAnswer:\n",
-            "model_prediction": "(D) Tiến hóa song song"
+            "model_prediction": "(C) đồng tiến hóa"
         },
         "Chinese": {
             "answer": "(C) 共同进化",
@@ -3590,7 +3590,7 @@
             ],
             "question": "Vào buổi trưa, một người làm thí nghiệm có 50 gam chất đồng vị phóng xạ. Trưa 9 ngày sau chỉ còn lại 45 gam. Tính đến ngày gần nhất, bao nhiêu ngày sau khi bắt đầu thí nghiệm sẽ chỉ còn 20 gam?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nVào buổi trưa, một người làm thí nghiệm có 50 gam chất đồng vị phóng xạ. Trưa 9 ngày sau chỉ còn lại 45 gam. Tính đến ngày gần nhất, bao nhiêu ngày sau khi bắt đầu thí nghiệm sẽ chỉ còn 20 gam?\n\nChoices:\n(A) 59\n(B) 60\n(C) 78\n(D) 54\n\nAnswer:\n",
-            "model_prediction": "(D) 54"
+            "model_prediction": "To solve this problem, we can use the half-life concept. The half-life is the time it takes for half of the substance to decay."
         },
         "Chinese": {
             "answer": "(C) 78",
@@ -3602,7 +3602,7 @@
             ],
             "question": "中午，实验人员有50克放射性同位素。 9 天后的中午，只剩下 45 克。精确到一天，实验开始后多少天只有20克？",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\n中午，实验人员有50克放射性同位素。 9 天后的中午，只剩下 45 克。精确到一天，实验开始后多少天只有20克？\n\nChoices:\n(A) 59\n(B) 60\n(C) 78\n(D) 54\n\nAnswer:\n",
-            "model_prediction": "(B) 60"
+            "model_prediction": "To solve this problem, we can use the formula for exponential decay:"
         },
         "Spanish": {
             "answer": "(C) 78",
@@ -3614,7 +3614,7 @@
             ],
             "question": "Al mediodía, un experimentador tiene 50 gramos de un isótopo radiactivo. Al mediodía, nueve días después, sólo quedan 45 gramos. Al día más cercano, ¿cuántos días después de iniciado el experimento quedarán solo 20 gramos?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nAl mediodía, un experimentador tiene 50 gramos de un isótopo radiactivo. Al mediodía, nueve días después, sólo quedan 45 gramos. Al día más cercano, ¿cuántos días después de iniciado el experimento quedarán solo 20 gramos?\n\nChoices:\n(A) 59\n(B) 60\n(C) 78\n(D) 54\n\nAnswer:\n",
-            "model_prediction": "To solve this problem, we can use the concept of half-life. Half-life is the time it takes for half of a given quantity to decay. In this case, we are given the initial amount (50 grams) and the amount remaining after 9 days (45 grams)."
+            "model_prediction": "To solve this problem, we can use the concept of half-life. Half-life is the time it takes for half of a substance to decay. In this case, we are given the initial amount (50 grams) and the amount remaining after 9 days (45 grams)."
         },
         "Malay": {
             "answer": "(C) 78",
@@ -3626,7 +3626,7 @@
             ],
             "question": "Pada tengah hari, seorang penguji mempunyai 50 gram isotop radioaktif. Pada tengah hari 9 hari kemudian, hanya tinggal 45 gram. Dengan genapkan ke hari yang terdekat, berapa hari selepas percubaan bermula akan terdapat hanya 20 gram?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nPada tengah hari, seorang penguji mempunyai 50 gram isotop radioaktif. Pada tengah hari 9 hari kemudian, hanya tinggal 45 gram. Dengan genapkan ke hari yang terdekat, berapa hari selepas percubaan bermula akan terdapat hanya 20 gram?\n\nChoices:\n(A) 59\n(B) 60\n(C) 78\n(D) 54\n\nAnswer:\n",
-            "model_prediction": "(C) 78"
+            "model_prediction": "(B) 60"
         },
         "Indonesian": {
             "answer": "(C) 78",
@@ -3638,7 +3638,7 @@
             ],
             "question": "Pada siang hari, seorang peneliti memiliki 50 gram isotop radioaktif. Pada siang hari 9 hari kemudian hanya tersisa 45 gram. Bulatkan ke jumlah hari yang terdekat, berapa hari setelah percobaan dimulai hanya akan tersisa 20 gram?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nPada siang hari, seorang peneliti memiliki 50 gram isotop radioaktif. Pada siang hari 9 hari kemudian hanya tersisa 45 gram. Bulatkan ke jumlah hari yang terdekat, berapa hari setelah percobaan dimulai hanya akan tersisa 20 gram?\n\nChoices:\n(A) 59\n(B) 60\n(C) 78\n(D) 54\n\nAnswer:\n",
-            "model_prediction": "(C) 78"
+            "model_prediction": "To solve this problem, we need to find the decay rate of the isotopes and then determine how many days it would take for the remaining amount to decrease to 20 grams."
         },
         "English": {
             "answer": "(C) 78",
@@ -3650,7 +3650,7 @@
             ],
             "question": "At noon, an experimenter has 50 grams of a radioactive isotope. At noon 9 days later only 45 grams remain. To the nearest day, how many days after the experiment started will there be only 20 grams?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nAt noon, an experimenter has 50 grams of a radioactive isotope. At noon 9 days later only 45 grams remain. To the nearest day, how many days after the experiment started will there be only 20 grams?\n\nChoices:\n(A) 59\n(B) 60\n(C) 78\n(D) 54\n\nAnswer:\n",
-            "model_prediction": "To solve this problem, we can use the concept of half-life. Half-life is the time it takes for half of a given quantity to decay. In this case, we are given the initial amount of radioactive isotope (50 grams) and the amount remaining after 9 days (45 grams)."
+            "model_prediction": "To solve this problem, we can use the concept of half-life. Half-life is the time it takes for half of a substance to decay."
         }
     },
     {
@@ -3689,7 +3689,7 @@
             ],
             "question": "您想要开始治疗那些认为自己被外星人绑架的客户，但您以前从未与该人群的成员合作过。您最好的行动方案是：",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\n您想要开始治疗那些认为自己被外星人绑架的客户，但您以前从未与该人群的成员合作过。您最好的行动方案是：\n\nChoices:\n(A) 在《国家询问报》上刊登广告，让该人群了解您的服务的可用性。\n(B) 参加与该人群的待遇相关的继续教育课程。\n(C) 在与熟悉这些客户的人建立咨询关系后，开始会见这些客户。\n(D) 开始见见这些客户，如果遇到任何问题，请咨询熟悉该人群的人。\n\nAnswer:\n",
-            "model_prediction": "(D) 开始见见这些客户，如果遇到任何问题，请咨询熟悉该人群的人。"
+            "model_prediction": "C"
         },
         "Spanish": {
             "answer": "(C) empezar a ver a estos clientes después de establecer una relación de consulta con alguien que esté familiarizado con esta población.",
@@ -3788,7 +3788,7 @@
             ],
             "question": "Un abrigo tiene un precio de lista de $325,00. Durante noviembre no se vendió y el comerciante lo rebajó un 20 por ciento. Luego, en diciembre, lo rebajó un 10 por ciento adicional. ¿Cuánto pagaría en dólares un comprador navideño en diciembre por el abrigo?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nUn abrigo tiene un precio de lista de $325,00. Durante noviembre no se vendió y el comerciante lo rebajó un 20 por ciento. Luego, en diciembre, lo rebajó un 10 por ciento adicional. ¿Cuánto pagaría en dólares un comprador navideño en diciembre por el abrigo?\n\nChoices:\n(A) $234.00\n(B) $286.00\n(C) $227.50\n(D) $290.00\n\nAnswer:\n",
-            "model_prediction": "(C) $227.50"
+            "model_prediction": "To solve this problem, we need to calculate the final price of the coat after the two discounts have been applied."
         },
         "Malay": {
             "answer": "(A) $234.00",
@@ -3899,7 +3899,7 @@
             ],
             "question": "Seorang pasien memotong saraf motorik perifer di pergelangan tangannya ketika dia jatuh melalui jendela kaca. Jika saraf tidak beregenerasi, setelah sekitar 6 bulan, otot-otot yang biasanya dipersarafi akan menunjukkan tanda-tanda manakah dari empat pilihan di bawah ini?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nSeorang pasien memotong saraf motorik perifer di pergelangan tangannya ketika dia jatuh melalui jendela kaca. Jika saraf tidak beregenerasi, setelah sekitar 6 bulan, otot-otot yang biasanya dipersarafi akan menunjukkan tanda-tanda manakah dari empat pilihan di bawah ini?\n\nChoices:\n(A) atrophia\n(B) kelumpuhan spastik\n(C) kontraktur\n(D) kelumpuhan lembek\n\nAnswer:\n",
-            "model_prediction": "(C) kontraktur"
+            "model_prediction": "(B) kelumpuhan spastik"
         },
         "English": {
             "answer": "(A) atrophy",
@@ -3950,7 +3950,7 @@
             ],
             "question": "利用费马定理，求3^47除以23的余数。",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\n利用费马定理，求3^47除以23的余数。\n\nChoices:\n(A) 1\n(B) 2\n(C) 3\n(D) 4\n\nAnswer:\n",
-            "model_prediction": "To solve this problem, we will use Fermat's Little Theorem, which states that if p is a prime number, then for any integer a not divisible by p, we have:"
+            "model_prediction": "To solve this problem, we will use Fermat's Little Theorem, which states that if p is a prime number, then for any integer a not divisible by p:"
         },
         "Spanish": {
             "answer": "(D) 4",
@@ -3962,7 +3962,7 @@
             ],
             "question": "Usando el teorema de Fermat, encuentra el resto de 3^47 cuando se divide por 23.",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nUsando el teorema de Fermat, encuentra el resto de 3^47 cuando se divide por 23.\n\nChoices:\n(A) 1\n(B) 2\n(C) 3\n(D) 4\n\nAnswer:\n",
-            "model_prediction": "To solve this problem, we will use Fermat's Little Theorem, which states that if p is a prime number, then for any integer a not divisible by p, we have:"
+            "model_prediction": "To solve this problem, we will use Fermat's Little Theorem, which states that if p is a prime number, then for any integer a not divisible by p:"
         },
         "Malay": {
             "answer": "(D) 4",
@@ -3998,7 +3998,7 @@
             ],
             "question": "Using Fermat's theorem, find the remainder of 3^47 when it is divided by 23.",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nUsing Fermat's theorem, find the remainder of 3^47 when it is divided by 23.\n\nChoices:\n(A) 1\n(B) 2\n(C) 3\n(D) 4\n\nAnswer:\n",
-            "model_prediction": "To solve this problem, we will use Fermat's Little Theorem, which states that if p is a prime number, then for any integer a not divisible by p, we have:"
+            "model_prediction": "To solve this problem, we will use Fermat's Little Theorem, which states that if p is a prime number, then for any integer a not divisible by p:"
         }
     },
     {
@@ -4037,7 +4037,7 @@
             ],
             "question": "一位买家从一家汽车经销店购买了一辆新敞篷车。几周后，买家开始在车内闻到刺鼻的汽油味。买家立即将车开到经销店并告诉服务经理出了什么问题。服务经理表示会处理问题，等车准备好后联系买家。第二天，买家被告知问题已得到解决，汽车可以提车了。然后买家前往经销店，拿走他的车，然后开走。行驶了大约五英里后，买家再次闻到汽油味。由于问题没有得到解决，买家感到很恼火，决定开车返回经销商。正当他这样做时，汽车突然爆炸，买家全身百分之九十以上被三度烧伤。随后的调查显示，爆炸是由有缺陷的油箱破裂引起的。这导致汽油泄漏，并被汽车底部的火花点燃。如果进行合理的检查能够发现有缺陷的油箱。买家向服务经理描述的问题中就曾表明过存在这样的问题。如果买方向敞篷车制造商提出损害赔偿要求，买家会胜诉吗？",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\n一位买家从一家汽车经销店购买了一辆新敞篷车。几周后，买家开始在车内闻到刺鼻的汽油味。买家立即将车开到经销店并告诉服务经理出了什么问题。服务经理表示会处理问题，等车准备好后联系买家。第二天，买家被告知问题已得到解决，汽车可以提车了。然后买家前往经销店，拿走他的车，然后开走。行驶了大约五英里后，买家再次闻到汽油味。由于问题没有得到解决，买家感到很恼火，决定开车返回经销商。正当他这样做时，汽车突然爆炸，买家全身百分之九十以上被三度烧伤。随后的调查显示，爆炸是由有缺陷的油箱破裂引起的。这导致汽油泄漏，并被汽车底部的火花点燃。如果进行合理的检查能够发现有缺陷的油箱。买家向服务经理描述的问题中就曾表明过存在这样的问题。如果买方向敞篷车制造商提出损害赔偿要求，买家会胜诉吗？\n\nChoices:\n(A) 不会，除非汽车出厂时油箱就有缺陷。\n(B) 不会，如果买家应该在爆炸发生之前就意识到汽油气味代表危险情况并停车。\n(C) 会的，如果经销商应该更换油箱的话。\n(D) 会的，因为买家的受伤是由于油箱有缺陷造成的。\n\nAnswer:\n",
-            "model_prediction": "(C) 会的，如果经销商应该更换油箱的话。"
+            "model_prediction": "(D) 会的，因为买家的受伤是由于油箱有缺陷造成的。"
         },
         "Spanish": {
             "answer": "(A) No, a menos que el tanque de gasolina estuviera defectuoso cuando el automóvil salió de la planta del fabricante.",
@@ -4211,7 +4211,7 @@
             ],
             "question": "心理学领域起源于以下哪项？",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\n心理学领域起源于以下哪项？\n\nChoices:\n(A) 跨文化人类学\n(B) 物理\n(C) 哲学\n(D) 生物化学\n\nAnswer:\n",
-            "model_prediction": "(C) 哲学"
+            "model_prediction": "(A) 跨文化人类学"
         },
         "Spanish": {
             "answer": "(C) Filosofía",
@@ -4247,7 +4247,7 @@
             ],
             "question": "Bidang psikologi muncul dari bidang berikut ini?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nBidang psikologi muncul dari bidang berikut ini?\n\nChoices:\n(A) Antropologi lintas budaya\n(B) Fisika\n(C) Filsafat\n(D) Biokimia\n\nAnswer:\n",
-            "model_prediction": "(A) Antropologi lintas budaya"
+            "model_prediction": ") Antropologi lintas budaya"
         },
         "English": {
             "answer": "(C) Philosophy",
@@ -4373,7 +4373,7 @@
             ],
             "question": "Khi ánh sáng trắng đi qua lăng kính thì ánh sáng lệch nhiều hơn ánh sáng xanh là",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nKhi ánh sáng trắng đi qua lăng kính thì ánh sáng lệch nhiều hơn ánh sáng xanh là\n\nChoices:\n(A) ánh sáng đỏ\n(B) ánh sáng vàng\n(C) ánh sáng xanh da trời\n(D) Không có cái nào trong số này\n\nAnswer:\n",
-            "model_prediction": "(D) Không có cái nào trong số này"
+            "model_prediction": "(C) ánh sáng xanh da trời"
         },
         "Chinese": {
             "answer": "(C) 蓝色的",
@@ -4571,7 +4571,7 @@
             ],
             "question": "¿Cuál de las siguientes es la mejor estimación para 4286 × 390?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\n¿Cuál de las siguientes es la mejor estimación para 4286 × 390?\n\nChoices:\n(A) 1.200.000\n(B) 12.000.000\n(C) 1.600.000\n(D) 16.000\n\nAnswer:\n",
-            "model_prediction": "To solve the multiple-choice question, we will perform the multiplication and compare the result with the given choices."
+            "model_prediction": "To solve the multiple-choice question, we need to multiply 4286 by 390 and find the closest answer among the given choices."
         },
         "Malay": {
             "answer": "(C) 1,600,000",
@@ -4607,7 +4607,7 @@
             ],
             "question": "Which of the following is the best estimate for 4,286 × 390?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nWhich of the following is the best estimate for 4,286 × 390?\n\nChoices:\n(A) 1,200,000\n(B) 12,000,000\n(C) 1,600,000\n(D) 16,000\n\nAnswer:\n",
-            "model_prediction": "(B) 12,000,000"
+            "model_prediction": "To solve this multiple-choice question, we need to multiply 4,286 by 390."
         }
     },
     {
@@ -4694,7 +4694,7 @@
             ],
             "question": "Perchloric acid (HClO4) is considered one of the stronger acids in existence. Which of the following statements corresponds most accurately with strong acids?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nPerchloric acid (HClO4) is considered one of the stronger acids in existence. Which of the following statements corresponds most accurately with strong acids?\n\nChoices:\n(A) Ka is less than 1\n(B) They have an open electron spot on their outer valence rings\n(C) They remain bound in the presence of water.\n(D) They have stable conjugate bases\n\nAnswer:\n",
-            "model_prediction": "(D) They have stable conjugate bases"
+            "model_prediction": "(D) They have stable conjugate ba"
         }
     },
     {
@@ -4895,7 +4895,7 @@
             ],
             "question": "Cận thị là kết quả của",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nCận thị là kết quả của\n\nChoices:\n(A) giác mạc và thấu kính bị cong quá nhiều\n(B) mống mắt và thấu kính bị cong quá nhiều\n(C) độ cong quá nhỏ của mống mắt và thấu kính\n(D) độ cong quá nhỏ của giác mạc và thấu kính\n\nAnswer:\n",
-            "model_prediction": "(B) mống mắt và thấu kính bị cong quá nhiều"
+            "model_prediction": "(C) độ cong quá nhỏ của mống mắt và thấu kính"
         },
         "Chinese": {
             "answer": "(A) 角膜和晶状体曲率太大",
@@ -5093,7 +5093,7 @@
             ],
             "question": "¿Cuál es la jerarquía del derecho estadounidense?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\n¿Cuál es la jerarquía del derecho estadounidense?\n\nChoices:\n(A) Constitución de EE. UU., tratados y estatutos federales, acuerdos ejecutivos, leyes estatales\n(B) Acuerdos ejecutivos, Constitución de los EE. UU., tratados y estatutos federales, leyes estatales\n(C) Constitución de los EE. UU., acuerdos ejecutivos, tratados y estatutos federales, leyes estatales\n(D) Tratados y estatutos federales, Constitución de los EE. UU., acuerdos ejecutivos, leyes estatales\n\nAnswer:\n",
-            "model_prediction": "(C) Constitución de los EE. UU., acuerdos ejecutivos, tratados y estatutos federales, leyes estatal"
+            "model_prediction": "(A) Constitución de EE. UU., tratados y estatutos federales, acuerdos ejecutivos, leyes estatal"
         },
         "Malay": {
             "answer": "(A) Perlembagaan A.S., perjanjian dan statut persekutuan, perjanjian eksekutif, undang-undang negeri",
@@ -5117,7 +5117,7 @@
             ],
             "question": "Yang manakah hierarki Hukum AS?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nYang manakah hierarki Hukum AS?\n\nChoices:\n(A) Konstitusi AS, perjanjian dan undang-undang federal, perjanjian eksekutif, hukum negara bagian\n(B) Perjanjian-perjanjian eksekutif, Konstitusi AS, perjanjian dan undang-undang federal, hukum negara bagian\n(C) Konstitusi AS, perjanjian-perjanjian eksekutif, perjanjian dan undang-undang federal, hukum negara bagian\n(D) Perjanjian dan undang-undang federal, Konstitusi AS, perjanjian eksekutif, hukum negara bagian\n\nAnswer:\n",
-            "model_prediction": "(C) Konstitusi AS, perjanjian-perjanjian eksekutif, perjanjian dan undang-undang federal, hukum negara bagia"
+            "model_prediction": "(A) Konstitusi AS, perjanjian dan undang-undang federal, perjanjian eksekutif, hukum negara bagia"
         },
         "English": {
             "answer": "(A) U.S constitution, treaties and federal statutes, executive agreements, state law",
@@ -5243,7 +5243,7 @@
             ],
             "question": "Dopamine được kê đơn ở mức 4 microgam/kg/phút. Đối với một người nặng 65 kg, họ sẽ nhận được bao nhiêu miligam trong một giờ?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nDopamine được kê đơn ở mức 4 microgam/kg/phút. Đối với một người nặng 65 kg, họ sẽ nhận được bao nhiêu miligam trong một giờ?\n\nChoices:\n(A) 156\n(B) 15600\n(C) 15,6\n(D) 1,56\n\nAnswer:\n",
-            "model_prediction": "(C) 15,6"
+            "model_prediction": "To solve this problem, we need to multiply the dosage (4 micrograms/kg/min) by the patient's weight (65 kg) and the time (1 hour)."
         },
         "Chinese": {
             "answer": "(C) 15.6",
@@ -5267,7 +5267,7 @@
             ],
             "question": "La dopamina se prescribe a razón de 4 microgramos/kg/min. Para una persona de 65 kg ¿cuantos miligramos recibira en una hora?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nLa dopamina se prescribe a razón de 4 microgramos/kg/min. Para una persona de 65 kg ¿cuantos miligramos recibira en una hora?\n\nChoices:\n(A) 156\n(B) 15600\n(C) 15.6\n(D) 1.56\n\nAnswer:\n",
-            "model_prediction": "To solve this problem, we need to find out how many milligrams of dopamine a 65 kg person would receive in an hour at a rate of 4 micrograms per kilogram per minute."
+            "model_prediction": "To solve this problem, we need to convert the dosage from micrograms to milligrams and then calculate the total amount received in an hour."
         },
         "Malay": {
             "answer": "(C) 15.6",
@@ -5279,7 +5279,7 @@
             ],
             "question": "Dopamin ditetapkan pada kadar 4 mikrogram/kg/min. Bagi seseorang yang berat badannya 65 kg, berapa miligram dopamin akan mereka terima dalam masa sejam?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nDopamin ditetapkan pada kadar 4 mikrogram/kg/min. Bagi seseorang yang berat badannya 65 kg, berapa miligram dopamin akan mereka terima dalam masa sejam?\n\nChoices:\n(A) 156\n(B) 15600\n(C) 15.6\n(D) 1.56\n\nAnswer:\n",
-            "model_prediction": "(B) 15600"
+            "model_prediction": "To solve this problem, we need to convert the given weight from kilograms to grams, as the dose is given in micrograms per kilogram per minute."
         },
         "Indonesian": {
             "answer": "(C) 15.6",
@@ -5303,7 +5303,7 @@
             ],
             "question": "Dopamine is prescribed at a rate of 4 micrograms/kg/min. For a 65 kg person, how many milligrams will they receive in an hour?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nDopamine is prescribed at a rate of 4 micrograms/kg/min. For a 65 kg person, how many milligrams will they receive in an hour?\n\nChoices:\n(A) 156\n(B) 15600\n(C) 15.6\n(D) 1.56\n\nAnswer:\n",
-            "model_prediction": "To solve this problem, we need to calculate the total amount of dopamine received in an hour by a 65 kg person."
+            "model_prediction": "To find the amount of dopamine a 65 kg person will receive in an hour, we need to multiply the rate (4 micrograms/kg/min) by the person's weight (65 kg) and the time (1 hour)."
         }
     },
     {
@@ -5417,7 +5417,7 @@
             ],
             "question": "Tính tổng của tất cả các giá trị có thể có của $x$ khi $3^{x^2+4x+4}=9^{x+2}$.",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nTính tổng của tất cả các giá trị có thể có của $x$ khi $3^{x^2+4x+4}=9^{x+2}$.\n\nChoices:\n(A) 2\n(B) 1\n(C) 0\n(D) -2\n\nAnswer:\n",
-            "model_prediction": "(C) 0"
+            "model_prediction": "To solve this problem, we first need to simplify the equation and find the possible values of x."
         },
         "Chinese": {
             "answer": "(D) -2",
@@ -5429,7 +5429,7 @@
             ],
             "question": "当 $3^{x^2+4x+4}=9^{x+2}$时，求解$x$所有可能值的总和。",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\n当 $3^{x^2+4x+4}=9^{x+2}$时，求解$x$所有可能值的总和。\n\nChoices:\n(A) 2\n(B) 1\n(C) 0\n(D) -2\n\nAnswer:\n",
-            "model_prediction": "First, we can rewrite the equation as follows:"
+            "model_prediction": "To solve the given equation, we can first rewrite it as:"
         },
         "Spanish": {
             "answer": "(D) -2",
@@ -5465,7 +5465,7 @@
             ],
             "question": "Selesaikan jumlah semua kemungkinan nilai $x$ ketika $3^{x^2+4x+4}=9^{x+2}$.",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nSelesaikan jumlah semua kemungkinan nilai $x$ ketika $3^{x^2+4x+4}=9^{x+2}$.\n\nChoices:\n(A) 2\n(B) 1\n(C) 0\n(D) -2\n\nAnswer:\n",
-            "model_prediction": "To solve this multiple-choice question, we first need to simplify the equation and find the possible values of x."
+            "model_prediction": "To solve this problem, we can start by simplifying the equation:"
         },
         "English": {
             "answer": "(D) -2",
@@ -5477,7 +5477,7 @@
             ],
             "question": "Solve for the sum of all possible values of $x$ when $3^{x^2+4x+4}=9^{x+2}$.",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nSolve for the sum of all possible values of $x$ when $3^{x^2+4x+4}=9^{x+2}$.\n\nChoices:\n(A) 2\n(B) 1\n(C) 0\n(D) -2\n\nAnswer:\n",
-            "model_prediction": "To solve the given equation, we can start by taking the logarithm of both sides:"
+            "model_prediction": "To solve for the sum of all possible values of $x$, we first need to equate the bases of the exponents in the given equation:"
         }
     },
     {
@@ -5627,7 +5627,7 @@
             ],
             "question": "Apabila pendapatan yang boleh digunakan meningkat sebanyak $X",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nApabila pendapatan yang boleh digunakan meningkat sebanyak $X\n\nChoices:\n(A) penjimatan meningkat sebanyak tepat $X .\n(B) penjimatan tetap berterusan.\n(C) penggunaan meningkat lebih daripada $X .\n(D) penjimatan meningkat kurang daripada $X .\n\nAnswer:\n",
-            "model_prediction": "(D) penjimatan meningkat kurang daripada $X."
+            "model_prediction": "(C) penggunaan meningkat lebih daripada $X."
         },
         "Indonesian": {
             "answer": "(D) penabungan meningkat kurang dari $X .",
@@ -5639,7 +5639,7 @@
             ],
             "question": "Ketika pendapatan yang dapat dibelanjakan meningkat sebesar $X",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nKetika pendapatan yang dapat dibelanjakan meningkat sebesar $X\n\nChoices:\n(A) penabungan meningkat tepat $X .\n(B) penabungan tetap konstan.\n(C) konsumsi meningkat lebih dari $X .\n(D) penabungan meningkat kurang dari $X .\n\nAnswer:\n",
-            "model_prediction": "(B) penabungan tetap konstan."
+            "model_prediction": "(C) konsumsi meningkat lebih dari $X."
         },
         "English": {
             "answer": "(D) saving increases by less than $X .",
@@ -5665,7 +5665,7 @@
             ],
             "question": "Sa liwanag ng araw, ang mga bagay na sumasalamin sa lahat ng wavelength ng liwanag ay lumilitaw bilang kulay",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nSa liwanag ng araw, ang mga bagay na sumasalamin sa lahat ng wavelength ng liwanag ay lumilitaw bilang kulay\n\nChoices:\n(A) mapurol\n(B) itim\n(C) ultraviolet\n(D) puti\n\nAnswer:\n",
-            "model_prediction": "(D) puti"
+            "model_prediction": "(B) itim"
         },
         "id": "test_66",
         "Vietnamese": {
@@ -5999,7 +5999,7 @@
             ],
             "question": "When a nucleus of uranium-238 emits an alpha particle, left behind is",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nWhen a nucleus of uranium-238 emits an alpha particle, left behind is\n\nChoices:\n(A) thorium-238\n(B) thorium-234\n(C) thorium-242\n(D) radium-214\n\nAnswer:\n",
-            "model_prediction": "(A) thorium-238"
+            "model_prediction": "To solve this multiple-choice question, we need to understand the process of alpha decay and the resulting nucleus."
         }
     },
     {
@@ -6050,7 +6050,7 @@
             ],
             "question": "Si un tren de carga viaja a una velocidad de 20 millas por hora durante 6 horas, ¿qué distancia recorrerá?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nSi un tren de carga viaja a una velocidad de 20 millas por hora durante 6 horas, ¿qué distancia recorrerá?\n\nChoices:\n(A) 120 millas\n(B) 26 millas\n(C) 80 millas\n(D) 12 millas\n\nAnswer:\n",
-            "model_prediction": "(A) 120 milla"
+            "model_prediction": "To solve this problem, we can use the formula:"
         },
         "Malay": {
             "answer": "(A) 120 batu",
@@ -6323,7 +6323,7 @@
             ],
             "question": "Dari segi sejarah, semua bahasa utama di dunia telah tersebar melalui semua kaedah berikut KECUALI",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nDari segi sejarah, semua bahasa utama di dunia telah tersebar melalui semua kaedah berikut KECUALI\n\nChoices:\n(A) Rekod Sanskrit.\n(B) penaklukan.\n(C) perdagangan.\n(D) penghijrahan.\n\nAnswer:\n",
-            "model_prediction": "(D) penghijrahan."
+            "model_prediction": "(A) Rekod Sanskrit."
         },
         "Indonesian": {
             "answer": "(A) Catatan-catatan Sansekerta.",
@@ -6398,7 +6398,7 @@
             ],
             "question": "¿En cuál de las siguientes circunstancias aumentará la prevalencia de una enfermedad en la población, si todo lo demás permanece constante?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\n¿En cuál de las siguientes circunstancias aumentará la prevalencia de una enfermedad en la población, si todo lo demás permanece constante?\n\nChoices:\n(A) Si la tasa de incidencia de la enfermedad cae.\n(B) Si la recuperación de la enfermedad es más rápida.\n(C) Si aumenta la población en la que se mide la enfermedad.\n(D) Si aumenta el tiempo de supervivencia con la enfermedad.\n\nAnswer:\n",
-            "model_prediction": "(C) Si aumenta la población en la que se mide la enfermedad."
+            "model_prediction": "(D) Si aumenta el tiempo de supervivencia con la enfermedad."
         },
         "Malay": {
             "answer": "(D) Jika tempoh kemandirian penyakit meningkat.",
@@ -6473,7 +6473,7 @@
             ],
             "question": "一组志愿者在一场慈善音乐会上出售 T 恤，总共筹集了 5,144 美元。每件 T 恤售价 8 美元。志愿者总共售出了多少件 T 恤？",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\n一组志愿者在一场慈善音乐会上出售 T 恤，总共筹集了 5,144 美元。每件 T 恤售价 8 美元。志愿者总共售出了多少件 T 恤？\n\nChoices:\n(A) 668件\n(B) 632件\n(C) 655件\n(D) 643件\n\nAnswer:\n",
-            "model_prediction": "(B) 632件"
+            "model_prediction": "(A) 668件"
         },
         "Spanish": {
             "answer": "(D) 643",
@@ -6485,7 +6485,7 @@
             ],
             "question": "Un equipo de voluntarios recaudó un total de 5.144 dólares vendiendo camisetas en un concierto benéfico. Cada camiseta se vendió por $8. ¿Cuál fue el número total de camisetas que vendieron los voluntarios?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nUn equipo de voluntarios recaudó un total de 5.144 dólares vendiendo camisetas en un concierto benéfico. Cada camiseta se vendió por $8. ¿Cuál fue el número total de camisetas que vendieron los voluntarios?\n\nChoices:\n(A) 668\n(B) 632\n(C) 655\n(D) 643\n\nAnswer:\n",
-            "model_prediction": "To solve this problem, we need to find the number of camisetas sold by the volunteers. We know that the total amount raised was $5,144 and each camiseta was sold for $8."
+            "model_prediction": "To find the number of camisetas sold, we need to divide the total amount raised by the price of each camiseta."
         },
         "Malay": {
             "answer": "(D) 643",
@@ -6497,7 +6497,7 @@
             ],
             "question": "Sepasukan sukarelawan mengumpul sejumlah $5,144 menjual baju-T pada konsert amal. Setiap baju-T dijual dengan harga $8. Berapakah jumlah keseluruhan baju-T yang dijual oleh sukarelawan itu?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nSepasukan sukarelawan mengumpul sejumlah $5,144 menjual baju-T pada konsert amal. Setiap baju-T dijual dengan harga $8. Berapakah jumlah keseluruhan baju-T yang dijual oleh sukarelawan itu?\n\nChoices:\n(A) 668\n(B) 632\n(C) 655\n(D) 643\n\nAnswer:\n",
-            "model_prediction": "To solve this problem, we can use the formula:"
+            "model_prediction": "To find the correct answer, we need to determine the number of T-shirts sold by the volunteers."
         },
         "Indonesian": {
             "answer": "(D) 643",
@@ -6509,7 +6509,7 @@
             ],
             "question": "Sebuah tim sukarelawan mengumpulkan total $5.144 dengan menjual T-shirt di konser amal. Setiap T-shirt dijual seharga $8. Berapa jumlah total kaos yang dijual para relawan?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nSebuah tim sukarelawan mengumpulkan total $5.144 dengan menjual T-shirt di konser amal. Setiap T-shirt dijual seharga $8. Berapa jumlah total kaos yang dijual para relawan?\n\nChoices:\n(A) 668\n(B) 632\n(C) 655\n(D) 643\n\nAnswer:\n",
-            "model_prediction": "(B) 632"
+            "model_prediction": "To find the number of T-shirts sold, we can use the formula:"
         },
         "English": {
             "answer": "(D) 643",
@@ -6746,7 +6746,7 @@
             ],
             "question": "Si la gente espera que el precio de un producto en particular aumente en el futuro cercano",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nSi la gente espera que el precio de un producto en particular aumente en el futuro cercano\n\nChoices:\n(A) esto disminuirá la demanda del producto.\n(B) esto no afectará la demanda del producto ahora o más adelante.\n(C) esto aumentará la demanda del producto.\n(D) Esto no afectará la demanda del producto en este momento.\n\nAnswer:\n",
-            "model_prediction": "(C) esto aumentará la demanda del producto."
+            "model_prediction": "(A) esto disminuirá la demanda del producto."
         },
         "Malay": {
             "answer": "(C) ini akan meningkatkan permintaan terhadap produk tersebut.",
@@ -6883,7 +6883,7 @@
             ],
             "question": "Bumibili ang isang guro ng mga folder na nakalista sa ibaba.\n* 5 kahon ng pulang folder na may 36 na folder sa bawat kahon\n* 6 na kahon ng asul na mga folder na may 32 na mga folder sa bawat kahon\nAling numero ang pinakamalapit sa kabuuang bilang ng pula at asul na folder na binibili ng guro?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nBumibili ang isang guro ng mga folder na nakalista sa ibaba.\n* 5 kahon ng pulang folder na may 36 na folder sa bawat kahon\n* 6 na kahon ng asul na mga folder na may 32 na mga folder sa bawat kahon\nAling numero ang pinakamalapit sa kabuuang bilang ng pula at asul na folder na binibili ng guro?\n\nChoices:\n(A) 440\n(B) 380\n(C) 550\n(D) 275\n\nAnswer:\n",
-            "model_prediction": "(B) 380"
+            "model_prediction": "To find the total number of folders, we need to multiply the number of folders in each container by the number of containers of that color, and then add the results together."
         },
         "id": "test_80",
         "Vietnamese": {
@@ -6896,7 +6896,7 @@
             ],
             "question": "Một giáo viên mua các thư mục được liệt kê dưới đây.\n* 5 hộp đựng hồ sơ màu đỏ, mỗi hộp có 36 hồ sơ\n* 6 hộp đựng hồ sơ màu xanh, mỗi hộp có 32 hồ sơ\nCon số nào gần nhất với tổng số bìa đựng tài liệu màu đỏ và màu xanh mà giáo viên mua?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nMột giáo viên mua các thư mục được liệt kê dưới đây.\n* 5 hộp đựng hồ sơ màu đỏ, mỗi hộp có 36 hồ sơ\n* 6 hộp đựng hồ sơ màu xanh, mỗi hộp có 32 hồ sơ\nCon số nào gần nhất với tổng số bìa đựng tài liệu màu đỏ và màu xanh mà giáo viên mua?\n\nChoices:\n(A) 440\n(B) 380\n(C) 550\n(D) 275\n\nAnswer:\n",
-            "model_prediction": "(B) 380"
+            "model_prediction": "To find the correct answer, we need to calculate the total number of folders and the total number of files."
         },
         "Chinese": {
             "answer": "(B) 380",
@@ -6920,7 +6920,7 @@
             ],
             "question": "Un maestro compra las carpetas que se enumeran a continuación.\n* 5 cajas de carpetas rojas con 36 carpetas en cada caja\n* 6 cajas de carpetas azules con 32 carpetas en cada caja\n¿Qué número se acerca más al número total de carpetas rojas y azules que compra el maestro?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nUn maestro compra las carpetas que se enumeran a continuación.\n* 5 cajas de carpetas rojas con 36 carpetas en cada caja\n* 6 cajas de carpetas azules con 32 carpetas en cada caja\n¿Qué número se acerca más al número total de carpetas rojas y azules que compra el maestro?\n\nChoices:\n(A) 440\n(B) 380\n(C) 550\n(D) 275\n\nAnswer:\n",
-            "model_prediction": "(B) 380"
+            "model_prediction": "To find the total number of red and blue folders, we need to multiply the number of folders in each color by the number of boxes and then add the two results together."
         },
         "Malay": {
             "answer": "(B) 380",
@@ -6932,7 +6932,7 @@
             ],
             "question": "Seorang guru membeli jumlah folder yang disenaraikan di bawah.\n* 5 kotak mengandungi 36 folder merah dalam setiap kotak\n* 6 kotak folder biru mengandungi 32 folder dalam setiap kotak\nNombor manakah yang paling hampir dengan jumlah folder merah dan biru yang dibeli oleh guru itu?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nSeorang guru membeli jumlah folder yang disenaraikan di bawah.\n* 5 kotak mengandungi 36 folder merah dalam setiap kotak\n* 6 kotak folder biru mengandungi 32 folder dalam setiap kotak\nNombor manakah yang paling hampir dengan jumlah folder merah dan biru yang dibeli oleh guru itu?\n\nChoices:\n(A) 440\n(B) 380\n(C) 550\n(D) 275\n\nAnswer:\n",
-            "model_prediction": "(B) 380"
+            "model_prediction": "To find the closest number to the total number of red and blue folders, we need to calculate the total number of folders in each case."
         },
         "Indonesian": {
             "answer": "(B) 380",
@@ -7343,7 +7343,7 @@
             ],
             "question": "以下哪一个答案最能表明 B 型血（Rh阴性）的人可以输注的相容血型？",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\n以下哪一个答案最能表明 B 型血（Rh阴性）的人可以输注的相容血型？\n\nChoices:\n(A) B 型血（Rh阴性）和 O 型血（Rh阴性）。\n(B) AB 型血（Rh阴性）、B 型血和 O 型血（Rh阴性）。\n(C) 仅限 B 型血（Rh阴性）。\n(D) B 型血（Rh阳性）和 O 型血（Rh阳性）。\n\nAnswer:\n",
-            "model_prediction": "(B) AB 型血（Rh阴性）、B 型血和 O 型血（Rh阴性）。"
+            "model_prediction": "(A) B 型血（Rh阴性）和 O 型血（Rh阴性）。"
         },
         "Spanish": {
             "answer": "(A) Tipo de sangre B (Rh negativo) y tipo de sangre O (Rh negativo).",
@@ -7478,7 +7478,7 @@
             ],
             "question": "What is the empirical formula of a compound that is 51.9% carbon, 4.86% hydrogen, and 43.2% bromine",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nWhat is the empirical formula of a compound that is 51.9% carbon, 4.86% hydrogen, and 43.2% bromine\n\nChoices:\n(A) C6H4Br3\n(B) C7H5Br\n(C) C12H22Br\n(D) C8H9Br\n\nAnswer:\n",
-            "model_prediction": "(A) C6H4Br3"
+            "model_prediction": "To find the empirical formula, we need to convert the percentages to grams and then to moles."
         }
     },
     {
@@ -7666,7 +7666,7 @@
             ],
             "question": "Alin sa mga sumusunod na pahayag tungkol sa sidereal at solar days ang hindi totoo?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nAlin sa mga sumusunod na pahayag tungkol sa sidereal at solar days ang hindi totoo?\n\nChoices:\n(A) Ang oras na kinakailangan para ang Araw ay makagawa ng isang pag-ikot ng ating kalangitan ay isang solar day.\n(B) Ang oras na kailangan ng Buwan upang makagawa ng isang pag-ikot ng ating kalangitan ay isang solar day.\n(C) Ang solar day ay kumakatawan sa higit sa 360ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â° ng pag-ikot para sa mundo.\n(D) Ang solar day ay 4 na minutong mas mahaba kaysa sa sidereal day.\n\nAnswer:\n",
-            "model_prediction": "(D) Ang solar day ay 4 na minutong mas mahaba kaysa sa sidereal day."
+            "model_prediction": "(B) Ang oras na kailangan ng Buwan upang makagawa ng isang pag-ikot ng ating kalangitan ay isang solar day."
         },
         "id": "test_89",
         "Vietnamese": {
@@ -7940,7 +7940,7 @@
             ],
             "question": "Một hộp có khối lượng 10kg trượt theo phương ngang không ma sát với vận tốc 1m/s. Tại một thời điểm, một lực không đổi tác dụng vào hộp theo hướng chuyển động của nó. Hộp chuyển động được 5 m với lực không đổi. Sau đó lực được loại bỏ, để lại hộp với tốc độ 2 m/s. Biểu thức nào sau đây cho biết độ lớn của lực tác dụng?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nMột hộp có khối lượng 10kg trượt theo phương ngang không ma sát với vận tốc 1m/s. Tại một thời điểm, một lực không đổi tác dụng vào hộp theo hướng chuyển động của nó. Hộp chuyển động được 5 m với lực không đổi. Sau đó lực được loại bỏ, để lại hộp với tốc độ 2 m/s. Biểu thức nào sau đây cho biết độ lớn của lực tác dụng?\n\nChoices:\n(A) 3 N\n(B) 4 N\n(C) 2 N\n(D) 1 N\n\nAnswer:\n",
-            "model_prediction": "(B) 4 N"
+            "model_prediction": "To solve this problem, we need to use the principle of conservation of momentum and the work-energy theorem."
         },
         "Chinese": {
             "answer": "(A) 3N",
@@ -7964,7 +7964,7 @@
             ],
             "question": "Una caja de 10 kg se desliza horizontalmente sin fricción a una velocidad de 1 m/s. En un punto, se aplica una fuerza constante a la caja en la dirección de su movimiento. La caja recorre 5 m con la fuerza constante aplicada. Luego se elimina la fuerza, dejando la caja con una rapidez de 2 m/s. ¿Cuál de las siguientes da la magnitud de la fuerza aplicada?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nUna caja de 10 kg se desliza horizontalmente sin fricción a una velocidad de 1 m/s. En un punto, se aplica una fuerza constante a la caja en la dirección de su movimiento. La caja recorre 5 m con la fuerza constante aplicada. Luego se elimina la fuerza, dejando la caja con una rapidez de 2 m/s. ¿Cuál de las siguientes da la magnitud de la fuerza aplicada?\n\nChoices:\n(A) 3 N\n(B) 4 N\n(C) 2 N\n(D) 1 N\n\nAnswer:\n",
-            "model_prediction": "To solve this problem, we need to use the concept of work and energy. Work is defined as the force applied multiplied by the distance it is applied. Energy is the ability to do work, and in this case, we are dealing with kinetic energy."
+            "model_prediction": "To solve this problem, we can use the work-energy theorem. The work done by the force is equal to the change in kinetic energy of the box."
         },
         "Malay": {
             "answer": "(A) 3 N",
@@ -7976,7 +7976,7 @@
             ],
             "question": "Sebuah kotak 10 kg meluncur mendatar tanpa geseran dengan kelajuan 1 m/s. Daya malar pula dikenakan pada kotak mengikut arah pergerakannya. Kotak itu bergerak sejauh 5 m dengan daya malar yang dikenakan. Daya kemudian dikeluarkan, meninggalkan kotak dengan kelajuan 2 m/s. Antara berikut, yang manakah memberikan magnitud daya yang dikenakan?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nSebuah kotak 10 kg meluncur mendatar tanpa geseran dengan kelajuan 1 m/s. Daya malar pula dikenakan pada kotak mengikut arah pergerakannya. Kotak itu bergerak sejauh 5 m dengan daya malar yang dikenakan. Daya kemudian dikeluarkan, meninggalkan kotak dengan kelajuan 2 m/s. Antara berikut, yang manakah memberikan magnitud daya yang dikenakan?\n\nChoices:\n(A) 3 N\n(B) 4 N\n(C) 2 N\n(D) 1 N\n\nAnswer:\n",
-            "model_prediction": "(C) 2 N"
+            "model_prediction": "To solve this problem, we need to use the work-energy theorem. The work done by the force is equal to the change in kinetic energy of the object."
         },
         "Indonesian": {
             "answer": "(A) 3 N",
@@ -7988,7 +7988,7 @@
             ],
             "question": "Sebuah kotak bermassa 10 kg meluncur mendatar tanpa gesekan dengan kecepatan 1 m/s. Pada suatu titik, gaya konstan diterapkan pada kotak searah dengan gerakannya. Kotak tersebut bergerak sejauh 5 m dengan gaya yang diberikan konstan. Gaya tersebut kemudian dihilangkan, meninggalkan kotak dengan kecepatan 2 m/s. Manakah dari berikut ini yang menunjukkan besarnya gaya yang diterapkan?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nSebuah kotak bermassa 10 kg meluncur mendatar tanpa gesekan dengan kecepatan 1 m/s. Pada suatu titik, gaya konstan diterapkan pada kotak searah dengan gerakannya. Kotak tersebut bergerak sejauh 5 m dengan gaya yang diberikan konstan. Gaya tersebut kemudian dihilangkan, meninggalkan kotak dengan kecepatan 2 m/s. Manakah dari berikut ini yang menunjukkan besarnya gaya yang diterapkan?\n\nChoices:\n(A) 3 N\n(B) 4 N\n(C) 2 N\n(D) 1 N\n\nAnswer:\n",
-            "model_prediction": "(C) 2 N"
+            "model_prediction": "(B) 4 N"
         },
         "English": {
             "answer": "(A) 3 N",
@@ -8375,7 +8375,7 @@
             ],
             "question": "Tại sao các ứng dụng được phát triển bằng các ngôn ngữ như C, C++ lại dễ bị tràn bộ đệm?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nTại sao các ứng dụng được phát triển bằng các ngôn ngữ như C, C++ lại dễ bị tràn bộ đệm?\n\nChoices:\n(A) Không kiểm tra cơ sở dữ liệu\n(B) Không kiểm tra sức mạnh xử lý\n(C) Không có kiểm tra ranh giới chuỗi trong các hàm được xác định trước\n(D) Không kiểm tra lưu trữ trong bộ nhớ ngoài\n\nAnswer:\n",
-            "model_prediction": "(C) Không có kiểm tra ranh giới chuỗi trong các hàm được xác định trước"
+            "model_prediction": "C"
         },
         "Chinese": {
             "answer": "(C) 预定义函数中没有字符串边界检查",
@@ -8449,7 +8449,7 @@
             ],
             "question": "Ang nitrous acid ay isang mahinang acid, habang ang nitric acid ay isang mas malakas na acid dahil",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nAng nitrous acid ay isang mahinang acid, habang ang nitric acid ay isang mas malakas na acid dahil\n\nChoices:\n(A) Ang nitric acid ay may mga hydrogen atoms na direktang nakatali sa atom ng nitrogen\n(B) ang ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œOÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œH bond sa nitric acid ay mas mahina kaysa sa nitrous acid dahil sa pag-alis ng electron ng mas maraming oxygen atoms sa nitric acid\n(C) ang nitrogen sa nitric acid ay mas electronegative kaysa sa nitrogen sa nitrous acid\n(D) Ang nitric acid ay may mas maraming oxygen atoms sa formula nito\n\nAnswer:\n",
-            "model_prediction": "(B) ang ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œOÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œH bond sa nitric acid ay mas mahina kaysa sa nitrous acid dahil sa pag-alis ng electron ng mas maraming oxygen atoms sa nitric acid"
+            "model_prediction": "(A) Ang nitric acid ay may mga hydrogen atoms na direktang nakatali sa atom ng nitrog"
         },
         "id": "test_98",
         "Vietnamese": {
@@ -8510,7 +8510,7 @@
             ],
             "question": "Asam nitrat adalah asam lemah, sedangkan asam nitrat adalah asam yang jauh lebih kuat karena",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nAsam nitrat adalah asam lemah, sedangkan asam nitrat adalah asam yang jauh lebih kuat karena\n\nChoices:\n(A) asam nitrat memiliki atom hidrogen yang terikat langsung dengan atom nitrogen\n(B) ikatan –O–H dalam asam nitrat jauh lebih lemah dibandingkan asam nitrat karena penarikan elektron lebih banyak atom oksigen pada asam nitrat\n(C) nitrogen dalam asam nitrat lebih elektronegatif dibandingkan nitrogen dalam asam nitrat\n(D) asam nitrat memiliki lebih banyak atom oksigen dalam rumusnya\n\nAnswer:\n",
-            "model_prediction": "(A) asam nitrat memiliki atom hidrogen yang terikat langsung dengan atom nitrogen"
+            "model_prediction": "(A) asam nitrat memiliki atom hidrogen yang terikat langsung dengan atom nitrog"
         },
         "English": {
             "answer": "(B) the –O–H bonds in nitric acid are much weaker than in nitrous acid due to the electron withdrawing of more oxygen atoms on nitric acid",
@@ -8549,7 +8549,7 @@
             ],
             "question": "Phương thức nào sau đây là phương thức xác thực?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nPhương thức nào sau đây là phương thức xác thực?\n\nChoices:\n(A) Câu hỏi bí mật\n(B) sinh trắc học\n(C) mã tin nhắn\n(D) Tất cả những phương pháp trên\n\nAnswer:\n",
-            "model_prediction": "(B) sinh trắc học"
+            "model_prediction": "(D) Tất cả những phương pháp trê"
         },
         "Chinese": {
             "answer": "(D) 上述所有的",
@@ -8585,7 +8585,7 @@
             ],
             "question": "Yang manakah antara berikut merupakan kaedah pengesahan?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nYang manakah antara berikut merupakan kaedah pengesahan?\n\nChoices:\n(A) Soalan rahsia\n(B) Biometrik\n(C) Kod SMS\n(D) Semua di atas\n\nAnswer:\n",
-            "model_prediction": "(B) Biometrik"
+            "model_prediction": "(D) Semua di ata"
         },
         "Indonesian": {
             "answer": "(D) Semua yang di atas",
@@ -8636,7 +8636,7 @@
             ],
             "question": "Ở trường tiểu học Tây, số nữ nhiều hơn nam 20. Nếu có 180 bé gái thì làm sao tìm được số bé trai?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nỞ trường tiểu học Tây, số nữ nhiều hơn nam 20. Nếu có 180 bé gái thì làm sao tìm được số bé trai?\n\nChoices:\n(A) nhân 180 với 20\n(B) chia 180 cho 20\n(C) cộng 20 vào 180\n(D) trừ 20 từ 180\n\nAnswer:\n",
-            "model_prediction": "(B) chia 180 cho 20"
+            "model_prediction": "(D) trừ 20 từ 180"
         },
         "Chinese": {
             "answer": "(D) 180 减 20",
@@ -8884,7 +8884,7 @@
             ],
             "question": "Tinatayang ilang taon na ang ibabaw ng Venus?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nTinatayang ilang taon na ang ibabaw ng Venus?\n\nChoices:\n(A) 4.5 bilyong taon.\n(B) 750 milyong taon.\n(C) 2 bilyong taon.\n(D) 3 bilyong taon.\n\nAnswer:\n",
-            "model_prediction": "(B) 750 milyong taon."
+            "model_prediction": "(A) 4.5 bilyong taon."
         },
         "id": "test_103",
         "Vietnamese": {
@@ -9058,7 +9058,7 @@
             ],
             "question": "Kapag ang lahat ng iba pang mga bagay ay pantay-pantay, alin sa mga sumusunod na tao ang maari na mabubuhay nang pinakamatagal?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nKapag ang lahat ng iba pang mga bagay ay pantay-pantay, alin sa mga sumusunod na tao ang maari na mabubuhay nang pinakamatagal?\n\nChoices:\n(A) Isang babaeng puti\n(B) Isang babaeng itim\n(C) Isang lalaking itim\n(D) Isang lalaking puti\n\nAnswer:\n",
-            "model_prediction": "(B) Isang babaeng itim"
+            "model_prediction": "(D) Isang lalaking puti"
         },
         "id": "test_105",
         "Vietnamese": {
@@ -9406,7 +9406,7 @@
             ],
             "question": "Alin sa mga sumusunod ang malamang na magpapabagal sa paglago ng ekonomiya ng isang bansa?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nAlin sa mga sumusunod ang malamang na magpapabagal sa paglago ng ekonomiya ng isang bansa?\n\nChoices:\n(A) Higit pang mga gawad sa pananaliksik na ibinibigay sa mga medikal na paaralan\n(B) Mga garantisadong pautang na mababa ang interes para sa mga mag-aaral sa kolehiyo\n(C) Pag-alis ng credit sa buwis sa pamumuhunan\n(D) Pag-alis ng buwis sa kita na mula sa mga na-ipon\n\nAnswer:\n",
-            "model_prediction": "(C) Pag-alis ng credit sa buwis sa pamumuhunan"
+            "model_prediction": "(C) Pag-alis ng credit sa buwis sa pamumuhuna"
         },
         "id": "test_109",
         "Vietnamese": {
@@ -9419,7 +9419,7 @@
             ],
             "question": "Điều nào sau đây có thể làm chậm tốc độ tăng trưởng kinh tế của một quốc gia?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nĐiều nào sau đây có thể làm chậm tốc độ tăng trưởng kinh tế của một quốc gia?\n\nChoices:\n(A) Cấp thêm hơn các học bổng nghiên cứu cho các trường y học\n(B) Các khoản vay có lãi suất thấp đảm bảo cho sinh viên đại học\n(C) Loại bỏ khoản giảm thuế đầu tư\n(D) Loại bỏ thuế thu nhập từ tiền tiết kiệm\n\nAnswer:\n",
-            "model_prediction": "(C) Loại bỏ khoản giảm thuế đầu tư"
+            "model_prediction": "C"
         },
         "Chinese": {
             "answer": "(C) 取消投资税收抵免",
@@ -9941,7 +9941,7 @@
             ],
             "question": "Đường tổng cầu có độ dốc âm một phần vì khi mức giá tăng",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nĐường tổng cầu có độ dốc âm một phần vì khi mức giá tăng\n\nChoices:\n(A) giá trị tiền mặt tăng lên\n(B) hàng nhập khẩu trở nên đắt hơn tương đối\n(C) số lượng tiền thực tế tăng lên\n(D) lãi suất tăng\n\nAnswer:\n",
-            "model_prediction": "(D) lãi suất tăng"
+            "model_prediction": "(B) hàng nhập khẩu trở nên đắt hơn tương đối"
         },
         "Chinese": {
             "answer": "(D) 利率上升",
@@ -9965,7 +9965,7 @@
             ],
             "question": "La curva de demanda agregada tiene una pendiente negativa en parte porque cuando aumenta el nivel de precios",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nLa curva de demanda agregada tiene una pendiente negativa en parte porque cuando aumenta el nivel de precios\n\nChoices:\n(A) el valor del efectivo aumenta\n(B) las importaciones se vuelven relativamente más caras\n(C) la cantidad real de dinero aumenta\n(D) la tasa de interés aumenta\n\nAnswer:\n",
-            "model_prediction": "(B) las importaciones se vuelven relativamente más caras"
+            "model_prediction": "(B) las importaciones se vuelven relativamente más cara"
         },
         "Malay": {
             "answer": "(D) kadar faedah meningkat",
@@ -9977,7 +9977,7 @@
             ],
             "question": "Keluk permintaan agregat mempunyai cerun negatif sebahagiannya kerana apabila tingkat harga meningkat",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nKeluk permintaan agregat mempunyai cerun negatif sebahagiannya kerana apabila tingkat harga meningkat\n\nChoices:\n(A) nilai tunai meningkat\n(B) import menjadi lebih mahal\n(C) kuantiti sebenar wang bertambah\n(D) kadar faedah meningkat\n\nAnswer:\n",
-            "model_prediction": "(B) import menjadi lebih mahal"
+            "model_prediction": "(D) kadar faedah meningkat"
         },
         "Indonesian": {
             "answer": "(D) tingkat bunga meningkat",
@@ -10262,7 +10262,7 @@
             ],
             "question": "Research has shown a possible connection between the neurotransmitter acetylcholine and which of the following mental disorders?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nResearch has shown a possible connection between the neurotransmitter acetylcholine and which of the following mental disorders?\n\nChoices:\n(A) Parkinson's disease\n(B) Alzheimer's disease\n(C) Mania\n(D) Schizophrenia\n\nAnswer:\n",
-            "model_prediction": "(B) Alzheimer's disease"
+            "model_prediction": "(B) Alzheimer's disea"
         }
     },
     {
@@ -10537,7 +10537,7 @@
             ],
             "question": "Ano ang pinakamaliit na positive integer na may mga factor na 16, 15, at 12?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nAno ang pinakamaliit na positive integer na may mga factor na 16, 15, at 12?\n\nChoices:\n(A) 12\n(B) 240\n(C) 840\n(D) 22\n\nAnswer:\n",
-            "model_prediction": "(B) 240"
+            "model_prediction": "(D) 22"
         },
         "id": "test_122",
         "Vietnamese": {
@@ -10574,7 +10574,7 @@
             ],
             "question": "¿Cuál es el entero positivo más pequeño con factores de 16, 15 y 12?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\n¿Cuál es el entero positivo más pequeño con factores de 16, 15 y 12?\n\nChoices:\n(A) 12\n(B) 240\n(C) 840\n(D) 22\n\nAnswer:\n",
-            "model_prediction": "(B) 240"
+            "model_prediction": "To find the smallest positive integer with factors of 16, 15, and 12, we need to find the least common multiple (LCM) of these numbers."
         },
         "Malay": {
             "answer": "(B) 240",
@@ -10685,7 +10685,7 @@
             ],
             "question": "Piramida-piramida Mesir terbesar di Giza dibangun:",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nPiramida-piramida Mesir terbesar di Giza dibangun:\n\nChoices:\n(A) sebagai monumen-monumen pemakaman untuk firaun Khufu, putra Khufu, Khafre, dan cucu Khufu, Menkaure.\n(B) oleh para budak-budak yang dipaksa dan bekerja di bawah ancaman kematian, seperti yang dijelaskan dalam kitab Keluaran Perjanjian Lama.\n(C) dalam kegilaan konstruksi dinasti ke-6.\n(D) semua yang di atas.\n\nAnswer:\n",
-            "model_prediction": "(D) semua yang di atas."
+            "model_prediction": "(A) sebagai monumen-monumen pemakaman untuk firaun Khufu, putra Khufu, Khafre, dan cucu Khufu, Menkaure."
         },
         "English": {
             "answer": "(A) as burial monuments for the pharaoh Khufu, Khufu's son Khafre, and Khufu's grandson Menkaure.",
@@ -10847,7 +10847,7 @@
             ],
             "question": "Apakah maksud istilah astronomi ekliptik?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nApakah maksud istilah astronomi ekliptik?\n\nChoices:\n(A) Pergerakan bintang disebabkan oleh putaran Bumi.\n(B) Garis tengah melalui paksi putaran.\n(C) Laluan Matahari di langit sepanjang setahun.\n(D) Kecondongan paksi Bumi sepanjang tahun.\n\nAnswer:\n",
-            "model_prediction": "(C) Laluan Matahari di langit sepanjang setahun."
+            "model_prediction": "C"
         },
         "Indonesian": {
             "answer": "(C) Jalur Matahari di langit sepanjang tahun.",
@@ -10859,7 +10859,7 @@
             ],
             "question": "Apa yang dijelaskan oleh istilah astronomi ekliptika?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nApa yang dijelaskan oleh istilah astronomi ekliptika?\n\nChoices:\n(A) Pergerakan bintang akibat rotasi bumi.\n(B) Garis tengah melalui sumbu rotasi.\n(C) Jalur Matahari di langit sepanjang tahun.\n(D) Kemiringan sumbu bumi sepanjang tahun.\n\nAnswer:\n",
-            "model_prediction": "(C) Jalur Matahari di langit sepanjang tahun."
+            "model_prediction": "C"
         },
         "English": {
             "answer": "(C) The path of the Sun in the sky throughout a year.",
@@ -11132,7 +11132,7 @@
             ],
             "question": "Which structure(s) traditionally occupies the center of a historic Asian city?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nWhich structure(s) traditionally occupies the center of a historic Asian city?\n\nChoices:\n(A) High-density housing\n(B) Government office buildings\n(C) A central market\n(D) A religious building\n\nAnswer:\n",
-            "model_prediction": "(D) A religious building"
+            "model_prediction": "(C) A central market"
         }
     },
     {
@@ -11146,7 +11146,7 @@
             ],
             "question": "Ang isang sample ng isang compound na kilalang binubuo lamang ng carbon, hydrogen, at oxygen ay natagpuan na may kabuuang mass na 29.05 g. Kung ang masa ng carbon ay 18.02 g at ang masa ng hydrogen ay 3.03 g, ano ang empirical formula ng compound?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nAng isang sample ng isang compound na kilalang binubuo lamang ng carbon, hydrogen, at oxygen ay natagpuan na may kabuuang mass na 29.05 g. Kung ang masa ng carbon ay 18.02 g at ang masa ng hydrogen ay 3.03 g, ano ang empirical formula ng compound?\n\nChoices:\n(A) C3H8O2\n(B) C3H6O\n(C) C2H4O\n(D) C2H6O3\n\nAnswer:\n",
-            "model_prediction": "(B) C3H6O"
+            "model_prediction": "To find the empirical formula of the compound, we need to determine the mole ratio of carbon, hydrogen, and oxygen in the compound."
         },
         "id": "test_129",
         "Vietnamese": {
@@ -11183,7 +11183,7 @@
             ],
             "question": "Se encuentra que una muestra de un compuesto que se sabe que está formado únicamente por carbono, hidrógeno y oxígeno tiene una masa total de 29.05 g. Si la masa del carbono es 18.02 g y la masa del hidrógeno es 3.03 g, ¿cuál es la fórmula empírica del compuesto?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nSe encuentra que una muestra de un compuesto que se sabe que está formado únicamente por carbono, hidrógeno y oxígeno tiene una masa total de 29.05 g. Si la masa del carbono es 18.02 g y la masa del hidrógeno es 3.03 g, ¿cuál es la fórmula empírica del compuesto?\n\nChoices:\n(A) C3H8O2\n(B) C3H6O\n(C) C2H4O\n(D) C2H6O3\n\nAnswer:\n",
-            "model_prediction": "To solve this problem, we need to find the empirical formula of the compound. We are given the total mass of the compound, as well as the masses of carbon, hydrogen, and oxygen. We can use these values to determine the empirical formula."
+            "model_prediction": "To find the correct answer, we need to determine the empirical formula of the compound. We are given the mass of the compound, carbon, and hydrogen, but not the mass of oxygen. We can assume that the mass of oxygen is negligible compared to the other elements."
         },
         "Malay": {
             "answer": "(B) C3H6O",
@@ -11195,7 +11195,7 @@
             ],
             "question": "Satu sampel sebatian yang diketahui hanya terdiri daripada karbon, hidrogen, dan oksigen didapati mempunyai jumlah jisim 29.05 g. Jika jisim karbon ialah 18.02 g dan jisim hidrogen ialah 3.03 g, apakah formula empirik bagi sebatian itu?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nSatu sampel sebatian yang diketahui hanya terdiri daripada karbon, hidrogen, dan oksigen didapati mempunyai jumlah jisim 29.05 g. Jika jisim karbon ialah 18.02 g dan jisim hidrogen ialah 3.03 g, apakah formula empirik bagi sebatian itu?\n\nChoices:\n(A) C3H8O2\n(B) C3H6O\n(C) C2H4O\n(D) C2H6O3\n\nAnswer:\n",
-            "model_prediction": "(C) C2H4O"
+            "model_prediction": "To solve this problem, we need to find the formula empiric of the compound. We are given the mass of carbon, hydrogen, and oxygen in the compound. We can use this information to find the ratio of these elements in the compound."
         },
         "Indonesian": {
             "answer": "(B) C3H6O",
@@ -11207,7 +11207,7 @@
             ],
             "question": "Suatu sampel senyawa yang diketahui hanya terdiri dari karbon, hidrogen, dan oksigen diketahui mempunyai massa total 29,05 g. Jika massa karbon adalah 18,02 g dan massa hidrogen adalah 3,03 g, berapakah rumus empiris senyawa tersebut?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nSuatu sampel senyawa yang diketahui hanya terdiri dari karbon, hidrogen, dan oksigen diketahui mempunyai massa total 29,05 g. Jika massa karbon adalah 18,02 g dan massa hidrogen adalah 3,03 g, berapakah rumus empiris senyawa tersebut?\n\nChoices:\n(A) C3H8O2\n(B) C3H6O\n(C) C2H4O\n(D) C2H6O3\n\nAnswer:\n",
-            "model_prediction": "To solve this problem, we need to find the empirical formula of the compound. We are given the mass of carbon, hydrogen, and oxygen, and we need to find the ratio of these elements in the compound."
+            "model_prediction": "To find the correct answer, we need to determine the empirical formula of the compound. We are given the mass of carbon, hydrogen, and the total mass of the compound. We also know the mass of oxygen, but we don't have its mass in the compound."
         },
         "English": {
             "answer": "(B) C3H6O",
@@ -11320,7 +11320,7 @@
             ],
             "question": "Noong nakaraang katapusan ng linggo, nanood si Sanjay ng 3 palabas sa telebisyon na bawat isa ay 30 minuto ang haba. Nanood din siya ng 1 pelikula sa telebisyon na 90 minuto ang haba. Gaano kahaba nanood ng telebisyon si Sanjay noong katapusan ng linggo?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nNoong nakaraang katapusan ng linggo, nanood si Sanjay ng 3 palabas sa telebisyon na bawat isa ay 30 minuto ang haba. Nanood din siya ng 1 pelikula sa telebisyon na 90 minuto ang haba. Gaano kahaba nanood ng telebisyon si Sanjay noong katapusan ng linggo?\n\nChoices:\n(A) 120\n(B) 180\n(C) 150\n(D) 100\n\nAnswer:\n",
-            "model_prediction": "(C) 150"
+            "model_prediction": "(B) 180"
         },
         "id": "test_131",
         "Vietnamese": {
@@ -11333,7 +11333,7 @@
             ],
             "question": "Cuối tuần trước Sanjay đã xem 3 chương trình truyền hình, mỗi chương trình dài 30 phút. Anh ấy còn xem 1 bộ phim trên tivi dài 90 phút. Tổng số phút Sanjay xem tivi cuối tuần trước là bao nhiêu?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nCuối tuần trước Sanjay đã xem 3 chương trình truyền hình, mỗi chương trình dài 30 phút. Anh ấy còn xem 1 bộ phim trên tivi dài 90 phút. Tổng số phút Sanjay xem tivi cuối tuần trước là bao nhiêu?\n\nChoices:\n(A) 120\n(B) 180\n(C) 150\n(D) 100\n\nAnswer:\n",
-            "model_prediction": "To solve this problem, we need to calculate the total minutes Sanjay spent watching TV during the weekend."
+            "model_prediction": "To find the total minutes Sanjay watched TV over the weekend, we need to add the minutes of all the programs he watched."
         },
         "Chinese": {
             "answer": "(B) 180",
@@ -11357,7 +11357,7 @@
             ],
             "question": "El fin de semana pasado, Sanjay vio 3 programas de televisión de 30 minutos de duración cada uno. También vio 1 película en televisión que duró 90 minutos. ¿Cuál es el número total de minutos que Sanjay vio televisión el fin de semana pasado?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nEl fin de semana pasado, Sanjay vio 3 programas de televisión de 30 minutos de duración cada uno. También vio 1 película en televisión que duró 90 minutos. ¿Cuál es el número total de minutos que Sanjay vio televisión el fin de semana pasado?\n\nChoices:\n(A) 120\n(B) 180\n(C) 150\n(D) 100\n\nAnswer:\n",
-            "model_prediction": "(B) 180"
+            "model_prediction": "To find the total number of minutes Sanjay watched television over the weekend, we need to add the minutes from each program and the movie."
         },
         "Malay": {
             "answer": "(B) 180",
@@ -11432,7 +11432,7 @@
             ],
             "question": "杰西在上一场篮球比赛中拿下 18 分。她每进一个球就得2分。她总共进了多少个球？",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\n杰西在上一场篮球比赛中拿下 18 分。她每进一个球就得2分。她总共进了多少个球？\n\nChoices:\n(A) 8\n(B) 20\n(C) 9\n(D) 16\n\nAnswer:\n",
-            "model_prediction": "To solve this problem, we need to find out how many baskets (balls) Jesse scored in the basketball game. We know that she scored 18 points and each basket is worth 2 points."
+            "model_prediction": "To solve this problem, we need to find out how many baskets Jesse scored in the basketball game. We know that she scored 18 points and each basket is worth 2 points."
         },
         "Spanish": {
             "answer": "(C) 9",
@@ -11444,7 +11444,7 @@
             ],
             "question": "Jess anotó 18 puntos durante su último partido de baloncesto. Cada canasta que hizo valía 2 puntos. ¿Cuántas canastas hizo?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nJess anotó 18 puntos durante su último partido de baloncesto. Cada canasta que hizo valía 2 puntos. ¿Cuántas canastas hizo?\n\nChoices:\n(A) 8\n(B) 20\n(C) 9\n(D) 16\n\nAnswer:\n",
-            "model_prediction": "(D) 16"
+            "model_prediction": "To solve this problem, we need to determine the number of baskets Jess made during her last basketball game."
         },
         "Malay": {
             "answer": "(C) 9",
@@ -11507,7 +11507,7 @@
             ],
             "question": "Điều nào sau đây được biết là có liên quan đến phản ứng ra hoa quang chu kỳ của thực vật hạt kín?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nĐiều nào sau đây được biết là có liên quan đến phản ứng ra hoa quang chu kỳ của thực vật hạt kín?\n\nChoices:\n(A) Cytochrome\n(B) Phytochrome\n(C) Auxin\n(D) Gibberellin\n\nAnswer:\n",
-            "model_prediction": "(B) Phytochrome"
+            "model_prediction": "(B) Phytochrom"
         },
         "Chinese": {
             "answer": "(B) 光敏色素",
@@ -11567,7 +11567,7 @@
             ],
             "question": "Which of the following is known to be involved in the photoperiodic flowering response of angiosperms?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nWhich of the following is known to be involved in the photoperiodic flowering response of angiosperms?\n\nChoices:\n(A) Cytochrome\n(B) Phytochrome\n(C) Auxin\n(D) Gibberellins\n\nAnswer:\n",
-            "model_prediction": "(B) Phytochrome"
+            "model_prediction": "(B) Phytochrom"
         }
     },
     {
@@ -11606,7 +11606,7 @@
             ],
             "question": "靶向新合成的蛋白质最有可能需要两种不同的信号肽来到达以下哪个目的地？",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\n靶向新合成的蛋白质最有可能需要两种不同的信号肽来到达以下哪个目的地？\n\nChoices:\n(A) 质膜\n(B) 细胞质\n(C) 叶绿体\n(D) 溶酶体\n\nAnswer:\n",
-            "model_prediction": "(D) 溶酶体"
+            "model_prediction": "(A) 质膜"
         },
         "Spanish": {
             "answer": "(C) cloroplasto",
@@ -11855,7 +11855,7 @@
             ],
             "question": "Sử dụng Tính chất Kết hợp của Phép nhân để rút gọn 8 • (−7) • (−1).",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nSử dụng Tính chất Kết hợp của Phép nhân để rút gọn 8 • (−7) • (−1).\n\nChoices:\n(A) 56\n(B) −63\n(C) −56\n(D) 48\n\nAnswer:\n",
-            "model_prediction": "To solve the given expression, we will use the distributive property (Tính chất Kết hợp của Phép nhân) as follows:"
+            "model_prediction": "To solve the given expression, we will use the distributive property (also known as the property of multiplication) which states that a • (b + c) = (a • b) + (a • c)."
         },
         "Chinese": {
             "answer": "(B) −63",
@@ -11867,7 +11867,7 @@
             ],
             "question": "利用乘法的结合律来化简8•(−7)•(−1)。",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\n利用乘法的结合律来化简8•(−7)•(−1)。\n\nChoices:\n(A) 56\n(B) −63\n(C) −56\n(D) 48\n\nAnswer:\n",
-            "model_prediction": "(B) -63"
+            "model_prediction": "To solve this problem, we will use the distributive property and the commutative property of multiplication."
         },
         "Spanish": {
             "answer": "(B) −63",
@@ -11879,7 +11879,7 @@
             ],
             "question": "Usa la propiedad asociativa de la multiplicación para simplificar 8 • (−7) • (−1).",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nUsa la propiedad asociativa de la multiplicación para simplificar 8 • (−7) • (−1).\n\nChoices:\n(A) 56\n(B) −63\n(C) −56\n(D) 48\n\nAnswer:\n",
-            "model_prediction": "To solve the given problem, we will use the associative property of multiplication. The problem states:"
+            "model_prediction": "To solve the given expression, we will use the associative property of multiplication and simplify it step by step."
         },
         "Malay": {
             "answer": "(B) −63",
@@ -11891,7 +11891,7 @@
             ],
             "question": "Gunakan Sifat Bersekutu bagi Pendaraban untuk memudahkan 8 • (−7) • (−1).",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nGunakan Sifat Bersekutu bagi Pendaraban untuk memudahkan 8 • (−7) • (−1).\n\nChoices:\n(A) 56\n(B) −63\n(C) −56\n(D) 48\n\nAnswer:\n",
-            "model_prediction": "(B) -63"
+            "model_prediction": "To solve the given expression, we need to apply the distributive property, which states that a • (b + c) = (a • b) + (a • c)."
         },
         "Indonesian": {
             "answer": "(B) −63",
@@ -11903,7 +11903,7 @@
             ],
             "question": "Gunakan Sifat Asosiatif Perkalian untuk menyederhanakan 8 • (−7) • (−1).",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nGunakan Sifat Asosiatif Perkalian untuk menyederhanakan 8 • (−7) • (−1).\n\nChoices:\n(A) 56\n(B) −63\n(C) −56\n(D) 48\n\nAnswer:\n",
-            "model_prediction": "(B) -63"
+            "model_prediction": "To solve the given expression, we can use the distributive property of multiplication:"
         },
         "English": {
             "answer": "(B) −63",
@@ -11915,7 +11915,7 @@
             ],
             "question": "Use the Associative Property of Multiplication to simplify 8 • (−7) • (−1).",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nUse the Associative Property of Multiplication to simplify 8 • (−7) • (−1).\n\nChoices:\n(A) 56\n(B) −63\n(C) −56\n(D) 48\n\nAnswer:\n",
-            "model_prediction": "To solve this problem, we will use the Associative Property of Multiplication, which states that the way the numbers are grouped does not affect the result of the multiplication."
+            "model_prediction": "To solve this problem, we need to apply the Associative Property of Multiplication, which states that the way the numbers are grouped does not affect the result of the multiplication."
         }
     },
     {
@@ -12103,7 +12103,7 @@
             ],
             "question": "Sa anong layer ng Earth nabuo ang geomagnetic field?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nSa anong layer ng Earth nabuo ang geomagnetic field?\n\nChoices:\n(A) Mantle\n(B) Pnaloob na core\n(C) Panlabas na core\n(D) Crust\n\nAnswer:\n",
-            "model_prediction": "(B) Pnaloob na co"
+            "model_prediction": "(C) Panlabas na co"
         },
         "id": "test_140",
         "Vietnamese": {
@@ -12290,7 +12290,7 @@
             ],
             "question": "Điều nào sau đây KHÔNG phải là rối loạn lo âu?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nĐiều nào sau đây KHÔNG phải là rối loạn lo âu?\n\nChoices:\n(A) rối loạn hoảng sợ\n(B) Chứng sợ đám đông\n(C) chứng nghi bệnh\n(D) Dẫn tới chấn thương tâm lý\n\nAnswer:\n",
-            "model_prediction": "(A) rối loạn hoảng sợ"
+            "model_prediction": "(C) chứng nghi bệnh"
         },
         "Chinese": {
             "answer": "(C) 疑病症",
@@ -12587,7 +12587,7 @@
             ],
             "question": "Sebuah syarikat pembuatan kertas berkontrak dengan syarikat pembinaan untuk membina gudang baharu. Kontrak itu memperuntukkan bahawa syarikat pembinaan akan dibayar setelah gudang disiapkan. Kontraktor telah menyiapkan gudang itu tetapi ia mempunyai beberapa penyelewengan kecil daripada rancangan kerana penggantian bahan binaan tertentu yang tidak terdapat di pasaran. Syarikat pembinaan selesai bekerja dan menuntut bayaran. Syarikat kertas itu enggan membayar oleh kerana penyelewengan daripada spesifikasi. Adakah syarikat pembinaan berkemungkinan akan mengatasi pelanggaran tindakan kontrak terhadap syarikat kertas itu?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nSebuah syarikat pembuatan kertas berkontrak dengan syarikat pembinaan untuk membina gudang baharu. Kontrak itu memperuntukkan bahawa syarikat pembinaan akan dibayar setelah gudang disiapkan. Kontraktor telah menyiapkan gudang itu tetapi ia mempunyai beberapa penyelewengan kecil daripada rancangan kerana penggantian bahan binaan tertentu yang tidak terdapat di pasaran. Syarikat pembinaan selesai bekerja dan menuntut bayaran. Syarikat kertas itu enggan membayar oleh kerana penyelewengan daripada spesifikasi. Adakah syarikat pembinaan berkemungkinan akan mengatasi pelanggaran tindakan kontrak terhadap syarikat kertas itu?\n\nChoices:\n(A) Ya, syarikat yang menjalankan kerja pembinaan boleh menuntut untuk apa yang telah dikerjakan\n(B) Tidak, syarikat pembinaan tidak boleh mengubah spesifikasi dan mengharap untuk mendapat bayaran.\n(C) Tidak, syarikat pembinaan itu bersalah atas penipuan dan salah nyata.\n(D) Ya, syarikat pembinaan telah melaksanakan kontrak dengan ketara.\n\nAnswer:\n",
-            "model_prediction": "(A) Ya, syarikat yang menjalankan kerja pembinaan boleh menuntut untuk apa yang telah dikerjakan."
+            "model_prediction": "(D) Ya, syarikat pembinaan telah melaksanakan kontrak dengan ketara."
         },
         "Indonesian": {
             "answer": "(D) Ya, perusahaan konstruksi telah melaksanakan kontrak secara substansial.",
@@ -12824,7 +12824,7 @@
             ],
             "question": "关于米诺斯文明的起源，哪一项是正确的？",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\n关于米诺斯文明的起源，哪一项是正确的？\n\nChoices:\n(A) 大约公元前 15 万年前，早期人类通过陆桥到达克里特岛。并逐渐成为米诺斯人。\n(B) 克里特岛文化融合了埃及和美索不达米亚元素。\n(C) 克里特岛曾被埃及人殖民，埃及人称该岛为“米诺亚”。\n(D) 克里特岛居住着希腊人和其他人，但米诺斯文化是当地发展的。\n\nAnswer:\n",
-            "model_prediction": "(B) 克里特岛文化融合了埃及和美索不达米亚元素。"
+            "model_prediction": "(D) 克里特岛居住着希腊人和其他人，但米诺斯文化是当地发展的。"
         },
         "Spanish": {
             "answer": "(D) Creta estaba poblada por griegos y otros, pero la cultura minoica fue un desarrollo local.",
@@ -12986,7 +12986,7 @@
             ],
             "question": "Điều nào sau đây là một dạng tổn hại mà những người tham gia nghiên cứu có thể phải gánh chịu?",
             "model_input": "As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nQuestion:\nĐiều nào sau đây là một dạng tổn hại mà những người tham gia nghiên cứu có thể phải gánh chịu?\n\nChoices:\n(A) Chấn thương vật lý\n(B) Căng thẳng và lo lắng\n(C) Suy giảm sự phát triển\n(D) Tất cả những điều trên\n\nAnswer:\n",
-            "model_prediction": "(B) Căng thẳng và lo lắng"
+            "model_prediction": "(D) Tất cả những điều trê"
         },
         "Chinese": {
             "answer": "(D) 上述所有的",

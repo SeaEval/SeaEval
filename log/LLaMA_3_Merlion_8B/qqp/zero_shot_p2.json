@@ -283,7 +283,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What does the order of who views your story on Instagram mean? Why is one person always on top no matter when they view it? Question2: What happens when you view a public Instagram story and then you block that person are you still going to appear on their viewers list?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_27",
@@ -1537,7 +1537,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Can Fast and Furious 7 gross $1 billion worldwide? Question2: Will Furious 7 be the first movie in the franchise to gross a billion dollars?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_141",
@@ -2076,7 +2076,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Where can I get a PDF of India Shastra Novel? Question2: Where can I get the Aakash AIATS PDF?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_190",
@@ -2285,7 +2285,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Why do people worship celebrities? Question2: Why do people fall in love with celebrities?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_209",
@@ -2549,7 +2549,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Who is your favourite person on Quora? Question2: Who is your favourite person/follower on Quora?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_233",
@@ -2615,7 +2615,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: How can we start a business by zero? Question2: What are some ways to start a business?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_239",
@@ -2703,7 +2703,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Why are some answers collapsed? Question2: Why did some Quora answers collapse?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_247",
@@ -2736,7 +2736,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What is the goal of Quora? Question2: What is your goal?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_250",
@@ -2956,7 +2956,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What are the reader's views on Harry Potter and The Cursed Child? Question2: \"How is the new Harry Potter book \"\"Harry Potter and the Cursed Child\"\"?\"\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_270",
@@ -3022,7 +3022,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What are the best history books on Afghanistan? Question2: What are the best history books?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_276",
@@ -3418,7 +3418,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Why don’t some people believe in God? Question2: Why don't agnostics believe in God?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_312",
@@ -3946,7 +3946,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: How do I get rid of back pain? Question2: How can I get rid of chronic and acute back pain?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_360",
@@ -4276,7 +4276,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What advice would you give to your 15 year old self? Question2: What advice would you give to your 19-year old self?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_390",
@@ -4727,7 +4727,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Why don't people think someone will become a trillionaire? Question2: Is it possible for someone to become a trillionaire?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_431",
@@ -5585,7 +5585,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: How can one pass a hair folicle test for meth when you are dirty? Question2: Can hair dye help pass a hair follicle drug test for daily meth smokers?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_509",
@@ -5684,7 +5684,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Do you how do you get meth out of your system? Question2: Medicine and Healthcare: What is the best way to get methamphetamine a out of your system?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_518",
@@ -5783,7 +5783,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What could be the motive of the Indian government to hide the truth behind the death of Bose? Question2: What is the truth behind the death of Subhas Chandra Bose?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_527",
@@ -5860,7 +5860,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What are the main imports and exports of Venezuela, and how does Venezuela's industry compare to Belize's? Question2: What are the main imports and exports of Venezuela, and how does Venezuela's industry compare to Aruba's?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_534",
@@ -6388,7 +6388,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What is the best series finale TV program you have ever seen? Question2: What are the TV series with perfect endings?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_582",
@@ -6707,7 +6707,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Is being transgender considered a mental illness? How do we know? Question2: How is being transgender not a mental illness?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_611",
@@ -6993,7 +6993,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What are the cause of high carbon dioxide in blood? Question2: What are the dangers of high carbon dioxide levels?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_637",
@@ -7125,7 +7125,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What is the question that will provides simple and interesting answers? Question2: What are some of the interesting questions to answer? And what are some interesting answers to question?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_649",
@@ -7290,7 +7290,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Where do I find a simple to understand solution on how to lose weight? Question2: What are the best was to lose weight?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_664",
@@ -7389,7 +7389,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What are the best stocks to invest in India in October 2016? Question2: What are the best Indian stocks to invest in 2017?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_673",
@@ -7620,7 +7620,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Do white guys like brown (Indian) girls? Question2: Do American white boys like Indian girls?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_694",
@@ -7741,7 +7741,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: How do I improve my pronunciation of English? Question2: What can I do to practice my English?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_705",
@@ -7983,7 +7983,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What career in science requires a lot of traveling? Question2: What are some jobs that involve lots of travel?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_727",
@@ -8214,7 +8214,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Is Die Hard a Christmas movie? Question2: Why do people say Die Hard is a Christmas movie?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_748",
@@ -8522,7 +8522,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Which is the best online site to learn English? Question2: How can I improve my English online?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_776",
@@ -8775,7 +8775,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Which is better one plus one or moto x play? Question2: Which is better One plus 2 or Moto z play?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_799",
@@ -8940,7 +8940,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Which is the best course for digital marketing? Question2: Which is the best institute to learn digital marketing (job oriented) in India?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_814",
@@ -9457,7 +9457,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: How can I expect to contribute to an open source project on Github if my skills are low? Question2: As a web developer how can I contribute to open source on GitHub?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_861",
@@ -9644,7 +9644,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What is the best way to send money from the Philippines? Question2: How do you send money from the Philippines to the United States?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_878",
@@ -9699,7 +9699,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Why don't you join Quora? Question2: Why did you join Quora?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_883",
@@ -9820,7 +9820,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Do we need smart cities or smart politicians? Question2: Do we need smart cities or smart laws?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_894",
@@ -9941,7 +9941,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: How do I choose the right major? Question2: What major should I choose if I want to be a data scientist?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_905",
@@ -9963,7 +9963,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What happens if curd is eaten before beer? Question2: What happens if curd is eaten after beer?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_907",
@@ -10117,7 +10117,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What is the cost of 1 rupee note bundle from 1993? Question2: What is the value of a 1994 1 Rupee note?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_921",
@@ -10304,7 +10304,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Is there a possibility to love 2 person at once? Question2: Can a person be really in love with two persons?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_938",
@@ -10656,7 +10656,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What is the Stopping power from a 50cal Desert eagle with a 300 grain Hollow point? Question2: It's it feasible to survive a shot in the head or the heart with a Desert Eagle 50AE at close range when 300 grain hollow points are used?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_970",
@@ -11349,7 +11349,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What is best WhatsApp status you have ever read? Question2: Some best WhatsApp status?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1033",
@@ -11437,7 +11437,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What is the best rap song ever made? Question2: What are some of the best rap songs?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1041",
@@ -11470,7 +11470,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Would it be possible, in theory: that The Electoral College does not nominate Trump as POTUS? Question2: Since the electoral college decides Presidency, is it realistic that Trump could ever beat Hillary?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1044",
@@ -11613,7 +11613,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What is the best structure for a Marketing Department in an Internet Company? Question2: What's the best structure for an Indian digital marketing company to operate in Singapore?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1057",
@@ -11998,7 +11998,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What is the best formation in soccer? Question2: What is the best football formation to win?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1092",
@@ -12273,7 +12273,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Why does a zener diode burn quickly? Question2: What is the reason of a break down in Zener diode?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1117",
@@ -12570,7 +12570,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What is digital marketing and how to set career in digital marketing? Question2: What is digital marketing?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1144",
@@ -12680,7 +12680,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Can you receive money on PayPal without crediting it first? Question2: How do I receive money through PayPal?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1154",
@@ -12856,7 +12856,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Which is the official language of India? Question2: What are the official languages of India?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1170",
@@ -13395,7 +13395,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: How bad is it to eat raw fish? Question2: How is it okay to eat raw fish on sushi?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1219",
@@ -14528,7 +14528,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: How do I start my own TV channel in the US? Question2: How can I start internet TV channel?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1322",
@@ -14539,7 +14539,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What is the difference between wine, vodka, breezer, beer, alcohol, and rum? Question2: What is the difference between Vodka and a regular beer except for the alcohol percentage?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1323",
@@ -14583,7 +14583,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What are good gifts for a foreign visitor to bring when they're invited to someone's home in Barbados for the first time? Question2: What are good gifts for a foreign visitor to bring when they're invited to someone's home in Vietnam for the first time?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1327",
@@ -14957,7 +14957,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What's the best way to learn a new programming language? Question2: What are some of the best ways to learn programming?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1361",
@@ -15100,7 +15100,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What is the safest city in the United States? Question2: What are the safest cities in the United States?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1374",
@@ -15122,7 +15122,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Is Donald Trump in league with Putin? Question2: Is Donald Trump an agent for Vladimir Putin?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1376",
@@ -15133,7 +15133,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: When is the Musigma off campus drive for 2017 batch? What is the process? Question2: When is MuSigma Off Campus drive for 2015 graduates in 2016? How to apply for the same?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1377",
@@ -15287,7 +15287,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Where can I watch free streaming movies online? Question2: What is best site to watch free movies online?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1391",
@@ -16134,7 +16134,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Which are the best companies for a mechanical engineer? Question2: Which are the best automobile companies in India for a mechanical engineer to work for?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1468",
@@ -16981,7 +16981,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What are good questions? Question2: What are the most important questions?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1545",
@@ -17047,7 +17047,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: How do you write an application for a leave of absence? Question2: How can you write a leave extension request letter?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1551",
@@ -17102,7 +17102,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Is there any difference between the two terminologies, outer join and full outer join? Question2: SQL: What is the difference between various types of joins?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1556",
@@ -17135,7 +17135,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Is China bullying its neighbors in the South China Sea? Question2: Why is China bullying SEA nations in the south China sea?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1559",
@@ -17399,7 +17399,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What will happen to my car if I run out of gas? Question2: What would happen if we ran out of gas now?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1583",
@@ -17509,7 +17509,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What would happen if a Super Star Destroyer appeared above Earth? Question2: What would earth forces do if a Star Destroyer appeared in orbit?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1593",
@@ -17674,7 +17674,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What's the difference between a manager, a director and a chief officer? Question2: What is the difference between a director and managing director?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1608",
@@ -17707,7 +17707,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Do you want a Valentine's Day gift? Question2: What's your Valentine's day gift choice?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1611",
@@ -17795,7 +17795,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: How can a shy person improve his social life? Question2: How do I improve my social life at age 20?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1619",
@@ -18158,7 +18158,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: How is a fraction simplified? Question2: Why do we simplify fractions?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1652",
@@ -18279,7 +18279,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Is salicylic acid or benzoyl peroxide better to prevent cystic acne? Question2: Is benzoyl peroxide or salicylic acid better to get rid of acne?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1663",
@@ -18433,7 +18433,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What is the best book to read for a teen? Question2: What are the best books for a teen girl to read?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1677",
@@ -18444,7 +18444,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What is/are ways to reduce cow slaughter in India? Keeping in mind the laws that ban cow slaughter, negative impact on economy and dividing the masses? Question2: How can we stop cow slaughter in Kerela?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1678",
@@ -18598,7 +18598,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: If I have a triangle whose sides are 31.2009 m, 36.0524 m and 67.3914 m, what’s its area? Question2: If I have a triangle whose sides are 23.3627 m, 47.2099 m and 69.4535 m, what is it's area?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1692",
@@ -18774,7 +18774,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What does it mean when a girl smiles at you? Question2: What does it mean if a girl smiles at you but doesn't talk to you?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1708",
@@ -18873,7 +18873,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Why should we answer on Quora? Question2: What motivates you to answer Quora questions?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1717",
@@ -18906,7 +18906,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Why should we answer on Quora? Question2: How does it benefit you to answer questions on Quora?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1720",
@@ -18972,7 +18972,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What is the corporate culture like at HMS Holdings? How is the culture different than other companies? Question2: What is the corporate culture like at Lincoln Electric Holdings? How is the culture different than other companies?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1726",
@@ -19082,7 +19082,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Why do dumb people are called owl (Ullu) and donkey (Gadha) in India? What is wrong with these animals? Question2: Why are donkeys considered to be dumb animals?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1736",
@@ -19104,7 +19104,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Should people over 98 not be allowed to vote? Question2: Should people over 97 not be allowed to vote?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1738",
@@ -19258,7 +19258,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: How is software design different from web design? Question2: Diffrence betweem web design and graphic design.?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1752",
@@ -19280,7 +19280,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: How risky is laser hair removal? Question2: Is laser hair removal harmful for skin?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1754",
@@ -19313,7 +19313,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What the best way to improve English? Question2: How can I improve fluency in English?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1757",
@@ -19357,7 +19357,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Can u get pregnant the day after your period ends? Question2: Can you get pregnant 16 days after your period?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1761",
@@ -19379,7 +19379,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: How are autistic people different from someone without autism? Question2: How exactly does autism affect a person that makes them different from people without autism?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1763",
@@ -19687,7 +19687,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Tasha marie walls? Question2: Who is Tasha Wahl?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1791",
@@ -19742,7 +19742,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What does cavalry mean? Question2: What is a cavalry?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1796",
@@ -20259,7 +20259,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: How does Zuckerberg earn the money, when facebook is free to the users? Question2: Besides advertisement, how does Facebook earn money?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1843",
@@ -20347,7 +20347,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: If someday a habitable earth-like planet was found, who can decide how it's going to be named? Question2: \"Why was the \"\"Earth\"\" named Earth? Who named it? How have the planets been named?\"\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1851",
@@ -20787,7 +20787,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Which ad networks for mobile native ads have a good fill rate/eCPM balance in Europe? Question2: Which ad networks for mobile native ads have good fill rates in Europe?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1891",
@@ -20798,7 +20798,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: How many hours in a day? Question2: How many hours should be in a day? Why?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1892",
@@ -20864,7 +20864,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: How do I improve my pronunciation in English? Question2: How could I improve my English?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1898",
@@ -21260,7 +21260,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What is the corporate culture like at Square 1 Financial? How is the culture different than other companies? Question2: What is the corporate culture like at Lakeland Financial? How is the culture different than other companies?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1934",
@@ -21271,7 +21271,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What hotel in Pune would be safe for unmarried couples, without the harassment of police, hotel staff, and moral police? Question2: What hotel in Dhanbad would be safe for unmarried couples, without the harassment of police, hotel staff, and moral police?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1935",
@@ -21326,7 +21326,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: My questions haven't changed. Why are they now being marked as needing improvement? Question2: Why do all of my questions on Quora need improvement?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1940",
@@ -21337,7 +21337,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: How do you update your iPod to iOS 5? Question2: How do I update my iPod to iOs 7?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1941",
@@ -21348,7 +21348,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: What does polarity of molecules mean? Question2: What is a polar molecule?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1942",
@@ -21502,7 +21502,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Which are some good websites to download Malayalam ebooks for free (novels)? Question2: What are a few good links through which I can download any eBook for free?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1956",
@@ -21733,7 +21733,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: Who are some good growth hackers in Japan? Question2: Who are the best growth hackers?\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1977",
@@ -21931,7 +21931,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Do the following two questions have the same meaning? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nQuestion1: How can we stop terrorism at its roots, its Idealogy? Question2: How do I stop terrorism?\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1995",

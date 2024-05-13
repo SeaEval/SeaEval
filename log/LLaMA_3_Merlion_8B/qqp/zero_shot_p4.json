@@ -217,7 +217,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: What does Jimmy Wales think of the State of Israel? Question2: What do you think about Israel?\n\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_21",
@@ -228,7 +228,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: What do Spaniards think about Asians (Chinese, Korean)? Question2: What do Koreans think of an East Asian guy who speaks bad Korean?\n\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_22",
@@ -1097,7 +1097,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: \"\"\"I didn't received the item yet\"\": is this grammatically correct?\" Question2: Which one is grammatically correct?\n\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent."
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_101",
@@ -1647,7 +1647,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: Is kissing in public in India a criminal offence? Question2: Is it right or wrong to kiss in public in India?\n\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_151",
@@ -2098,7 +2098,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: How CAN I MARRY A GIRL YOUNGER than ME 10 YEARS? Question2: How do I attract a girl/woman who is 10 years younger than me?\n\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_192",
@@ -4034,7 +4034,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: Are there any Fairy Tale manga in English? Question2: Is Manga like fairy tales?\n\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_368",
@@ -4287,7 +4287,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: What is the infinite flight simulator? Question2: Is it normal for a pilot to have a flight simulator at home?\n\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_391",
@@ -5244,7 +5244,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: Does sexual orientation develop based on mutliple exposures and experiences of sexual life? Question2: Does a person's sexual orientation develop naturally or is it acquired or affected by outside factors?\n\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_478",
@@ -5783,7 +5783,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: What could be the motive of the Indian government to hide the truth behind the death of Bose? Question2: What is the truth behind the death of Subhas Chandra Bose?\n\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_527",
@@ -6003,7 +6003,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: Why is China worried about the India-US relationship? Question2: What is the future of the US-India relationship?\n\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_547",
@@ -7136,7 +7136,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: Where can I find the link for downloading free schweser materials for CFA level 1 exam 2016? Question2: Where can I get Schweser notes for CFA Level 1 December 2016 exam in Delhi?\n\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_650",
@@ -8643,7 +8643,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: What is the funniest joke you've ever heard or read? Question2: What is the best joke you've ever heard? Please keep it clean.\n\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_787",
@@ -9402,7 +9402,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: Why are people usually more scared of stray dogs than stray cats? Question2: Whose life is more challenging, a stray dog's or a stray cat's? Why?\n\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are not semantically equivalent."
     },
     {
         "id": "test_856",
@@ -9688,7 +9688,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: What is the chemical equation for iron and sulphuric acid? Question2: What is the formula for sulphurous acid?\n\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent."
+        "model_prediction": "(B) The two questions are not semantically equivalent"
     },
     {
         "id": "test_882",
@@ -10392,7 +10392,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: How can you attract someone? Question2: How can I not get attracted to someone?\n\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_946",
@@ -10953,7 +10953,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: How do I a stacked bar plot like this in R? (including the values of each bar) Question2: How can I add the values so they appear above the bar and display subgroups in making R histograms?\n\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_997",
@@ -11437,7 +11437,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: What is the best rap song ever made? Question2: What are some of the best rap songs?\n\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1041",
@@ -11591,7 +11591,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: How do I prepare IBPS PO exam 2016? Question2: Should I prepare for IBPS PO 2016?\n\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1055",
@@ -11998,7 +11998,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: What is the best formation in soccer? Question2: What is the best football formation to win?\n\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1092",
@@ -12746,7 +12746,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: What is the average in stock percentage for UK supermarkets? Question2: What is the average in stock percentage for a UK retailer?\n\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1160",
@@ -12878,7 +12878,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: \"What is a \"\"warm\"\" sim card?\" Question2: How do I spoil a SIM card?\n\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1172",
@@ -13120,7 +13120,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: Is Chetan bhagat books worth reading? Question2: Should Indians stop reading chetan bhagat books since they are pointless?\n\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1194",
@@ -14220,7 +14220,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: What are some of the best sales conversations? Question2: What are your best sales conversion tactics?\n\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1294",
@@ -14528,7 +14528,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: How do I start my own TV channel in the US? Question2: How can I start internet TV channel?\n\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1322",
@@ -15056,7 +15056,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: Are public colleges better than private colleges? Question2: Are private schools really that much better than public schools?\n\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1370",
@@ -15859,7 +15859,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: What's something unusual you said or did during a job interview that got you hired? Question2: During an interview, what are some signs that you've said something that made the person suddenly decide that they don't want to take you?\n\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1443",
@@ -16585,7 +16585,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: Do you put chritmas ham on freezer or refrigerator? Question2: What happens to brandy when you put it in the freezer?\n\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1509",
@@ -16794,7 +16794,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: Why did InstantQ fail? Question2: Why do acquisitions almost always fail?\n\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1528",
@@ -18290,7 +18290,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: What do doctors hate that people normally do? Question2: I hate the human species. Is that bad? Explain.\n\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are not semantically equivalent."
     },
     {
         "id": "test_1664",
@@ -18499,7 +18499,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: Is Slack a native app? Question2: Are the Slack mobile applications native or HTML5 based?\n\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1683",
@@ -19126,7 +19126,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: Is world war 3 likely? Question2: How soon is world war III?\n\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1740",
@@ -19357,7 +19357,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: Can u get pregnant the day after your period ends? Question2: Can you get pregnant 16 days after your period?\n\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1761",
@@ -20259,7 +20259,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: How does Zuckerberg earn the money, when facebook is free to the users? Question2: Besides advertisement, how does Facebook earn money?\n\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent"
+        "model_prediction": "(A) The two questions are semantically equivalent"
     },
     {
         "id": "test_1843",
@@ -20545,7 +20545,7 @@
             "(B) The two questions are semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: Who sings the theme song of The Wire in each season? Question2: Who sings the original Scooby Doo theme song?\n\nChoices:\n(A) The two questions are not semantically equivalent\n(B) The two questions are semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(A) The two questions are not semantically equivalent"
+        "model_prediction": "(B) The two questions are semantically equivalent"
     },
     {
         "id": "test_1869",
@@ -21854,7 +21854,7 @@
             "(B) The two questions are not semantically equivalent"
         ],
         "model_input": "Examine the following two questions and determine if they can be considered highly similar. Choose the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion1: Which is the better city to live: Hyderabad or Pune? Question2: Which is the greatest city to live: Chennai or Hyderabad?\n\nChoices:\n(A) The two questions are semantically equivalent\n(B) The two questions are not semantically equivalent\n\nAnswer:\n",
-        "model_prediction": "(B) The two questions are not semantically equivalent."
+        "model_prediction": "(B) The two questions are not semantically equivalent"
     },
     {
         "id": "test_1988",

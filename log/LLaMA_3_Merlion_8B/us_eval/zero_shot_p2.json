@@ -36,7 +36,7 @@
         "question": "There was an accident at a manufacturing plant located in California which state generally allows prevailing parties to collect punitive damages. A worker from Washington was injured at the California plant and she filed suit in federal district court in her home state of Washington. Washington does not generally allow punitive damages. The plaintiff has alleged in their federal lawsuit filed in Washington that they are entitled to punitive damages. The court should",
         "answer": "(C) Apply the punitive damage rule in Washington because that is where the court is located.",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nThere was an accident at a manufacturing plant located in California which state generally allows prevailing parties to collect punitive damages. A worker from Washington was injured at the California plant and she filed suit in federal district court in her home state of Washington. Washington does not generally allow punitive damages. The plaintiff has alleged in their federal lawsuit filed in Washington that they are entitled to punitive damages. The court should\nChoices:\n(A) Apply the punitive damage rule in Washington since that is where the plaintiff resides.\n(B) Let the jury in the case decide which state law of punitive damage should apply based upon their analysis of the relative culpability of the parties.\n(C) Apply the punitive damage rule in Washington because that is where the court is located.\n(D) Apply the punitive damage rule in California since that is where the accident occurred.\nAnswer:\n",
-        "model_prediction": "(D) Apply the punitive damage rule in California since that is where the accident occurred."
+        "model_prediction": "(A) Apply the punitive damage rule in Washington since that is where the plaintiff resides."
     },
     {
         "choices": [
@@ -101,7 +101,7 @@
         "question": "The standard tip in a restaurant is $ 15 \\%$ of the bill before tax. Many people in California find the tip by doubling the sales tax, which is $8.25 \\%$. By how many cents does this exceed the standard tip on a bill of $ \\$60 $ before tax?",
         "answer": "(C) 90",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nThe standard tip in a restaurant is $ 15 \\%$ of the bill before tax. Many people in California find the tip by doubling the sales tax, which is $8.25 \\%$. By how many cents does this exceed the standard tip on a bill of $ \\$60 $ before tax?\nChoices:\n(A) 80\n(B) 60\n(C) 90\n(D) 70\nAnswer:\n",
-        "model_prediction": "The standard tip is $15\\%$ of the bill, which is $0.15 \\times 60 = 9$ dollars."
+        "model_prediction": "Step 1: Calculate the standard tip."
     },
     {
         "choices": [
@@ -218,7 +218,7 @@
         "question": "Which fast food chain used the advertising slogan 'Where's the beef?'",
         "answer": "(B) Wendy's",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nWhich fast food chain used the advertising slogan 'Where's the beef?'\nChoices:\n(A) Burger King\n(B) Wendy's\n(C) McDonald's\n(D) Kentucky Fried Chicken\nAnswer:\n",
-        "model_prediction": "(B) Wendy's"
+        "model_prediction": "(B) Wendy'"
     },
     {
         "choices": [
@@ -244,7 +244,7 @@
         "question": "What was the first American college to become coeducational?",
         "answer": "(D) Oberlin College",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nWhat was the first American college to become coeducational?\nChoices:\n(A) Antioch College\n(B) Grinnell College\n(C) Dartmouth College\n(D) Oberlin College\nAnswer:\n",
-        "model_prediction": "(D) Oberlin College"
+        "model_prediction": "(D) Oberlin Colleg"
     },
     {
         "choices": [
@@ -556,7 +556,7 @@
         "question": "What is the oldest permanent European settlement in the United States?",
         "answer": "(B) Plymouth Massachusetts",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nWhat is the oldest permanent European settlement in the United States?\nChoices:\n(A) Charlotte North Carolina\n(B) Plymouth Massachusetts\n(C) St Augustine Florida\n(D) Newport News Virginia\nAnswer:\n",
-        "model_prediction": "(C) St Augustine Florida"
+        "model_prediction": "Step 1: Read the question carefully and understand what is being asked."
     },
     {
         "choices": [
@@ -712,7 +712,7 @@
         "question": "In which urban US setting below would you expect to find planned communities?",
         "answer": "(A) Suburbs",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nIn which urban US setting below would you expect to find planned communities?\nChoices:\n(A) Suburbs\n(B) Transition zones\n(C) Ghettos\n(D) CBDs\nAnswer:\n",
-        "model_prediction": "(A) Suburbs"
+        "model_prediction": "(A) Suburb"
     },
     {
         "choices": [
@@ -764,7 +764,7 @@
         "question": "How is the word 'ambulance' normally written on the front of American ambulances?",
         "answer": "(A) in reverse",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nHow is the word 'ambulance' normally written on the front of American ambulances?\nChoices:\n(A) in reverse\n(B) in gibberish\n(C) in French\n(D) in braille\nAnswer:\n",
-        "model_prediction": "(A) in reverse"
+        "model_prediction": "(A) in rev"
     },
     {
         "choices": [
@@ -1258,7 +1258,7 @@
         "question": "Among the following groups that have traditionally supposed the Democratic Party, which has the least liberal constituency?",
         "answer": "(D) White Southerners",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nAmong the following groups that have traditionally supposed the Democratic Party, which has the least liberal constituency?\nChoices:\n(A) Northern ethnic minorities\n(B) Labor union members\n(C) African Americans\n(D) White Southerners\nAnswer:\n",
-        "model_prediction": "(D) White Southerners"
+        "model_prediction": "(D) White South"
     },
     {
         "choices": [
@@ -1284,7 +1284,7 @@
         "question": "Which of the following is a formal region?",
         "answer": "(A) Pennsylvania",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nWhich of the following is a formal region?\nChoices:\n(A) Pennsylvania\n(B) The Pacific Northwest\n(C) Dixie\n(D) The market area of Winn-Dixie\nAnswer:\n",
-        "model_prediction": "(D) The market area of Winn-Dixie"
+        "model_prediction": "(D) The market area of Winn-Dixi"
     },
     {
         "choices": [
@@ -1336,7 +1336,7 @@
         "question": "The American health care system is primarily dominated by which network?",
         "answer": "(D) The private sector",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nThe American health care system is primarily dominated by which network?\nChoices:\n(A) None, all are equally important\n(B) The public sector\n(C) The VA system\n(D) The private sector\nAnswer:\n",
-        "model_prediction": "(D) The private secto"
+        "model_prediction": "(D) The private sector"
     },
     {
         "choices": [

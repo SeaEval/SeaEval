@@ -19,7 +19,7 @@
         ],
         "answer": "(B) Answerable",
         "model_input": "Based on the paragraph, can the question be answered? Choose the correct option from the provided choices. Simply select the choice, no explanations required.\nQuestion: What is the name of the United Kingdom operation for BSkyB? Paragraph: The United Kingdom operations also changed the company name from British Sky Broadcasting Limited to Sky UK Limited, still trading as Sky.\nChoices:\n(A) Not Answerable\n(B) Answerable\nAnswer:\n",
-        "model_prediction": "(A) Not Answerabl"
+        "model_prediction": "(B) Answerabl"
     },
     {
         "id": "test_3",

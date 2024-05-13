@@ -30,7 +30,7 @@
         "context": "Sentence1: John was doing research in the library when he heard a man humming and whistling. He was very annoying. Sentence2: John was very annoying.",
         "id": "test_3",
         "model_input": "Choose the correct answer from the provided choices by determining if the second sentence entails the first sentence. Simply select the choice, no explanations required.\nSentence1: John was doing research in the library when he heard a man humming and whistling. He was very annoying. Sentence2: John was very annoying.\nChoices:\n(A) Entailment\n(B) Not Entailment\nAnswer:\n",
-        "model_prediction": "(B) Not Entailment"
+        "model_prediction": "(A) Entailment"
     },
     {
         "answer": "(B) Entailment",

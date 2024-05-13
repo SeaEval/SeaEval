@@ -146,7 +146,7 @@
             ],
             "question": "Bagi Socrates, kehidupan yang tidak diteliti adalah tragedi kerana ia mengakibatkan kemudaratan yang teruk kepada _____.",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nBagi Socrates, kehidupan yang tidak diteliti adalah tragedi kerana ia mengakibatkan kemudaratan yang teruk kepada _____.\n\nChoices:\n(A) negeri\n(B) sistem keadilan\n(C) badan\n(D) jiwa\n\nAnswer:\n",
-            "model_prediction": "(A) negeri"
+            "model_prediction": "(D) jiwa"
         },
         "Indonesian": {
             "answer": "(D) jiwa",
@@ -197,7 +197,7 @@
             ],
             "question": "Khi một số chia cho 4, câu trả lời là 160 với số dư là 2. Số đó là bao nhiêu?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nKhi một số chia cho 4, câu trả lời là 160 với số dư là 2. Số đó là bao nhiêu?\n\nChoices:\n(A) 642\n(B) 638\n(C) 42\n(D) 38\n\nAnswer:\n",
-            "model_prediction": "(D) 38"
+            "model_prediction": "To find the number, we need to determine the original number that, when divided by 4, gives a quotient of 160 and a remainder of 2."
         },
         "Chinese": {
             "answer": "(A) 642",
@@ -257,7 +257,7 @@
             ],
             "question": "When a certain number is divided by 4, the answer is 160 with a remainder of 2. What is the number?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nWhen a certain number is divided by 4, the answer is 160 with a remainder of 2. What is the number?\n\nChoices:\n(A) 642\n(B) 638\n(C) 42\n(D) 38\n\nAnswer:\n",
-            "model_prediction": "(C) 42"
+            "model_prediction": "To find the number, we can use the division formula:"
         }
     },
     {
@@ -842,7 +842,7 @@
             ],
             "question": "Apakah bentuk maklumat yang paling berharga?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nApakah bentuk maklumat yang paling berharga?\n\nChoices:\n(A) Melalui persidangan video\n(B) Bersemuka\n(C) Melalui E-mel\n(D) Melalui telefon\n\nAnswer:\n",
-            "model_prediction": "(B) Bersemuka"
+            "model_prediction": "(C) Melalui E-mel"
         },
         "Indonesian": {
             "answer": "(B) Tatap muka",
@@ -905,7 +905,7 @@
             ],
             "question": "有多少个正整数即是120的因数又是40因数？",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\n有多少个正整数即是120的因数又是40因数？\n\nChoices:\n(A) 1\n(B) 3\n(C) 8\n(D) 4\n\nAnswer:\n",
-            "model_prediction": "(D) 4"
+            "model_prediction": "To find the number of positive integers that are both factors of 120 and 40, we can first find the prime factorization of both numbers."
         },
         "Spanish": {
             "answer": "(C) 8",
@@ -917,7 +917,7 @@
             ],
             "question": "¿Cuántos enteros positivos son factores de 120 y también factores de 40?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\n¿Cuántos enteros positivos son factores de 120 y también factores de 40?\n\nChoices:\n(A) 1\n(B) 3\n(C) 8\n(D) 4\n\nAnswer:\n",
-            "model_prediction": "(B) 3"
+            "model_prediction": "To find the answer, let's analyze the question step by step:"
         },
         "Malay": {
             "answer": "(C) 8",
@@ -953,7 +953,7 @@
             ],
             "question": "How many positive integers are factors of 120 and also factors of 40?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nHow many positive integers are factors of 120 and also factors of 40?\n\nChoices:\n(A) 1\n(B) 3\n(C) 8\n(D) 4\n\nAnswer:\n",
-            "model_prediction": "(B) 3"
+            "model_prediction": "(C) 8"
         }
     },
     {
@@ -1415,7 +1415,7 @@
             ],
             "question": "Tiệm cận nào là tiệm cận lớn nhất?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nTiệm cận nào là tiệm cận lớn nhất?\n\nChoices:\n(A) TRÊN)\n(B) O(logn)\n(C) O(1)\n(D) O(n^2)\n\nAnswer:\n",
-            "model_prediction": "(D) O(n^2)"
+            "model_prediction": "(A) TRÊN)"
         },
         "Chinese": {
             "answer": "(D) O(n^2)",
@@ -1787,7 +1787,7 @@
             ],
             "question": "Según Moore, “el placer es bueno” significa lo mismo que:",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nSegún Moore, “el placer es bueno” significa lo mismo que:\n\nChoices:\n(A) “Se desea el placer”.\n(B) “El placer es placentero”.\n(C) \"Deseamos desear el placer\".\n(D) Ninguna de las anteriores.\n\nAnswer:\n",
-            "model_prediction": "(B) “El placer es placentero”."
+            "model_prediction": "(B) \"El placer es placentero\"."
         },
         "Malay": {
             "answer": "(D) tiada satu pun di atas.",
@@ -1837,7 +1837,7 @@
             ],
             "question": "Sa isang istasyon ng bus, magsisimula ang mga bus sa kanilang mga ruta sa 6:00 a.m. Ang iskedyul para sa dalawa sa mga bus ay batay sa mga agwat ng oras na nakalista sa ibaba.\n* Ang Bus A ay may mahabang ruta at umaalis sa istasyon tuwing 75 minuto.\n* Ang bus ay may maikling ruta at umaalis sa istasyon tuwing 15 minuto.\nAno ang susunod na pagkakataong sabay na aalis ang Bus A at BusB sa istasyon ng bus?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nSa isang istasyon ng bus, magsisimula ang mga bus sa kanilang mga ruta sa 6:00 a.m. Ang iskedyul para sa dalawa sa mga bus ay batay sa mga agwat ng oras na nakalista sa ibaba.\n* Ang Bus A ay may mahabang ruta at umaalis sa istasyon tuwing 75 minuto.\n* Ang bus ay may maikling ruta at umaalis sa istasyon tuwing 15 minuto.\nAno ang susunod na pagkakataong sabay na aalis ang Bus A at BusB sa istasyon ng bus?\n\nChoices:\n(A) 7:15 a.m.\n(B) 8:30 a.m.\n(C) 7:00 a.m.\n(D) 7:30 a.m.\n\nAnswer:\n",
-            "model_prediction": "(C) 7:00 a.m."
+            "model_prediction": "(D) 7:30 a.m."
         },
         "id": "test_22",
         "Vietnamese": {
@@ -2285,7 +2285,7 @@
             ],
             "question": "Nhóm số nào được xếp theo thứ tự từ bé đến lớn?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nNhóm số nào được xếp theo thứ tự từ bé đến lớn?\n\nChoices:\n(A) 0,25 1,0 1,6\n(B) 1,0 0,25 1,6\n(C) 1,6 1,0 0,25\n(D) 0,25 1,6 1,0\n\nAnswer:\n",
-            "model_prediction": "(B) 1,0 0,25 1,6"
+            "model_prediction": "(D) 0,25 1,6 1,0"
         },
         "Chinese": {
             "answer": "(A) 0.25 1.0 1.6",
@@ -2546,7 +2546,7 @@
             ],
             "question": "Phát biểu nào sau đây đúng về dự báo trong kinh tế lượng?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nPhát biểu nào sau đây đúng về dự báo trong kinh tế lượng?\n\nChoices:\n(A) Khả năng dự báo trong mẫu là một thử nghiệm kém về tính đầy đủ của mô hình\n(B) Dự báo cấu trúc được thực hiện đơn giản hơn so với dự báo từ các mô hình chuỗi thời gian\n(C) Dự báo chỉ có thể được thực hiện cho dữ liệu chuỗi thời gian\n(D) Các mô hình được chỉ định sai chắc chắn sẽ tạo ra những dự báo không chính xác\n\nAnswer:\n",
-            "model_prediction": "(B) Dự báo cấu trúc được thực hiện đơn giản hơn so với dự báo từ các mô hình chuỗi thời gia"
+            "model_prediction": "(D) Các mô hình được chỉ định sai chắc chắn sẽ tạo ra những dự báo không chính xác"
         },
         "Chinese": {
             "answer": "(A) 样本内预测能力不足以检验模型的充分性",
@@ -2707,7 +2707,7 @@
             ],
             "question": "Nagbasa si Jerry ng 200-pahinang libro sa loob ng 10 oras. Sa bilis na iyon, gaano katagal siya magbabasa ng 320-pahinang aklat?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nNagbasa si Jerry ng 200-pahinang libro sa loob ng 10 oras. Sa bilis na iyon, gaano katagal siya magbabasa ng 320-pahinang aklat?\n\nChoices:\n(A) 32 oras\n(B) 16 na oras\n(C) 24 na oras\n(D) 18 oras\n\nAnswer:\n",
-            "model_prediction": "(C) 24 na ora"
+            "model_prediction": "(B) 16 na ora"
         },
         "id": "test_32",
         "Vietnamese": {
@@ -2744,7 +2744,7 @@
             ],
             "question": "Jerry leyó un libro de 200 páginas en 10 horas. A ese ritmo, ¿cuánto tiempo le llevará leer un libro de 320 páginas?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nJerry leyó un libro de 200 páginas en 10 horas. A ese ritmo, ¿cuánto tiempo le llevará leer un libro de 320 páginas?\n\nChoices:\n(A) 32 horas\n(B) 16 horas\n(C) 24 horas\n(D) 18 horas\n\nAnswer:\n",
-            "model_prediction": "(B) 16 hora"
+            "model_prediction": "To find the answer, we need to determine how many pages Jerry reads per hour and then use that information to calculate how long it would take him to read a 320-page book."
         },
         "Malay": {
             "answer": "(B) 16 jam",
@@ -2780,7 +2780,7 @@
             ],
             "question": "Jerry read a 200-page book in 10 hours. At that rate, how long will it take him to read a 320-page book?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nJerry read a 200-page book in 10 hours. At that rate, how long will it take him to read a 320-page book?\n\nChoices:\n(A) 32 hours\n(B) 16 hours\n(C) 24 hours\n(D) 18 hours\n\nAnswer:\n",
-            "model_prediction": "(B) 16 hours"
+            "model_prediction": "(B) 16 hou"
         }
     },
     {
@@ -2831,7 +2831,7 @@
             ],
             "question": "Un gráfico discreto está completo si hay una arista que conecta cualquier par de vértices. ¿Cuántas aristas tiene un gráfico completo con 10 vértices?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nUn gráfico discreto está completo si hay una arista que conecta cualquier par de vértices. ¿Cuántas aristas tiene un gráfico completo con 10 vértices?\n\nChoices:\n(A) 10\n(B) 20\n(C) 25\n(D) 45\n\nAnswer:\n",
-            "model_prediction": "(C) 25"
+            "model_prediction": "To determine the number of edges in a complete graph with 10 vertices, we can use the formula:"
         },
         "Malay": {
             "answer": "(D) 45",
@@ -2867,7 +2867,7 @@
             ],
             "question": "A discrete graph is complete if there is an edge connecting any pair of vertices. How many edges does a complete graph with 10 vertices have?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nA discrete graph is complete if there is an edge connecting any pair of vertices. How many edges does a complete graph with 10 vertices have?\n\nChoices:\n(A) 10\n(B) 20\n(C) 25\n(D) 45\n\nAnswer:\n",
-            "model_prediction": "(C) 25"
+            "model_prediction": "(C) 45"
         }
     },
     {
@@ -3029,7 +3029,7 @@
             ],
             "question": "Apa yang membuat suatu hubungan bertahan lama, menurut Sternberg?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nApa yang membuat suatu hubungan bertahan lama, menurut Sternberg?\n\nChoices:\n(A) komitmen\n(B) keintiman\n(C) gairah\n(D) keputusan\n\nAnswer:\n",
-            "model_prediction": "komitm"
+            "model_prediction": ""
         },
         "English": {
             "answer": "(A) commitment",
@@ -3068,7 +3068,7 @@
             ],
             "question": "Giải phương trình v − 26 = 68.",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nGiải phương trình v − 26 = 68.\n\nChoices:\n(A) 42\n(B) 94\n(C) 88\n(D) −42\n\nAnswer:\n",
-            "model_prediction": "To solve the given equation, we need to isolate the variable 'v'. Let's go step by step:"
+            "model_prediction": "To solve the given equation, we need to isolate the variable 'v'. "
         },
         "Chinese": {
             "answer": "(B) 94",
@@ -3080,7 +3080,7 @@
             ],
             "question": "求解方程 v − 26 = 68。",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\n求解方程 v − 26 = 68。\n\nChoices:\n(A) 42\n(B) 94\n(C) 88\n(D) −42\n\nAnswer:\n",
-            "model_prediction": "(A) 42"
+            "model_prediction": "To solve the equation v - 26 = 68, follow these steps:"
         },
         "Spanish": {
             "answer": "(B) 94",
@@ -3092,7 +3092,7 @@
             ],
             "question": "Resuelve la ecuación v − 26 = 68.",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nResuelve la ecuación v − 26 = 68.\n\nChoices:\n(A) 42\n(B) 94\n(C) 88\n(D) −42\n\nAnswer:\n",
-            "model_prediction": "(D) -42"
+            "model_prediction": "To solve the equation v - 26 = 68, follow these steps:"
         },
         "Malay": {
             "answer": "(B) 94",
@@ -3128,7 +3128,7 @@
             ],
             "question": "Solve the equation v − 26 = 68.",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nSolve the equation v − 26 = 68.\n\nChoices:\n(A) 42\n(B) 94\n(C) 88\n(D) −42\n\nAnswer:\n",
-            "model_prediction": "To solve the equation v - 26 = 68, we need to isolate the variable v. Let's go step by step:"
+            "model_prediction": "To solve the equation v - 26 = 68, follow these steps:"
         }
     },
     {
@@ -3142,7 +3142,7 @@
             ],
             "question": "Ipagpalagay na ang angular na paghihiwalay ng dalawang bituin ay mas maliit kaysa sa angular na resolusyon ng iyong mga mata. Paano lilitaw ang mga bituin sa iyong mga mata?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nIpagpalagay na ang angular na paghihiwalay ng dalawang bituin ay mas maliit kaysa sa angular na resolusyon ng iyong mga mata. Paano lilitaw ang mga bituin sa iyong mga mata?\n\nChoices:\n(A) Makakakita ka ng dalawang natatanging bituin.\n(B) Ang dalawang bituin ay lilitaw na magkasanib na mukhang isang maliit na dumbbell.\n(C) Hindi mo talaga makikita ang dalawang bituin na ito.\n(D) Ang dalawang bituin ay magmumukhang isang punto ng liwanag.\n\nAnswer:\n",
-            "model_prediction": "(B) Ang dalawang bituin ay lilitaw na magkasanib na mukhang isang maliit na dumbbell."
+            "model_prediction": "(D) Ang dalawang bituin ay magmumukhang isang punto ng liwanag."
         },
         "id": "test_37",
         "Vietnamese": {
@@ -3266,7 +3266,7 @@
             ],
             "question": "La capacidad de las empresas para entrar y salir de un mercado a lo largo del tiempo significa que",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nLa capacidad de las empresas para entrar y salir de un mercado a lo largo del tiempo significa que\n\nChoices:\n(A) el costo marginal es cero\n(B) La curva de oferta de largo plazo es más inelástica.\n(C) el ingreso marginal es cero\n(D) La curva de oferta de largo plazo es más elástica.\n\nAnswer:\n",
-            "model_prediction": "(B) La curva de oferta de largo plazo es más inelástica."
+            "model_prediction": "(D) La curva de oferta de largo plazo es más elástica."
         },
         "Malay": {
             "answer": "(D) keluk penawaran jangka panjang lebih anjal",
@@ -3503,7 +3503,7 @@
             ],
             "question": "Sự tiến hóa qua lại song song của các loài có liên quan chặt chẽ với nhau, được minh họa bằng mối quan hệ săn mồi-con mồi.",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nSự tiến hóa qua lại song song của các loài có liên quan chặt chẽ với nhau, được minh họa bằng mối quan hệ săn mồi-con mồi.\n\nChoices:\n(A) Tiến hóa hội tụ\n(B) Sự tiến hóa khác nhau\n(C) đồng tiến hóa\n(D) Tiến hóa song song\n\nAnswer:\n",
-            "model_prediction": "(D) Tiến hóa song song"
+            "model_prediction": "(C) đồng tiến hóa"
         },
         "Chinese": {
             "answer": "(C) 共同进化",
@@ -3527,7 +3527,7 @@
             ],
             "question": "La evolución en tándem de ida y vuelta de especies estrechamente relacionadas, que se ejemplifica en las relaciones depredador-presa.",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nLa evolución en tándem de ida y vuelta de especies estrechamente relacionadas, que se ejemplifica en las relaciones depredador-presa.\n\nChoices:\n(A) Evolución convergente\n(B) Evolución divergente\n(C) Coevolución\n(D) Evolución paralela\n\nAnswer:\n",
-            "model_prediction": "(C) Coevolució"
+            "model_prediction": "(C) Coevolutio"
         },
         "Malay": {
             "answer": "(C) Koevolusi",
@@ -3602,7 +3602,7 @@
             ],
             "question": "中午，实验人员有50克放射性同位素。 9 天后的中午，只剩下 45 克。精确到一天，实验开始后多少天只有20克？",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\n中午，实验人员有50克放射性同位素。 9 天后的中午，只剩下 45 克。精确到一天，实验开始后多少天只有20克？\n\nChoices:\n(A) 59\n(B) 60\n(C) 78\n(D) 54\n\nAnswer:\n",
-            "model_prediction": "(D) 54"
+            "model_prediction": "(B) 60"
         },
         "Spanish": {
             "answer": "(C) 78",
@@ -3677,7 +3677,7 @@
             ],
             "question": "Bạn muốn bắt đầu điều trị cho những khách hàng tin rằng họ đã bị người ngoài hành tinh bắt cóc, nhưng bạn chưa bao giờ làm việc với những thành viên thuộc nhóm này trước đây. Cách hành động tốt nhất của bạn sẽ là:",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nBạn muốn bắt đầu điều trị cho những khách hàng tin rằng họ đã bị người ngoài hành tinh bắt cóc, nhưng bạn chưa bao giờ làm việc với những thành viên thuộc nhóm này trước đây. Cách hành động tốt nhất của bạn sẽ là:\n\nChoices:\n(A) đặt một quảng cáo trên National Enquirer để cho các thành viên trong nhóm này biết về tính sẵn có của các dịch vụ của bạn.\n(B) tham gia một lớp giáo dục thường xuyên liên quan đến việc đối xử với các thành viên của nhóm dân số này.\n(C) bắt đầu gặp gỡ những khách hàng này sau khi thiết lập mối quan hệ tư vấn với một người quen thuộc với nhóm đối tượng này.\n(D) bắt đầu gặp những khách hàng này và tham khảo ý kiến ​​của người quen thuộc với nhóm đối tượng này nếu bạn gặp bất kỳ vấn đề nào.\n\nAnswer:\n",
-            "model_prediction": "(A) đặt một quảng cáo trên National Enquirer để cho các thành viên trong nhóm này biết về tính sẵn có của các dịch vụ của bạn."
+            "model_prediction": "(C) bắt đầu gặp gỡ những khách hàng này sau khi thiết lập mối quan hệ tư vấn với một người quen thuộc với nhóm đối tượng này."
         },
         "Chinese": {
             "answer": "(C) 在与熟悉这些客户的人建立咨询关系后，开始会见这些客户。",
@@ -3689,7 +3689,7 @@
             ],
             "question": "您想要开始治疗那些认为自己被外星人绑架的客户，但您以前从未与该人群的成员合作过。您最好的行动方案是：",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\n您想要开始治疗那些认为自己被外星人绑架的客户，但您以前从未与该人群的成员合作过。您最好的行动方案是：\n\nChoices:\n(A) 在《国家询问报》上刊登广告，让该人群了解您的服务的可用性。\n(B) 参加与该人群的待遇相关的继续教育课程。\n(C) 在与熟悉这些客户的人建立咨询关系后，开始会见这些客户。\n(D) 开始见见这些客户，如果遇到任何问题，请咨询熟悉该人群的人。\n\nAnswer:\n",
-            "model_prediction": "(D) 开始见见这些客户，如果遇到任何问题，请咨询熟悉该人群的人。"
+            "model_prediction": "C"
         },
         "Spanish": {
             "answer": "(C) empezar a ver a estos clientes después de establecer una relación de consulta con alguien que esté familiarizado con esta población.",
@@ -3788,7 +3788,7 @@
             ],
             "question": "Un abrigo tiene un precio de lista de $325,00. Durante noviembre no se vendió y el comerciante lo rebajó un 20 por ciento. Luego, en diciembre, lo rebajó un 10 por ciento adicional. ¿Cuánto pagaría en dólares un comprador navideño en diciembre por el abrigo?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nUn abrigo tiene un precio de lista de $325,00. Durante noviembre no se vendió y el comerciante lo rebajó un 20 por ciento. Luego, en diciembre, lo rebajó un 10 por ciento adicional. ¿Cuánto pagaría en dólares un comprador navideño en diciembre por el abrigo?\n\nChoices:\n(A) $234.00\n(B) $286.00\n(C) $227.50\n(D) $290.00\n\nAnswer:\n",
-            "model_prediction": "(C) $227.50"
+            "model_prediction": "To find the final price of the coat, we need to apply both discounts to the original price."
         },
         "Malay": {
             "answer": "(A) $234.00",
@@ -3938,7 +3938,7 @@
             ],
             "question": "Sử dụng định lý Fermat, tìm số dư của 3^47 khi chia cho 23.",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nSử dụng định lý Fermat, tìm số dư của 3^47 khi chia cho 23.\n\nChoices:\n(A) 1\n(B) 2\n(C) 3\n(D) 4\n\nAnswer:\n",
-            "model_prediction": "(B) 2"
+            "model_prediction": "To find the remainder when 3^47 is divided by 23, we can use Fermat's Little Theorem. Fermat's Little Theorem states that for any prime number p and any integer a not divisible by p, we have:"
         },
         "Chinese": {
             "answer": "(D) 4",
@@ -3962,7 +3962,7 @@
             ],
             "question": "Usando el teorema de Fermat, encuentra el resto de 3^47 cuando se divide por 23.",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nUsando el teorema de Fermat, encuentra el resto de 3^47 cuando se divide por 23.\n\nChoices:\n(A) 1\n(B) 2\n(C) 3\n(D) 4\n\nAnswer:\n",
-            "model_prediction": "(A) 1"
+            "model_prediction": "To find the remainder of 3^47 when divided by 23, we can use Fermat's Little Theorem. Fermat's Little Theorem states that for any prime number p and any integer a not divisible by p, we have:"
         },
         "Malay": {
             "answer": "(D) 4",
@@ -3998,7 +3998,7 @@
             ],
             "question": "Using Fermat's theorem, find the remainder of 3^47 when it is divided by 23.",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nUsing Fermat's theorem, find the remainder of 3^47 when it is divided by 23.\n\nChoices:\n(A) 1\n(B) 2\n(C) 3\n(D) 4\n\nAnswer:\n",
-            "model_prediction": "(A) 1"
+            "model_prediction": "To find the remainder of 3^47 when it is divided by 23, we can use Fermat's Little Theorem. Fermat's Little Theorem states that for any prime number p and any integer a not divisible by p, we have:"
         }
     },
     {
@@ -4571,7 +4571,7 @@
             ],
             "question": "¿Cuál de las siguientes es la mejor estimación para 4286 × 390?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\n¿Cuál de las siguientes es la mejor estimación para 4286 × 390?\n\nChoices:\n(A) 1.200.000\n(B) 12.000.000\n(C) 1.600.000\n(D) 16.000\n\nAnswer:\n",
-            "model_prediction": "(B) 12.000.000"
+            "model_prediction": "To find the most appropriate answer, we will perform the multiplication step by step."
         },
         "Malay": {
             "answer": "(C) 1,600,000",
@@ -4694,7 +4694,7 @@
             ],
             "question": "Perchloric acid (HClO4) is considered one of the stronger acids in existence. Which of the following statements corresponds most accurately with strong acids?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nPerchloric acid (HClO4) is considered one of the stronger acids in existence. Which of the following statements corresponds most accurately with strong acids?\n\nChoices:\n(A) Ka is less than 1\n(B) They have an open electron spot on their outer valence rings\n(C) They remain bound in the presence of water.\n(D) They have stable conjugate bases\n\nAnswer:\n",
-            "model_prediction": "(D) They have stable conjugate bases"
+            "model_prediction": "(D) They have stable conjugate ba"
         }
     },
     {
@@ -5230,7 +5230,7 @@
             ],
             "question": "Ang dopamine ay inireseta sa bilis na 4 micrograms/kg/min. Para sa isang 65 kg na tao, ilang milligrams ang matatanggap nila sa isang oras?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nAng dopamine ay inireseta sa bilis na 4 micrograms/kg/min. Para sa isang 65 kg na tao, ilang milligrams ang matatanggap nila sa isang oras?\n\nChoices:\n(A) 156\n(B) 15600\n(C) 15.6\n(D) 1.56\n\nAnswer:\n",
-            "model_prediction": "(B) 15600"
+            "model_prediction": "(C) 15.6"
         },
         "id": "test_61",
         "Vietnamese": {
@@ -5267,7 +5267,7 @@
             ],
             "question": "La dopamina se prescribe a razón de 4 microgramos/kg/min. Para una persona de 65 kg ¿cuantos miligramos recibira en una hora?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nLa dopamina se prescribe a razón de 4 microgramos/kg/min. Para una persona de 65 kg ¿cuantos miligramos recibira en una hora?\n\nChoices:\n(A) 156\n(B) 15600\n(C) 15.6\n(D) 1.56\n\nAnswer:\n",
-            "model_prediction": "(B) 15600"
+            "model_prediction": "To find the amount of dopamine a 65 kg person would receive in an hour, we need to multiply the dose by the person's weight and then by the number of minutes in an hour."
         },
         "Malay": {
             "answer": "(C) 15.6",
@@ -5303,7 +5303,7 @@
             ],
             "question": "Dopamine is prescribed at a rate of 4 micrograms/kg/min. For a 65 kg person, how many milligrams will they receive in an hour?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nDopamine is prescribed at a rate of 4 micrograms/kg/min. For a 65 kg person, how many milligrams will they receive in an hour?\n\nChoices:\n(A) 156\n(B) 15600\n(C) 15.6\n(D) 1.56\n\nAnswer:\n",
-            "model_prediction": "(B) 15600"
+            "model_prediction": "To find the amount of dopamine a 65 kg person will receive in an hour, we need to multiply the rate (4 micrograms/kg/min) by the person's weight (65 kg) and then convert the result to milligrams."
         }
     },
     {
@@ -5404,7 +5404,7 @@
             ],
             "question": "Lutasin ang kabuuan ng lahat ng posibleng halaga ng $x$ kapag $3^{x^2+4x+4}=9^{x+2}$.",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nLutasin ang kabuuan ng lahat ng posibleng halaga ng $x$ kapag $3^{x^2+4x+4}=9^{x+2}$.\n\nChoices:\n(A) 2\n(B) 1\n(C) 0\n(D) -2\n\nAnswer:\n",
-            "model_prediction": "To solve this problem, we need to find the value of x that satisfies the given equation:"
+            "model_prediction": "To solve the given equation, we can start by simplifying the equation:"
         },
         "id": "test_63",
         "Vietnamese": {
@@ -5417,7 +5417,7 @@
             ],
             "question": "Tính tổng của tất cả các giá trị có thể có của $x$ khi $3^{x^2+4x+4}=9^{x+2}$.",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nTính tổng của tất cả các giá trị có thể có của $x$ khi $3^{x^2+4x+4}=9^{x+2}$.\n\nChoices:\n(A) 2\n(B) 1\n(C) 0\n(D) -2\n\nAnswer:\n",
-            "model_prediction": "(C) 0"
+            "model_prediction": "To find the answer, we first need to solve the equation $3^{x^2+4x+4}=9^{x+2}$ for $x$."
         },
         "Chinese": {
             "answer": "(D) -2",
@@ -5429,7 +5429,7 @@
             ],
             "question": "当 $3^{x^2+4x+4}=9^{x+2}$时，求解$x$所有可能值的总和。",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\n当 $3^{x^2+4x+4}=9^{x+2}$时，求解$x$所有可能值的总和。\n\nChoices:\n(A) 2\n(B) 1\n(C) 0\n(D) -2\n\nAnswer:\n",
-            "model_prediction": "To solve the given equation, we can first rewrite it as:"
+            "model_prediction": "To solve the equation, we first need to rewrite it in a more convenient form. We can rewrite the equation as follows:"
         },
         "Spanish": {
             "answer": "(D) -2",
@@ -5441,7 +5441,7 @@
             ],
             "question": "Resuelva la suma de todos los valores posibles de $x$ cuando $3^{x^2+4x+4}=9^{x+2}$.",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nResuelva la suma de todos los valores posibles de $x$ cuando $3^{x^2+4x+4}=9^{x+2}$.\n\nChoices:\n(A) 2\n(B) 1\n(C) 0\n(D) -2\n\nAnswer:\n",
-            "model_prediction": "To solve the given equation, we can start by taking the logarithm of both sides:"
+            "model_prediction": "To solve the equation, we first need to rewrite the equation in a more convenient form. We can rewrite the equation as:"
         },
         "Malay": {
             "answer": "(D) -2",
@@ -5453,7 +5453,7 @@
             ],
             "question": "Selesaikan jumlah semua kemungkinan nilai bagi $x$ apabila $3^{x^2+4x+4}=9^{x+2}$.",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nSelesaikan jumlah semua kemungkinan nilai bagi $x$ apabila $3^{x^2+4x+4}=9^{x+2}$.\n\nChoices:\n(A) 2\n(B) 1\n(C) 0\n(D) -2\n\nAnswer:\n",
-            "model_prediction": "(B) 1"
+            "model_prediction": "To solve this problem, we first need to simplify the equation and find the value of x."
         },
         "Indonesian": {
             "answer": "(D) -2",
@@ -5465,7 +5465,7 @@
             ],
             "question": "Selesaikan jumlah semua kemungkinan nilai $x$ ketika $3^{x^2+4x+4}=9^{x+2}$.",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nSelesaikan jumlah semua kemungkinan nilai $x$ ketika $3^{x^2+4x+4}=9^{x+2}$.\n\nChoices:\n(A) 2\n(B) 1\n(C) 0\n(D) -2\n\nAnswer:\n",
-            "model_prediction": "Step 1: Simplify the equation."
+            "model_prediction": "To solve this problem, we first need to simplify the equation and find the possible values of x."
         },
         "English": {
             "answer": "(D) -2",
@@ -5627,7 +5627,7 @@
             ],
             "question": "Apabila pendapatan yang boleh digunakan meningkat sebanyak $X",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nApabila pendapatan yang boleh digunakan meningkat sebanyak $X\n\nChoices:\n(A) penjimatan meningkat sebanyak tepat $X .\n(B) penjimatan tetap berterusan.\n(C) penggunaan meningkat lebih daripada $X .\n(D) penjimatan meningkat kurang daripada $X .\n\nAnswer:\n",
-            "model_prediction": "(D) penjimatan meningkat kurang daripada $X."
+            "model_prediction": "(C) penggunaan meningkat lebih daripada $X."
         },
         "Indonesian": {
             "answer": "(D) penabungan meningkat kurang dari $X .",
@@ -5801,7 +5801,7 @@
             ],
             "question": "Mengapakah perlu dipertimbangkan dengan teliti untuk menyediakan sumber maklumat yang berasaskan internet kepada orang yang berumur lebih dari 65 tahun?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nMengapakah perlu dipertimbangkan dengan teliti untuk menyediakan sumber maklumat yang berasaskan internet kepada orang yang berumur lebih dari 65 tahun?\n\nChoices:\n(A) Mereka mungkin tidak dapat menaip.\n(B) Kurang daripada 30% orang yang berumur lebih 65 tahun mempunyai akses kepada internet.\n(C) Mereka mungkin mengalami kesukaran membaca skrin.\n(D) Internet ditujukan kepada golongan muda.\n\nAnswer:\n",
-            "model_prediction": "(B) Kurang daripada 30% orang yang berumur lebih 65 tahun mempunyai akses kepada internet."
+            "model_prediction": "B"
         },
         "Indonesian": {
             "answer": "(B) Kurang dari 30% orang berusia di atas 65 tahun memiliki akses ke internet.",
@@ -5813,7 +5813,7 @@
             ],
             "question": "Mengapa pertimbangan yang cermat harus diberikan untuk menyediakan sumber informasi berbasis internet bagi orang yang berusia di atas 65 tahun?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nMengapa pertimbangan yang cermat harus diberikan untuk menyediakan sumber informasi berbasis internet bagi orang yang berusia di atas 65 tahun?\n\nChoices:\n(A) Mereka mungkin tidak bisa mengetik.\n(B) Kurang dari 30% orang berusia di atas 65 tahun memiliki akses ke internet.\n(C) Mereka mungkin kesulitan membaca layar.\n(D) Internet ditujukan untuk generasi muda.\n\nAnswer:\n",
-            "model_prediction": "(C) Mereka mungkin kesulitan membaca layar."
+            "model_prediction": "(C) Mereya mungkin kesulitan membaca layar."
         },
         "English": {
             "answer": "(B) Less than 30% of people over 65 years have access to the internet.",
@@ -5825,7 +5825,7 @@
             ],
             "question": "Why should careful consideration be given to providing people aged over 65 with information sources that are internet based?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nWhy should careful consideration be given to providing people aged over 65 with information sources that are internet based?\n\nChoices:\n(A) They may not be able to type.\n(B) Less than 30% of people over 65 years have access to the internet.\n(C) They may have difficulty reading the screen.\n(D) The internet is aimed at younger people.\n\nAnswer:\n",
-            "model_prediction": "(B) Less than 30% of people over 65 years have access to the internet."
+            "model_prediction": "B"
         }
     },
     {
@@ -6050,7 +6050,7 @@
             ],
             "question": "Si un tren de carga viaja a una velocidad de 20 millas por hora durante 6 horas, ¿qué distancia recorrerá?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nSi un tren de carga viaja a una velocidad de 20 millas por hora durante 6 horas, ¿qué distancia recorrerá?\n\nChoices:\n(A) 120 millas\n(B) 26 millas\n(C) 80 millas\n(D) 12 millas\n\nAnswer:\n",
-            "model_prediction": "(A) 120 milla"
+            "model_prediction": "To find the distance traveled by the train, we can use the formula:"
         },
         "Malay": {
             "answer": "(A) 120 batu",
@@ -6374,7 +6374,7 @@
             ],
             "question": "Trong trường hợp nào sau đây tỷ lệ mắc bệnh trong quần thể sẽ tăng lên, các bệnh khác không đổi?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nTrong trường hợp nào sau đây tỷ lệ mắc bệnh trong quần thể sẽ tăng lên, các bệnh khác không đổi?\n\nChoices:\n(A) Nếu tỷ lệ mắc bệnh giảm.\n(B) Nếu bệnh khỏi nhanh hơn.\n(C) Nếu dân số trong đó bệnh được đo tăng lên.\n(D) Nếu thời gian sống sót với bệnh tăng lên.\n\nAnswer:\n",
-            "model_prediction": "(C) Nếu dân số trong đó bệnh được đo tăng lên."
+            "model_prediction": "(D) Nếu thời gian sống sót với bệnh tăng lên."
         },
         "Chinese": {
             "answer": "(D) 如果生存时间随着疾病的增加而增加。",
@@ -6485,7 +6485,7 @@
             ],
             "question": "Un equipo de voluntarios recaudó un total de 5.144 dólares vendiendo camisetas en un concierto benéfico. Cada camiseta se vendió por $8. ¿Cuál fue el número total de camisetas que vendieron los voluntarios?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nUn equipo de voluntarios recaudó un total de 5.144 dólares vendiendo camisetas en un concierto benéfico. Cada camiseta se vendió por $8. ¿Cuál fue el número total de camisetas que vendieron los voluntarios?\n\nChoices:\n(A) 668\n(B) 632\n(C) 655\n(D) 643\n\nAnswer:\n",
-            "model_prediction": "(B) 632"
+            "model_prediction": "To find the number of camisetas sold, we need to divide the total amount raised by the price of each camiseta."
         },
         "Malay": {
             "answer": "(D) 643",
@@ -6509,7 +6509,7 @@
             ],
             "question": "Sebuah tim sukarelawan mengumpulkan total $5.144 dengan menjual T-shirt di konser amal. Setiap T-shirt dijual seharga $8. Berapa jumlah total kaos yang dijual para relawan?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nSebuah tim sukarelawan mengumpulkan total $5.144 dengan menjual T-shirt di konser amal. Setiap T-shirt dijual seharga $8. Berapa jumlah total kaos yang dijual para relawan?\n\nChoices:\n(A) 668\n(B) 632\n(C) 655\n(D) 643\n\nAnswer:\n",
-            "model_prediction": "(B) 632"
+            "model_prediction": "To find the number of T-shirts sold, we can use the formula:"
         },
         "English": {
             "answer": "(D) 643",
@@ -6746,7 +6746,7 @@
             ],
             "question": "Si la gente espera que el precio de un producto en particular aumente en el futuro cercano",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nSi la gente espera que el precio de un producto en particular aumente en el futuro cercano\n\nChoices:\n(A) esto disminuirá la demanda del producto.\n(B) esto no afectará la demanda del producto ahora o más adelante.\n(C) esto aumentará la demanda del producto.\n(D) Esto no afectará la demanda del producto en este momento.\n\nAnswer:\n",
-            "model_prediction": "(C) esto aumentará la demanda del producto."
+            "model_prediction": "(A) esto disminuirá la demanda del producto."
         },
         "Malay": {
             "answer": "(C) ini akan meningkatkan permintaan terhadap produk tersebut.",
@@ -6956,7 +6956,7 @@
             ],
             "question": "A teacher buys the folders listed below.\n* 5 boxes of red folders with 36 folders in each box\n* 6 boxes of blue folders with 32 folders in each box\nWhich number is closest to the total number of red and blue folders that the teacher buys?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nA teacher buys the folders listed below.\n* 5 boxes of red folders with 36 folders in each box\n* 6 boxes of blue folders with 32 folders in each box\nWhich number is closest to the total number of red and blue folders that the teacher buys?\n\nChoices:\n(A) 440\n(B) 380\n(C) 550\n(D) 275\n\nAnswer:\n",
-            "model_prediction": "(C) 550"
+            "model_prediction": "(B) 380"
         }
     },
     {
@@ -7331,7 +7331,7 @@
             ],
             "question": "Câu trả lời nào dưới đây chỉ ra rõ nhất các nhóm máu tương thích có thể được truyền cho người có nhóm máu B (rhesus âm tính)?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nCâu trả lời nào dưới đây chỉ ra rõ nhất các nhóm máu tương thích có thể được truyền cho người có nhóm máu B (rhesus âm tính)?\n\nChoices:\n(A) Nhóm máu B (Rhesus âm tính) và nhóm máu O (Rhesus âm tính).\n(B) Nhóm máu AB (Rhesus âm tính), nhóm máu B và nhóm máu O (Rhesus âm tính).\n(C) Chỉ có nhóm máu B (Rhesus âm tính).\n(D) Nhóm máu B (rhesus dương tính) và nhóm máu O (rhesus dương tính).\n\nAnswer:\n",
-            "model_prediction": "(B) Nhóm máu AB (Rhesus âm tính), nhóm máu B và nhóm máu O (Rhesus âm tính)."
+            "model_prediction": "(A) Nhóm máu B (Rhesus âm tính) và nhóm máu O (Rhesus âm tính)."
         },
         "Chinese": {
             "answer": "(A) B 型血（Rh阴性）和 O 型血（Rh阴性）。",
@@ -7343,7 +7343,7 @@
             ],
             "question": "以下哪一个答案最能表明 B 型血（Rh阴性）的人可以输注的相容血型？",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\n以下哪一个答案最能表明 B 型血（Rh阴性）的人可以输注的相容血型？\n\nChoices:\n(A) B 型血（Rh阴性）和 O 型血（Rh阴性）。\n(B) AB 型血（Rh阴性）、B 型血和 O 型血（Rh阴性）。\n(C) 仅限 B 型血（Rh阴性）。\n(D) B 型血（Rh阳性）和 O 型血（Rh阳性）。\n\nAnswer:\n",
-            "model_prediction": "(B) AB 型血（Rh阴性）、B 型血和 O 型血（Rh阴性）。"
+            "model_prediction": "(A) B 型血（Rh阴性）和 O 型血（Rh阴性）。"
         },
         "Spanish": {
             "answer": "(A) Tipo de sangre B (Rh negativo) y tipo de sangre O (Rh negativo).",
@@ -7666,7 +7666,7 @@
             ],
             "question": "Alin sa mga sumusunod na pahayag tungkol sa sidereal at solar days ang hindi totoo?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nAlin sa mga sumusunod na pahayag tungkol sa sidereal at solar days ang hindi totoo?\n\nChoices:\n(A) Ang oras na kinakailangan para ang Araw ay makagawa ng isang pag-ikot ng ating kalangitan ay isang solar day.\n(B) Ang oras na kailangan ng Buwan upang makagawa ng isang pag-ikot ng ating kalangitan ay isang solar day.\n(C) Ang solar day ay kumakatawan sa higit sa 360ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â° ng pag-ikot para sa mundo.\n(D) Ang solar day ay 4 na minutong mas mahaba kaysa sa sidereal day.\n\nAnswer:\n",
-            "model_prediction": "(D) Ang solar day ay 4 na minutong mas mahaba kaysa sa sidereal day."
+            "model_prediction": "(B) Ang oras na kailangan ng Buwan upang makagawa ng isang pag-ikot ng ating kalangitan ay isang solar day."
         },
         "id": "test_89",
         "Vietnamese": {
@@ -7703,7 +7703,7 @@
             ],
             "question": "¿Cuál de las siguientes afirmaciones sobre los días sidéreos y solares no es cierta?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\n¿Cuál de las siguientes afirmaciones sobre los días sidéreos y solares no es cierta?\n\nChoices:\n(A) El tiempo que tarda el Sol en dar una vuelta por nuestro cielo es un día solar.\n(B) El tiempo que tarda la Luna en dar una vuelta por nuestro cielo es un día solar.\n(C) Un día solar representa más de 360° de rotación de la Tierra.\n(D) Un día solar dura 4 minutos más que un día sidéreo.\n\nAnswer:\n",
-            "model_prediction": "(B) El tiempo que tarda la Luna en dar una vuelta por nuestro cielo es un día solar."
+            "model_prediction": "B"
         },
         "Malay": {
             "answer": "(B) Masa yang diperlukan Bulan untuk membuat satu litar langit mengambil tempoh masa satu hari suria.",
@@ -7940,7 +7940,7 @@
             ],
             "question": "Một hộp có khối lượng 10kg trượt theo phương ngang không ma sát với vận tốc 1m/s. Tại một thời điểm, một lực không đổi tác dụng vào hộp theo hướng chuyển động của nó. Hộp chuyển động được 5 m với lực không đổi. Sau đó lực được loại bỏ, để lại hộp với tốc độ 2 m/s. Biểu thức nào sau đây cho biết độ lớn của lực tác dụng?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nMột hộp có khối lượng 10kg trượt theo phương ngang không ma sát với vận tốc 1m/s. Tại một thời điểm, một lực không đổi tác dụng vào hộp theo hướng chuyển động của nó. Hộp chuyển động được 5 m với lực không đổi. Sau đó lực được loại bỏ, để lại hộp với tốc độ 2 m/s. Biểu thức nào sau đây cho biết độ lớn của lực tác dụng?\n\nChoices:\n(A) 3 N\n(B) 4 N\n(C) 2 N\n(D) 1 N\n\nAnswer:\n",
-            "model_prediction": "(C) 2 N"
+            "model_prediction": "To find the answer, let's analyze the given information step by step:"
         },
         "Chinese": {
             "answer": "(A) 3N",
@@ -7964,7 +7964,7 @@
             ],
             "question": "Una caja de 10 kg se desliza horizontalmente sin fricción a una velocidad de 1 m/s. En un punto, se aplica una fuerza constante a la caja en la dirección de su movimiento. La caja recorre 5 m con la fuerza constante aplicada. Luego se elimina la fuerza, dejando la caja con una rapidez de 2 m/s. ¿Cuál de las siguientes da la magnitud de la fuerza aplicada?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nUna caja de 10 kg se desliza horizontalmente sin fricción a una velocidad de 1 m/s. En un punto, se aplica una fuerza constante a la caja en la dirección de su movimiento. La caja recorre 5 m con la fuerza constante aplicada. Luego se elimina la fuerza, dejando la caja con una rapidez de 2 m/s. ¿Cuál de las siguientes da la magnitud de la fuerza aplicada?\n\nChoices:\n(A) 3 N\n(B) 4 N\n(C) 2 N\n(D) 1 N\n\nAnswer:\n",
-            "model_prediction": "(C) 2 N"
+            "model_prediction": "To find the magnitude of the force applied, we can use the work-energy theorem. The work done by the force is equal to the change in kinetic energy of the box."
         },
         "Malay": {
             "answer": "(A) 3 N",
@@ -7976,7 +7976,7 @@
             ],
             "question": "Sebuah kotak 10 kg meluncur mendatar tanpa geseran dengan kelajuan 1 m/s. Daya malar pula dikenakan pada kotak mengikut arah pergerakannya. Kotak itu bergerak sejauh 5 m dengan daya malar yang dikenakan. Daya kemudian dikeluarkan, meninggalkan kotak dengan kelajuan 2 m/s. Antara berikut, yang manakah memberikan magnitud daya yang dikenakan?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nSebuah kotak 10 kg meluncur mendatar tanpa geseran dengan kelajuan 1 m/s. Daya malar pula dikenakan pada kotak mengikut arah pergerakannya. Kotak itu bergerak sejauh 5 m dengan daya malar yang dikenakan. Daya kemudian dikeluarkan, meninggalkan kotak dengan kelajuan 2 m/s. Antara berikut, yang manakah memberikan magnitud daya yang dikenakan?\n\nChoices:\n(A) 3 N\n(B) 4 N\n(C) 2 N\n(D) 1 N\n\nAnswer:\n",
-            "model_prediction": "(C) 2 N"
+            "model_prediction": "To find the correct answer, we need to analyze the given information and apply the necessary physics concepts."
         },
         "Indonesian": {
             "answer": "(A) 3 N",
@@ -8201,7 +8201,7 @@
             ],
             "question": "Nhìn từ Trái đất, Mặt trăng trải qua một loạt các pha do những thay đổi nào sau đây?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nNhìn từ Trái đất, Mặt trăng trải qua một loạt các pha do những thay đổi nào sau đây?\n\nChoices:\n(A) Phần của Mặt Trăng hướng về Trái Đất khi Mặt Trăng quay quanh trục của nó\n(B) Phần bề mặt của Mặt trăng nằm trong bóng của Trái đất\n(C) Lượng mặt được chiếu sáng của Mặt trăng có thể nhìn thấy từ Trái đất\n(D) Độ nghiêng của Mặt trăng trên trục của nó\n\nAnswer:\n",
-            "model_prediction": "(C) Lượng mặt được chiếu sáng của Mặt trăng có thể nhìn thấy từ Trái đất"
+            "model_prediction": "(A) Phần của Mặt Trăng hướng về Trái Đất khi Mặt Trăng quay quanh trục của nó"
         },
         "Chinese": {
             "answer": "(C) 从地球上可以看到的月球被照亮面的数量",
@@ -8375,7 +8375,7 @@
             ],
             "question": "Tại sao các ứng dụng được phát triển bằng các ngôn ngữ như C, C++ lại dễ bị tràn bộ đệm?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nTại sao các ứng dụng được phát triển bằng các ngôn ngữ như C, C++ lại dễ bị tràn bộ đệm?\n\nChoices:\n(A) Không kiểm tra cơ sở dữ liệu\n(B) Không kiểm tra sức mạnh xử lý\n(C) Không có kiểm tra ranh giới chuỗi trong các hàm được xác định trước\n(D) Không kiểm tra lưu trữ trong bộ nhớ ngoài\n\nAnswer:\n",
-            "model_prediction": "(C) Không có kiểm tra ranh giới chuỗi trong các hàm được xác định trước"
+            "model_prediction": "C"
         },
         "Chinese": {
             "answer": "(C) 预定义函数中没有字符串边界检查",
@@ -8498,7 +8498,7 @@
             ],
             "question": "Asid nitrus adalah asid lemah, manakala asid nitrik adalah asid yang lebih kuat kerana",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nAsid nitrus adalah asid lemah, manakala asid nitrik adalah asid yang lebih kuat kerana\n\nChoices:\n(A) asid nitrik mempunyai atom hidrogen yang terikat terus kepada atom nitrogen\n(B) ikatan –O–H dalam asid nitrik jauh lebih lemah daripada asid nitrus disebabkan oleh penarikan elektron atom oksigen yang lebih banyak pada asid nitrik\n(C) nitrogen dalam asid nitrik adalah lebih elektronegatif daripada nitrogen dalam asid nitrus\n(D) asid nitrik mempunyai lebih banyak atom oksigen dalam formulanya\n\nAnswer:\n",
-            "model_prediction": "(B) ikatan –O–H dalam asid nitrik jauh lebih lemah daripada asid nitrus disebabkan oleh penarikan elektron atom oksigen yang lebih banyak pada asid nitrik"
+            "model_prediction": "(A) asid nitrik mempunyai atom hidrogen yang terikat terus kepada atom nitrog"
         },
         "Indonesian": {
             "answer": "(B) ikatan –O–H dalam asam nitrat jauh lebih lemah dibandingkan asam nitrat karena penarikan elektron lebih banyak atom oksigen pada asam nitrat",
@@ -8536,7 +8536,7 @@
             ],
             "question": "Alin sa mga sumusunod ang paraan ng pagpapatunay?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nAlin sa mga sumusunod ang paraan ng pagpapatunay?\n\nChoices:\n(A) Lihim na Katanungan\n(B) Biometric\n(C) SMS code\n(D) Lahat ng nabanggit\n\nAnswer:\n",
-            "model_prediction": "(D) Lahat ng nabanggit"
+            "model_prediction": "(B) Biometric"
         },
         "id": "test_99",
         "Vietnamese": {
@@ -8549,7 +8549,7 @@
             ],
             "question": "Phương thức nào sau đây là phương thức xác thực?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nPhương thức nào sau đây là phương thức xác thực?\n\nChoices:\n(A) Câu hỏi bí mật\n(B) sinh trắc học\n(C) mã tin nhắn\n(D) Tất cả những phương pháp trên\n\nAnswer:\n",
-            "model_prediction": "(B) sinh trắc học"
+            "model_prediction": "(D) Tất cả những phương pháp trê"
         },
         "Chinese": {
             "answer": "(D) 上述所有的",
@@ -9131,7 +9131,7 @@
             ],
             "question": "All other things being equal, which of the following persons is likely to live the longest?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nAll other things being equal, which of the following persons is likely to live the longest?\n\nChoices:\n(A) A white woman\n(B) A black woman\n(C) A black man\n(D) A white man\n\nAnswer:\n",
-            "model_prediction": "(A) A white woma"
+            "model_prediction": "(D) A white ma"
         }
     },
     {
@@ -9530,7 +9530,7 @@
             ],
             "question": "¿Cuál de las siguientes afirmaciones es cierta respecto de la hematemesis?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\n¿Cuál de las siguientes afirmaciones es cierta respecto de la hematemesis?\n\nChoices:\n(A) Un historial de alcohol no es esencial.\n(B) Una presión arterial baja (<90 mmHg sistólica) y una taquicardia (>100/min) son características preocupantes\n(C) Una frecuencia de pulso de 80/min en un paciente que toma Bisoprolol es tranquilizadora\n(D) El dolor abdominal siempre está presente.\n\nAnswer:\n",
-            "model_prediction": "(B) Una presión arterial baja (<90 mmHg sistólica) y una taquicardia (>100/min) son características preocupant"
+            "model_prediction": "(B) Una presión arterial baja (<90 mmHg sistólica) y una taquicardia (>100/min) son características preocupantes."
         },
         "Malay": {
             "answer": "(B) Tekanan darah rendah (<90mmHg sistolik) dan takikardia (>100/min) adalah ciri yang membimbangkan",
@@ -9965,7 +9965,7 @@
             ],
             "question": "La curva de demanda agregada tiene una pendiente negativa en parte porque cuando aumenta el nivel de precios",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nLa curva de demanda agregada tiene una pendiente negativa en parte porque cuando aumenta el nivel de precios\n\nChoices:\n(A) el valor del efectivo aumenta\n(B) las importaciones se vuelven relativamente más caras\n(C) la cantidad real de dinero aumenta\n(D) la tasa de interés aumenta\n\nAnswer:\n",
-            "model_prediction": "(B) las importaciones se vuelven relativamente más caras"
+            "model_prediction": "(B) las importaciones se vuelven relativamente más cara"
         },
         "Malay": {
             "answer": "(D) kadar faedah meningkat",
@@ -9989,7 +9989,7 @@
             ],
             "question": "Kurva permintaan agregat memiliki kemiringan negatif karena tingkat harga meningkat",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nKurva permintaan agregat memiliki kemiringan negatif karena tingkat harga meningkat\n\nChoices:\n(A) nilai uang tunai meningkat\n(B) impor menjadi relatif lebih mahal\n(C) jumlah uang yang sebenarnya meningkat\n(D) tingkat bunga meningkat\n\nAnswer:\n",
-            "model_prediction": "(D) tingkat bunga meningkat"
+            "model_prediction": "(B) impor menjadi relatif lebih mahal"
         },
         "English": {
             "answer": "(D) the interest rate increases",
@@ -10052,7 +10052,7 @@
             ],
             "question": "La evidencia fósil indica que hace 1,8 millones de años, había evolucionado un nuevo homínido conocido como _______.",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nLa evidencia fósil indica que hace 1,8 millones de años, había evolucionado un nuevo homínido conocido como _______.\n\nChoices:\n(A) Homo erectus\n(B) homo habilis\n(C) Australopithecus afarensis\n(D) Homo sapiens\n\nAnswer:\n",
-            "model_prediction": "(A) Homo erectu"
+            "model_prediction": "(C) Australopithecus afarensi"
         },
         "Malay": {
             "answer": "(A) Homo erectus",
@@ -10537,7 +10537,7 @@
             ],
             "question": "Ano ang pinakamaliit na positive integer na may mga factor na 16, 15, at 12?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nAno ang pinakamaliit na positive integer na may mga factor na 16, 15, at 12?\n\nChoices:\n(A) 12\n(B) 240\n(C) 840\n(D) 22\n\nAnswer:\n",
-            "model_prediction": "(B) 240"
+            "model_prediction": "(D) 22"
         },
         "id": "test_122",
         "Vietnamese": {
@@ -10550,7 +10550,7 @@
             ],
             "question": "Số nguyên dương nhỏ nhất có thừa số 16, 15 và 12 là bao nhiêu?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nSố nguyên dương nhỏ nhất có thừa số 16, 15 và 12 là bao nhiêu?\n\nChoices:\n(A) 12\n(B) 240\n(C) 840\n(D) 22\n\nAnswer:\n",
-            "model_prediction": "(B) 240"
+            "model_prediction": "To find the smallest positive integer with factors 16, 15, and 12, we need to find the least common multiple (LCM) of these numbers."
         },
         "Chinese": {
             "answer": "(B) 240",
@@ -10736,7 +10736,7 @@
             ],
             "question": "以下都是电磁波，除了",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\n以下都是电磁波，除了\n\nChoices:\n(A) 微波炉\n(B) 光波\n(C) X光检查\n(D) 以上所有都是电磁波\n\nAnswer:\n",
-            "model_prediction": "(C) X光检查"
+            "model_prediction": "(D) 以上所有都是电磁波"
         },
         "Spanish": {
             "answer": "(D) Ninguno está fuera de la familia; todas son ondas electromagnéticas",
@@ -10910,7 +10910,7 @@
             ],
             "question": "什么特征不代表 IIb 型肌纤维？",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\n什么特征不代表 IIb 型肌纤维？\n\nChoices:\n(A) 氧化能力低\n(B) 高运动单位强度\n(C) 高抗疲劳性\n(D) 收缩速度快\n\nAnswer:\n",
-            "model_prediction": "(B) 高运动单位强度"
+            "model_prediction": "(A) 氧化能力低"
         },
         "Spanish": {
             "answer": "(C) Alta resistencia a la fatiga",
@@ -11183,7 +11183,7 @@
             ],
             "question": "Se encuentra que una muestra de un compuesto que se sabe que está formado únicamente por carbono, hidrógeno y oxígeno tiene una masa total de 29.05 g. Si la masa del carbono es 18.02 g y la masa del hidrógeno es 3.03 g, ¿cuál es la fórmula empírica del compuesto?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nSe encuentra que una muestra de un compuesto que se sabe que está formado únicamente por carbono, hidrógeno y oxígeno tiene una masa total de 29.05 g. Si la masa del carbono es 18.02 g y la masa del hidrógeno es 3.03 g, ¿cuál es la fórmula empírica del compuesto?\n\nChoices:\n(A) C3H8O2\n(B) C3H6O\n(C) C2H4O\n(D) C2H6O3\n\nAnswer:\n",
-            "model_prediction": "(B) C3H6O"
+            "model_prediction": "To determine the empirical formula of the compound, we need to find the mole ratio of carbon, hydrogen, and oxygen in the compound."
         },
         "Malay": {
             "answer": "(B) C3H6O",
@@ -11207,7 +11207,7 @@
             ],
             "question": "Suatu sampel senyawa yang diketahui hanya terdiri dari karbon, hidrogen, dan oksigen diketahui mempunyai massa total 29,05 g. Jika massa karbon adalah 18,02 g dan massa hidrogen adalah 3,03 g, berapakah rumus empiris senyawa tersebut?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nSuatu sampel senyawa yang diketahui hanya terdiri dari karbon, hidrogen, dan oksigen diketahui mempunyai massa total 29,05 g. Jika massa karbon adalah 18,02 g dan massa hidrogen adalah 3,03 g, berapakah rumus empiris senyawa tersebut?\n\nChoices:\n(A) C3H8O2\n(B) C3H6O\n(C) C2H4O\n(D) C2H6O3\n\nAnswer:\n",
-            "model_prediction": "(C) C2H4O"
+            "model_prediction": "To find the answer, we need to determine the ratio of carbon, hydrogen, and oxygen in the compound. We are given the mass of carbon, hydrogen, and oxygen, and we need to find the empirical formula."
         },
         "English": {
             "answer": "(B) C3H6O",
@@ -11219,7 +11219,7 @@
             ],
             "question": "A sample of a compound known to consist of only carbon, hydrogen, and oxygen is found to have a total mass of 29.05 g. If the mass of the carbon is 18.02 g and the mass of the hydrogen is 3.03 g, what is the empirical formula of the compound?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nA sample of a compound known to consist of only carbon, hydrogen, and oxygen is found to have a total mass of 29.05 g. If the mass of the carbon is 18.02 g and the mass of the hydrogen is 3.03 g, what is the empirical formula of the compound?\n\nChoices:\n(A) C3H8O2\n(B) C3H6O\n(C) C2H4O\n(D) C2H6O3\n\nAnswer:\n",
-            "model_prediction": "(C) C2H4O"
+            "model_prediction": "To determine the empirical formula of the compound, we need to find the mole ratio of carbon, hydrogen, and oxygen in the compound."
         }
     },
     {
@@ -11345,7 +11345,7 @@
             ],
             "question": "上周末桑杰看了 3 部电视节目，每部时长 30 分钟。他还在电视上看了一部时长 90 分钟的电影。桑杰上周末看电视的总分钟数是多少？",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\n上周末桑杰看了 3 部电视节目，每部时长 30 分钟。他还在电视上看了一部时长 90 分钟的电影。桑杰上周末看电视的总分钟数是多少？\n\nChoices:\n(A) 120\n(B) 180\n(C) 150\n(D) 100\n\nAnswer:\n",
-            "model_prediction": "(C) 150"
+            "model_prediction": "(B) 180"
         },
         "Spanish": {
             "answer": "(B) 180",
@@ -11381,7 +11381,7 @@
             ],
             "question": "Akhir pekan lalu Sanjay menonton 3 acara televisi yang masing-masing berdurasi 30 menit. Ia juga menonton 1 film di televisi yang berdurasi 90 menit. Berapa total menit Sanjay menonton televisi akhir pekan lalu?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nAkhir pekan lalu Sanjay menonton 3 acara televisi yang masing-masing berdurasi 30 menit. Ia juga menonton 1 film di televisi yang berdurasi 90 menit. Berapa total menit Sanjay menonton televisi akhir pekan lalu?\n\nChoices:\n(A) 120\n(B) 180\n(C) 150\n(D) 100\n\nAnswer:\n",
-            "model_prediction": "(C) 150"
+            "model_prediction": "(B) 180"
         },
         "English": {
             "answer": "(B) 180",
@@ -11444,7 +11444,7 @@
             ],
             "question": "Jess anotó 18 puntos durante su último partido de baloncesto. Cada canasta que hizo valía 2 puntos. ¿Cuántas canastas hizo?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nJess anotó 18 puntos durante su último partido de baloncesto. Cada canasta que hizo valía 2 puntos. ¿Cuántas canastas hizo?\n\nChoices:\n(A) 8\n(B) 20\n(C) 9\n(D) 16\n\nAnswer:\n",
-            "model_prediction": "(D) 16"
+            "model_prediction": "To find out how many baskets Jess made, we need to divide the total points by the points per basket."
         },
         "Malay": {
             "answer": "(C) 9",
@@ -11618,7 +11618,7 @@
             ],
             "question": "¿Para cuál de los siguientes destinos es más probable que el objetivo de una proteína recién sintetizada se requieran dos péptidos señal diferentes?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\n¿Para cuál de los siguientes destinos es más probable que el objetivo de una proteína recién sintetizada se requieran dos péptidos señal diferentes?\n\nChoices:\n(A) Membrana plasmática\n(B) citosol\n(C) cloroplasto\n(D) lisosoma\n\nAnswer:\n",
-            "model_prediction": "(D) lisosoma"
+            "model_prediction": "(A) Membrana plasmática"
         },
         "Malay": {
             "answer": "(C) Kloroplas",
@@ -11630,7 +11630,7 @@
             ],
             "question": "Penyasaran protein yang baru disintesis berkemungkinan besar memerlukan dua peptida isyarat berbeza untuk destinasi berikut yang mana?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nPenyasaran protein yang baru disintesis berkemungkinan besar memerlukan dua peptida isyarat berbeza untuk destinasi berikut yang mana?\n\nChoices:\n(A) Membran plasma\n(B) Sitosol\n(C) Kloroplas\n(D) Lisosom\n\nAnswer:\n",
-            "model_prediction": "(C) Kloropla"
+            "model_prediction": "(A) Membran plasma"
         },
         "Indonesian": {
             "answer": "(C) Kloroplas",
@@ -11855,7 +11855,7 @@
             ],
             "question": "Sử dụng Tính chất Kết hợp của Phép nhân để rút gọn 8 • (−7) • (−1).",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nSử dụng Tính chất Kết hợp của Phép nhân để rút gọn 8 • (−7) • (−1).\n\nChoices:\n(A) 56\n(B) −63\n(C) −56\n(D) 48\n\nAnswer:\n",
-            "model_prediction": "(B) -63"
+            "model_prediction": "To answer this question, we need to apply the distributive property of multiplication, which states that a • (b + c) = (a • b) + (a • c)."
         },
         "Chinese": {
             "answer": "(B) −63",
@@ -11867,7 +11867,7 @@
             ],
             "question": "利用乘法的结合律来化简8•(−7)•(−1)。",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\n利用乘法的结合律来化简8•(−7)•(−1)。\n\nChoices:\n(A) 56\n(B) −63\n(C) −56\n(D) 48\n\nAnswer:\n",
-            "model_prediction": "(B) -63"
+            "model_prediction": "To solve this problem, we need to apply the distributive property and the commutative property of multiplication. "
         },
         "Spanish": {
             "answer": "(B) −63",
@@ -11879,7 +11879,7 @@
             ],
             "question": "Usa la propiedad asociativa de la multiplicación para simplificar 8 • (−7) • (−1).",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nUsa la propiedad asociativa de la multiplicación para simplificar 8 • (−7) • (−1).\n\nChoices:\n(A) 56\n(B) −63\n(C) −56\n(D) 48\n\nAnswer:\n",
-            "model_prediction": "To solve this problem, we will use the associative property of multiplication. The associative property states that the way the numbers are grouped does not affect the result."
+            "model_prediction": "To solve this problem, we will use the associative property of multiplication, which states that the way the numbers are grouped does not affect the result."
         },
         "Malay": {
             "answer": "(B) −63",
@@ -11903,7 +11903,7 @@
             ],
             "question": "Gunakan Sifat Asosiatif Perkalian untuk menyederhanakan 8 • (−7) • (−1).",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nGunakan Sifat Asosiatif Perkalian untuk menyederhanakan 8 • (−7) • (−1).\n\nChoices:\n(A) 56\n(B) −63\n(C) −56\n(D) 48\n\nAnswer:\n",
-            "model_prediction": "(B) -63"
+            "model_prediction": "To solve this problem, we need to use the distributive property of multiplication. The distributive property states that a • (b + c) = (a • b) + (a • c)."
         },
         "English": {
             "answer": "(B) −63",
@@ -11915,7 +11915,7 @@
             ],
             "question": "Use the Associative Property of Multiplication to simplify 8 • (−7) • (−1).",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nUse the Associative Property of Multiplication to simplify 8 • (−7) • (−1).\n\nChoices:\n(A) 56\n(B) −63\n(C) −56\n(D) 48\n\nAnswer:\n",
-            "model_prediction": "To answer this question, we need to apply the Associative Property of Multiplication. The Associative Property states that the way the numbers are grouped does not affect the result of the multiplication."
+            "model_prediction": "To simplify the expression using the Associative Property of Multiplication, we need to group the factors and apply the multiplication in a different order. The Associative Property states that the way in which the factors are grouped does not affect the result of the multiplication."
         }
     },
     {
@@ -11942,7 +11942,7 @@
             ],
             "question": "Tổng số người mắc chứng rối loạn nào đó chia cho tổng số người sẽ cho bạn tỷ lệ ____.",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nTổng số người mắc chứng rối loạn nào đó chia cho tổng số người sẽ cho bạn tỷ lệ ____.\n\nChoices:\n(A) Tỷ lệ phát sinh\n(B) Mới bắt đầu\n(C) Bị bệnh\n(D) Tỷ lệ phổ biến\n\nAnswer:\n",
-            "model_prediction": "(A) Tỷ lệ phát sinh"
+            "model_prediction": "(D) Tỷ lệ phổ biế"
         },
         "Chinese": {
             "answer": "(D) 患病率",
@@ -12290,7 +12290,7 @@
             ],
             "question": "Điều nào sau đây KHÔNG phải là rối loạn lo âu?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nĐiều nào sau đây KHÔNG phải là rối loạn lo âu?\n\nChoices:\n(A) rối loạn hoảng sợ\n(B) Chứng sợ đám đông\n(C) chứng nghi bệnh\n(D) Dẫn tới chấn thương tâm lý\n\nAnswer:\n",
-            "model_prediction": "(A) rối loạn hoảng sợ"
+            "model_prediction": "(D) Dẫn tới chấn thương tâm lý"
         },
         "Chinese": {
             "answer": "(C) 疑病症",
@@ -12836,7 +12836,7 @@
             ],
             "question": "¿Qué es cierto sobre los orígenes de la civilización minoica?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\n¿Qué es cierto sobre los orígenes de la civilización minoica?\n\nChoices:\n(A) Los primeros humanos cruzaron un puente terrestre hacia Creta alrededor del 150.000 a.P. y gradualmente se convirtieron en minoicos.\n(B) La cultura cretense era una mezcla de elementos egipcios y mesopotámicos.\n(C) Creta fue colonizada por los egipcios, quienes llamaron a la isla \"Minoa\".\n(D) Creta estaba poblada por griegos y otros, pero la cultura minoica fue un desarrollo local.\n\nAnswer:\n",
-            "model_prediction": "(C) Creta fue colonizada por los egipcios, quienes llamaron a la isla \"Minoa\"."
+            "model_prediction": "C"
         },
         "Malay": {
             "answer": "(D) Crete dihuni oleh orang Yunani dan lain-lain, tetapi budaya Minoan adalah pembangunan tempatan.",
@@ -12986,7 +12986,7 @@
             ],
             "question": "Điều nào sau đây là một dạng tổn hại mà những người tham gia nghiên cứu có thể phải gánh chịu?",
             "model_input": "Respond to the question by selecting the most appropriate answer. Simply select the answer, no explanations required.\n\nQuestion:\nĐiều nào sau đây là một dạng tổn hại mà những người tham gia nghiên cứu có thể phải gánh chịu?\n\nChoices:\n(A) Chấn thương vật lý\n(B) Căng thẳng và lo lắng\n(C) Suy giảm sự phát triển\n(D) Tất cả những điều trên\n\nAnswer:\n",
-            "model_prediction": "(B) Căng thẳng và lo lắng"
+            "model_prediction": "(D) Tất cả những điều trê"
         },
         "Chinese": {
             "answer": "(D) 上述所有的",

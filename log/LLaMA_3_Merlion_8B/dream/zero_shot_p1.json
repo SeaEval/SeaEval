@@ -452,7 +452,7 @@
         "context": "M: How about driving into the country on Thursday?\n W: Well, I'll see if I can get the afternoon off, and I'd like to see my parents first.",
         "question": "What would the man like to do?",
         "model_input": "Examine the dialogue and choose the suitable response to the question. Simply select the choice, no explanations required.\n\nDialogue:\nM: How about driving into the country on Thursday?\n W: Well, I'll see if I can get the afternoon off, and I'd like to see my parents first.\n\nQuestion:\nWhat would the man like to do?\n\nChoices:\n(A) To visit his parents.\n(B) To drive to the countryside.\n(C) To travel to another country.\n\nAnswer:\n",
-        "model_prediction": "(B) To drive to the countryside."
+        "model_prediction": "(A) To visit his parents."
     },
     {
         "answer": "(A) King-size beds.",
@@ -491,7 +491,7 @@
         "context": "F: Where is my black pencil?\n M: I'm sorry. I don't know.",
         "question": "What is the woman looking for?",
         "model_input": "Examine the dialogue and choose the suitable response to the question. Simply select the choice, no explanations required.\n\nDialogue:\nF: Where is my black pencil?\n M: I'm sorry. I don't know.\n\nQuestion:\nWhat is the woman looking for?\n\nChoices:\n(A) A blue pen.\n(B) A colour TV set.\n(C) A black pencil.\n\nAnswer:\n",
-        "model_prediction": "(C) A black pencil."
+        "model_prediction": "C"
     },
     {
         "answer": "(B) He has not decided yet.",
@@ -1102,7 +1102,7 @@
         "context": "M: Can you give me some tips for my coming interview?\n W: The first thing is try to make a good impression.\n M: How do I do that?\n W: First, firmly shake the interviewer's hand while greeting him or her with a smile. Be sure to keep eye contact.\n M: Ah, body language is really important, isn't it?\n W: Yes. The second thing is to have confidence. You get confidence from being prepared.\n M: What should I do for that?\n W: Learn a little bit about the company before the interview. Also think of possible questions and answers.\n M: Should I recite my answers?\n W: No, you should sound natural when you speak.\n M: Should I ask about the salary?\n W: No. You'll let them bring up the topic of money, or else wait for a second interview.",
         "question": "What should the man do before the interview?",
         "model_input": "Examine the dialogue and choose the suitable response to the question. Simply select the choice, no explanations required.\n\nDialogue:\nM: Can you give me some tips for my coming interview?\n W: The first thing is try to make a good impression.\n M: How do I do that?\n W: First, firmly shake the interviewer's hand while greeting him or her with a smile. Be sure to keep eye contact.\n M: Ah, body language is really important, isn't it?\n W: Yes. The second thing is to have confidence. You get confidence from being prepared.\n M: What should I do for that?\n W: Learn a little bit about the company before the interview. Also think of possible questions and answers.\n M: Should I recite my answers?\n W: No, you should sound natural when you speak.\n M: Should I ask about the salary?\n W: No. You'll let them bring up the topic of money, or else wait for a second interview.\n\nQuestion:\nWhat should the man do before the interview?\n\nChoices:\n(A) Practice handshaking.\n(B) Recite the answers to possible questions.\n(C) Get some information about the company.\n\nAnswer:\n",
-        "model_prediction": "(C) Get some information about the company."
+        "model_prediction": "C"
     },
     {
         "answer": "(B) An electrician.",
@@ -5600,7 +5600,7 @@
         "context": "M: So how old is your daughter?\n F: One is five, and another is three.",
         "question": "How many children the woman have?",
         "model_input": "Examine the dialogue and choose the suitable response to the question. Simply select the choice, no explanations required.\n\nDialogue:\nM: So how old is your daughter?\n F: One is five, and another is three.\n\nQuestion:\nHow many children the woman have?\n\nChoices:\n(A) One.\n(B) Not less than two.\n(C) More than two.\n\nAnswer:\n",
-        "model_prediction": "(C) More than two."
+        "model_prediction": "(B) Not less than two."
     },
     {
         "answer": "(B) 11:45.",
@@ -5743,7 +5743,7 @@
         "context": "M: I try to watch TV as little as possible, but it's so hard.\n W: I didn't watch TV at all before I retired, but now I can hardly tear myself away from it.",
         "question": "What do we learn from the conversation?",
         "model_input": "Examine the dialogue and choose the suitable response to the question. Simply select the choice, no explanations required.\n\nDialogue:\nM: I try to watch TV as little as possible, but it's so hard.\n W: I didn't watch TV at all before I retired, but now I can hardly tear myself away from it.\n\nQuestion:\nWhat do we learn from the conversation?\n\nChoices:\n(A) The speakers have nothing to do but watch TV.\n(B) The woman can hardly tell what she likes.\n(C) The speakers like watching TV very much.\n\nAnswer:\n",
-        "model_prediction": "(C) The speakers like watching TV very much."
+        "model_prediction": "(A) The speakers have nothing to do but watch TV."
     },
     {
         "answer": "(C) To walk dogs in the streets.",
@@ -6042,7 +6042,7 @@
         "context": "W: What can I do for you?\n M: I would like to buy some notebooks. How much is a notebook?\n W: Two yuan.\n M: I also want some pencils.\n W: How many do you want?\n M: Five notebooks and four pencils.\n W: Did you say five notebooks and four pencils?\n M: Yes. You're right.\n W: Oh, that's twelve yuan.\n M: Here you are.\n W: Thanks. Here are your notebooks and pencils.\n M: Thank you.",
         "question": "How much do the pencils cost?",
         "model_input": "Examine the dialogue and choose the suitable response to the question. Simply select the choice, no explanations required.\n\nDialogue:\nW: What can I do for you?\n M: I would like to buy some notebooks. How much is a notebook?\n W: Two yuan.\n M: I also want some pencils.\n W: How many do you want?\n M: Five notebooks and four pencils.\n W: Did you say five notebooks and four pencils?\n M: Yes. You're right.\n W: Oh, that's twelve yuan.\n M: Here you are.\n W: Thanks. Here are your notebooks and pencils.\n M: Thank you.\n\nQuestion:\nHow much do the pencils cost?\n\nChoices:\n(A) 4 yuan.\n(B) 6 yuan.\n(C) 2 yuan.\n\nAnswer:\n",
-        "model_prediction": "(C) 2 yuan."
+        "model_prediction": "(A) 4 yuan."
     },
     {
         "answer": "(C) Pink.",
@@ -7992,7 +7992,7 @@
         "context": "W: I'm not sure about this soup, Carl. It has no taste.\n M: No! I don't think so, Maria. It tastes fine to me. We've been to this place before, and I don't feel the soup tastes any different.\n W: Well, I still think it needs something. Salt?\n M: No, certainly not. What about pepper? If anything, I think it could use a little more of that.\n W: Now you're talking. That's exactly what it needs. And how about some more onions too?\n M: I don't know about that. You seem to be starting to like food with strong tastes recently.\n W: Oh, really?",
         "question": "What does Maria think of the soup?",
         "model_input": "Examine the dialogue and choose the suitable response to the question. Simply select the choice, no explanations required.\n\nDialogue:\nW: I'm not sure about this soup, Carl. It has no taste.\n M: No! I don't think so, Maria. It tastes fine to me. We've been to this place before, and I don't feel the soup tastes any different.\n W: Well, I still think it needs something. Salt?\n M: No, certainly not. What about pepper? If anything, I think it could use a little more of that.\n W: Now you're talking. That's exactly what it needs. And how about some more onions too?\n M: I don't know about that. You seem to be starting to like food with strong tastes recently.\n W: Oh, really?\n\nQuestion:\nWhat does Maria think of the soup?\n\nChoices:\n(A) Just fine.\n(B) Tasteless.\n(C) Thick.\n\nAnswer:\n",
-        "model_prediction": "(B) Tasteless."
+        "model_prediction": "(A) Just fine."
     },
     {
         "answer": "(C) He didn't know it would be cold.",
@@ -8291,7 +8291,7 @@
         "context": "F: What are you going to do this weekend, Bob?\n M: I'm going to watch TV at home instead of seeing the film.",
         "question": "What is Bob going to do this weekend?",
         "model_input": "Examine the dialogue and choose the suitable response to the question. Simply select the choice, no explanations required.\n\nDialogue:\nF: What are you going to do this weekend, Bob?\n M: I'm going to watch TV at home instead of seeing the film.\n\nQuestion:\nWhat is Bob going to do this weekend?\n\nChoices:\n(A) To see a film.\n(B) To stay at home doing some washing.\n(C) To watch TV.\n\nAnswer:\n",
-        "model_prediction": "(C) To watch TV."
+        "model_prediction": "C"
     },
     {
         "answer": "(A) He doesn't usually receive calls at work.",
@@ -8590,7 +8590,7 @@
         "context": "Customs Officer: Next. Uh, your passport please.\n Woman: Okay.\n Customs Officer: Uh, what is the purpose of your visit?\n Woman: I'm here to attend a teaching convention for the first part of my trip, and then I plan on touring the capital for a few days.\n Customs Officer: And where will you be staying?\n Woman: I'll be staying in a room at a hotel downtown for the entire week.\n Customs Officer: And uh, what do you have in your luggage?\n Woman: Uh, well, just, just my personal belongings um, ... clothes, a few books, and a CD player.\n Customs Officer: Okay. Uh, please open your bag.\n Woman: Sure.\n Customs Officer: Okay ... Everything's fine. [Great]. Uh, by the way, is this your first visit to the country?\n Woman: Well, yes and no. Actually, I was born here when my parents were working in the capital many years ago, but this is my first trip back since then.\n Customs Officer: Well, enjoy your trip.\n Woman: Thanks.",
         "question": "About how long will the woman be in the country?",
         "model_input": "Examine the dialogue and choose the suitable response to the question. Simply select the choice, no explanations required.\n\nDialogue:\nCustoms Officer: Next. Uh, your passport please.\n Woman: Okay.\n Customs Officer: Uh, what is the purpose of your visit?\n Woman: I'm here to attend a teaching convention for the first part of my trip, and then I plan on touring the capital for a few days.\n Customs Officer: And where will you be staying?\n Woman: I'll be staying in a room at a hotel downtown for the entire week.\n Customs Officer: And uh, what do you have in your luggage?\n Woman: Uh, well, just, just my personal belongings um, ... clothes, a few books, and a CD player.\n Customs Officer: Okay. Uh, please open your bag.\n Woman: Sure.\n Customs Officer: Okay ... Everything's fine. [Great]. Uh, by the way, is this your first visit to the country?\n Woman: Well, yes and no. Actually, I was born here when my parents were working in the capital many years ago, but this is my first trip back since then.\n Customs Officer: Well, enjoy your trip.\n Woman: Thanks.\n\nQuestion:\nAbout how long will the woman be in the country?\n\nChoices:\n(A) one or two days\n(B) more than four days\n(C) three or four days\n\nAnswer:\n",
-        "model_prediction": "(B) more than four day"
+        "model_prediction": "(C) three or four day"
     },
     {
         "answer": "(B) Assembling the bookcase.",
@@ -8928,7 +8928,7 @@
         "context": "W: Have we agreed where we're going to meet John on Sunday?\n M: Well, I talked to the others and nobody seemed to have any idea where they wanted to go.\n W: I thought we were going to that restaurant.., what was it?\n M: ... the McDonald's at the end of Beijing Road--I suggested it a long time ago.\n W: Well--I think we should agree on that.\n M: OK, shall I phone the others now?\n W: No, thanks. It is better for me to do that!",
         "question": "What does the woman want the man to do?",
         "model_input": "Examine the dialogue and choose the suitable response to the question. Simply select the choice, no explanations required.\n\nDialogue:\nW: Have we agreed where we're going to meet John on Sunday?\n M: Well, I talked to the others and nobody seemed to have any idea where they wanted to go.\n W: I thought we were going to that restaurant.., what was it?\n M: ... the McDonald's at the end of Beijing Road--I suggested it a long time ago.\n W: Well--I think we should agree on that.\n M: OK, shall I phone the others now?\n W: No, thanks. It is better for me to do that!\n\nQuestion:\nWhat does the woman want the man to do?\n\nChoices:\n(A) Change a decision.\n(B) Suggest a place to meet.\n(C) Make a phone call.\n\nAnswer:\n",
-        "model_prediction": "(B) Suggest a place to meet."
+        "model_prediction": "(C) Make a phone call."
     },
     {
         "answer": "(C) A doctor.",
@@ -9266,7 +9266,7 @@
         "context": "M: Hi, Maggie. Nice to see you again. I want all these books here.\n W: Oh, my God, that might be a lot for your dad to buy at one time.\n M: But you see my dad always gets me all the books I want.\n W: Well, that's really very nice of him. You've got a good father.",
         "question": "Where are the speakers?",
         "model_input": "Examine the dialogue and choose the suitable response to the question. Simply select the choice, no explanations required.\n\nDialogue:\nM: Hi, Maggie. Nice to see you again. I want all these books here.\n W: Oh, my God, that might be a lot for your dad to buy at one time.\n M: But you see my dad always gets me all the books I want.\n W: Well, that's really very nice of him. You've got a good father.\n\nQuestion:\nWhere are the speakers?\n\nChoices:\n(A) In a bookstore.\n(B) At home.\n(C) On a bus.\n\nAnswer:\n",
-        "model_prediction": "(B) At home."
+        "model_prediction": "(A) In a bookstore."
     },
     {
         "answer": "(A) Not mentioned.",
@@ -9617,7 +9617,7 @@
         "context": "M: How is the weather today?\n W: It's very cold and wet.\n M: Are the winters like this every year in this place?\n W: Pretty much. But it was a little colder last year.\n M: Now I know why people here have thick clothes on.\n W: What is the weather like in winter in your country?\n M: It's quite different from yours. It's warm and hot in my hometown all year round.\n W: You are very lucky then.\n M: Well, some people in my country want to have your weather.",
         "question": "What is the weather like in winter in the woman's place?",
         "model_input": "Examine the dialogue and choose the suitable response to the question. Simply select the choice, no explanations required.\n\nDialogue:\nM: How is the weather today?\n W: It's very cold and wet.\n M: Are the winters like this every year in this place?\n W: Pretty much. But it was a little colder last year.\n M: Now I know why people here have thick clothes on.\n W: What is the weather like in winter in your country?\n M: It's quite different from yours. It's warm and hot in my hometown all year round.\n W: You are very lucky then.\n M: Well, some people in my country want to have your weather.\n\nQuestion:\nWhat is the weather like in winter in the woman's place?\n\nChoices:\n(A) Cold and wet.\n(B) Cold and dry.\n(C) Warm and hot.\n\nAnswer:\n",
-        "model_prediction": "(A) Cold and wet."
+        "model_prediction": "(C) Warm and hot."
     },
     {
         "answer": "(A) She had to review her lessons.",
@@ -9695,7 +9695,7 @@
         "context": "M: Mary, the science homework is due in two days.\n W: Oh, dear! That can't be so!",
         "question": "What does the woman mean?",
         "model_input": "Examine the dialogue and choose the suitable response to the question. Simply select the choice, no explanations required.\n\nDialogue:\nM: Mary, the science homework is due in two days.\n W: Oh, dear! That can't be so!\n\nQuestion:\nWhat does the woman mean?\n\nChoices:\n(A) She hasn't finished her homework yet.\n(B) She doesn't expect it to come so soon.\n(C) The homework can't be due in two days.\n\nAnswer:\n",
-        "model_prediction": "(C) The homework can't be due in two days."
+        "model_prediction": "(A) She hasn't finished her homework yet."
     },
     {
         "answer": "(C) Tommy.",
@@ -10293,7 +10293,7 @@
         "context": "W: What are some of the problems of doing a part-time job as a college student?\n M: Schoolwork suffers. Because I don't have as much time to study as when I didn't have a part-time job. I have had to give up things I enjoy, like sleep and football. I can't get into the social life because I have to work right after class. Some of my Mends have stopped calling me. I also miss TV.\n W: What do you do in a day?\n M: I get up at seven to make an 8:00 a. m. class. I have classes till 1:30. And then, I drive to the supermarket where I work. I work till 7:00 p. m. And then I drive to my home and eat dinner. After I take a shower and rest for a half hour, it's about nine. This gives me only a couple of hours to study. My eyes start to close well before I go to bed at eleven.",
         "question": "When does the man drive to work?",
         "model_input": "Examine the dialogue and choose the suitable response to the question. Simply select the choice, no explanations required.\n\nDialogue:\nW: What are some of the problems of doing a part-time job as a college student?\n M: Schoolwork suffers. Because I don't have as much time to study as when I didn't have a part-time job. I have had to give up things I enjoy, like sleep and football. I can't get into the social life because I have to work right after class. Some of my Mends have stopped calling me. I also miss TV.\n W: What do you do in a day?\n M: I get up at seven to make an 8:00 a. m. class. I have classes till 1:30. And then, I drive to the supermarket where I work. I work till 7:00 p. m. And then I drive to my home and eat dinner. After I take a shower and rest for a half hour, it's about nine. This gives me only a couple of hours to study. My eyes start to close well before I go to bed at eleven.\n\nQuestion:\nWhen does the man drive to work?\n\nChoices:\n(A) At 1:30 a.m.\n(B) At 7:00 a. m\n(C) At 8:00 a.m.\n\nAnswer:\n",
-        "model_prediction": "(B) At 7:00 a.m."
+        "model_prediction": "(C) At 8:00 a.m."
     },
     {
         "answer": "(C) three",
@@ -10943,7 +10943,7 @@
         "context": "M: It's your fiftieth birthday. You decide.\n W: I'd like you to organize a surprise party for me.\n M: Sylvia, I know what you want. But a surprise party is impossible. Don't you remember when I tried to organize a surprise party for your fortieth? You found out right away.\n W: Don't remind me. I was so disappointed.\n M: I remembered to get everything ready. But I just forgot to tell people that it was supposed to be a surprise. But the party wasn't disappointing. I mean, it wasn't a surprise, but it was great.\n W: Well, I really don't care what we do. Do whatever you want.\n M: Oh, come on, Sylvia. Let's plan something interesting. We could have a swimming party, or a covered dish supper. It could be fun.\n W: Let's just go out to dinner with a few friends.\n M: But why?\n W: Because it's easy. I don't want to have to do all the planning.",
         "question": "What does the man think of the last surprise party?",
         "model_input": "Examine the dialogue and choose the suitable response to the question. Simply select the choice, no explanations required.\n\nDialogue:\nM: It's your fiftieth birthday. You decide.\n W: I'd like you to organize a surprise party for me.\n M: Sylvia, I know what you want. But a surprise party is impossible. Don't you remember when I tried to organize a surprise party for your fortieth? You found out right away.\n W: Don't remind me. I was so disappointed.\n M: I remembered to get everything ready. But I just forgot to tell people that it was supposed to be a surprise. But the party wasn't disappointing. I mean, it wasn't a surprise, but it was great.\n W: Well, I really don't care what we do. Do whatever you want.\n M: Oh, come on, Sylvia. Let's plan something interesting. We could have a swimming party, or a covered dish supper. It could be fun.\n W: Let's just go out to dinner with a few friends.\n M: But why?\n W: Because it's easy. I don't want to have to do all the planning.\n\nQuestion:\nWhat does the man think of the last surprise party?\n\nChoices:\n(A) Disappointing.\n(B) Satisfactory.\n(C) Unusual.\n\nAnswer:\n",
-        "model_prediction": "(A) Disappointing."
+        "model_prediction": "(B) Satisfactory."
     },
     {
         "answer": "(A) Buy a computer.",
@@ -12009,7 +12009,7 @@
         "context": "W: Very nice skirts. How much axe they?\n M: Ten dollars each. And one dollar off if you may buy two.",
         "question": "How much will the woman pay if she buys two skirts?",
         "model_input": "Examine the dialogue and choose the suitable response to the question. Simply select the choice, no explanations required.\n\nDialogue:\nW: Very nice skirts. How much axe they?\n M: Ten dollars each. And one dollar off if you may buy two.\n\nQuestion:\nHow much will the woman pay if she buys two skirts?\n\nChoices:\n(A) $ 19.\n(B) $ 9.\n(C) $ 20.\n\nAnswer:\n",
-        "model_prediction": "(B) $ 9."
+        "model_prediction": "(B) $9."
     },
     {
         "answer": "(C) In a taxi.",
@@ -12048,7 +12048,7 @@
         "context": "M: Are you going to return to your present job after the vacation?\n W: No, I plan to graduate next semester. That means I'll have to be a full-time student.\n M: Yes. And I'll have to concentrate on my study, too.",
         "question": "What is the probable relationship between the two speakers?",
         "model_input": "Examine the dialogue and choose the suitable response to the question. Simply select the choice, no explanations required.\n\nDialogue:\nM: Are you going to return to your present job after the vacation?\n W: No, I plan to graduate next semester. That means I'll have to be a full-time student.\n M: Yes. And I'll have to concentrate on my study, too.\n\nQuestion:\nWhat is the probable relationship between the two speakers?\n\nChoices:\n(A) Two students.\n(B) Teacher and student.\n(C) Father and daughter.\n\nAnswer:\n",
-        "model_prediction": "(A) Two students."
+        "model_prediction": "(C) Father and daughter."
     },
     {
         "answer": "(A) Taxi driver and customer.",
@@ -12399,7 +12399,7 @@
         "context": "W: Mr. Rice, I wonder if I could be off on Friday.\n M: Do you really have to? It's a bit difficult with so many people away on holiday, you know.",
         "question": "What can be the result of the talk?",
         "model_input": "Examine the dialogue and choose the suitable response to the question. Simply select the choice, no explanations required.\n\nDialogue:\nW: Mr. Rice, I wonder if I could be off on Friday.\n M: Do you really have to? It's a bit difficult with so many people away on holiday, you know.\n\nQuestion:\nWhat can be the result of the talk?\n\nChoices:\n(A) The woman can be off on Friday.\n(B) No result.\n(C) The woman should work on Friday.\n\nAnswer:\n",
-        "model_prediction": "(B) No result."
+        "model_prediction": "(A) The woman can be off on Friday."
     },
     {
         "answer": "(B) Teacher and student.",
@@ -12841,7 +12841,7 @@
         "context": "M: Hey, Jenny, let's go to a movie. You've been working on these bills for hours now.\n W: It's impossible.\n M: Why?\n W: We can't afford to go out. Look at the bills yourself. Everything I say goes in one ear and out of the other.\n M: All right. I've been trying to cut down our expenses lately. I've been turning off the lights when I leave the room.",
         "question": "What does the man want to do?",
         "model_input": "Examine the dialogue and choose the suitable response to the question. Simply select the choice, no explanations required.\n\nDialogue:\nM: Hey, Jenny, let's go to a movie. You've been working on these bills for hours now.\n W: It's impossible.\n M: Why?\n W: We can't afford to go out. Look at the bills yourself. Everything I say goes in one ear and out of the other.\n M: All right. I've been trying to cut down our expenses lately. I've been turning off the lights when I leave the room.\n\nQuestion:\nWhat does the man want to do?\n\nChoices:\n(A) Have his hair cut.\n(B) Go travel.\n(C) Go to the cinema.\n\nAnswer:\n",
-        "model_prediction": "(C) Go to the cinema."
+        "model_prediction": "C"
     },
     {
         "answer": "(A) He's looking for his watch.",
@@ -14427,7 +14427,7 @@
         "context": "M: Can you recognize that woman, Betty?\n W: I think I can, Henry. It must be Jenny Brown, the actress.\n M: I thought so. She is beautiful, isn't she?\n W: Yes, she is. She doesn't look old at all.\n M: I read she's twenty-nine, but she must be at least forty.\n W: I'm sure she is. She was a famous actress when I was still a schoolgirl.\n M: That was a long time ago, wasn't it?\n W: Not that long ago! I am not more than twenty-nine myself!",
         "question": "How old can the actress be?",
         "model_input": "Examine the dialogue and choose the suitable response to the question. Simply select the choice, no explanations required.\n\nDialogue:\nM: Can you recognize that woman, Betty?\n W: I think I can, Henry. It must be Jenny Brown, the actress.\n M: I thought so. She is beautiful, isn't she?\n W: Yes, she is. She doesn't look old at all.\n M: I read she's twenty-nine, but she must be at least forty.\n W: I'm sure she is. She was a famous actress when I was still a schoolgirl.\n M: That was a long time ago, wasn't it?\n W: Not that long ago! I am not more than twenty-nine myself!\n\nQuestion:\nHow old can the actress be?\n\nChoices:\n(A) She is not more than 40.\n(B) She is at least 40.\n(C) She is no more than 29.\n\nAnswer:\n",
-        "model_prediction": "(B) She is at least 40."
+        "model_prediction": "(A) She is not more than 40."
     },
     {
         "answer": "(B) Tom is afraid of failing the exam.",
@@ -14557,7 +14557,7 @@
         "context": "W: Oh, there you are! Glad to see you again! Did you have a good flight?\n M: Sure, I flew all the way direct from Seattle to London.\n W: You must be very tired. Did you sleep at all on the plane?\n M: No, not really. Sorry, could I use your bathroom now?",
         "question": "Where are the two speakers most probably?",
         "model_input": "Examine the dialogue and choose the suitable response to the question. Simply select the choice, no explanations required.\n\nDialogue:\nW: Oh, there you are! Glad to see you again! Did you have a good flight?\n M: Sure, I flew all the way direct from Seattle to London.\n W: You must be very tired. Did you sleep at all on the plane?\n M: No, not really. Sorry, could I use your bathroom now?\n\nQuestion:\nWhere are the two speakers most probably?\n\nChoices:\n(A) On the plane.\n(B) At the airport.\n(C) At home.\n\nAnswer:\n",
-        "model_prediction": "(A) On the plane."
+        "model_prediction": "(B) At the airport."
     },
     {
         "answer": "(C) They are disappointed with the films produced these days.",
@@ -15103,7 +15103,7 @@
         "context": "W: Do you know that John's health took a turn for the worse?\n M: But he used to be as strong as a horse.\n W: You will never know when your health will fail all of a sudden.\n M: It's one of the misfortunes in life, isn't it?\n W: It sure is.\n M: So health is more valuable than anything else. No matter how much money we have, you can not buy good health with it.\n W: I quite agree with you, and similarly, honors can never equal good health either.\n M: To conclude, we should try our best to keep us as healthy as possible.",
         "question": "What happened to John?",
         "model_input": "Examine the dialogue and choose the suitable response to the question. Simply select the choice, no explanations required.\n\nDialogue:\nW: Do you know that John's health took a turn for the worse?\n M: But he used to be as strong as a horse.\n W: You will never know when your health will fail all of a sudden.\n M: It's one of the misfortunes in life, isn't it?\n W: It sure is.\n M: So health is more valuable than anything else. No matter how much money we have, you can not buy good health with it.\n W: I quite agree with you, and similarly, honors can never equal good health either.\n M: To conclude, we should try our best to keep us as healthy as possible.\n\nQuestion:\nWhat happened to John?\n\nChoices:\n(A) He had an accident.\n(B) He turned around suddenly.\n(C) His health suddenly failed.\n\nAnswer:\n",
-        "model_prediction": "(C) His health suddenly failed."
+        "model_prediction": "C"
     },
     {
         "answer": "(C) Go away.",
@@ -15857,7 +15857,7 @@
         "context": "M: I hear a businessman is building a dog park in our city.\n W: Really? What for?\n M: Obviously because there's a law against having dogs in the streets.\n W: Does it mean that dogs have to stay at home all the time?\n M: Sounds pretty cruel, right? Maybe a dog park is a good idea.\n W: Maybe they should just allow people to walk their dogs in the streets.\n M: But then streets could be a mess.\n W: Couldn't people clean up after their dogs?\n M: Would they?",
         "question": "What do we know from what the woman said?",
         "model_input": "Examine the dialogue and choose the suitable response to the question. Simply select the choice, no explanations required.\n\nDialogue:\nM: I hear a businessman is building a dog park in our city.\n W: Really? What for?\n M: Obviously because there's a law against having dogs in the streets.\n W: Does it mean that dogs have to stay at home all the time?\n M: Sounds pretty cruel, right? Maybe a dog park is a good idea.\n W: Maybe they should just allow people to walk their dogs in the streets.\n M: But then streets could be a mess.\n W: Couldn't people clean up after their dogs?\n M: Would they?\n\nQuestion:\nWhat do we know from what the woman said?\n\nChoices:\n(A) Dogs should be kept at home.\n(B) Building a dog park is necessary.\n(C) People would remove the dog waste.\n\nAnswer:\n",
-        "model_prediction": "(B) Building a dog park is necessary."
+        "model_prediction": "(A) Dogs should be kept at home."
     },
     {
         "answer": "(A) A boss and her employee.",
@@ -20277,7 +20277,7 @@
         "context": "M: Hey, Jane. It's a lovely painting.\n W: Thanks, Mark. But it doesn't look right to me. You know, I'm just learning.\n M: Let me see. I think it might be the color of the sky.\n W: Why? The sky is blue, isn't it?\n M: Well, that depends. I mean the sunset can be full of reds and purples.\n W: Oh, yeah. That's the point.\n M: By adding some other colors to the sky, you'll get a more natural picture.\n W: I'll try that. How do you know so much about painting? Taking some courses?\n M: No, actually, my father is an artist. He told me a lot about painting, and took me to different exhibitions.\n W: Ah, I see. I hope I can meet him some day.\n M: That could be arranged. Er ... it's three now, how about a cup of coffee?\n W: I'd love to.",
         "question": "What aren't he two speakers mainly talking about?",
         "model_input": "Examine the dialogue and choose the suitable response to the question. Simply select the choice, no explanations required.\n\nDialogue:\nM: Hey, Jane. It's a lovely painting.\n W: Thanks, Mark. But it doesn't look right to me. You know, I'm just learning.\n M: Let me see. I think it might be the color of the sky.\n W: Why? The sky is blue, isn't it?\n M: Well, that depends. I mean the sunset can be full of reds and purples.\n W: Oh, yeah. That's the point.\n M: By adding some other colors to the sky, you'll get a more natural picture.\n W: I'll try that. How do you know so much about painting? Taking some courses?\n M: No, actually, my father is an artist. He told me a lot about painting, and took me to different exhibitions.\n W: Ah, I see. I hope I can meet him some day.\n M: That could be arranged. Er ... it's three now, how about a cup of coffee?\n W: I'd love to.\n\nQuestion:\nWhat aren't he two speakers mainly talking about?\n\nChoices:\n(A) The meaning of a painting.\n(B) The color of a painting.\n(C) The course of painting.\n\nAnswer:\n",
-        "model_prediction": "(B) The color of a painting."
+        "model_prediction": "(C) The course of painting."
     },
     {
         "answer": "(C) To set a table for a meal.",
@@ -21460,7 +21460,7 @@
         "context": "M: The bus to the seaside left 5 minutes ago. How often does it come?\n W: Every 20 minutes.",
         "question": "How long will the man have to wait?",
         "model_input": "Examine the dialogue and choose the suitable response to the question. Simply select the choice, no explanations required.\n\nDialogue:\nM: The bus to the seaside left 5 minutes ago. How often does it come?\n W: Every 20 minutes.\n\nQuestion:\nHow long will the man have to wait?\n\nChoices:\n(A) 20 minutes\n(B) 5 minutes\n(C) 15 minutes\n\nAnswer:\n",
-        "model_prediction": "(C) 15 minut"
+        "model_prediction": "(A) 20 minut"
     },
     {
         "answer": "(B) Anytime that day.",
@@ -21707,7 +21707,7 @@
         "context": "M: I couldn't have won the award without your assistance. Thank you very much.\n M: You have been working so hard. You deserve the honor.",
         "question": "What do we learned from the conversation?",
         "model_input": "Examine the dialogue and choose the suitable response to the question. Simply select the choice, no explanations required.\n\nDialogue:\nM: I couldn't have won the award without your assistance. Thank you very much.\n M: You have been working so hard. You deserve the honor.\n\nQuestion:\nWhat do we learned from the conversation?\n\nChoices:\n(A) The man is thankful to the woman for her assistance.\n(B) The woman helped the man succeed.\n(C) The woman worked hard and was given an award.\n\nAnswer:\n",
-        "model_prediction": "(C) The woman worked hard and was given an award."
+        "model_prediction": "(A) The man is thankful to the woman for her assistance."
     },
     {
         "answer": "(C) She was born in that country.",
@@ -22422,7 +22422,7 @@
         "context": "F: Is it always so hot in July?\n M: You are right.",
         "question": "What is the weather like in July?",
         "model_input": "Examine the dialogue and choose the suitable response to the question. Simply select the choice, no explanations required.\n\nDialogue:\nF: Is it always so hot in July?\n M: You are right.\n\nQuestion:\nWhat is the weather like in July?\n\nChoices:\n(A) It's cold.\n(B) It's warm.\n(C) it's hot.\n\nAnswer:\n",
-        "model_prediction": "(C) it's hot."
+        "model_prediction": "(C) It's hot."
     },
     {
         "answer": "(A) A bamboo basket.",
@@ -22929,7 +22929,7 @@
         "context": "M: You're not looking too good. Are you sure you are all right?\n W: It was a long flight. I'll be fine after a good night's sleep.\n M: You look very pale.\n W: These long flights are just so boring, and you just have to sit there in your seat without moving and you know I like to get as much exercise as possible. I'm sure I'll be back to normal tomorrow.",
         "question": "How does the woman fool?",
         "model_input": "Examine the dialogue and choose the suitable response to the question. Simply select the choice, no explanations required.\n\nDialogue:\nM: You're not looking too good. Are you sure you are all right?\n W: It was a long flight. I'll be fine after a good night's sleep.\n M: You look very pale.\n W: These long flights are just so boring, and you just have to sit there in your seat without moving and you know I like to get as much exercise as possible. I'm sure I'll be back to normal tomorrow.\n\nQuestion:\nHow does the woman fool?\n\nChoices:\n(A) Ill\n(B) Nervous.\n(C) Tired.\n\nAnswer:\n",
-        "model_prediction": "(C) Tired."
+        "model_prediction": "(A) Ill"
     },
     {
         "answer": "(B) Ad in Campus Daily.",
@@ -23293,7 +23293,7 @@
         "context": "M: You know the party last night? Lots of old faces from college were there.\n W: Really?\n M: Yeah. Sally was there with her husband; I heard he,s something very high up and important in some business company.\n W: Yes, I heard that too. To tell you the truth, I never really expected her to marry someone successful. She was alway untidy and didn't like to work.\n M: Obviously, she has changed her attitude to life. I mean she was very smartly dressed, and she kept telling me all about how much money their new house had cost.\n W: Seriously.\n M: Yes, she was really proud of it.\n W: Well,she never used to be interested in money at all.\n M: By the way, Simon Fox was at the party.\n W: Was he? I haven't seen him for ages.\n M: Naturally, he couldn't help asking me questions about you.\n W: I think he still thinks that we might get back together one day.\n M: Exactly.\n W: Well, not much chance of that.",
         "question": "What did Sally try to show her friends?",
         "model_input": "Examine the dialogue and choose the suitable response to the question. Simply select the choice, no explanations required.\n\nDialogue:\nM: You know the party last night? Lots of old faces from college were there.\n W: Really?\n M: Yeah. Sally was there with her husband; I heard he,s something very high up and important in some business company.\n W: Yes, I heard that too. To tell you the truth, I never really expected her to marry someone successful. She was alway untidy and didn't like to work.\n M: Obviously, she has changed her attitude to life. I mean she was very smartly dressed, and she kept telling me all about how much money their new house had cost.\n W: Seriously.\n M: Yes, she was really proud of it.\n W: Well,she never used to be interested in money at all.\n M: By the way, Simon Fox was at the party.\n W: Was he? I haven't seen him for ages.\n M: Naturally, he couldn't help asking me questions about you.\n W: I think he still thinks that we might get back together one day.\n M: Exactly.\n W: Well, not much chance of that.\n\nQuestion:\nWhat did Sally try to show her friends?\n\nChoices:\n(A) She was very happy.\n(B) She was interested in Simon.\n(C) She was successful in business.\n\nAnswer:\n",
-        "model_prediction": "(C) She was successful in business."
+        "model_prediction": "(A) She was very happy."
     },
     {
         "answer": "(C) To learn from others.",
@@ -24073,7 +24073,7 @@
         "context": "W: Have you seen my glasses?\n M: No, where did you leave them?\n W: Right here by the telephone.\n M: Are you sure?\n W: Yes, I'm sure! I saw them here five minutes ago.\n M: Maybe you left them in the living room.\n W: No, I put them here by the telephone.\n M: Well, they are not there now.\n W: Maybe someone took them. I know I left them here.",
         "question": "Where did the woman leave her glasses?",
         "model_input": "Examine the dialogue and choose the suitable response to the question. Simply select the choice, no explanations required.\n\nDialogue:\nW: Have you seen my glasses?\n M: No, where did you leave them?\n W: Right here by the telephone.\n M: Are you sure?\n W: Yes, I'm sure! I saw them here five minutes ago.\n M: Maybe you left them in the living room.\n W: No, I put them here by the telephone.\n M: Well, they are not there now.\n W: Maybe someone took them. I know I left them here.\n\nQuestion:\nWhere did the woman leave her glasses?\n\nChoices:\n(A) By the television.\n(B) In the living room.\n(C) By the telephone.\n\nAnswer:\n",
-        "model_prediction": "(C) By the telephone."
+        "model_prediction": "C"
     },
     {
         "answer": "(B) Karen is very forgetful.",
@@ -24333,7 +24333,7 @@
         "context": "W: How much are the flowers?\n W: Roses are 120 dollars, but the shopkeeper let me have it for 100 dollars.",
         "question": "What discount did the man get?",
         "model_input": "Examine the dialogue and choose the suitable response to the question. Simply select the choice, no explanations required.\n\nDialogue:\nW: How much are the flowers?\n W: Roses are 120 dollars, but the shopkeeper let me have it for 100 dollars.\n\nQuestion:\nWhat discount did the man get?\n\nChoices:\n(A) $40 off\n(B) $20 off\n(C) $30 off\n\nAnswer:\n",
-        "model_prediction": "(C) $30 off"
+        "model_prediction": "(A) $40 off"
     },
     {
         "answer": "(C) Finish the man's work.",

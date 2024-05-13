@@ -8,7 +8,7 @@
         "context": "at once half-baked and overheated . ",
         "answer": "(B) Negative",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nat once half-baked and overheated . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a negative sentiment."
+        "model_prediction": "Negativ"
     },
     {
         "id": "test_2",
@@ -52,7 +52,7 @@
         "context": "a superbly acted and funny/gritty fable of the humanizing of one woman at the hands of the unseen forces of fate . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\na superbly acted and funny/gritty fable of the humanizing of one woman at the hands of the unseen forces of fate . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_6",
@@ -195,7 +195,7 @@
         "context": "this movie is maddening . ",
         "answer": "(A) Negative",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nthis movie is maddening . \n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the key words in the sentence."
+        "model_prediction": "Negativ"
     },
     {
         "id": "test_19",
@@ -217,7 +217,7 @@
         "context": "a spellbinding african film about the modern condition of rootlessness , a state experienced by millions around the globe . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\na spellbinding african film about the modern condition of rootlessness , a state experienced by millions around the globe . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_21",
@@ -239,7 +239,7 @@
         "context": "jose campanella delivers a loosely autobiographical story brushed with sentimentality but brimming with gentle humor , bittersweet pathos , and lyric moments that linger like snapshots of memory . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\njose campanella delivers a loosely autobiographical story brushed with sentimentality but brimming with gentle humor , bittersweet pathos , and lyric moments that linger like snapshots of memory . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_23",
@@ -349,7 +349,7 @@
         "context": "this re-do is so dumb and so exploitative in its violence that , ironically , it becomes everything that the rather clumsy original was railing against . ",
         "answer": "(A) Negative",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nthis re-do is so dumb and so exploitative in its violence that , ironically , it becomes everything that the rather clumsy original was railing against . \n\nAnswer:\n",
-        "model_prediction": "Negative sentiment"
+        "model_prediction": "Negativ"
     },
     {
         "id": "test_33",
@@ -371,7 +371,7 @@
         "context": "an intriguing cinematic omnibus and round-robin that occasionally is more interesting in concept than in execution . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nan intriguing cinematic omnibus and round-robin that occasionally is more interesting in concept than in execution . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a mixed sentiment. It has both positive and negative aspects. The positive aspect is that the cinematic omnibus and round-robin are intriguing, which indicates a positive sentiment. The negative aspect is that it occasionally is more interesting in concept than in execution, which suggests a negative sentiment. Overall, the sentence has a mixed sentiment."
+        "model_prediction": "The sentence conveys a mixed sentiment. It has both positive and negative aspects. The positive aspect is the intriguing cinematic omnibus and round-robin, which suggests that the concept is interesting. The negative aspect is that it is occasionally more interesting in concept than in execution, which implies that the execution or realization of the concept may not be as successful or impressive as the idea itself."
     },
     {
         "id": "test_35",
@@ -415,7 +415,7 @@
         "context": "manages to be sweet and wickedly satisfying at the same time . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nmanages to be sweet and wickedly satisfying at the same time . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_39",
@@ -448,7 +448,7 @@
         "context": "in a way , the film feels like a breath of fresh air , but only to those that allow it in . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nin a way , the film feels like a breath of fresh air , but only to those that allow it in . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_42",
@@ -470,7 +470,7 @@
         "context": "what distinguishes time of favor from countless other thrillers is its underlying concern with the consequences of words and with the complicated emotions fueling terrorist acts . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nwhat distinguishes time of favor from countless other thrillers is its underlying concern with the consequences of words and with the complicated emotions fueling terrorist acts . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_44",
@@ -536,7 +536,7 @@
         "context": "majidi is an unconventional storyteller , capable of finding beauty in the most depressing places . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nmajidi is an unconventional storyteller , capable of finding beauty in the most depressing places . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_50",
@@ -547,7 +547,7 @@
         "context": "a woman 's pic directed with resonance by ilya chaiken . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\na woman 's pic directed with resonance by ilya chaiken . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_51",
@@ -558,7 +558,7 @@
         "context": "the story and structure are well-honed . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nthe story and structure are well-honed . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_52",
@@ -569,7 +569,7 @@
         "context": "director andrew niccol ... demonstrates a wry understanding of the quirks of fame . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\ndirector andrew niccol ... demonstrates a wry understanding of the quirks of fame . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_53",
@@ -624,7 +624,7 @@
         "context": "it has charm to spare , and unlike many romantic comedies , it does not alienate either gender in the audience . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nit has charm to spare , and unlike many romantic comedies , it does not alienate either gender in the audience . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_58",
@@ -833,7 +833,7 @@
         "context": "kinnear does n't aim for our sympathy , but rather delivers a performance of striking skill and depth . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nkinnear does n't aim for our sympathy , but rather delivers a performance of striking skill and depth . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_77",
@@ -866,7 +866,7 @@
         "context": "deliriously funny , fast and loose , accessible to the uninitiated , and full of surprises ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\ndeliriously funny , fast and loose , accessible to the uninitiated , and full of surprises \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_80",
@@ -954,7 +954,7 @@
         "context": "challenging , intermittently engrossing and unflaggingly creative . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nchallenging , intermittently engrossing and unflaggingly creative . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_88",
@@ -1020,7 +1020,7 @@
         "context": "the movie has an infectious exuberance that will engage anyone with a passing interest in the skate/surf culture , the l.a. beach scene and the imaginative ( and sometimes illegal ) ways kids can make a playground out of the refuse of adults . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nthe movie has an infectious exuberance that will engage anyone with a passing interest in the skate/surf culture , the l.a. beach scene and the imaginative ( and sometimes illegal ) ways kids can make a playground out of the refuse of adults . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_94",
@@ -1031,7 +1031,7 @@
         "context": "the terrific and bewilderingly underrated campbell scott gives a star performance that is nothing short of mesmerizing . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nthe terrific and bewilderingly underrated campbell scott gives a star performance that is nothing short of mesmerizing . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_95",
@@ -1053,7 +1053,7 @@
         "context": "the words , ` frankly , my dear , i do n't give a damn , ' have never been more appropriate . ",
         "answer": "(B) Negative",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nthe words , ` frankly , my dear , i do n't give a damn , ' have never been more appropriate . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a negative sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_97",
@@ -1086,7 +1086,7 @@
         "context": "one of creepiest , scariest movies to come along in a long , long time , easily rivaling blair witch or the others . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\none of creepiest , scariest movies to come along in a long , long time , easily rivaling blair witch or the others . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_100",
@@ -1097,7 +1097,7 @@
         "context": "the weight of the piece , the unerring professionalism of the chilly production , and the fascination embedded in the lurid topic prove recommendation enough . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nthe weight of the piece , the unerring professionalism of the chilly production , and the fascination embedded in the lurid topic prove recommendation enough . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_101",
@@ -1130,7 +1130,7 @@
         "context": "the primitive force of this film seems to bubble up from the vast collective memory of the combatants . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nthe primitive force of this film seems to bubble up from the vast collective memory of the combatants . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Negativ"
     },
     {
         "id": "test_104",
@@ -1163,7 +1163,7 @@
         "context": "brilliantly explores the conflict between following one 's heart and following the demands of tradition . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nbrilliantly explores the conflict between following one 's heart and following the demands of tradition . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_107",
@@ -1196,7 +1196,7 @@
         "context": "a tender , heartfelt family drama . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\na tender , heartfelt family drama . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_110",
@@ -1218,7 +1218,7 @@
         "context": "a compelling spanish film about the withering effects of jealousy in the life of a young monarch whose sexual passion for her husband becomes an obsession . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\na compelling spanish film about the withering effects of jealousy in the life of a young monarch whose sexual passion for her husband becomes an obsession . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a negative sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_112",
@@ -1229,7 +1229,7 @@
         "context": "the movie is n't just hilarious : it 's witty and inventive , too , and in hindsight , it is n't even all that dumb . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nthe movie is n't just hilarious : it 's witty and inventive , too , and in hindsight , it is n't even all that dumb . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_113",
@@ -1339,7 +1339,7 @@
         "context": "although laced with humor and a few fanciful touches , the film is a refreshingly serious look at young women . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nalthough laced with humor and a few fanciful touches , the film is a refreshingly serious look at young women . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_123",
@@ -1416,7 +1416,7 @@
         "context": "with tightly organized efficiency , numerous flashbacks and a constant edge of tension , miller 's film is one of 2002 's involvingly adult surprises . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nwith tightly organized efficiency , numerous flashbacks and a constant edge of tension , miller 's film is one of 2002 's involvingly adult surprises . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_130",
@@ -1438,7 +1438,7 @@
         "context": "for the most part , it 's a work of incendiary genius , steering clear of knee-jerk reactions and quick solutions . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nfor the most part , it 's a work of incendiary genius , steering clear of knee-jerk reactions and quick solutions . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_132",
@@ -1493,7 +1493,7 @@
         "context": "my big fat greek wedding uses stereotypes in a delightful blend of sweet romance and lovingly dished out humor . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nmy big fat greek wedding uses stereotypes in a delightful blend of sweet romance and lovingly dished out humor . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_137",
@@ -1504,7 +1504,7 @@
         "context": "the jabs it employs are short , carefully placed and dead-center . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nthe jabs it employs are short , carefully placed and dead-center . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_138",
@@ -1636,7 +1636,7 @@
         "context": "the film tunes into a grief that could lead a man across centuries . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nthe film tunes into a grief that could lead a man across centuries . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_150",
@@ -1680,7 +1680,7 @@
         "context": "if steven soderbergh 's ` solaris ' is a failure it is a glorious failure . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nif steven soderbergh 's ` solaris ' is a failure it is a glorious failure . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_154",
@@ -1691,7 +1691,7 @@
         "context": "another one of those estrogen overdose movies like `` divine secrets of the ya ya sisterhood , '' except that the writing , acting and character development are a lot better . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nanother one of those estrogen overdose movies like `` divine secrets of the ya ya sisterhood , '' except that the writing , acting and character development are a lot better . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_155",
@@ -1702,7 +1702,7 @@
         "context": "turns potentially forgettable formula into something strangely diverting . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nturns potentially forgettable formula into something strangely diverting . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_156",
@@ -1746,7 +1746,7 @@
         "context": "my thoughts were focused on the characters . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nmy thoughts were focused on the characters . \n\nAnswer:\n",
-        "model_prediction": "Step 1: Analyze the sentence for any positive or negative words or phrases."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_160",
@@ -1922,7 +1922,7 @@
         "context": "a giggle a minute . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\na giggle a minute . \n\nAnswer:\n",
-        "model_prediction": "The sentence \"a giggle a minute\" conveys a positive sentiment. The word \"giggle\" is associated with laughter and amusement, which are generally considered positive emotions."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_176",
@@ -1977,7 +1977,7 @@
         "context": "no screen fantasy-adventure in recent memory has the showmanship of clones ' last 45 minutes . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nno screen fantasy-adventure in recent memory has the showmanship of clones ' last 45 minutes . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_181",
@@ -1988,7 +1988,7 @@
         "context": "feature debuter d.j. caruso directs a crack ensemble cast , bringing screenwriter tony gayton 's narcotics noir to life . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nfeature debuter d.j. caruso directs a crack ensemble cast , bringing screenwriter tony gayton 's narcotics noir to life . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_182",
@@ -2010,7 +2010,7 @@
         "context": "whether you like rap music or loathe it , you ca n't deny either the tragic loss of two young men in the prime of their talent or the power of this movie . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nwhether you like rap music or loathe it , you ca n't deny either the tragic loss of two young men in the prime of their talent or the power of this movie . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_184",
@@ -2109,7 +2109,7 @@
         "context": "a celebration of quirkiness , eccentricity , and certain individuals ' tendency to let it all hang out , and damn the consequences . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\na celebration of quirkiness , eccentricity , and certain individuals ' tendency to let it all hang out , and damn the consequences . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_193",
@@ -2142,7 +2142,7 @@
         "context": "` de niro ... is a veritable source of sincere passion that this hollywood contrivance orbits around . ' ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\n` de niro ... is a veritable source of sincere passion that this hollywood contrivance orbits around . ' \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_196",
@@ -2153,7 +2153,7 @@
         "context": "this is not the undisputed worst boxing movie ever , but it 's certainly not a champion - the big loser is the audience . ",
         "answer": "(A) Negative",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nthis is not the undisputed worst boxing movie ever , but it 's certainly not a champion - the big loser is the audience . \n\nAnswer:\n",
-        "model_prediction": "Negative sentiment"
+        "model_prediction": "Negativ"
     },
     {
         "id": "test_197",
@@ -2329,7 +2329,7 @@
         "context": "the film will play equally well on both the standard and giant screens . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nthe film will play equally well on both the standard and giant screens . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_213",
@@ -2351,7 +2351,7 @@
         "context": "zhang ... has done an amazing job of getting realistic performances from his mainly nonprofessional cast . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nzhang ... has done an amazing job of getting realistic performances from his mainly nonprofessional cast . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_215",
@@ -2428,7 +2428,7 @@
         "context": "this riveting world war ii moral suspense story deals with the shadow side of american culture : racial prejudice in its ugly and diverse forms . ",
         "answer": "(A) Negative",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nthis riveting world war ii moral suspense story deals with the shadow side of american culture : racial prejudice in its ugly and diverse forms . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a negative sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_222",
@@ -2549,7 +2549,7 @@
         "context": "this tenth feature is a big deal , indeed -- at least the third-best , and maybe even a notch above the previous runner-up , nicholas meyer 's star trek vi : the undiscovered country . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nthis tenth feature is a big deal , indeed -- at least the third-best , and maybe even a notch above the previous runner-up , nicholas meyer 's star trek vi : the undiscovered country . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_233",
@@ -2604,7 +2604,7 @@
         "context": "a subtle and well-crafted ( for the most part ) chiller . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\na subtle and well-crafted ( for the most part ) chiller . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_238",
@@ -2692,7 +2692,7 @@
         "context": "martin and barbara are complex characters -- sometimes tender , sometimes angry -- and the delicate performances by sven wollter and viveka seldahl make their hopes and frustrations vivid . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nmartin and barbara are complex characters -- sometimes tender , sometimes angry -- and the delicate performances by sven wollter and viveka seldahl make their hopes and frustrations vivid . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_246",
@@ -2703,7 +2703,7 @@
         "context": "the minor figures surrounding ( bobby ) ... form a gritty urban mosaic . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nthe minor figures surrounding ( bobby ) ... form a gritty urban mosaic . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_247",
@@ -2769,7 +2769,7 @@
         "context": "having had the good sense to cast actors who are , generally speaking , adored by the movie-going public , khouri then gets terrific performances from them all . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nhaving had the good sense to cast actors who are , generally speaking , adored by the movie-going public , khouri then gets terrific performances from them all . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_253",
@@ -2835,7 +2835,7 @@
         "context": "this is wild surreal stuff , but brilliant and the camera just kind of sits there and lets you look at this and its like you 're going from one room to the next and none of them have any relation to the other . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nthis is wild surreal stuff , but brilliant and the camera just kind of sits there and lets you look at this and its like you 're going from one room to the next and none of them have any relation to the other . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_259",
@@ -2879,7 +2879,7 @@
         "context": "verbinski implements every hack-artist trick to give us the ooky-spookies . ",
         "answer": "(A) Negative",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nverbinski implements every hack-artist trick to give us the ooky-spookies . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Negativ"
     },
     {
         "id": "test_263",
@@ -2912,7 +2912,7 @@
         "context": "nervous breakdowns are not entertaining . ",
         "answer": "(B) Negative",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nnervous breakdowns are not entertaining . \n\nAnswer:\n",
-        "model_prediction": "Negative sentiment"
+        "model_prediction": "Negativ"
     },
     {
         "id": "test_266",
@@ -2978,7 +2978,7 @@
         "context": "michael gerbosi 's script is economically packed with telling scenes . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nmichael gerbosi 's script is economically packed with telling scenes . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_272",
@@ -3143,7 +3143,7 @@
         "context": "funny but perilously slight . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nfunny but perilously slight . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a negative sentiment."
+        "model_prediction": "Negativ"
     },
     {
         "id": "test_287",
@@ -3154,7 +3154,7 @@
         "context": "smart , provocative and blisteringly funny . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nsmart , provocative and blisteringly funny . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_288",
@@ -3165,7 +3165,7 @@
         "context": "two hours fly by -- opera 's a pleasure when you do n't have to endure intermissions -- and even a novice to the form comes away exhilarated . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\ntwo hours fly by -- opera 's a pleasure when you do n't have to endure intermissions -- and even a novice to the form comes away exhilarated . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_289",
@@ -3253,7 +3253,7 @@
         "context": "late marriage 's stiffness is unlikely to demonstrate the emotional clout to sweep u.s. viewers off their feet . ",
         "answer": "(B) Negative",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nlate marriage 's stiffness is unlikely to demonstrate the emotional clout to sweep u.s. viewers off their feet . \n\nAnswer:\n",
-        "model_prediction": "Negative sentiment"
+        "model_prediction": "Negativ"
     },
     {
         "id": "test_297",
@@ -3440,7 +3440,7 @@
         "context": "rare birds has more than enough charm to make it memorable . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nrare birds has more than enough charm to make it memorable . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_314",
@@ -3528,7 +3528,7 @@
         "context": "we root for ( clara and paul ) , even like them , though perhaps it 's an emotion closer to pity . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nwe root for ( clara and paul ) , even like them , though perhaps it 's an emotion closer to pity . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a negative sentiment."
+        "model_prediction": "Negativ"
     },
     {
         "id": "test_322",
@@ -3550,7 +3550,7 @@
         "context": "a tv style murder mystery with a few big screen moments ( including one that seems to be made for a different film altogether ) . ",
         "answer": "(B) Negative",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\na tv style murder mystery with a few big screen moments ( including one that seems to be made for a different film altogether ) . \n\nAnswer:\n",
-        "model_prediction": "The given sentence conveys a negative sentiment. The sentence describes a TV-style murder mystery with a few big screen moments, but it also mentions one moment that seems to be made for a different film altogether. This implies that the overall experience of the murder mystery is not as cohesive or well-executed as it could be, which is a negative sentiment."
+        "model_prediction": "The sentence conveys a negative sentiment."
     },
     {
         "id": "test_324",
@@ -3572,7 +3572,7 @@
         "context": "nothing is sacred in this gut-buster . ",
         "answer": "(A) Negative",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nnothing is sacred in this gut-buster . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Negativ"
     },
     {
         "id": "test_326",
@@ -3583,7 +3583,7 @@
         "context": "it 's fun lite . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nit 's fun lite . \n\nAnswer:\n",
-        "model_prediction": "The sentence \"it's fun lite.\" conveys a positive sentiment. The word \"fun\" is associated with enjoyment and happiness, and the term \"lite\" suggests a lighter, more enjoyable version of something. Overall, the sentence expresses a positive feeling."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_327",
@@ -3616,7 +3616,7 @@
         "context": "very psychoanalytical -- provocatively so -- and also refreshingly literary . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nvery psychoanalytical -- provocatively so -- and also refreshingly literary . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_330",
@@ -3638,7 +3638,7 @@
         "context": "it 's made with deftly unsettling genre flair . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nit 's made with deftly unsettling genre flair . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_332",
@@ -3649,7 +3649,7 @@
         "context": "first-time writer-director serry shows a remarkable gift for storytelling with this moving , effective little film . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nfirst-time writer-director serry shows a remarkable gift for storytelling with this moving , effective little film . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_333",
@@ -3682,7 +3682,7 @@
         "context": "director of photography benoit delhomme shot the movie in delicious colors , and the costumes and sets are grand . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\ndirector of photography benoit delhomme shot the movie in delicious colors , and the costumes and sets are grand . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_336",
@@ -3726,7 +3726,7 @@
         "context": "exquisitely nuanced in mood tics and dialogue , this chamber drama is superbly acted by the deeply appealing veteran bouquet and the chilling but quite human berling . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nexquisitely nuanced in mood tics and dialogue , this chamber drama is superbly acted by the deeply appealing veteran bouquet and the chilling but quite human berling . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_340",
@@ -3759,7 +3759,7 @@
         "context": "a wildly inconsistent emotional experience . ",
         "answer": "(A) Negative",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\na wildly inconsistent emotional experience . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a negative sentiment."
+        "model_prediction": "Negativ"
     },
     {
         "id": "test_343",
@@ -3858,7 +3858,7 @@
         "context": "does paint some memorable images ... , but makhmalbaf keeps her distance from the characters ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\ndoes paint some memorable images ... , but makhmalbaf keeps her distance from the characters \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a negative sentiment."
+        "model_prediction": "Negativ"
     },
     {
         "id": "test_352",
@@ -3869,7 +3869,7 @@
         "context": "a movie with a real anarchic flair . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\na movie with a real anarchic flair . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_353",
@@ -3924,7 +3924,7 @@
         "context": "still , as a visual treat , the film is almost unsurpassed . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nstill , as a visual treat , the film is almost unsurpassed . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_358",
@@ -3946,7 +3946,7 @@
         "context": "( chaiken 's ) talent lies in an evocative , accurate observation of a distinctive milieu and in the lively , convincing dialogue she creates for her characters . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\n( chaiken 's ) talent lies in an evocative , accurate observation of a distinctive milieu and in the lively , convincing dialogue she creates for her characters . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_360",
@@ -3968,7 +3968,7 @@
         "context": "highbrow self-appointed guardians of culture need not apply , but those who loved cool as ice have at last found a worthy follow-up . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nhighbrow self-appointed guardians of culture need not apply , but those who loved cool as ice have at last found a worthy follow-up . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_362",
@@ -3979,7 +3979,7 @@
         "context": "while undisputed is n't exactly a high , it is a gripping , tidy little movie that takes mr. hill higher than he 's been in a while . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nwhile undisputed is n't exactly a high , it is a gripping , tidy little movie that takes mr. hill higher than he 's been in a while . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_363",
@@ -4012,7 +4012,7 @@
         "context": "among the year 's most intriguing explorations of alientation . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\namong the year 's most intriguing explorations of alientation . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_366",
@@ -4056,7 +4056,7 @@
         "context": "an effectively creepy , fear-inducing ( not fear-reducing ) film from japanese director hideo nakata , who takes the superstitious curse on chain letters and actually applies it . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nan effectively creepy , fear-inducing ( not fear-reducing ) film from japanese director hideo nakata , who takes the superstitious curse on chain letters and actually applies it . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_370",
@@ -4067,7 +4067,7 @@
         "context": "i sympathize with the plight of these families , but the movie does n't do a very good job conveying the issue at hand . ",
         "answer": "(B) Negative",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\ni sympathize with the plight of these families , but the movie does n't do a very good job conveying the issue at hand . \n\nAnswer:\n",
-        "model_prediction": "Negative sentiment"
+        "model_prediction": "Negativ"
     },
     {
         "id": "test_371",
@@ -4276,7 +4276,7 @@
         "context": "warm water under a red bridge is a quirky and poignant japanese film that explores the fascinating connections between women , water , nature , and sexuality . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nwarm water under a red bridge is a quirky and poignant japanese film that explores the fascinating connections between women , water , nature , and sexuality . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_390",
@@ -4298,7 +4298,7 @@
         "context": "cq 's reflection of artists and the love of cinema-and-self suggests nothing less than a new voice that deserves to be considered as a possible successor to the best european directors . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\ncq 's reflection of artists and the love of cinema-and-self suggests nothing less than a new voice that deserves to be considered as a possible successor to the best european directors . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_392",
@@ -4320,7 +4320,7 @@
         "context": "a synthesis of cliches and absurdities that seems positively decadent in its cinematic flash and emptiness . ",
         "answer": "(B) Negative",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\na synthesis of cliches and absurdities that seems positively decadent in its cinematic flash and emptiness . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a negative sentiment."
+        "model_prediction": "Negativ"
     },
     {
         "id": "test_394",
@@ -4342,7 +4342,7 @@
         "context": "the inspirational screenplay by mike rich covers a lot of ground , perhaps too much , but ties things together , neatly , by the end . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nthe inspirational screenplay by mike rich covers a lot of ground , perhaps too much , but ties things together , neatly , by the end . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_396",
@@ -4551,7 +4551,7 @@
         "context": "the very definition of the ` small ' movie , but it is a good stepping stone for director sprecher . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nthe very definition of the ` small ' movie , but it is a good stepping stone for director sprecher . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_415",
@@ -4573,7 +4573,7 @@
         "context": "binoche makes it interesting trying to find out . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nbinoche makes it interesting trying to find out . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_417",
@@ -4595,7 +4595,7 @@
         "context": "a poignant , artfully crafted meditation on mortality . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\na poignant , artfully crafted meditation on mortality . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_419",
@@ -4628,7 +4628,7 @@
         "context": "it 's somewhat clumsy and too lethargically paced -- but its story about a mysterious creature with psychic abilities offers a solid build-up , a terrific climax , and some nice chills along the way . ",
         "answer": "(B) Negative",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nit 's somewhat clumsy and too lethargically paced -- but its story about a mysterious creature with psychic abilities offers a solid build-up , a terrific climax , and some nice chills along the way . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a mixed sentiment. It has both positive and negative aspects. The negative aspects are mentioned in the beginning, such as \"somewhat clumsy\" and \"too lethargically paced.\" However, the positive aspects are highlighted later in the sentence, including \"solid build-up,\" \"terrific climax,\" and \"nice chills along the way.\" Overall, the positive aspects seem to outweigh the negative ones, making the sentiment more positive than negative."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_422",
@@ -4639,7 +4639,7 @@
         "context": "this is an egotistical endeavor from the daughter of horror director dario argento ( a producer here ) , but her raw performance and utter fearlessness make it strangely magnetic . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nthis is an egotistical endeavor from the daughter of horror director dario argento ( a producer here ) , but her raw performance and utter fearlessness make it strangely magnetic . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a mixed sentiment. It has both positive and negative aspects. The negative aspects are the egotistical endeavor and the association with Dario Argento. The positive aspects are the raw performance and fearlessness, which make the endeavor strangely magnetic."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_423",
@@ -4683,7 +4683,7 @@
         "context": "morton uses her face and her body language to bring us morvern 's soul , even though the character is almost completely deadpan . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nmorton uses her face and her body language to bring us morvern 's soul , even though the character is almost completely deadpan . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_427",
@@ -4716,7 +4716,7 @@
         "context": "the film may appear naked in its narrative form ... but it goes deeper than that , to fundamental choices that include the complexity of the catholic doctrine ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nthe film may appear naked in its narrative form ... but it goes deeper than that , to fundamental choices that include the complexity of the catholic doctrine \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_430",
@@ -4782,7 +4782,7 @@
         "context": "the second coming of harry potter is a film far superior to its predecessor . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nthe second coming of harry potter is a film far superior to its predecessor . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_436",
@@ -4804,7 +4804,7 @@
         "context": "why make a documentary about these marginal historical figures ? ",
         "answer": "(A) Negative",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nwhy make a documentary about these marginal historical figures ? \n\nAnswer:\n",
-        "model_prediction": "Negative sentiment"
+        "model_prediction": "Negativ"
     },
     {
         "id": "test_438",
@@ -4881,7 +4881,7 @@
         "context": "falls neatly into the category of good stupid fun . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nfalls neatly into the category of good stupid fun . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_445",
@@ -4903,7 +4903,7 @@
         "context": "writer-director 's mehta 's effort has tons of charm and the whimsy is in the mixture , the intoxicating masala , of cultures and film genres . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nwriter-director 's mehta 's effort has tons of charm and the whimsy is in the mixture , the intoxicating masala , of cultures and film genres . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_447",
@@ -4936,7 +4936,7 @@
         "context": "it will grip even viewers who are n't interested in rap , as it cuts to the heart of american society in an unnerving way . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nit will grip even viewers who are n't interested in rap , as it cuts to the heart of american society in an unnerving way . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_450",
@@ -5112,7 +5112,7 @@
         "context": "sade is an engaging look at the controversial eponymous and fiercely atheistic hero . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nsade is an engaging look at the controversial eponymous and fiercely atheistic hero . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_466",
@@ -5134,7 +5134,7 @@
         "context": "what the film lacks in general focus it makes up for in compassion , as corcuera manages to find the seeds of hope in the form of collective action . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nwhat the film lacks in general focus it makes up for in compassion , as corcuera manages to find the seeds of hope in the form of collective action . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_468",
@@ -5211,7 +5211,7 @@
         "context": "the volatile dynamics of female friendship is the subject of this unhurried , low-key film that is so off-hollywood that it seems positively french in its rhythms and resonance . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nthe volatile dynamics of female friendship is the subject of this unhurried , low-key film that is so off-hollywood that it seems positively french in its rhythms and resonance . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_475",
@@ -5222,7 +5222,7 @@
         "context": "visually rather stunning , but ultimately a handsome-looking bore , the true creativity would have been to hide treasure planet entirely and completely reimagine it . ",
         "answer": "(B) Negative",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nvisually rather stunning , but ultimately a handsome-looking bore , the true creativity would have been to hide treasure planet entirely and completely reimagine it . \n\nAnswer:\n",
-        "model_prediction": "Negative sentiment"
+        "model_prediction": "Negativ"
     },
     {
         "id": "test_476",
@@ -5244,7 +5244,7 @@
         "context": "the format gets used best ... to capture the dizzying heights achieved by motocross and bmx riders , whose balletic hotdogging occasionally ends in bone-crushing screwups . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nthe format gets used best ... to capture the dizzying heights achieved by motocross and bmx riders , whose balletic hotdogging occasionally ends in bone-crushing screwups . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_478",
@@ -5255,7 +5255,7 @@
         "context": "a film about a young man finding god that is accessible and touching to the marrow . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\na film about a young man finding god that is accessible and touching to the marrow . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_479",
@@ -5277,7 +5277,7 @@
         "context": "it 's a scattershot affair , but when it hits its mark it 's brilliant . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nit 's a scattershot affair , but when it hits its mark it 's brilliant . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a mixed sentiment. It starts with a negative sentiment (\"scattershot affair\"), but then shifts to a positive sentiment (\"brilliant\") when it hits its mark. So, the overall sentiment is mixed, with both positive and negative aspects."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_481",
@@ -5343,7 +5343,7 @@
         "context": "irwin is a man with enough charisma and audacity to carry a dozen films , but this particular result is ultimately held back from being something greater . ",
         "answer": "(B) Negative",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nirwin is a man with enough charisma and audacity to carry a dozen films , but this particular result is ultimately held back from being something greater . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a negative sentiment."
+        "model_prediction": "Negativ"
     },
     {
         "id": "test_487",
@@ -5354,7 +5354,7 @@
         "context": "a simple , but gritty and well-acted ensemble drama that encompasses a potent metaphor for a country still dealing with its fascist past . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\na simple , but gritty and well-acted ensemble drama that encompasses a potent metaphor for a country still dealing with its fascist past . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_488",
@@ -5398,7 +5398,7 @@
         "context": "( a ) n utterly charming and hilarious film that reminded me of the best of the disney comedies from the 60s . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\n( a ) n utterly charming and hilarious film that reminded me of the best of the disney comedies from the 60s . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_492",
@@ -5475,7 +5475,7 @@
         "context": "... turns so unforgivably trite in its last 10 minutes that anyone without a fortified sweet tooth will likely go into sugar shock . ",
         "answer": "(A) Negative",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\n... turns so unforgivably trite in its last 10 minutes that anyone without a fortified sweet tooth will likely go into sugar shock . \n\nAnswer:\n",
-        "model_prediction": "Negative sentiment"
+        "model_prediction": "Negativ"
     },
     {
         "id": "test_499",
@@ -5530,7 +5530,7 @@
         "context": "preaches to two completely different choirs at the same time , which is a pretty amazing accomplishment . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\npreaches to two completely different choirs at the same time , which is a pretty amazing accomplishment . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_504",
@@ -5596,7 +5596,7 @@
         "context": "further proof that the epicenter of cool , beautiful , thought-provoking foreign cinema is smack-dab in the middle of dubya 's axis of evil . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nfurther proof that the epicenter of cool , beautiful , thought-provoking foreign cinema is smack-dab in the middle of dubya 's axis of evil . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_510",
@@ -5805,7 +5805,7 @@
         "context": "inside the film 's conflict-powered plot there is a decent moral trying to get out , but it 's not that , it 's the tension that keeps you in your seat . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\ninside the film 's conflict-powered plot there is a decent moral trying to get out , but it 's not that , it 's the tension that keeps you in your seat . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_529",
@@ -5827,7 +5827,7 @@
         "context": "a fitfully amusing romp that , if nothing else , will appeal to fans of malcolm in the middle and its pubescent star , frankie muniz . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\na fitfully amusing romp that , if nothing else , will appeal to fans of malcolm in the middle and its pubescent star , frankie muniz . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_531",
@@ -5849,7 +5849,7 @@
         "context": "sticky sweet sentimentality , clumsy plotting and a rosily myopic view of life in the wwii-era mississippi delta undermine this adaptation . ",
         "answer": "(A) Negative",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nsticky sweet sentimentality , clumsy plotting and a rosily myopic view of life in the wwii-era mississippi delta undermine this adaptation . \n\nAnswer:\n",
-        "model_prediction": "Negative sentiment"
+        "model_prediction": "Negativ"
     },
     {
         "id": "test_533",
@@ -5893,7 +5893,7 @@
         "context": "displaying about equal amounts of naiveté , passion and talent , beneath clouds establishes sen as a filmmaker of considerable potential . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\ndisplaying about equal amounts of naiveté , passion and talent , beneath clouds establishes sen as a filmmaker of considerable potential . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_537",
@@ -5937,7 +5937,7 @@
         "context": "the son 's room is a triumph of gentility that earns its moments of pathos . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nthe son 's room is a triumph of gentility that earns its moments of pathos . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_541",
@@ -5970,7 +5970,7 @@
         "context": "richard gere and diane lane put in fine performances as does french actor oliver martinez . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nrichard gere and diane lane put in fine performances as does french actor oliver martinez . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_544",
@@ -6003,7 +6003,7 @@
         "context": "the chateau cleverly probes the cross-cultural differences between gauls and yanks . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nthe chateau cleverly probes the cross-cultural differences between gauls and yanks . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_547",
@@ -6146,7 +6146,7 @@
         "context": "even if you do n't think ( kissinger 's ) any more guilty of criminal activity than most contemporary statesmen , he 'd sure make a courtroom trial great fun to watch . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\neven if you do n't think ( kissinger 's ) any more guilty of criminal activity than most contemporary statesmen , he 'd sure make a courtroom trial great fun to watch . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Negativ"
     },
     {
         "id": "test_560",
@@ -6190,7 +6190,7 @@
         "context": "one of the best films of the year with its exploration of the obstacles to happiness faced by five contemporary individuals ... a psychological masterpiece . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\none of the best films of the year with its exploration of the obstacles to happiness faced by five contemporary individuals ... a psychological masterpiece . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_564",
@@ -6212,7 +6212,7 @@
         "context": "a difficult , absorbing film that manages to convey more substance despite its repetitions and inconsistencies than do most films than are far more pointed and clear . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\na difficult , absorbing film that manages to convey more substance despite its repetitions and inconsistencies than do most films than are far more pointed and clear . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_566",
@@ -6234,7 +6234,7 @@
         "context": "it 's an offbeat treat that pokes fun at the democratic exercise while also examining its significance for those who take part . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nit 's an offbeat treat that pokes fun at the democratic exercise while also examining its significance for those who take part . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_568",
@@ -6278,7 +6278,7 @@
         "context": "it 's a demented kitsch mess ( although the smeary digital video does match the muddled narrative ) , but it 's savvy about celebrity and has more guts and energy than much of what will open this year . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nit 's a demented kitsch mess ( although the smeary digital video does match the muddled narrative ) , but it 's savvy about celebrity and has more guts and energy than much of what will open this year . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a negative sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_572",
@@ -6322,7 +6322,7 @@
         "context": "jaglom ... put ( s ) the audience in the privileged position of eavesdropping on his characters ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\njaglom ... put ( s ) the audience in the privileged position of eavesdropping on his characters \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Negativ"
     },
     {
         "id": "test_576",
@@ -6344,7 +6344,7 @@
         "context": "a rigorously structured and exquisitely filmed drama about a father and son connection that is a brief shooting star of love . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\na rigorously structured and exquisitely filmed drama about a father and son connection that is a brief shooting star of love . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_578",
@@ -6443,7 +6443,7 @@
         "context": "vera 's technical prowess ends up selling his film short ; he smoothes over hard truths even as he uncovers them . ",
         "answer": "(A) Negative",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nvera 's technical prowess ends up selling his film short ; he smoothes over hard truths even as he uncovers them . \n\nAnswer:\n",
-        "model_prediction": "Negative sentiment"
+        "model_prediction": "Negativ"
     },
     {
         "id": "test_587",
@@ -6476,7 +6476,7 @@
         "context": "a lean , deftly shot , well-acted , weirdly retro thriller that recalls a raft of '60s and '70s european-set spy pictures . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\na lean , deftly shot , well-acted , weirdly retro thriller that recalls a raft of '60s and '70s european-set spy pictures . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_590",
@@ -6575,7 +6575,7 @@
         "context": "lovely and poignant . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nlovely and poignant . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_599",
@@ -6696,7 +6696,7 @@
         "context": "it wants to tweak them with a taste of tangy new humor . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nit wants to tweak them with a taste of tangy new humor . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_610",
@@ -6707,7 +6707,7 @@
         "context": "harris commands the screen , using his frailty to suggest the ravages of a life of corruption and ruthlessness . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nharris commands the screen , using his frailty to suggest the ravages of a life of corruption and ruthlessness . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_611",
@@ -6795,7 +6795,7 @@
         "context": "chilling , well-acted , and finely directed : david jacobson 's dahmer . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nchilling , well-acted , and finely directed : david jacobson 's dahmer . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_619",
@@ -6828,7 +6828,7 @@
         "context": "offers much to enjoy ... and a lot to mull over in terms of love , loyalty and the nature of staying friends . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\noffers much to enjoy ... and a lot to mull over in terms of love , loyalty and the nature of staying friends . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "positiv"
     },
     {
         "id": "test_622",
@@ -6927,7 +6927,7 @@
         "context": "in all , this is a watchable movie that 's not quite the memorable experience it might have been . ",
         "answer": "(B) Negative",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nin all , this is a watchable movie that 's not quite the memorable experience it might have been . \n\nAnswer:\n",
-        "model_prediction": "Negativ"
+        "model_prediction": "gativ"
     },
     {
         "id": "test_631",
@@ -6971,7 +6971,7 @@
         "context": "few films capture so perfectly the hopes and dreams of little boys on baseball fields as well as the grown men who sit in the stands . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nfew films capture so perfectly the hopes and dreams of little boys on baseball fields as well as the grown men who sit in the stands . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_635",
@@ -6982,7 +6982,7 @@
         "context": "my reaction in a word : disappointment . ",
         "answer": "(B) Negative",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nmy reaction in a word : disappointment . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a negative sentiment."
+        "model_prediction": "Negativ"
     },
     {
         "id": "test_636",
@@ -7059,7 +7059,7 @@
         "context": "there 's something auspicious , and daring , too , about the artistic instinct that pushes a majority-oriented director like steven spielberg to follow a.i. with this challenging report so liable to unnerve the majority . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nthere 's something auspicious , and daring , too , about the artistic instinct that pushes a majority-oriented director like steven spielberg to follow a.i. with this challenging report so liable to unnerve the majority . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_643",
@@ -7136,7 +7136,7 @@
         "context": "... with `` the bourne identity '' we return to the more traditional action genre . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\n... with `` the bourne identity '' we return to the more traditional action genre . \n\nAnswer:\n",
-        "model_prediction": "Negativ"
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_650",
@@ -7367,7 +7367,7 @@
         "context": "( d ) oes n't bother being as cloying or preachy as equivalent evangelical christian movies -- maybe the filmmakers know that the likely audience will already be among the faithful . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\n( d ) oes n't bother being as cloying or preachy as equivalent evangelical christian movies -- maybe the filmmakers know that the likely audience will already be among the faithful . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a negative sentiment."
+        "model_prediction": "Negativ"
     },
     {
         "id": "test_671",
@@ -7389,7 +7389,7 @@
         "context": "a movie that reminds us of just how exciting and satisfying the fantasy cinema can be when it 's approached with imagination and flair . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\na movie that reminds us of just how exciting and satisfying the fantasy cinema can be when it 's approached with imagination and flair . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_673",
@@ -7422,7 +7422,7 @@
         "context": "may be far from the best of the series , but it 's assured , wonderfully respectful of its past and thrilling enough to make it abundantly clear that this movie phenomenon has once again reinvented itself for a new generation . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nmay be far from the best of the series , but it 's assured , wonderfully respectful of its past and thrilling enough to make it abundantly clear that this movie phenomenon has once again reinvented itself for a new generation . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_676",
@@ -7444,7 +7444,7 @@
         "context": "there are some wonderfully fresh moments that smooth the moral stiffness with human kindness and hopefulness . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nthere are some wonderfully fresh moments that smooth the moral stiffness with human kindness and hopefulness . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_678",
@@ -7510,7 +7510,7 @@
         "context": "the piece plays as well as it does thanks in large measure to anspaugh 's three lead actresses . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nthe piece plays as well as it does thanks in large measure to anspaugh 's three lead actresses . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_684",
@@ -7521,7 +7521,7 @@
         "context": "despite its title , punch-drunk love is never heavy-handed . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\ndespite its title , punch-drunk love is never heavy-handed . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_685",
@@ -7598,7 +7598,7 @@
         "context": "the continued good chemistry between carmen and juni is what keeps this slightly disappointing sequel going , with enough amusing banter -- blessedly curse-free -- to keep both kids and parents entertained . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nthe continued good chemistry between carmen and juni is what keeps this slightly disappointing sequel going , with enough amusing banter -- blessedly curse-free -- to keep both kids and parents entertained . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_692",
@@ -7620,7 +7620,7 @@
         "context": "it 's one of those baseball pictures where the hero is stoic , the wife is patient , the kids are as cute as all get-out and the odds against success are long enough to intimidate , but short enough to make a dream seem possible . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nit 's one of those baseball pictures where the hero is stoic , the wife is patient , the kids are as cute as all get-out and the odds against success are long enough to intimidate , but short enough to make a dream seem possible . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_694",
@@ -7697,7 +7697,7 @@
         "context": "against all odds in heaven and hell , it creeped me out just fine . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nagainst all odds in heaven and hell , it creeped me out just fine . \n\nAnswer:\n",
-        "model_prediction": "Negative sentiment"
+        "model_prediction": "Negativ"
     },
     {
         "id": "test_701",
@@ -7730,7 +7730,7 @@
         "context": "bogdanovich tantalizes by offering a peep show into the lives of the era 's creme de la celluloid . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nbogdanovich tantalizes by offering a peep show into the lives of the era 's creme de la celluloid . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_704",
@@ -7851,7 +7851,7 @@
         "context": "not since tom cruise in risky business has an actor made such a strong impression in his underwear . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nnot since tom cruise in risky business has an actor made such a strong impression in his underwear . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_715",
@@ -7950,7 +7950,7 @@
         "context": "ramsay , as in ratcatcher , remains a filmmaker with an acid viewpoint and a real gift for teasing chilly poetry out of lives and settings that might otherwise seem drab and sordid . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nramsay , as in ratcatcher , remains a filmmaker with an acid viewpoint and a real gift for teasing chilly poetry out of lives and settings that might otherwise seem drab and sordid . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_724",
@@ -7961,7 +7961,7 @@
         "context": "( grant 's ) bumbling magic takes over the film , and it turns out to be another winning star vehicle . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\n( grant 's ) bumbling magic takes over the film , and it turns out to be another winning star vehicle . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_725",
@@ -7972,7 +7972,7 @@
         "context": "my wife is an actress is an utterly charming french comedy that feels so american in sensibility and style it 's virtually its own hollywood remake . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nmy wife is an actress is an utterly charming french comedy that feels so american in sensibility and style it 's virtually its own hollywood remake . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_726",
@@ -8049,7 +8049,7 @@
         "context": "a good piece of work more often than not . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\na good piece of work more often than not . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_733",
@@ -8093,7 +8093,7 @@
         "context": "lapaglia 's ability to convey grief and hope works with weaver 's sensitive reactions to make this a two-actor master class . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nlapaglia 's ability to convey grief and hope works with weaver 's sensitive reactions to make this a two-actor master class . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_737",
@@ -8148,7 +8148,7 @@
         "context": "like leon , it 's frustrating and still oddly likable . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nlike leon , it 's frustrating and still oddly likable . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a mixed sentiment, as it contains both positive and negative elements. The positive aspect is the word \"likable,\" which indicates a positive sentiment. The negative aspect is the phrase \"frustrating and still,\" which suggests a negative sentiment. Overall, the sentence has a mixed sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_742",
@@ -8181,7 +8181,7 @@
         "context": "seldahl 's barbara is a precise and moving portrait of someone whose world is turned upside down , first by passion and then by illness . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nseldahl 's barbara is a precise and moving portrait of someone whose world is turned upside down , first by passion and then by illness . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_745",
@@ -8192,7 +8192,7 @@
         "context": "reggio 's continual visual barrage is absorbing as well as thought-provoking . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nreggio 's continual visual barrage is absorbing as well as thought-provoking . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_746",
@@ -8346,7 +8346,7 @@
         "context": "not since japanese filmmaker akira kurosawa 's ran have the savagery of combat and the specter of death been visualized with such operatic grandeur . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nnot since japanese filmmaker akira kurosawa 's ran have the savagery of combat and the specter of death been visualized with such operatic grandeur . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_760",
@@ -8423,7 +8423,7 @@
         "context": "as vulgar as it is banal . ",
         "answer": "(B) Negative",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nas vulgar as it is banal . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a negative sentiment."
+        "model_prediction": "Negativ"
     },
     {
         "id": "test_767",
@@ -8456,7 +8456,7 @@
         "context": "an artful , intelligent film that stays within the confines of a well-established genre . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nan artful , intelligent film that stays within the confines of a well-established genre . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_770",
@@ -8478,7 +8478,7 @@
         "context": "a cartoon that 's truly cinematic in scope , and a story that 's compelling and heartfelt -- even if the heart belongs to a big , four-legged herbivore . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\na cartoon that 's truly cinematic in scope , and a story that 's compelling and heartfelt -- even if the heart belongs to a big , four-legged herbivore . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_772",
@@ -8489,7 +8489,7 @@
         "context": "vera 's three actors -- mollà , gil and bardem -- excel in insightful , empathetic performances . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nvera 's three actors -- mollà , gil and bardem -- excel in insightful , empathetic performances . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_773",
@@ -8544,7 +8544,7 @@
         "context": "maud and roland 's search for an unknowable past makes for a haunting literary detective story , but labute pulls off a neater trick in possession : he makes language sexy . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nmaud and roland 's search for an unknowable past makes for a haunting literary detective story , but labute pulls off a neater trick in possession : he makes language sexy . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_778",
@@ -8555,7 +8555,7 @@
         "context": "about a manga-like heroine who fights back at her abusers , it 's energetic and satisfying if not deep and psychological . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nabout a manga-like heroine who fights back at her abusers , it 's energetic and satisfying if not deep and psychological . \n\nAnswer:\n",
-        "model_prediction": "getic and satisfying"
+        "model_prediction": "The sentence conveys a positive sentiment."
     },
     {
         "id": "test_779",
@@ -8720,7 +8720,7 @@
         "context": "byler reveals his characters in a way that intrigues and even fascinates us , and he never reduces the situation to simple melodrama . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nbyler reveals his characters in a way that intrigues and even fascinates us , and he never reduces the situation to simple melodrama . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_794",
@@ -8742,7 +8742,7 @@
         "context": "what is 100 % missing here is a script of even the most elemental literacy , an inkling of genuine wit , and anything resembling acting . ",
         "answer": "(B) Negative",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nwhat is 100 % missing here is a script of even the most elemental literacy , an inkling of genuine wit , and anything resembling acting . \n\nAnswer:\n",
-        "model_prediction": "Negative sentiment"
+        "model_prediction": "Negativ"
     },
     {
         "id": "test_796",
@@ -8797,7 +8797,7 @@
         "context": "visually imaginative , thematically instructive and thoroughly delightful , it takes us on a roller-coaster ride from innocence to experience without even a hint of that typical kiddie-flick sentimentality . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nvisually imaginative , thematically instructive and thoroughly delightful , it takes us on a roller-coaster ride from innocence to experience without even a hint of that typical kiddie-flick sentimentality . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_801",
@@ -8841,7 +8841,7 @@
         "context": "seldom has a movie so closely matched the spirit of a man and his work . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nseldom has a movie so closely matched the spirit of a man and his work . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_805",
@@ -8874,7 +8874,7 @@
         "context": "( lawrence bounces ) all over the stage , dancing , running , sweating , mopping his face and generally displaying the wacky talent that brought him fame in the first place . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\n( lawrence bounces ) all over the stage , dancing , running , sweating , mopping his face and generally displaying the wacky talent that brought him fame in the first place . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_808",
@@ -8885,7 +8885,7 @@
         "context": "a solid film ... but more conscientious than it is truly stirring . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\na solid film ... but more conscientious than it is truly stirring . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a mixed sentiment. It has both positive and negative aspects. The positive aspect is that the film is considered solid, which implies that it is well-made and has some good qualities. The negative aspect is that the film is more conscientious than it is truly stirring, which means that it is more focused on being responsible and careful, but it lacks the emotional impact or depth that would make it truly moving or powerful."
+        "model_prediction": "Negativ"
     },
     {
         "id": "test_809",
@@ -8962,7 +8962,7 @@
         "context": "good film , but very glum . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\ngood film , but very glum . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a mixed sentiment. It has a positive aspect, which is \"good film,\" and a negative aspect, which is \"very glum.\" The overall sentiment is mixed because it contains both positive and negative elements."
+        "model_prediction": "The sentence conveys a negative sentiment."
     },
     {
         "id": "test_816",
@@ -9094,7 +9094,7 @@
         "context": "the characters are interesting and often very creatively constructed from figure to backstory . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nthe characters are interesting and often very creatively constructed from figure to backstory . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_828",
@@ -9127,7 +9127,7 @@
         "context": "montias ... pumps a lot of energy into his nicely nuanced narrative and surrounds himself with a cast of quirky -- but not stereotyped -- street characters . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nmontias ... pumps a lot of energy into his nicely nuanced narrative and surrounds himself with a cast of quirky -- but not stereotyped -- street characters . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_831",
@@ -9160,7 +9160,7 @@
         "context": "a densely constructed , highly referential film , and an audacious return to form that can comfortably sit among jean-luc godard 's finest work . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\na densely constructed , highly referential film , and an audacious return to form that can comfortably sit among jean-luc godard 's finest work . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_834",
@@ -9171,7 +9171,7 @@
         "context": "part low rent godfather . ",
         "answer": "(A) Negative",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\npart low rent godfather . \n\nAnswer:\n",
-        "model_prediction": "The sentence \"part low rent godfather\" conveys a negative sentiment. The term \"low rent\" implies that something is of poor quality or not worth much, which gives a negative connotation to the sentence."
+        "model_prediction": "The sentence \"part low rent godfather\" conveys a negative sentiment. The term \"low rent\" is used to describe something of poor quality or lacking in class, which is associated with a negative connotation. The comparison to the \"godfather\" implies that the subject is not as good or powerful as the godfather, further emphasizing the negative sentiment."
     },
     {
         "id": "test_835",
@@ -9248,7 +9248,7 @@
         "context": "even in its most tedious scenes , russian ark is mesmerizing . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\neven in its most tedious scenes , russian ark is mesmerizing . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_842",
@@ -9369,7 +9369,7 @@
         "context": "dense with characters and contains some thrilling moments . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\ndense with characters and contains some thrilling moments . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_853",
@@ -9468,7 +9468,7 @@
         "context": "the film is powerful , accessible and funny . ",
         "answer": "(A) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nthe film is powerful , accessible and funny . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_862",
@@ -9479,7 +9479,7 @@
         "context": "dazzling in its complexity , disturbing for its extraordinary themes , the piano teacher is a film that defies categorisation . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\ndazzling in its complexity , disturbing for its extraordinary themes , the piano teacher is a film that defies categorisation . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_863",
@@ -9490,7 +9490,7 @@
         "context": "this is human comedy at its most amusing , interesting and confirming . ",
         "answer": "(B) Positive",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\n\nQuestion:\nDoes the following sentence convey a positive or negative sentiment?\n\nSentence:\nthis is human comedy at its most amusing , interesting and confirming . \n\nAnswer:\n",
-        "model_prediction": "The sentence conveys a positive sentiment."
+        "model_prediction": "Positiv"
     },
     {
         "id": "test_864",

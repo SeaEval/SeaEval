@@ -316,7 +316,7 @@
         ],
         "id": "test_29",
         "model_input": "Assess the grammatical correctness of the following sentence and choose the appropriate answer from the provided options. Simply select the answer, no explanations required.\n\nSentence:\nThe more people you give beer to, the more people get sick.\n\nChoices:\n(A) Grammatically incorrect\n(B) Grammatically correct\n\nAnswer:\n",
-        "model_prediction": "(A) Grammatically incorrect"
+        "model_prediction": "(B) Grammatically correct"
     },
     {
         "context": "She was reading the books under the table, but Fred didn't know what books.",
@@ -470,7 +470,7 @@
         ],
         "id": "test_43",
         "model_input": "Assess the grammatical correctness of the following sentence and choose the appropriate answer from the provided options. Simply select the answer, no explanations required.\n\nSentence:\nJohn heard that they criticized themselves.\n\nChoices:\n(A) Grammatically correct\n(B) Grammatically incorrect\n\nAnswer:\n",
-        "model_prediction": "(A) Grammatically correct"
+        "model_prediction": "(B) Grammatically incorrect"
     },
     {
         "context": "I wonder who to place my trust in.",
@@ -1350,7 +1350,7 @@
         ],
         "id": "test_123",
         "model_input": "Assess the grammatical correctness of the following sentence and choose the appropriate answer from the provided options. Simply select the answer, no explanations required.\n\nSentence:\nThat kind of person is hard to find anyone to look after.\n\nChoices:\n(A) Grammatically incorrect\n(B) Grammatically correct\n\nAnswer:\n",
-        "model_prediction": "(A) Grammatically incorrect"
+        "model_prediction": "(B) Grammatically correct"
     },
     {
         "context": "Chris was handed Sandy a note.",
@@ -2021,7 +2021,7 @@
         ],
         "id": "test_184",
         "model_input": "Assess the grammatical correctness of the following sentence and choose the appropriate answer from the provided options. Simply select the answer, no explanations required.\n\nSentence:\nYou will believe Bob.\n\nChoices:\n(A) Grammatically correct\n(B) Grammatically incorrect\n\nAnswer:\n",
-        "model_prediction": "(B) Grammatically incorrect"
+        "model_prediction": "(A) Grammatically correct"
     },
     {
         "context": "Kim likes dogs.",
@@ -2241,7 +2241,7 @@
         ],
         "id": "test_204",
         "model_input": "Assess the grammatical correctness of the following sentence and choose the appropriate answer from the provided options. Simply select the answer, no explanations required.\n\nSentence:\nto steal talismans from witches is dangerous\n\nChoices:\n(A) Grammatically incorrect\n(B) Grammatically correct\n\nAnswer:\n",
-        "model_prediction": "(A) Grammatically incorrect"
+        "model_prediction": "(B) Grammatically correct"
     },
     {
         "context": "I borrowed Fred's diagram of a snake's eye because Steve's had been stolen.",
@@ -5134,7 +5134,7 @@
         ],
         "id": "test_467",
         "model_input": "Assess the grammatical correctness of the following sentence and choose the appropriate answer from the provided options. Simply select the answer, no explanations required.\n\nSentence:\nTony sent Mo a picture that he painted, but it's not clear with what.\n\nChoices:\n(A) Grammatically incorrect\n(B) Grammatically correct\n\nAnswer:\n",
-        "model_prediction": "(A) Grammatically incorrect"
+        "model_prediction": "(B) Grammatically correct"
     },
     {
         "context": "I wonder whom us to trust.",
@@ -6047,7 +6047,7 @@
         ],
         "id": "test_550",
         "model_input": "Assess the grammatical correctness of the following sentence and choose the appropriate answer from the provided options. Simply select the answer, no explanations required.\n\nSentence:\nI believe there to be no way out.\n\nChoices:\n(A) Grammatically incorrect\n(B) Grammatically correct\n\nAnswer:\n",
-        "model_prediction": "(A) Grammatically incorrect"
+        "model_prediction": "(B) Grammatically correct"
     },
     {
         "context": "Susan frightens her.",
@@ -6146,7 +6146,7 @@
         ],
         "id": "test_559",
         "model_input": "Assess the grammatical correctness of the following sentence and choose the appropriate answer from the provided options. Simply select the answer, no explanations required.\n\nSentence:\nI squeaked the door.\n\nChoices:\n(A) Grammatically correct\n(B) Grammatically incorrect\n\nAnswer:\n",
-        "model_prediction": "(A) Grammatically correct"
+        "model_prediction": "(B) Grammatically incorrect"
     },
     {
         "context": "He let the cats which were whining out.",
@@ -6311,7 +6311,7 @@
         ],
         "id": "test_574",
         "model_input": "Assess the grammatical correctness of the following sentence and choose the appropriate answer from the provided options. Simply select the answer, no explanations required.\n\nSentence:\nThat dog is so ferocious, it even tried to bite itself.\n\nChoices:\n(A) Grammatically correct\n(B) Grammatically incorrect\n\nAnswer:\n",
-        "model_prediction": "(A) Grammatically correct"
+        "model_prediction": "(B) Grammatically incorrect"
     },
     {
         "context": "I dislike the company in which we placed our trust.",
@@ -6520,7 +6520,7 @@
         ],
         "id": "test_593",
         "model_input": "Assess the grammatical correctness of the following sentence and choose the appropriate answer from the provided options. Simply select the answer, no explanations required.\n\nSentence:\nAny trouble is what I don't want.\n\nChoices:\n(A) Grammatically incorrect\n(B) Grammatically correct\n\nAnswer:\n",
-        "model_prediction": "(A) Grammatically incorrect"
+        "model_prediction": "(B) Grammatically correct"
     },
     {
         "context": "Ann bought a first edition of Richard III for $1000.",
@@ -7268,7 +7268,7 @@
         ],
         "id": "test_661",
         "model_input": "Assess the grammatical correctness of the following sentence and choose the appropriate answer from the provided options. Simply select the answer, no explanations required.\n\nSentence:\nThis is the book which Bob reviewed, and this is the one which Fred won't do it.\n\nChoices:\n(A) Grammatically incorrect\n(B) Grammatically correct\n\nAnswer:\n",
-        "model_prediction": "(A) Grammatically incorrect"
+        "model_prediction": "(B) Grammatically correct"
     },
     {
         "context": "I live at the place where Route 150 crosses the Hudson River and my dad lives at it too.",
@@ -8357,7 +8357,7 @@
         ],
         "id": "test_760",
         "model_input": "Assess the grammatical correctness of the following sentence and choose the appropriate answer from the provided options. Simply select the answer, no explanations required.\n\nSentence:\nThat he is here is the problem.\n\nChoices:\n(A) Grammatically incorrect\n(B) Grammatically correct\n\nAnswer:\n",
-        "model_prediction": "(A) Grammatically incorrect"
+        "model_prediction": "(B) Grammatically correct"
     },
     {
         "context": "The more pictures of him that appear in the news, the more embarrassed John becomes.",
@@ -9105,7 +9105,7 @@
         ],
         "id": "test_828",
         "model_input": "Assess the grammatical correctness of the following sentence and choose the appropriate answer from the provided options. Simply select the answer, no explanations required.\n\nSentence:\nIn which way is Clinton anxious to find out which budget dilemmas Panetta would be willing to solve?\n\nChoices:\n(A) Grammatically correct\n(B) Grammatically incorrect\n\nAnswer:\n",
-        "model_prediction": "(A) Grammatically correct"
+        "model_prediction": "(B) Grammatically incorrect"
     },
     {
         "context": "John's drum will always bother me.",
@@ -9501,7 +9501,7 @@
         ],
         "id": "test_864",
         "model_input": "Assess the grammatical correctness of the following sentence and choose the appropriate answer from the provided options. Simply select the answer, no explanations required.\n\nSentence:\nThe man who Mary loves and Sally hates computed my tax.\n\nChoices:\n(A) Grammatically incorrect\n(B) Grammatically correct\n\nAnswer:\n",
-        "model_prediction": "(A) Grammatically incorrect"
+        "model_prediction": "(B) Grammatically correct"
     },
     {
         "context": "I think Agnes said that Bill would speak, but I don't remember what about.",
@@ -9710,7 +9710,7 @@
         ],
         "id": "test_883",
         "model_input": "Assess the grammatical correctness of the following sentence and choose the appropriate answer from the provided options. Simply select the answer, no explanations required.\n\nSentence:\nNewsweek about crime appeared on the newsstands.\n\nChoices:\n(A) Grammatically incorrect\n(B) Grammatically correct\n\nAnswer:\n",
-        "model_prediction": "(A) Grammatically incorrect"
+        "model_prediction": "(B) Grammatically correct"
     },
     {
         "context": "A student who to talk to us just walked in.",
@@ -10073,7 +10073,7 @@
         ],
         "id": "test_916",
         "model_input": "Assess the grammatical correctness of the following sentence and choose the appropriate answer from the provided options. Simply select the answer, no explanations required.\n\nSentence:\nNobody told Susan about herself.\n\nChoices:\n(A) Grammatically correct\n(B) Grammatically incorrect\n\nAnswer:\n",
-        "model_prediction": "(B) Grammatically incorrect"
+        "model_prediction": "(A) Grammatically correct"
     },
     {
         "context": "Some my jobs are in jeopardy.",
@@ -10733,7 +10733,7 @@
         ],
         "id": "test_976",
         "model_input": "Assess the grammatical correctness of the following sentence and choose the appropriate answer from the provided options. Simply select the answer, no explanations required.\n\nSentence:\nI want that Bill left to remain a secret.\n\nChoices:\n(A) Grammatically incorrect\n(B) Grammatically correct\n\nAnswer:\n",
-        "model_prediction": "(A) Grammatically incorrect"
+        "model_prediction": "(B) Grammatically correct"
     },
     {
         "context": "I ate a salad that was filled with lima beans.",
@@ -11459,7 +11459,7 @@
         ],
         "id": "test_1042",
         "model_input": "Assess the grammatical correctness of the following sentence and choose the appropriate answer from the provided options. Simply select the answer, no explanations required.\n\nSentence:\nMary asked me if, in St. Louis, John could rent a house cheap.\n\nChoices:\n(A) Grammatically incorrect\n(B) Grammatically correct\n\nAnswer:\n",
-        "model_prediction": "(A) Grammatically incorrect"
+        "model_prediction": "(B) Grammatically correct"
     },
     {
         "context": "I kicked myself",

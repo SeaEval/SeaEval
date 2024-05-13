@@ -517,7 +517,7 @@
         "context": "F: I can't find Jingjian Road on the map.\n M: Why not ask someone where it is?",
         "question": "Does the man know where Jingjian Road is?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nF: I can't find Jingjian Road on the map.\n M: Why not ask someone where it is?\n\nQuestion:\nDoes the man know where Jingjian Road is?\n\nChoices:\n(A) No, he doesn't.\n(B) Yes, he does.\n(C) No, but he can find it on the map.\n\nAnswer:\n",
-        "model_prediction": "(C) No, but he can find it on the map."
+        "model_prediction": "(A) No, he doesn't."
     },
     {
         "answer": "(B) One of them is crazy about writing.",
@@ -634,7 +634,7 @@
         "context": "W: I'm free today. Can you think of doing something?\n M: Well ... How about swimming in the country?\n W: Mm. Good idea. We haven't done it for ages.",
         "question": "What is the man doing?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nW: I'm free today. Can you think of doing something?\n M: Well ... How about swimming in the country?\n W: Mm. Good idea. We haven't done it for ages.\n\nQuestion:\nWhat is the man doing?\n\nChoices:\n(A) Swimming.\n(B) Taking a ride.\n(C) Making a suggestion.\n\nAnswer:\n",
-        "model_prediction": "(C) Making a suggestion."
+        "model_prediction": "C"
     },
     {
         "answer": "(A) A taxi.",
@@ -1505,7 +1505,7 @@
         "context": "W: How did you like the dinner just now?\n M: It was quite delicious, but the beef was a bit well done.",
         "question": "How did the man like the beef?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nW: How did you like the dinner just now?\n M: It was quite delicious, but the beef was a bit well done.\n\nQuestion:\nHow did the man like the beef?\n\nChoices:\n(A) Satisfying.\n(B) Delicious.\n(C) Not satisfying.\n\nAnswer:\n",
-        "model_prediction": "(C) Not satisfying."
+        "model_prediction": "C"
     },
     {
         "answer": "(B) Leave some time earlier.",
@@ -1791,7 +1791,7 @@
         "context": "Husband: Happy Anniversary!\n Wife: Oh, thank you. They're beautiful. You shouldn't have ... especially since our anniversary was last week.\n Husband: What? Oh, I completely forgot ...\n Wife: Again?\n Husband: No Way. I can't believe it.\n Wife: Neither can I, but you did.\n Husband: Ah, how can I make it up to you ... again? Anything!\n Wife: Okay, let's negotiate. [Negotiate?] First of all, I want to go on that dream vacation you've always promised me.\n Husband: You mean, to Chicago?\n Wife: No! To Europe. I want to fly first class and stay at 5-star hotels. And no more places with broken heaters, leaky showers, and dirty bedding.\n Husband: Ah, were those places that bad?\n Wife: Well, SOMETHING a little nicer, at least once in a blue moon, would be nice. [Well ... ] And, oh yeah. Next, I want to get a new kitchen stove. The old one took its last breath weeks ago.\n Husband: But we ...\n Wife: No, we're NOT going to use the outdoor barbecue anymore. It isn't any fun at all cooking outside in the winter, with icicles hanging from your nose.\n Husband: That bad?\n Wife: Not for YOU since you're always watching from inside.\n Husband: Oh, well.\n Wife: And finally, I want a new wardrobe: some new dresses, shirts, pants, earrings ...\n Husband: But ...\n Wife: And, NO, I'm not going to wear your grandmother's old secondhand pants again.\n Husband: Is that it?\n Wife: Uh, hmm, for now. So, why don't we grab a bite to eat before we start planning the entire adventure.\n Husband: But lunch wasn't on the list.\n Wife: Let's see. Paris, Rome, London, then a short detour to Russia, China, [What?!] and, ooh, and Hawaii on the way home.\n Husband: Wow. I'd better ask the boss for a huge raise.",
         "question": "Why does the woman want more clothing?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nHusband: Happy Anniversary!\n Wife: Oh, thank you. They're beautiful. You shouldn't have ... especially since our anniversary was last week.\n Husband: What? Oh, I completely forgot ...\n Wife: Again?\n Husband: No Way. I can't believe it.\n Wife: Neither can I, but you did.\n Husband: Ah, how can I make it up to you ... again? Anything!\n Wife: Okay, let's negotiate. [Negotiate?] First of all, I want to go on that dream vacation you've always promised me.\n Husband: You mean, to Chicago?\n Wife: No! To Europe. I want to fly first class and stay at 5-star hotels. And no more places with broken heaters, leaky showers, and dirty bedding.\n Husband: Ah, were those places that bad?\n Wife: Well, SOMETHING a little nicer, at least once in a blue moon, would be nice. [Well ... ] And, oh yeah. Next, I want to get a new kitchen stove. The old one took its last breath weeks ago.\n Husband: But we ...\n Wife: No, we're NOT going to use the outdoor barbecue anymore. It isn't any fun at all cooking outside in the winter, with icicles hanging from your nose.\n Husband: That bad?\n Wife: Not for YOU since you're always watching from inside.\n Husband: Oh, well.\n Wife: And finally, I want a new wardrobe: some new dresses, shirts, pants, earrings ...\n Husband: But ...\n Wife: And, NO, I'm not going to wear your grandmother's old secondhand pants again.\n Husband: Is that it?\n Wife: Uh, hmm, for now. So, why don't we grab a bite to eat before we start planning the entire adventure.\n Husband: But lunch wasn't on the list.\n Wife: Let's see. Paris, Rome, London, then a short detour to Russia, China, [What?!] and, ooh, and Hawaii on the way home.\n Husband: Wow. I'd better ask the boss for a huge raise.\n\nQuestion:\nWhy does the woman want more clothing?\n\nChoices:\n(A) She needs smaller sizes because she has lost weight.\n(B) She wants more comfortable clothing for the winter.\n(C) She is tired of wearing old, used clothing.\n\nAnswer:\n",
-        "model_prediction": "(C) She is tired of wearing old, used clothing."
+        "model_prediction": "C"
     },
     {
         "answer": "(C) There is no need for the woman to go on a diet.",
@@ -1947,7 +1947,7 @@
         "context": "W: What is so special about tomorrow?\n M: Tomorrow is October 24th, United Nations Day.\n W: Why is October 24th United Nations Day?\n M: That's the date in 1945 when the United Nations began.\n W: How does your school celebrate United Nations Day?\n M: The UN Day celebration includes the songs and dances of different countries in the United Nations and a traditional dress parade. Our school library displays students' works of art from different countries and cultures. We also hold a \"Tastes from Around the World\" food festival.\n W: What's the purpose of the celebration?\n M: To help us students learn about other cultures and understand and respect other cultures.\n W: It is really worthwhile.",
         "question": "What is the date today?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nW: What is so special about tomorrow?\n M: Tomorrow is October 24th, United Nations Day.\n W: Why is October 24th United Nations Day?\n M: That's the date in 1945 when the United Nations began.\n W: How does your school celebrate United Nations Day?\n M: The UN Day celebration includes the songs and dances of different countries in the United Nations and a traditional dress parade. Our school library displays students' works of art from different countries and cultures. We also hold a \"Tastes from Around the World\" food festival.\n W: What's the purpose of the celebration?\n M: To help us students learn about other cultures and understand and respect other cultures.\n W: It is really worthwhile.\n\nQuestion:\nWhat is the date today?\n\nChoices:\n(A) October 23rd.\n(B) October 22nd.\n(C) October 24th.\n\nAnswer:\n",
-        "model_prediction": "(B) October 22nd."
+        "model_prediction": "(C) October 24th."
     },
     {
         "answer": "(A) $175.",
@@ -2142,7 +2142,7 @@
         "context": "Waiter: Hi. Welcome to Heavenly Pies. May I take your order?\n Man: Uh ... yes. I'd like the chicken fried steak.\n Waiter: Okay. Would you like fries, bread, or rice with your meal?\n Man: Umm. I'll take the rice?\n Waiter: Would you care for anything to drink?\n Man: Yeah. I'll take a medium orange juice.\n Waiter: I'm sorry. We only have large or small.\n Man: Well, in that case, uh, I'll have a small one.\n Waiter: Okay. A small juice. And what kind of dressing would you like with your salad. It comes with the fried steak.\n Man: What dressings do you have?\n Waiter: We have French, Italian, blue cheese, and ranch.\n Man: Oh! Ranch, please.\n Waiter: Would you like anything else?\n Man: Well, I'd like to see your pie menu. That's the main reason why I like to dine here.\n Waiter: Oh, I'm so sorry, but we aren't serving pies today.\n Man: Huh? I thought this was Heavenly Pies Restaurant.\n Waiter: Well, it usually is, but, Dave, our baker, slipped in the kitchen on a banana two days ago, and hurt his leg. [Oh] He'll be out for at least two weeks. In the meantime, we're serving ice cream sundaes instead. Sorry.\n Man: Wow. I'm sorry to hear that. Well in that case, I'll have an ice cream sundae.\n Woman: I'll be back with your order in a few minutes",
         "question": "Why is the restaurant not serving pies today?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nWaiter: Hi. Welcome to Heavenly Pies. May I take your order?\n Man: Uh ... yes. I'd like the chicken fried steak.\n Waiter: Okay. Would you like fries, bread, or rice with your meal?\n Man: Umm. I'll take the rice?\n Waiter: Would you care for anything to drink?\n Man: Yeah. I'll take a medium orange juice.\n Waiter: I'm sorry. We only have large or small.\n Man: Well, in that case, uh, I'll have a small one.\n Waiter: Okay. A small juice. And what kind of dressing would you like with your salad. It comes with the fried steak.\n Man: What dressings do you have?\n Waiter: We have French, Italian, blue cheese, and ranch.\n Man: Oh! Ranch, please.\n Waiter: Would you like anything else?\n Man: Well, I'd like to see your pie menu. That's the main reason why I like to dine here.\n Waiter: Oh, I'm so sorry, but we aren't serving pies today.\n Man: Huh? I thought this was Heavenly Pies Restaurant.\n Waiter: Well, it usually is, but, Dave, our baker, slipped in the kitchen on a banana two days ago, and hurt his leg. [Oh] He'll be out for at least two weeks. In the meantime, we're serving ice cream sundaes instead. Sorry.\n Man: Wow. I'm sorry to hear that. Well in that case, I'll have an ice cream sundae.\n Woman: I'll be back with your order in a few minutes\n\nQuestion:\nWhy is the restaurant not serving pies today?\n\nChoices:\n(A) The restaurant has decided to only sell ice cream.\n(B) The oven is broken and hasn't been repaired.\n(C) The baker was hurt at work and can't prepare them.\n\nAnswer:\n",
-        "model_prediction": "(C) The baker was hurt at work and can't prepare them."
+        "model_prediction": "C"
     },
     {
         "answer": "(A) To visit a flat building himself.",
@@ -2974,7 +2974,7 @@
         "context": "Husband: Happy Anniversary!\n Wife: Oh, thank you. They're beautiful. You shouldn't have ... especially since our anniversary was last week.\n Husband: What? Oh, I completely forgot ...\n Wife: Again?\n Husband: No Way. I can't believe it.\n Wife: Neither can I, but you did.\n Husband: Ah, how can I make it up to you ... again? Anything!\n Wife: Okay, let's negotiate. [Negotiate?] First of all, I want to go on that dream vacation you've always promised me.\n Husband: You mean, to Chicago?\n Wife: No! To Europe. I want to fly first class and stay at 5-star hotels. And no more places with broken heaters, leaky showers, and dirty bedding.\n Husband: Ah, were those places that bad?\n Wife: Well, SOMETHING a little nicer, at least once in a blue moon, would be nice. [Well ... ] And, oh yeah. Next, I want to get a new kitchen stove. The old one took its last breath weeks ago.\n Husband: But we ...\n Wife: No, we're NOT going to use the outdoor barbecue anymore. It isn't any fun at all cooking outside in the winter, with icicles hanging from your nose.\n Husband: That bad?\n Wife: Not for YOU since you're always watching from inside.\n Husband: Oh, well.\n Wife: And finally, I want a new wardrobe: some new dresses, shirts, pants, earrings ...\n Husband: But ...\n Wife: And, NO, I'm not going to wear your grandmother's old secondhand pants again.\n Husband: Is that it?\n Wife: Uh, hmm, for now. So, why don't we grab a bite to eat before we start planning the entire adventure.\n Husband: But lunch wasn't on the list.\n Wife: Let's see. Paris, Rome, London, then a short detour to Russia, China, [What?!] and, ooh, and Hawaii on the way home.\n Husband: Wow. I'd better ask the boss for a huge raise.",
         "question": "Why does the woman want a new kitchen range?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nHusband: Happy Anniversary!\n Wife: Oh, thank you. They're beautiful. You shouldn't have ... especially since our anniversary was last week.\n Husband: What? Oh, I completely forgot ...\n Wife: Again?\n Husband: No Way. I can't believe it.\n Wife: Neither can I, but you did.\n Husband: Ah, how can I make it up to you ... again? Anything!\n Wife: Okay, let's negotiate. [Negotiate?] First of all, I want to go on that dream vacation you've always promised me.\n Husband: You mean, to Chicago?\n Wife: No! To Europe. I want to fly first class and stay at 5-star hotels. And no more places with broken heaters, leaky showers, and dirty bedding.\n Husband: Ah, were those places that bad?\n Wife: Well, SOMETHING a little nicer, at least once in a blue moon, would be nice. [Well ... ] And, oh yeah. Next, I want to get a new kitchen stove. The old one took its last breath weeks ago.\n Husband: But we ...\n Wife: No, we're NOT going to use the outdoor barbecue anymore. It isn't any fun at all cooking outside in the winter, with icicles hanging from your nose.\n Husband: That bad?\n Wife: Not for YOU since you're always watching from inside.\n Husband: Oh, well.\n Wife: And finally, I want a new wardrobe: some new dresses, shirts, pants, earrings ...\n Husband: But ...\n Wife: And, NO, I'm not going to wear your grandmother's old secondhand pants again.\n Husband: Is that it?\n Wife: Uh, hmm, for now. So, why don't we grab a bite to eat before we start planning the entire adventure.\n Husband: But lunch wasn't on the list.\n Wife: Let's see. Paris, Rome, London, then a short detour to Russia, China, [What?!] and, ooh, and Hawaii on the way home.\n Husband: Wow. I'd better ask the boss for a huge raise.\n\nQuestion:\nWhy does the woman want a new kitchen range?\n\nChoices:\n(A) The kitchen stove burns the woman's meals.\n(B) The kitchen range is too small for the family.\n(C) Her current stove isn't working properly.\n\nAnswer:\n",
-        "model_prediction": "(C) Her current stove isn't working properly."
+        "model_prediction": "C"
     },
     {
         "answer": "(A) In May.",
@@ -3104,7 +3104,7 @@
         "context": "W: I haven't written to my parents for almost three months. They must be very angry with me.\n M: I don't think it is that serious.",
         "question": "What will the woman probably do?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nW: I haven't written to my parents for almost three months. They must be very angry with me.\n M: I don't think it is that serious.\n\nQuestion:\nWhat will the woman probably do?\n\nChoices:\n(A) She will telephone home.\n(B) She will write home.\n(C) She will go home.\n\nAnswer:\n",
-        "model_prediction": "(B) She will write home."
+        "model_prediction": "(A) She will telephone home."
     },
     {
         "answer": "(A) Her drawer was stolen.",
@@ -4027,7 +4027,7 @@
         "context": "W: Good morning, sir. Can I help you?\n M: I want to make an inquiry about leaving my car with you. You see, I am going abroad and I don't want to take the car. But I will need it when I get back.\n W: I see, sir. Well, we can offer you full parking service for as long as you wish.\n M: Good. I am going to Washington for two weeks.\n W: Right. So how long do you want to leave the car with us?\n M: Well. I'm flying to Washington on the 5th and coming back on the 19th. That's fourteen days, isn't it?\n W: That means fifteen days' parking service. We have a minimum fee of ten pounds for three days, but for 15 days, it'll only cost you 25.\n M: It says 22 here.\n W: No, sir. That's for 14 days.\n M: Um, 25 for 15 days.\n W: Now, come this way, sir. We'll complete the form. Can I have your name?\n M: Francis, Donald Francis.\n W: And the make of the car, sir?\n M: Just Ford.\n W: Ford. And the color?\n M: Green.\n W: Your departure day is May 5th, I think you said.\n M: Yes, the 5th. That's a Friday.\n W: Friday 5th of May. Now, what time is your flight, sir?\n M: 11:50. But I have to check in about half an hour beforehand.\n W: Well, we'd like customers to check their cars in here at least ten minutes before check-in time.\n M: So. I ought to be here about 11:10.\n W: Well, it's safer before that. We do get very busy.",
         "question": "When will the man be back from abroad?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nW: Good morning, sir. Can I help you?\n M: I want to make an inquiry about leaving my car with you. You see, I am going abroad and I don't want to take the car. But I will need it when I get back.\n W: I see, sir. Well, we can offer you full parking service for as long as you wish.\n M: Good. I am going to Washington for two weeks.\n W: Right. So how long do you want to leave the car with us?\n M: Well. I'm flying to Washington on the 5th and coming back on the 19th. That's fourteen days, isn't it?\n W: That means fifteen days' parking service. We have a minimum fee of ten pounds for three days, but for 15 days, it'll only cost you 25.\n M: It says 22 here.\n W: No, sir. That's for 14 days.\n M: Um, 25 for 15 days.\n W: Now, come this way, sir. We'll complete the form. Can I have your name?\n M: Francis, Donald Francis.\n W: And the make of the car, sir?\n M: Just Ford.\n W: Ford. And the color?\n M: Green.\n W: Your departure day is May 5th, I think you said.\n M: Yes, the 5th. That's a Friday.\n W: Friday 5th of May. Now, what time is your flight, sir?\n M: 11:50. But I have to check in about half an hour beforehand.\n W: Well, we'd like customers to check their cars in here at least ten minutes before check-in time.\n M: So. I ought to be here about 11:10.\n W: Well, it's safer before that. We do get very busy.\n\nQuestion:\nWhen will the man be back from abroad?\n\nChoices:\n(A) On the 10th.\n(B) On the 19th.\n(C) On the 5th.\n\nAnswer:\n",
-        "model_prediction": "(C) On the 5th."
+        "model_prediction": "(B) On the 19th."
     },
     {
         "answer": "(B) A movie.",
@@ -4066,7 +4066,7 @@
         "context": "M: I don't think I want to live in the dormitory next year. I need more privacy.\n W: I know what you mean. But check out the cost if renting an apartment first. I won't be surprised if you change your mind.",
         "question": "What does the woman imply?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nM: I don't think I want to live in the dormitory next year. I need more privacy.\n W: I know what you mean. But check out the cost if renting an apartment first. I won't be surprised if you change your mind.\n\nQuestion:\nWhat does the woman imply?\n\nChoices:\n(A) The man is unlikely to move out of the dormitory.\n(B) The man is not certain if he can find a quieter place\n(C) The man will choose a low-rent apartment.\n\nAnswer:\n",
-        "model_prediction": "(B) The man is not certain if he can find a quieter plac"
+        "model_prediction": "(B) The man is not certain if he can find a quieter place."
     },
     {
         "answer": "(C) 9:26.",
@@ -4911,7 +4911,7 @@
         "context": "M: It's really hot today. The temperature must be over ninety.\n W: Yes, I know. But there's a lot of clouds in the air, it is raining soon.",
         "question": "What does the woman say?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nM: It's really hot today. The temperature must be over ninety.\n W: Yes, I know. But there's a lot of clouds in the air, it is raining soon.\n\nQuestion:\nWhat does the woman say?\n\nChoices:\n(A) There are a lot of clouds.\n(B) Weather would be nice.\n(C) It's going to rain.\n\nAnswer:\n",
-        "model_prediction": "(C) It's going to rain."
+        "model_prediction": "C"
     },
     {
         "answer": "(C) Linda's cousin.",
@@ -5834,7 +5834,7 @@
         "context": "W: Hi, David, you look awful. What's the trouble?\n M: Well, believe it or not, I had an accident in the car this morning. Someone drove into the back of my car.\n W: No! How did it happen?\n M: I was just turning into my drive when another car came round the corner and drove into the back of mine.\n W: Didn't you see him?\n M: No, I didn't. I looked in my driving mirror and there was no one coming. Not only that, I also looked in the big mirror on the other side of the road.\n W: So he must have been coming very fast if you didn't see him.\n M: That's right. And he went straight into me.",
         "question": "What's wrong with the man?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nW: Hi, David, you look awful. What's the trouble?\n M: Well, believe it or not, I had an accident in the car this morning. Someone drove into the back of my car.\n W: No! How did it happen?\n M: I was just turning into my drive when another car came round the corner and drove into the back of mine.\n W: Didn't you see him?\n M: No, I didn't. I looked in my driving mirror and there was no one coming. Not only that, I also looked in the big mirror on the other side of the road.\n W: So he must have been coming very fast if you didn't see him.\n M: That's right. And he went straight into me.\n\nQuestion:\nWhat's wrong with the man?\n\nChoices:\n(A) He had an accident when he was walking along the street.\n(B) He was knocked down by a car.\n(C) He had an accident in the car.\n\nAnswer:\n",
-        "model_prediction": "C"
+        "model_prediction": "(C) He had an accident in the car."
     },
     {
         "answer": "(A) He studied very hard.",
@@ -6445,7 +6445,7 @@
         "context": "W: Goodbye, John. And please send my regards to your parents.\n M: Sure I will. Thank you very much. Bye.",
         "question": "What did the woman ask the man to do?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nW: Goodbye, John. And please send my regards to your parents.\n M: Sure I will. Thank you very much. Bye.\n\nQuestion:\nWhat did the woman ask the man to do?\n\nChoices:\n(A) To give her some presents.\n(B) To give her his parents.\n(C) To give her best wishes to his parents.\n\nAnswer:\n",
-        "model_prediction": "(C) To give her best wishes to his parents."
+        "model_prediction": "C"
     },
     {
         "answer": "(B) To the textbook area.",
@@ -6536,7 +6536,7 @@
         "context": "W: What does the term \"alternative energy source\" mean?\n M: When we think of energy or fuel for our homes and cars, we think of petroleum, a fossil fuel processed from oil removed from the ground, of which there is a limited supply. But alternative fuels can be many things. Wind, sun and water can all be used to create fuel.\n W: Is the threat of running out of petroleum real?\n M: It has taken thousands of years to create the natural stores of petroleum we have available at a much faster rate than it is being produced over time. The real controversy surrounding the amount of petroleum we have is how much we need to keep in reserve for future use. Most experts agree that by around 2025, the amount of petroleum we use will reach a peak. Then production and availability will begin to seriously decline. This is not to say there will be no petroleum at this point. But it'll become very difficult and therefore expensive to extract.\n W: Is that the most important reason to develop alternative fuel and energy sources?\n M: There are two very clear reasons to do so. One is that whether we have 60 or 600 years of fossil fuels left, we have to find other fuel sources eventually. So the sooner we start, the better off we will be. The other big argument is that when long time, which leads to some long-term negative effects, like global warming and the greenhouse effect.",
         "question": "What does the man think we should do now?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nW: What does the term \"alternative energy source\" mean?\n M: When we think of energy or fuel for our homes and cars, we think of petroleum, a fossil fuel processed from oil removed from the ground, of which there is a limited supply. But alternative fuels can be many things. Wind, sun and water can all be used to create fuel.\n W: Is the threat of running out of petroleum real?\n M: It has taken thousands of years to create the natural stores of petroleum we have available at a much faster rate than it is being produced over time. The real controversy surrounding the amount of petroleum we have is how much we need to keep in reserve for future use. Most experts agree that by around 2025, the amount of petroleum we use will reach a peak. Then production and availability will begin to seriously decline. This is not to say there will be no petroleum at this point. But it'll become very difficult and therefore expensive to extract.\n W: Is that the most important reason to develop alternative fuel and energy sources?\n M: There are two very clear reasons to do so. One is that whether we have 60 or 600 years of fossil fuels left, we have to find other fuel sources eventually. So the sooner we start, the better off we will be. The other big argument is that when long time, which leads to some long-term negative effects, like global warming and the greenhouse effect.\n\nQuestion:\nWhat does the man think we should do now?\n\nChoices:\n(A) Minimize the use of fossil fuels.\n(B) Find the real cause for global warming.\n(C) Start developing alternative fuels.\n\nAnswer:\n",
-        "model_prediction": "(C) Start developing alternative fuels."
+        "model_prediction": "C"
     },
     {
         "answer": "(C) Sunny",
@@ -6549,7 +6549,7 @@
         "context": "W: What's the weather like today?\n M: Rain in the morning, and it'll turn fine in the afternoon.",
         "question": "What will the weather be like in the afternoon?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nW: What's the weather like today?\n M: Rain in the morning, and it'll turn fine in the afternoon.\n\nQuestion:\nWhat will the weather be like in the afternoon?\n\nChoices:\n(A) Rainy\n(B) Cloudy\n(C) Sunny\n\nAnswer:\n",
-        "model_prediction": "(C) Sunny"
+        "model_prediction": "C"
     },
     {
         "answer": "(C) He does it only occasionally.",
@@ -6744,7 +6744,7 @@
         "context": "M: Hello. 138-2369.\n W: Hello. Is Anna there?\n M: No. I'm sorry Anna is out.\n W: Oh, well, could you please leave Anna a message for me?\n M: Sure. What is it?\n W: You know, Anna is coming for tea at my home. Would you ask her to see if she has my French dictionary? If she does, tell her to bring it with her.\n M: All right. And where are you calling from?\n W: 136, Rose Street. I'm Anna's friend Jenny.",
         "question": "Who is Jenny calling?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nM: Hello. 138-2369.\n W: Hello. Is Anna there?\n M: No. I'm sorry Anna is out.\n W: Oh, well, could you please leave Anna a message for me?\n M: Sure. What is it?\n W: You know, Anna is coming for tea at my home. Would you ask her to see if she has my French dictionary? If she does, tell her to bring it with her.\n M: All right. And where are you calling from?\n W: 136, Rose Street. I'm Anna's friend Jenny.\n\nQuestion:\nWho is Jenny calling?\n\nChoices:\n(A) The man who answers the phone.\n(B) Rose.\n(C) Anna.\n\nAnswer:\n",
-        "model_prediction": "(C) Anna."
+        "model_prediction": "(A) The man who answers the phone."
     },
     {
         "answer": "(C) Maybe.",
@@ -6965,7 +6965,7 @@
         "context": "M: The film we saw is very good.\n W: I don't think so.",
         "question": "What are they talking about?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nM: The film we saw is very good.\n W: I don't think so.\n\nQuestion:\nWhat are they talking about?\n\nChoices:\n(A) A story.\n(B) A book.\n(C) A film.\n\nAnswer:\n",
-        "model_prediction": "(C) A film."
+        "model_prediction": "C"
     },
     {
         "answer": "(B) She is living a happy life.",
@@ -7056,7 +7056,7 @@
         "context": "M: Can I come to see you at 10:30, professor Bruce?\n W: I'm sorry, but I'm meeting my students then. Why not come 20 minutes later?",
         "question": "What time can the woman go to meet Professor Bruce?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nM: Can I come to see you at 10:30, professor Bruce?\n W: I'm sorry, but I'm meeting my students then. Why not come 20 minutes later?\n\nQuestion:\nWhat time can the woman go to meet Professor Bruce?\n\nChoices:\n(A) At 11:00.\n(B) At 10:50.\n(C) At 10:10.\n\nAnswer:\n",
-        "model_prediction": "(C) At 10:10."
+        "model_prediction": "(A) At 11:00."
     },
     {
         "answer": "(B) The man also needs new tennis shoes.",
@@ -7732,7 +7732,7 @@
         "context": "F: Do you get up earliest in your family, Bob?\n M: Except my aunt Kate, I get up earliest.",
         "question": "Who gets up earliest in the family?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nF: Do you get up earliest in your family, Bob?\n M: Except my aunt Kate, I get up earliest.\n\nQuestion:\nWho gets up earliest in the family?\n\nChoices:\n(A) Bob.\n(B) Kate.\n(C) We don't know.\n\nAnswer:\n",
-        "model_prediction": "(C) We don't know."
+        "model_prediction": "(B) Kate."
     },
     {
         "answer": "(A) The man went upstairs to talk to the neighbours.",
@@ -7849,7 +7849,7 @@
         "context": "M: What a terrible story! A couple was sailing their boat from Hawaii to Mexico. While they were crossing the Pacific, their boat hit a whale and sank!\n W: Is that true? What happened to the whale?\n M: It doesn't say. Oh, and here's another one. A guy in Los Angeles was robbing a bank. But as he was escaping, he got caught in the revolving door.\n W: I guess it was his first bank robbery!\n M: Yeah. Oh, and listen to this. Some guy got locked out of his house, so he tried to get in through the chimney.\n W: Don't tell me! He got stuck in the chimney!\n M: Exactly. And he was still trying to get out two days later when the police rescued him.",
         "question": "What happened to the robber at last?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nM: What a terrible story! A couple was sailing their boat from Hawaii to Mexico. While they were crossing the Pacific, their boat hit a whale and sank!\n W: Is that true? What happened to the whale?\n M: It doesn't say. Oh, and here's another one. A guy in Los Angeles was robbing a bank. But as he was escaping, he got caught in the revolving door.\n W: I guess it was his first bank robbery!\n M: Yeah. Oh, and listen to this. Some guy got locked out of his house, so he tried to get in through the chimney.\n W: Don't tell me! He got stuck in the chimney!\n M: Exactly. And he was still trying to get out two days later when the police rescued him.\n\nQuestion:\nWhat happened to the robber at last?\n\nChoices:\n(A) He ran away.\n(B) He was killed.\n(C) He was caught.\n\nAnswer:\n",
-        "model_prediction": "(C) He was caught."
+        "model_prediction": "C"
     },
     {
         "answer": "(C) They will discuss it tomorrow.",
@@ -7966,7 +7966,7 @@
         "context": "F: Tomorrow is Sunday, let's go outing together.\n M: Good idea.",
         "question": "What day is it tomorrow?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nF: Tomorrow is Sunday, let's go outing together.\n M: Good idea.\n\nQuestion:\nWhat day is it tomorrow?\n\nChoices:\n(A) Friday.\n(B) Sunday.\n(C) Monday.\n\nAnswer:\n",
-        "model_prediction": "(B) Sunday."
+        "model_prediction": "B"
     },
     {
         "answer": "(B) They are family.",
@@ -8057,7 +8057,7 @@
         "context": "M: Um... Well... Are you free next weekend?\n W: I'm sorry, I have made a plan.",
         "question": "What does the woman mean?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nM: Um... Well... Are you free next weekend?\n W: I'm sorry, I have made a plan.\n\nQuestion:\nWhat does the woman mean?\n\nChoices:\n(A) She has to work on her paper tonight.\n(B) She wants to know the man's suggestion.\n(C) She has already made her plan.\n\nAnswer:\n",
-        "model_prediction": "C"
+        "model_prediction": "(C) She has already made her plan."
     },
     {
         "answer": "(A) A mother and a son.",
@@ -8291,7 +8291,7 @@
         "context": "F: What are you going to do this weekend, Bob?\n M: I'm going to watch TV at home instead of seeing the film.",
         "question": "What is Bob going to do this weekend?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nF: What are you going to do this weekend, Bob?\n M: I'm going to watch TV at home instead of seeing the film.\n\nQuestion:\nWhat is Bob going to do this weekend?\n\nChoices:\n(A) To see a film.\n(B) To stay at home doing some washing.\n(C) To watch TV.\n\nAnswer:\n",
-        "model_prediction": "(C) To watch TV."
+        "model_prediction": "C"
     },
     {
         "answer": "(A) He doesn't usually receive calls at work.",
@@ -8473,7 +8473,7 @@
         "context": "F: Would you mind not smoking here? This is a no-smoking area.\n M: Oh, I'm sorry I didn't realise it.",
         "question": "What will the man do?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nF: Would you mind not smoking here? This is a no-smoking area.\n M: Oh, I'm sorry I didn't realise it.\n\nQuestion:\nWhat will the man do?\n\nChoices:\n(A) Buy some drinks for the woman\n(B) Go on smoking\n(C) Stop smoking\n\nAnswer:\n",
-        "model_prediction": "(C) Stop smoking"
+        "model_prediction": "C"
     },
     {
         "answer": "(A) A student.",
@@ -8590,7 +8590,7 @@
         "context": "Customs Officer: Next. Uh, your passport please.\n Woman: Okay.\n Customs Officer: Uh, what is the purpose of your visit?\n Woman: I'm here to attend a teaching convention for the first part of my trip, and then I plan on touring the capital for a few days.\n Customs Officer: And where will you be staying?\n Woman: I'll be staying in a room at a hotel downtown for the entire week.\n Customs Officer: And uh, what do you have in your luggage?\n Woman: Uh, well, just, just my personal belongings um, ... clothes, a few books, and a CD player.\n Customs Officer: Okay. Uh, please open your bag.\n Woman: Sure.\n Customs Officer: Okay ... Everything's fine. [Great]. Uh, by the way, is this your first visit to the country?\n Woman: Well, yes and no. Actually, I was born here when my parents were working in the capital many years ago, but this is my first trip back since then.\n Customs Officer: Well, enjoy your trip.\n Woman: Thanks.",
         "question": "About how long will the woman be in the country?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nCustoms Officer: Next. Uh, your passport please.\n Woman: Okay.\n Customs Officer: Uh, what is the purpose of your visit?\n Woman: I'm here to attend a teaching convention for the first part of my trip, and then I plan on touring the capital for a few days.\n Customs Officer: And where will you be staying?\n Woman: I'll be staying in a room at a hotel downtown for the entire week.\n Customs Officer: And uh, what do you have in your luggage?\n Woman: Uh, well, just, just my personal belongings um, ... clothes, a few books, and a CD player.\n Customs Officer: Okay. Uh, please open your bag.\n Woman: Sure.\n Customs Officer: Okay ... Everything's fine. [Great]. Uh, by the way, is this your first visit to the country?\n Woman: Well, yes and no. Actually, I was born here when my parents were working in the capital many years ago, but this is my first trip back since then.\n Customs Officer: Well, enjoy your trip.\n Woman: Thanks.\n\nQuestion:\nAbout how long will the woman be in the country?\n\nChoices:\n(A) one or two days\n(B) more than four days\n(C) three or four days\n\nAnswer:\n",
-        "model_prediction": "(B) more than four day"
+        "model_prediction": "(C) three or four day"
     },
     {
         "answer": "(B) Assembling the bookcase.",
@@ -8902,7 +8902,7 @@
         "context": "W: Peter, where have you been?\n M: I've been play Pac Man in the student union.\n W: Oh, you're wasting your time on computer games again!\n M: Not really, Mary. I've been busy this week and I need a break.\n W: Why don't you buy a computer and some of those games? Then you can play at home. Home computers are getting cheaper.\n M: How do you know that?\n W: I've been thinking of buying a home computer too.",
         "question": "What has Peter been doing?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nW: Peter, where have you been?\n M: I've been play Pac Man in the student union.\n W: Oh, you're wasting your time on computer games again!\n M: Not really, Mary. I've been busy this week and I need a break.\n W: Why don't you buy a computer and some of those games? Then you can play at home. Home computers are getting cheaper.\n M: How do you know that?\n W: I've been thinking of buying a home computer too.\n\nQuestion:\nWhat has Peter been doing?\n\nChoices:\n(A) Studying in the student union.\n(B) Mending a computer.\n(C) Playing computer games.\n\nAnswer:\n",
-        "model_prediction": "(C) Playing computer games."
+        "model_prediction": "C"
     },
     {
         "answer": "(B) Move back to where his family live.",
@@ -9045,7 +9045,7 @@
         "context": "Man: I'm home!\n Woman: Hi sweetie. Welcome home. Are you ready to eat?\n Man: Well, ... uh ...\n Woman: Uh, we're having fish and seasoned rice and carrots for the main course.\n Man: Really? Um .. Yeah.\n Woman: What? What?\n Man: Oh, that sounds great.\n Woman: Are you sure?\n Man: Sure.\n Woman: Hm. Well, before that, I have a delicious seafood salad with shrimp.\n Man: Oh.\n Woman: And, for desert, I made apple pie.\n Man: Oooh.\n Woman: Honey. It took me three hours to make.\n Man: Oh ... well ... yeah ... um ... yeah.\n Woman: Hmm. What's wrong? Don't you like ... don't you like what I made?\n Man: Well, to be honest, I just had a hamburger, fries, and a chocolate shake.\n Woman: You're kidding. Really?\n Man: Yeah. I'm sorry. I didn't know that you were making ...\n Woman: Honey. I told you this morning that I was making you something nice.\n Man: Yeah, but I forgot. You ... you know how work is. Wait, wow, WAIT!! What are you doing? Why are you putting the food in my shoes?\n Woman: So you can enjoy it as you walk to work tomorrow.\n Man: Ah!",
         "question": "It took her _________ hours to make the meal.",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nMan: I'm home!\n Woman: Hi sweetie. Welcome home. Are you ready to eat?\n Man: Well, ... uh ...\n Woman: Uh, we're having fish and seasoned rice and carrots for the main course.\n Man: Really? Um .. Yeah.\n Woman: What? What?\n Man: Oh, that sounds great.\n Woman: Are you sure?\n Man: Sure.\n Woman: Hm. Well, before that, I have a delicious seafood salad with shrimp.\n Man: Oh.\n Woman: And, for desert, I made apple pie.\n Man: Oooh.\n Woman: Honey. It took me three hours to make.\n Man: Oh ... well ... yeah ... um ... yeah.\n Woman: Hmm. What's wrong? Don't you like ... don't you like what I made?\n Man: Well, to be honest, I just had a hamburger, fries, and a chocolate shake.\n Woman: You're kidding. Really?\n Man: Yeah. I'm sorry. I didn't know that you were making ...\n Woman: Honey. I told you this morning that I was making you something nice.\n Man: Yeah, but I forgot. You ... you know how work is. Wait, wow, WAIT!! What are you doing? Why are you putting the food in my shoes?\n Woman: So you can enjoy it as you walk to work tomorrow.\n Man: Ah!\n\nQuestion:\nIt took her _________ hours to make the meal.\n\nChoices:\n(A) three\n(B) four\n(C) two\n\nAnswer:\n",
-        "model_prediction": "(C) two"
+        "model_prediction": "(A) th"
     },
     {
         "answer": "(C) Getting Lydia a gift.",
@@ -11177,7 +11177,7 @@
         "context": "Woman: Hey. Are you okay?\n Man: Yeah. I just have a cold, I think.\n Woman: No, no you don't. You've sounded like that for a while. You smoke, and you're dying from it.\n Man: What? Well, you know, I'm just ...I'm just a casual smoker, and I can quit anytime I want.\n Woman: No, you can't. You smoke two packs a day, and I DONT call that a casual smoker.\n Man: Hey, it's my choice, so butt out. We've talked about this before, and I'm tired of you, mom, and dad nagging me about it all the time.\n Woman: Okay, but what about your kids? Don't you worry about how your smoking is affecting them?\n Man: It's not a problem. I smoke outside.\n Woman: Yeah, but don't you worry they'll start smoking too?\n Man: No. They won't. I know my kids. I trust them.\n Woman: Yeah, yeah. Didn't you say that Jacob got caught smoking a week ago at school?\n Man: Yeah, but it was the first time ... He's under a lot of pressure these days.\n Woman: Yea, right. The first time you know of. He's lying to you.\n Man: I trust him.\n Woman: Really. Well, what about these cigarettes? [ What? ] Right here! [ Oh! ] I found them in his clothes when he stayed over last night. Listen.\n Man: They ... They're probably not his!\n Woman: There his. He's following your example. You can't expect him NOT to smoke when you smoke yourself.\n Man: Hey. Don't tell me how to raise my kids. It's my job.\n Woman: I won't have to. You're killing yourself, and someone else is going to be raising your kids for you.\n Man: Well, what does that mean?\n Woman: Figure it out. Listen. I ('ve) got to go now. If you want to talk more, I'll be at mom's house.\n Man: Whatever.",
         "question": "The woman knows the man's son, Jacob, is smoking because ________.",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nWoman: Hey. Are you okay?\n Man: Yeah. I just have a cold, I think.\n Woman: No, no you don't. You've sounded like that for a while. You smoke, and you're dying from it.\n Man: What? Well, you know, I'm just ...I'm just a casual smoker, and I can quit anytime I want.\n Woman: No, you can't. You smoke two packs a day, and I DONT call that a casual smoker.\n Man: Hey, it's my choice, so butt out. We've talked about this before, and I'm tired of you, mom, and dad nagging me about it all the time.\n Woman: Okay, but what about your kids? Don't you worry about how your smoking is affecting them?\n Man: It's not a problem. I smoke outside.\n Woman: Yeah, but don't you worry they'll start smoking too?\n Man: No. They won't. I know my kids. I trust them.\n Woman: Yeah, yeah. Didn't you say that Jacob got caught smoking a week ago at school?\n Man: Yeah, but it was the first time ... He's under a lot of pressure these days.\n Woman: Yea, right. The first time you know of. He's lying to you.\n Man: I trust him.\n Woman: Really. Well, what about these cigarettes? [ What? ] Right here! [ Oh! ] I found them in his clothes when he stayed over last night. Listen.\n Man: They ... They're probably not his!\n Woman: There his. He's following your example. You can't expect him NOT to smoke when you smoke yourself.\n Man: Hey. Don't tell me how to raise my kids. It's my job.\n Woman: I won't have to. You're killing yourself, and someone else is going to be raising your kids for you.\n Man: Well, what does that mean?\n Woman: Figure it out. Listen. I ('ve) got to go now. If you want to talk more, I'll be at mom's house.\n Man: Whatever.\n\nQuestion:\nThe woman knows the man's son, Jacob, is smoking because ________.\n\nChoices:\n(A) he confessed to her about his problem\n(B) she caught him smoking at school\n(C) she discovered his habit at her house\n\nAnswer:\n",
-        "model_prediction": "(C) she discovered his habit at her hou"
+        "model_prediction": "(B) she caught him smoking at school"
     },
     {
         "answer": "(A) When to announce the news.",
@@ -12009,7 +12009,7 @@
         "context": "W: Very nice skirts. How much axe they?\n M: Ten dollars each. And one dollar off if you may buy two.",
         "question": "How much will the woman pay if she buys two skirts?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nW: Very nice skirts. How much axe they?\n M: Ten dollars each. And one dollar off if you may buy two.\n\nQuestion:\nHow much will the woman pay if she buys two skirts?\n\nChoices:\n(A) $ 19.\n(B) $ 9.\n(C) $ 20.\n\nAnswer:\n",
-        "model_prediction": "(B) $ 9."
+        "model_prediction": "(B) $9."
     },
     {
         "answer": "(C) In a taxi.",
@@ -12256,7 +12256,7 @@
         "context": "W: I read the instructions, but I'm still not sure how to use my cell phone.\n M: Actually, it's pretty easy. First of all, don't forget to turn it on.\n W: Got it!\n M: Then dial the number. And remember to press the \"send\" button.\n W: That's all?\n M: Pretty much. Just make sure to recharge the batteries every few weeks. And try not to drop it. It's fragile.\n W: Good advice.\n M: And one more thing: Be sure to pay the phone bill every month!",
         "question": "Why should the woman take care of the batteries?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nW: I read the instructions, but I'm still not sure how to use my cell phone.\n M: Actually, it's pretty easy. First of all, don't forget to turn it on.\n W: Got it!\n M: Then dial the number. And remember to press the \"send\" button.\n W: That's all?\n M: Pretty much. Just make sure to recharge the batteries every few weeks. And try not to drop it. It's fragile.\n W: Good advice.\n M: And one more thing: Be sure to pay the phone bill every month!\n\nQuestion:\nWhy should the woman take care of the batteries?\n\nChoices:\n(A) It's easily broken.\n(B) It's easily recharged.\n(C) It's easily paid.\n\nAnswer:\n",
-        "model_prediction": "(A) It's easily broken."
+        "model_prediction": "(B) It's easily recharged."
     },
     {
         "answer": "(C) 20 pounds",
@@ -12685,7 +12685,7 @@
         "context": "W: Are you cold? Why aren't you wearing your jacket?\n M: I overslept this morning so I rushed out of the house without considering the dress.",
         "question": "What does the man mean?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nW: Are you cold? Why aren't you wearing your jacket?\n M: I overslept this morning so I rushed out of the house without considering the dress.\n\nQuestion:\nWhat does the man mean?\n\nChoices:\n(A) He didn't have time to look for his clothes.\n(B) He had no more clothes to wear.\n(C) He didn't know whether it would be cold.\n\nAnswer:\n",
-        "model_prediction": "(C) He didn't know whether it would be cold."
+        "model_prediction": "C"
     },
     {
         "answer": "(C) To help Frank repair his car.",
@@ -12841,7 +12841,7 @@
         "context": "M: Hey, Jenny, let's go to a movie. You've been working on these bills for hours now.\n W: It's impossible.\n M: Why?\n W: We can't afford to go out. Look at the bills yourself. Everything I say goes in one ear and out of the other.\n M: All right. I've been trying to cut down our expenses lately. I've been turning off the lights when I leave the room.",
         "question": "What does the man want to do?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nM: Hey, Jenny, let's go to a movie. You've been working on these bills for hours now.\n W: It's impossible.\n M: Why?\n W: We can't afford to go out. Look at the bills yourself. Everything I say goes in one ear and out of the other.\n M: All right. I've been trying to cut down our expenses lately. I've been turning off the lights when I leave the room.\n\nQuestion:\nWhat does the man want to do?\n\nChoices:\n(A) Have his hair cut.\n(B) Go travel.\n(C) Go to the cinema.\n\nAnswer:\n",
-        "model_prediction": "(C) Go to the cinema."
+        "model_prediction": "C"
     },
     {
         "answer": "(A) He's looking for his watch.",
@@ -12984,7 +12984,7 @@
         "context": "W: Is that your dog? He's not very friendly.\n M: Yeah, that's Sammy. I'm sorry he's a little anxious. He's usually quite playful, but he had a rough day.\n W: How does a dog have a rough day? Don't they just chase rabbits and sleep?\n M: Well, I took him to a dog park, and a larger dog bit him. I'm worried Sammy will be afraid of strangers forever.\n W: Well, that explains it. Don't worry about it. Why don't I sit over here on this chair and calm him down?\n M: Thanks for understanding. I'll get you something to drink.\n W: Thanks, but I'm sorry I'm early. I really thought the invitation said 7 o'clock.\n M: That's all right. Most people start dinner parties at 6:30, but mine's an hour later because everyone's going to the football game.\n W: Oh, dear. I wish I were a fan. I should have known that.",
         "question": "What do we know about the woman?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nW: Is that your dog? He's not very friendly.\n M: Yeah, that's Sammy. I'm sorry he's a little anxious. He's usually quite playful, but he had a rough day.\n W: How does a dog have a rough day? Don't they just chase rabbits and sleep?\n M: Well, I took him to a dog park, and a larger dog bit him. I'm worried Sammy will be afraid of strangers forever.\n W: Well, that explains it. Don't worry about it. Why don't I sit over here on this chair and calm him down?\n M: Thanks for understanding. I'll get you something to drink.\n W: Thanks, but I'm sorry I'm early. I really thought the invitation said 7 o'clock.\n M: That's all right. Most people start dinner parties at 6:30, but mine's an hour later because everyone's going to the football game.\n W: Oh, dear. I wish I were a fan. I should have known that.\n\nQuestion:\nWhat do we know about the woman?\n\nChoices:\n(A) She likes to be early.\n(B) She had a rough day.\n(C) She doesn't like football.\n\nAnswer:\n",
-        "model_prediction": "(C) She doesn't like football."
+        "model_prediction": "(A) She likes to be early."
     },
     {
         "answer": "(B) Have a dessert.",
@@ -13283,7 +13283,7 @@
         "context": "W: I've just locked my keys in my room. Now what should I do?\n M: I can't believe it. You are always so careless. Anyhow let's calm down and try to figure things out.",
         "question": "What does the man suggest?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nW: I've just locked my keys in my room. Now what should I do?\n M: I can't believe it. You are always so careless. Anyhow let's calm down and try to figure things out.\n\nQuestion:\nWhat does the man suggest?\n\nChoices:\n(A) The woman be more careful next time.\n(B) The woman found a spare key.\n(C) They try to think of a solution.\n\nAnswer:\n",
-        "model_prediction": "(C) They try to think of a solution."
+        "model_prediction": "C"
     },
     {
         "answer": "(A) Finding something as a gift for his teacher.",
@@ -13712,7 +13712,7 @@
         "context": "M: I can't see why you need to go out to enjoy yourself. Why can't you have a nice time, watching TV with me? And when you are at home, you're either reading a book or something, you never actually sit and enjoy a good program with me.\n W: I don't want to watch TV. I find it boring.\n M: Oh, it's not always boring. Come off it!\n W: Well, I'm sorry, but it usually is. I just don't think watching all this TV is good for me. I can only watch about one program a week.\n M: So you think it's better to go out, do you?\n W: Well, I just feel there are lots of things to do that you can learn from and to be watching TV is not something I want to do.\n M: OK, you name something that we can share.\n W: What about when we do our music, for example, we share that.",
         "question": "What does the man like doing?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nM: I can't see why you need to go out to enjoy yourself. Why can't you have a nice time, watching TV with me? And when you are at home, you're either reading a book or something, you never actually sit and enjoy a good program with me.\n W: I don't want to watch TV. I find it boring.\n M: Oh, it's not always boring. Come off it!\n W: Well, I'm sorry, but it usually is. I just don't think watching all this TV is good for me. I can only watch about one program a week.\n M: So you think it's better to go out, do you?\n W: Well, I just feel there are lots of things to do that you can learn from and to be watching TV is not something I want to do.\n M: OK, you name something that we can share.\n W: What about when we do our music, for example, we share that.\n\nQuestion:\nWhat does the man like doing?\n\nChoices:\n(A) He likes doing some reading.\n(B) He likes watching TV.\n(C) He likes going out.\n\nAnswer:\n",
-        "model_prediction": "(B) He likes watching TV."
+        "model_prediction": "(A) He likes doing some reading."
     },
     {
         "answer": "(B) 7:20.",
@@ -13829,7 +13829,7 @@
         "context": "W: These are really good. You see where says selling dishes?\n M: Yes?\n W: The food comes to the table all bubbling and spitting. I had a big dish last time.\n M: It's worth having again, then?\n W: Well, I'll try something different, like fish?\n M: Era, I'm not too keen on that, actually. What about this duck thing? Is it a sort of specialty?\n W: Yes, crispy duck with aromatic sauce, young.\n M: Ok, well, that's one thing. And I quite like the taste of this rice. It seems to have a bit of everything in it.\n W: I think the noodles are better, actually.",
         "question": "You hear two people discussing the menu in a Chinese restaurant. Which dish are they going to have?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nW: These are really good. You see where says selling dishes?\n M: Yes?\n W: The food comes to the table all bubbling and spitting. I had a big dish last time.\n M: It's worth having again, then?\n W: Well, I'll try something different, like fish?\n M: Era, I'm not too keen on that, actually. What about this duck thing? Is it a sort of specialty?\n W: Yes, crispy duck with aromatic sauce, young.\n M: Ok, well, that's one thing. And I quite like the taste of this rice. It seems to have a bit of everything in it.\n W: I think the noodles are better, actually.\n\nQuestion:\nYou hear two people discussing the menu in a Chinese restaurant. Which dish are they going to have?\n\nChoices:\n(A) Beef.\n(B) Fish.\n(C) Duck.\n\nAnswer:\n",
-        "model_prediction": "(C) Duck."
+        "model_prediction": "C"
     },
     {
         "answer": "(A) Boss and employee.",
@@ -13855,7 +13855,7 @@
         "context": "W: Since your father is in the hospital, I can help you make dinner for the kids. I know you will be very busy meeting with the doctors.\n M: You are too kind. Thank you very much.",
         "question": "Why is the man busy?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nW: Since your father is in the hospital, I can help you make dinner for the kids. I know you will be very busy meeting with the doctors.\n M: You are too kind. Thank you very much.\n\nQuestion:\nWhy is the man busy?\n\nChoices:\n(A) He needs to make dinner for the kids.\n(B) He has many meetings at work.\n(C) His father is ill.\n\nAnswer:\n",
-        "model_prediction": "(C) His father is ill."
+        "model_prediction": "C"
     },
     {
         "answer": "(B) Air hostess and passenger.",
@@ -14557,7 +14557,7 @@
         "context": "W: Oh, there you are! Glad to see you again! Did you have a good flight?\n M: Sure, I flew all the way direct from Seattle to London.\n W: You must be very tired. Did you sleep at all on the plane?\n M: No, not really. Sorry, could I use your bathroom now?",
         "question": "Where are the two speakers most probably?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nW: Oh, there you are! Glad to see you again! Did you have a good flight?\n M: Sure, I flew all the way direct from Seattle to London.\n W: You must be very tired. Did you sleep at all on the plane?\n M: No, not really. Sorry, could I use your bathroom now?\n\nQuestion:\nWhere are the two speakers most probably?\n\nChoices:\n(A) On the plane.\n(B) At the airport.\n(C) At home.\n\nAnswer:\n",
-        "model_prediction": "(A) On the plane."
+        "model_prediction": "(B) At the airport."
     },
     {
         "answer": "(C) They are disappointed with the films produced these days.",
@@ -14947,7 +14947,7 @@
         "context": "W: How is your mother feeling these days?\n M: Much better, thanks. She'll be back home in a few days.\n W: That's wonderful. When will you be back on your job?\n M: I think I need a week to take care of her and do some cleaning for her coming home.\n W: Why don't you hire someone to do it? In this case, you cannot only do your job, but also have more free time.\n M: Yes, I know it. But I'm really worried about my mother. She is 72 years old.\n W: You're a kind and thoughtful man. I admire you very much.\n M: I'm just a very normal son.",
         "question": "Why does the man ask a week off?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nW: How is your mother feeling these days?\n M: Much better, thanks. She'll be back home in a few days.\n W: That's wonderful. When will you be back on your job?\n M: I think I need a week to take care of her and do some cleaning for her coming home.\n W: Why don't you hire someone to do it? In this case, you cannot only do your job, but also have more free time.\n M: Yes, I know it. But I'm really worried about my mother. She is 72 years old.\n W: You're a kind and thoughtful man. I admire you very much.\n M: I'm just a very normal son.\n\nQuestion:\nWhy does the man ask a week off?\n\nChoices:\n(A) Because he hasn't hired anyone to help him yet.\n(B) Because he has to see a doctor.\n(C) Because he needs to look after his mother.\n\nAnswer:\n",
-        "model_prediction": "(C) Because he needs to look after his mother."
+        "model_prediction": "C"
     },
     {
         "answer": "(C) He is upset.",
@@ -15116,7 +15116,7 @@
         "context": "W: May I come in, Mr. Brooks?\n M: I'd rather you didn't, Miss Green. I'm very busy just now.\n W: Can I try later, then?\n M: Yes, of course.",
         "question": "What will the woman do?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nW: May I come in, Mr. Brooks?\n M: I'd rather you didn't, Miss Green. I'm very busy just now.\n W: Can I try later, then?\n M: Yes, of course.\n\nQuestion:\nWhat will the woman do?\n\nChoices:\n(A) Go into the man's office.\n(B) Remain in the man's office.\n(C) Go away.\n\nAnswer:\n",
-        "model_prediction": "(C) Go away."
+        "model_prediction": "C"
     },
     {
         "answer": "(A) Forty students.",
@@ -15727,7 +15727,7 @@
         "context": "M: I hear you are moving soon.\n W: That's true. I just can't sleep well since my neighbor always returns so late at night and makes a lot of noise.",
         "question": "Why is the woman moving?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nM: I hear you are moving soon.\n W: That's true. I just can't sleep well since my neighbor always returns so late at night and makes a lot of noise.\n\nQuestion:\nWhy is the woman moving?\n\nChoices:\n(A) The neighbor won't return late any more.\n(B) There won't be any neighbors in the new apartment.\n(C) She wants to have a quieter place.\n\nAnswer:\n",
-        "model_prediction": "(C) She wants to have a quieter place."
+        "model_prediction": "C"
     },
     {
         "answer": "(A) He is disappointed.",
@@ -16286,7 +16286,7 @@
         "context": "M: I'm not really an expert on precious stones, but these are superb. Don't you like them?\n W: Have you looked at the price tag? It costs almost twice as much as a house where we are living in.",
         "question": "What is the probable relationship between the two speakers?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nM: I'm not really an expert on precious stones, but these are superb. Don't you like them?\n W: Have you looked at the price tag? It costs almost twice as much as a house where we are living in.\n\nQuestion:\nWhat is the probable relationship between the two speakers?\n\nChoices:\n(A) Expert on jewelry and his wife.\n(B) Husband and wife.\n(C) Estate agent and client.\n\nAnswer:\n",
-        "model_prediction": "(B) Husband and Wife."
+        "model_prediction": "(B) Husband and wife."
     },
     {
         "answer": "(A) They are talking about the football match.",
@@ -17274,7 +17274,7 @@
         "context": "W: Do you like fried chicken?\n M: Yes, it's my favorite dish. What about you?\n W: I don't care much for chicken. I prefer seafood.\n M: But seafood is expensive. I should say.",
         "question": "What are they talking about?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nW: Do you like fried chicken?\n M: Yes, it's my favorite dish. What about you?\n W: I don't care much for chicken. I prefer seafood.\n M: But seafood is expensive. I should say.\n\nQuestion:\nWhat are they talking about?\n\nChoices:\n(A) The cost of food.\n(B) The taste of food.\n(C) The food they like and dislike.\n\nAnswer:\n",
-        "model_prediction": "(C) The food they like and dislike."
+        "model_prediction": "C"
     },
     {
         "answer": "(C) In a clinic for animals.",
@@ -17612,7 +17612,7 @@
         "context": "M: What I should remind you is that your boy is sometimes 25 minutes late for the class.\n W: Really? But he always tells me that he usually arrives ten minutes early for the class. This time he is surely to get punished.",
         "question": "At what time does the boy arrive at school according to himself?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nM: What I should remind you is that your boy is sometimes 25 minutes late for the class.\n W: Really? But he always tells me that he usually arrives ten minutes early for the class. This time he is surely to get punished.\n\nQuestion:\nAt what time does the boy arrive at school according to himself?\n\nChoices:\n(A) Twenty five minutes late for the class.\n(B) For three hours.\n(C) Ten minutes earlier for the school.\n\nAnswer:\n",
-        "model_prediction": "C"
+        "model_prediction": "(C) Ten minutes earlier for the school."
     },
     {
         "answer": "(C) On foot.",
@@ -17781,7 +17781,7 @@
         "context": "W: Why didn't you make an appointment to see the doctor last week when you first twist your ankle?\n M: The injury didn't seem serious then. I decided to go today because my foot still hurt when I put my weight on it.",
         "question": "Why didn't the man see the doctor earlier?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nW: Why didn't you make an appointment to see the doctor last week when you first twist your ankle?\n M: The injury didn't seem serious then. I decided to go today because my foot still hurt when I put my weight on it.\n\nQuestion:\nWhy didn't the man see the doctor earlier?\n\nChoices:\n(A) He was too weak to see the doctor.\n(B) His injury kept him at home.\n(C) He didn't think it necessary.\n\nAnswer:\n",
-        "model_prediction": "(C) He didn't think it necessary."
+        "model_prediction": "C"
     },
     {
         "answer": "(B) To bring all types of children together for their education.",
@@ -18132,7 +18132,7 @@
         "context": "M: Do you know if the flower shop is still open?\n W: Yes, it's open till six. I'm sure.",
         "question": "When are they having the dialogue?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nM: Do you know if the flower shop is still open?\n W: Yes, it's open till six. I'm sure.\n\nQuestion:\nWhen are they having the dialogue?\n\nChoices:\n(A) In the afternoon.\n(B) At night.\n(C) In the morning.\n\nAnswer:\n",
-        "model_prediction": "(C) In the morning."
+        "model_prediction": "(A) In the afternoon."
     },
     {
         "answer": "(C) A shoe repair shop.",
@@ -18210,7 +18210,7 @@
         "context": "W: I can't wait to see James. I haven't seen him for nearly two years.\n M: It's already a quarter to three now. His plane should have landed at ten past two. What's going on?\n W: Look, his plane is landing now!",
         "question": "How long has the plane been delayed?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nW: I can't wait to see James. I haven't seen him for nearly two years.\n M: It's already a quarter to three now. His plane should have landed at ten past two. What's going on?\n W: Look, his plane is landing now!\n\nQuestion:\nHow long has the plane been delayed?\n\nChoices:\n(A) 35 minutes.\n(B) 40 minutes.\n(C) 45 minutes.\n\nAnswer:\n",
-        "model_prediction": "(B) 40 minutes."
+        "model_prediction": "(A) 35 minutes."
     },
     {
         "answer": "(B) Because sweet potatoes can't provide him with everything he needs.",
@@ -18795,7 +18795,7 @@
         "context": "M: Have you been to the new gym? It's really nice.\n W: I was going to ask you the same thing. I was over there yesterday afternoon. It was very impressive.\n M: That equipment in the weight room is worth a pretty penny, I'd say.\n W: You're telling me. I used to belong to a commercial fitness facility and they didn't have stations half that price.\n M: I was really upset about those fee increases last year, I see the facilities, I have to admit that the money was well spent.\n W: I agree.\n M: Oh, there is a fully equipped acrobatics room.\n W: Oh, it's so fun. I didn't even see that when I came in.\n M: I saw all kinds of things that I wouldn't know how to use.\n W: Hey! I could show you some basic techniques if you'd like.\n M: Wow, that would be great. I wonder if we need to sign up for a class first.\n W: Great! I can't wait to get back into shape!",
         "question": "What does the man think of the new gym?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nM: Have you been to the new gym? It's really nice.\n W: I was going to ask you the same thing. I was over there yesterday afternoon. It was very impressive.\n M: That equipment in the weight room is worth a pretty penny, I'd say.\n W: You're telling me. I used to belong to a commercial fitness facility and they didn't have stations half that price.\n M: I was really upset about those fee increases last year, I see the facilities, I have to admit that the money was well spent.\n W: I agree.\n M: Oh, there is a fully equipped acrobatics room.\n W: Oh, it's so fun. I didn't even see that when I came in.\n M: I saw all kinds of things that I wouldn't know how to use.\n W: Hey! I could show you some basic techniques if you'd like.\n M: Wow, that would be great. I wonder if we need to sign up for a class first.\n W: Great! I can't wait to get back into shape!\n\nQuestion:\nWhat does the man think of the new gym?\n\nChoices:\n(A) It makes him feel that they should be angry.\n(B) It makes them feel the money was wasted.\n(C) It is really nice.\n\nAnswer:\n",
-        "model_prediction": "(C) It is really nice."
+        "model_prediction": "C"
     },
     {
         "answer": "(A) talk to her the next day at school",
@@ -19224,7 +19224,7 @@
         "context": "M: This hotel in India just got ranked the number one hotel in the world!\n W: What, by some silly website that specializes in top ten lists just to sell more ads?\n M: No, by Travel + Leisure magazine.\n W: Oh, really? They really know their stuff. Hey, that looks more like a palace!\n M: It's designed after the ancient palaces of northern India.\n W: It looks like a lot of the rooms have balconies.\n M: Yeah, those are the suites that have direct access to private pools. But all the rooms have Wi-Fi, flat screen TVs, king-size beds, daily newspapers, and...\n W: OK, stop talking! We've got to make our reservations!\n M: Well, hang on a second. You don't really like Indian food.\n W: But I thought they offer other choices besides Indian food...\n M: Maybe. Also, this part of India is pretty quiet. There's no shopping or clubbing. People go there to relax.\n W: That's OK. I can go shopping anywhere.\n M: The rooms start at $350 per night, and those suites are $750 per night.\n W: Whoa! I thought India was supposed to be inexpensive!",
         "question": "What may have changed the woman's mind about the hotel?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nM: This hotel in India just got ranked the number one hotel in the world!\n W: What, by some silly website that specializes in top ten lists just to sell more ads?\n M: No, by Travel + Leisure magazine.\n W: Oh, really? They really know their stuff. Hey, that looks more like a palace!\n M: It's designed after the ancient palaces of northern India.\n W: It looks like a lot of the rooms have balconies.\n M: Yeah, those are the suites that have direct access to private pools. But all the rooms have Wi-Fi, flat screen TVs, king-size beds, daily newspapers, and...\n W: OK, stop talking! We've got to make our reservations!\n M: Well, hang on a second. You don't really like Indian food.\n W: But I thought they offer other choices besides Indian food...\n M: Maybe. Also, this part of India is pretty quiet. There's no shopping or clubbing. People go there to relax.\n W: That's OK. I can go shopping anywhere.\n M: The rooms start at $350 per night, and those suites are $750 per night.\n W: Whoa! I thought India was supposed to be inexpensive!\n\nQuestion:\nWhat may have changed the woman's mind about the hotel?\n\nChoices:\n(A) The area around the hotel.\n(B) The food that is available.\n(C) The price of the rooms.\n\nAnswer:\n",
-        "model_prediction": "(B) The food that is available."
+        "model_prediction": "(C) The price of the rooms."
     },
     {
         "answer": "(B) She takes some hot water for him.",
@@ -20277,7 +20277,7 @@
         "context": "M: Hey, Jane. It's a lovely painting.\n W: Thanks, Mark. But it doesn't look right to me. You know, I'm just learning.\n M: Let me see. I think it might be the color of the sky.\n W: Why? The sky is blue, isn't it?\n M: Well, that depends. I mean the sunset can be full of reds and purples.\n W: Oh, yeah. That's the point.\n M: By adding some other colors to the sky, you'll get a more natural picture.\n W: I'll try that. How do you know so much about painting? Taking some courses?\n M: No, actually, my father is an artist. He told me a lot about painting, and took me to different exhibitions.\n W: Ah, I see. I hope I can meet him some day.\n M: That could be arranged. Er ... it's three now, how about a cup of coffee?\n W: I'd love to.",
         "question": "What aren't he two speakers mainly talking about?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nM: Hey, Jane. It's a lovely painting.\n W: Thanks, Mark. But it doesn't look right to me. You know, I'm just learning.\n M: Let me see. I think it might be the color of the sky.\n W: Why? The sky is blue, isn't it?\n M: Well, that depends. I mean the sunset can be full of reds and purples.\n W: Oh, yeah. That's the point.\n M: By adding some other colors to the sky, you'll get a more natural picture.\n W: I'll try that. How do you know so much about painting? Taking some courses?\n M: No, actually, my father is an artist. He told me a lot about painting, and took me to different exhibitions.\n W: Ah, I see. I hope I can meet him some day.\n M: That could be arranged. Er ... it's three now, how about a cup of coffee?\n W: I'd love to.\n\nQuestion:\nWhat aren't he two speakers mainly talking about?\n\nChoices:\n(A) The meaning of a painting.\n(B) The color of a painting.\n(C) The course of painting.\n\nAnswer:\n",
-        "model_prediction": "(B) The color of a painting."
+        "model_prediction": "(C) The course of painting."
     },
     {
         "answer": "(C) To set a table for a meal.",
@@ -20758,7 +20758,7 @@
         "context": "W: Excuse me, could you show me the way to the Smith Hotel?\n M: Just walk down this street, and turn right at the second crossing. You will see a hospital on your right. The Smith Hotel is just opposite it. I'm sure you won't miss it.",
         "question": "What does the woman ask the man to do?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nW: Excuse me, could you show me the way to the Smith Hotel?\n M: Just walk down this street, and turn right at the second crossing. You will see a hospital on your right. The Smith Hotel is just opposite it. I'm sure you won't miss it.\n\nQuestion:\nWhat does the woman ask the man to do?\n\nChoices:\n(A) Show her the way to the hospital.\n(B) Take her to the Smith Hotel.\n(C) Show her the way to the Smith Hotel.\n\nAnswer:\n",
-        "model_prediction": "(C) Show her the way to the Smith Hotel."
+        "model_prediction": "C"
     },
     {
         "answer": "(B) Before the supermarket.",
@@ -20888,7 +20888,7 @@
         "context": "Woman: Hey, Hey. Why don't we do something fun next week? We have time off. We never do anything fun.\n Man: Well ... I don't know. What do you have in mind?\n Woman: Well, I was thinking like .... Okay. Like the library? The library is ... What? The library is boring. We could do that anytime. Listen. How about on Monday we go down to the lake and go swimming at the lake?\n Man: Ah, I don't know. I think it's going to hot that day, and I might get a sunburn. [ Come on! ] You know how tender ... tender my skin is.\n Woman: wimp! We can do ... Okay. So Monday, we'll go down to the lake. Tuesday, we're going to go mountain biking. Um, it's supposed to be cloudy so your tender skin shouldn't get burned.\n Man: Oh, that's sounds great ... but I'd probably crash like I did last time and break my arm or something.\n Woman: You didn't break your arm last time. You won't break it this time. Come on. We'll go ... So Monday, we'll go to the lake; Tuesday, we're going to go mountain biking. [ Okay. ] Um, Wendesay I was thinking we could go fishing. Remember the last time we went? I caught like 10 huge fish ...\n Man: Yeah. I remember. And the only thing I caught was an old boot. And you won't ever, EVER let me forget that one. So, if we do anything, I'd like to enjoy it.\n Woman: Well, okay then. Um, do you suggest?\n Man: Well, alright. Well, we could stay home and uh, you know ... pop some popcorn and play like Scrabble or another board game. Yeah, something like that .... What?\n Woman: You know, I like board games, but we can do that anytime. Why don't we go ... listen ... Friday or Saturday. We'll do all those things we talked about and then Friday or Saturday, we'll go on a picnic to the mountains. You won't break your arm, you won't get a sunburn. It'll be really pleasant. Let's do that, okay?\n Man: Well .....\n Woman: Come on. Let's do it. It'll be fun.\n Man: Okay. We'll give it a try.\n Woman: Good.",
         "question": "The woman wants to _____________ on Monday.",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nWoman: Hey, Hey. Why don't we do something fun next week? We have time off. We never do anything fun.\n Man: Well ... I don't know. What do you have in mind?\n Woman: Well, I was thinking like .... Okay. Like the library? The library is ... What? The library is boring. We could do that anytime. Listen. How about on Monday we go down to the lake and go swimming at the lake?\n Man: Ah, I don't know. I think it's going to hot that day, and I might get a sunburn. [ Come on! ] You know how tender ... tender my skin is.\n Woman: wimp! We can do ... Okay. So Monday, we'll go down to the lake. Tuesday, we're going to go mountain biking. Um, it's supposed to be cloudy so your tender skin shouldn't get burned.\n Man: Oh, that's sounds great ... but I'd probably crash like I did last time and break my arm or something.\n Woman: You didn't break your arm last time. You won't break it this time. Come on. We'll go ... So Monday, we'll go to the lake; Tuesday, we're going to go mountain biking. [ Okay. ] Um, Wendesay I was thinking we could go fishing. Remember the last time we went? I caught like 10 huge fish ...\n Man: Yeah. I remember. And the only thing I caught was an old boot. And you won't ever, EVER let me forget that one. So, if we do anything, I'd like to enjoy it.\n Woman: Well, okay then. Um, do you suggest?\n Man: Well, alright. Well, we could stay home and uh, you know ... pop some popcorn and play like Scrabble or another board game. Yeah, something like that .... What?\n Woman: You know, I like board games, but we can do that anytime. Why don't we go ... listen ... Friday or Saturday. We'll do all those things we talked about and then Friday or Saturday, we'll go on a picnic to the mountains. You won't break your arm, you won't get a sunburn. It'll be really pleasant. Let's do that, okay?\n Man: Well .....\n Woman: Come on. Let's do it. It'll be fun.\n Man: Okay. We'll give it a try.\n Woman: Good.\n\nQuestion:\nThe woman wants to _____________ on Monday.\n\nChoices:\n(A) walk along the river\n(B) visit the city park\n(C) go to the lake\n\nAnswer:\n",
-        "model_prediction": "(C) go to the lak"
+        "model_prediction": "C"
     },
     {
         "answer": "(A) She'd like to see what is wrong with it.",
@@ -20901,7 +20901,7 @@
         "context": "M: Can I have the earphone changed? It's not working.\n W: Let me check it.",
         "question": "What does the woman mean?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nM: Can I have the earphone changed? It's not working.\n W: Let me check it.\n\nQuestion:\nWhat does the woman mean?\n\nChoices:\n(A) She'd like to see what is wrong with it.\n(B) She can't change it for him.\n(C) She'll change it for him.\n\nAnswer:\n",
-        "model_prediction": "(C) She'll change it for him."
+        "model_prediction": "(A) She'd like to see what is wrong with it."
     },
     {
         "answer": "(C) At 5:15.",
@@ -21460,7 +21460,7 @@
         "context": "M: The bus to the seaside left 5 minutes ago. How often does it come?\n W: Every 20 minutes.",
         "question": "How long will the man have to wait?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nM: The bus to the seaside left 5 minutes ago. How often does it come?\n W: Every 20 minutes.\n\nQuestion:\nHow long will the man have to wait?\n\nChoices:\n(A) 20 minutes\n(B) 5 minutes\n(C) 15 minutes\n\nAnswer:\n",
-        "model_prediction": "(C) 15 minut"
+        "model_prediction": "(A) 20 minut"
     },
     {
         "answer": "(B) Anytime that day.",
@@ -22266,7 +22266,7 @@
         "context": "Woman: Hey. What's this on Facebook? It says ... Are you getting married?\n Man: Yeah. Didn't you know that?\n Woman: No. Why didn't you tell me about it? (It) says you're getting married next week.\n Man: Yeah, and I'm bringing her over to mom's house tomorrow. You'll love Jasmine.\n Woman: Jasmine?\n Man: Yeah. Here's her picture on Facebook.\n Woman: Oh. Wow.\n Man: What? What do you mean?\n Woman: Dad is not going to be impressed.\n Man: Why?\n Woman: She's got, like a lot her tattoos and a nose ring, and uh, I'm sorry. The family is going to be really surprised.\n Man: Ah, she's so, well, so sensitive and caring.\n Woman:Um, well .... [ What? ] Have ... have you taken any marriage prep classes?\n Man: Ah, who needs that anyway? I know all about women.\n Woman: Yeah. Right, like .... What have you had? Like ten girlfriends in the last six months?\n Man: Well, that's different!\n Woman: Uh, listen. Obviously, you need to improve your communication skills, and the best thing at this point .... if you're really set on marrying Jamie...\n Man: Jasmine ...\n Woman: Okay, I'm sorry, Jasmine, anyway, um, you really should take a marriage prep class.\n Man: What? What you are talking about? I know all about love and romance.\n Woman: Uh. Right ....\n Man: What? What do you mean?\n Woman: Look. Okay. It's more than that. What do you know about, say, personal finance? [ Well, you know ... ] I mean, how are you going to manage your money together? Are you going to have a joint bank account? Whose salary is going to pay the bills?\n Man: Ah, no problem. No problem. We have that figured out. My paycheck is going to be automatically transfered to her overseas bank account.\n Woman: Oh. [ What? ] Uh, where exactly is this account? What's the name of the bank?\n Man: Ah, I don't know. Jasmine's going to take care of that.\n Woman: Oh, boy. Right. Um, well, what about children? Are you guys going to have any kids?\n Man: Well, I want a large family, so eight kids would be just about right.\n Woman: Wow! What does Jasmine say about that?\n Man: Ah, well, she doesn't want any kids, but I'll change her mind once we get married. ( Right. ) No problem.\n Woman: Okay, what about housework? How are you going to handle that?\n Man: Well, Jasmine won't mind doing it. ( (Did) she said that? ) Well, not exactly. We've been just so busy planning out our honeymoon, that we just haven't worked out, you know, these small details.\n Woman: Great! You know what? By the time you learn her last name, I think things are going to be over between the two of you.\n Man: No, you just want and see.",
         "question": "The man probably isn't ready for marriage because he __________.",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nWoman: Hey. What's this on Facebook? It says ... Are you getting married?\n Man: Yeah. Didn't you know that?\n Woman: No. Why didn't you tell me about it? (It) says you're getting married next week.\n Man: Yeah, and I'm bringing her over to mom's house tomorrow. You'll love Jasmine.\n Woman: Jasmine?\n Man: Yeah. Here's her picture on Facebook.\n Woman: Oh. Wow.\n Man: What? What do you mean?\n Woman: Dad is not going to be impressed.\n Man: Why?\n Woman: She's got, like a lot her tattoos and a nose ring, and uh, I'm sorry. The family is going to be really surprised.\n Man: Ah, she's so, well, so sensitive and caring.\n Woman:Um, well .... [ What? ] Have ... have you taken any marriage prep classes?\n Man: Ah, who needs that anyway? I know all about women.\n Woman: Yeah. Right, like .... What have you had? Like ten girlfriends in the last six months?\n Man: Well, that's different!\n Woman: Uh, listen. Obviously, you need to improve your communication skills, and the best thing at this point .... if you're really set on marrying Jamie...\n Man: Jasmine ...\n Woman: Okay, I'm sorry, Jasmine, anyway, um, you really should take a marriage prep class.\n Man: What? What you are talking about? I know all about love and romance.\n Woman: Uh. Right ....\n Man: What? What do you mean?\n Woman: Look. Okay. It's more than that. What do you know about, say, personal finance? [ Well, you know ... ] I mean, how are you going to manage your money together? Are you going to have a joint bank account? Whose salary is going to pay the bills?\n Man: Ah, no problem. No problem. We have that figured out. My paycheck is going to be automatically transfered to her overseas bank account.\n Woman: Oh. [ What? ] Uh, where exactly is this account? What's the name of the bank?\n Man: Ah, I don't know. Jasmine's going to take care of that.\n Woman: Oh, boy. Right. Um, well, what about children? Are you guys going to have any kids?\n Man: Well, I want a large family, so eight kids would be just about right.\n Woman: Wow! What does Jasmine say about that?\n Man: Ah, well, she doesn't want any kids, but I'll change her mind once we get married. ( Right. ) No problem.\n Woman: Okay, what about housework? How are you going to handle that?\n Man: Well, Jasmine won't mind doing it. ( (Did) she said that? ) Well, not exactly. We've been just so busy planning out our honeymoon, that we just haven't worked out, you know, these small details.\n Woman: Great! You know what? By the time you learn her last name, I think things are going to be over between the two of you.\n Man: No, you just want and see.\n\nQuestion:\nThe man probably isn't ready for marriage because he __________.\n\nChoices:\n(A) is still financially dependent on his parents\n(B) has been in many unsuccessful relationships\n(C) doesn't have a good paying job to support them\n\nAnswer:\n",
-        "model_prediction": "(A) is still financially dependent on his parent"
+        "model_prediction": "(C) doesn't have a good paying job to support them"
     },
     {
         "answer": "(B) In an apartment in the downtown.",
@@ -22422,7 +22422,7 @@
         "context": "F: Is it always so hot in July?\n M: You are right.",
         "question": "What is the weather like in July?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nF: Is it always so hot in July?\n M: You are right.\n\nQuestion:\nWhat is the weather like in July?\n\nChoices:\n(A) It's cold.\n(B) It's warm.\n(C) it's hot.\n\nAnswer:\n",
-        "model_prediction": "(C) it's hot."
+        "model_prediction": "C"
     },
     {
         "answer": "(A) A bamboo basket.",
@@ -22669,7 +22669,7 @@
         "context": "M: You want me to look at the wheels, right?\n W: Please. And I wonder if you could raise the seat a little.",
         "question": "What is being discussed?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nM: You want me to look at the wheels, right?\n W: Please. And I wonder if you could raise the seat a little.\n\nQuestion:\nWhat is being discussed?\n\nChoices:\n(A) A bike.\n(B) A typewriter.\n(C) A chair.\n\nAnswer:\n",
-        "model_prediction": "(A) A bike."
+        "model_prediction": "C"
     },
     {
         "answer": "(C) From the Allied Irish Bank.",
@@ -22929,7 +22929,7 @@
         "context": "M: You're not looking too good. Are you sure you are all right?\n W: It was a long flight. I'll be fine after a good night's sleep.\n M: You look very pale.\n W: These long flights are just so boring, and you just have to sit there in your seat without moving and you know I like to get as much exercise as possible. I'm sure I'll be back to normal tomorrow.",
         "question": "How does the woman fool?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nM: You're not looking too good. Are you sure you are all right?\n W: It was a long flight. I'll be fine after a good night's sleep.\n M: You look very pale.\n W: These long flights are just so boring, and you just have to sit there in your seat without moving and you know I like to get as much exercise as possible. I'm sure I'll be back to normal tomorrow.\n\nQuestion:\nHow does the woman fool?\n\nChoices:\n(A) Ill\n(B) Nervous.\n(C) Tired.\n\nAnswer:\n",
-        "model_prediction": "(C) Tired."
+        "model_prediction": "(A) Ill"
     },
     {
         "answer": "(B) Ad in Campus Daily.",
@@ -22968,7 +22968,7 @@
         "context": "M: Grace, quick. If you don't hurry, we're going to miss the beginning of the kungfu movie.\n W: So what!\n M: Don't you want to watch it?\n W: Not really. I couldn't care less about kungfu movies.\n M: You should have told me earlier. Now I'm going without you.",
         "question": "How does Grace like the kungfu movie?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nM: Grace, quick. If you don't hurry, we're going to miss the beginning of the kungfu movie.\n W: So what!\n M: Don't you want to watch it?\n W: Not really. I couldn't care less about kungfu movies.\n M: You should have told me earlier. Now I'm going without you.\n\nQuestion:\nHow does Grace like the kungfu movie?\n\nChoices:\n(A) She enjoys it very much and plans to see it again.\n(B) She thinks it's great.\n(C) She doesn't like it at all.\n\nAnswer:\n",
-        "model_prediction": "(C) She doesn't like it at all."
+        "model_prediction": "C"
     },
     {
         "answer": "(C) $2,030.",
@@ -23527,7 +23527,7 @@
         "context": "M: Terry starts work at six o'clock.\n W: So he has to get up early.",
         "question": "Why does Terry get up early?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nM: Terry starts work at six o'clock.\n W: So he has to get up early.\n\nQuestion:\nWhy does Terry get up early?\n\nChoices:\n(A) Because he has to catch the bus.\n(B) Because he has to go outside.\n(C) Because he has to work early.\n\nAnswer:\n",
-        "model_prediction": "(C) Because he has to work early."
+        "model_prediction": "C"
     },
     {
         "answer": "(B) He prefers another job.",
@@ -23826,7 +23826,7 @@
         "context": "W: I'm fed up with sitting on packing cases, Joe. Don't you think we should buy at least two chairs?\n M: Do you know how much new chairs cost? One cheap comfortable armchair is eighty pounds.\n W: Yes, I know. It's terrible. But I have an idea. Why don't we look for chairs at a street market? I've always wanted to see one.\n M: All right. Which one shall we go to?\n W: Portobello Road, I think. There are a lot of secondhand things there. And we'll have to go tomorrow. It's only open on Saturdays.\n M: What time do you want to go? Not too early. I hope.\n W: The guidebook says the market is open from nine to six. It's a very popular market, so we'd better be there when it opens.\n M: Right. I'll set the alarm.",
         "question": "What is the woman complaining?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nW: I'm fed up with sitting on packing cases, Joe. Don't you think we should buy at least two chairs?\n M: Do you know how much new chairs cost? One cheap comfortable armchair is eighty pounds.\n W: Yes, I know. It's terrible. But I have an idea. Why don't we look for chairs at a street market? I've always wanted to see one.\n M: All right. Which one shall we go to?\n W: Portobello Road, I think. There are a lot of secondhand things there. And we'll have to go tomorrow. It's only open on Saturdays.\n M: What time do you want to go? Not too early. I hope.\n W: The guidebook says the market is open from nine to six. It's a very popular market, so we'd better be there when it opens.\n M: Right. I'll set the alarm.\n\nQuestion:\nWhat is the woman complaining?\n\nChoices:\n(A) The cost is high.\n(B) She sits on packing cases.\n(C) The chairs are old.\n\nAnswer:\n",
-        "model_prediction": "(B) She sits on packing cases."
+        "model_prediction": "(A) The cost is high."
     },
     {
         "answer": "(C) To recruit some people.",
@@ -23865,7 +23865,7 @@
         "context": "M: Hello, New Green Forest Store. May I help you?\n W: I'm thinking about buying a new TV set, and some of my friends recommended the Brand TCL to me. Can you tell me what is special about them?\n M: Well, we call them high-quality TV sets because they have much clearer pictures than the old ones.\n W: I see. How much does each cost?\n M: 2000 dollars. If you buy one before the end of the month, you can get a DVD player as a special gift.\n W: That sounds nice. I will buy two then.\n M: Where do you live, may I ask?\n W: Does it matter where I live?\n M: It's like this: If you live within 40 miles of the city center, we will deliver them to your house for free. But if you live farther than that, I am afraid you have to manage it by yourself.\n W: Well, I guess you can just bring the Tvsets to Number 88, Morning Sun Street.\n M: OK. They will be there soon.",
         "question": "What is special about TCL TV sets?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nM: Hello, New Green Forest Store. May I help you?\n W: I'm thinking about buying a new TV set, and some of my friends recommended the Brand TCL to me. Can you tell me what is special about them?\n M: Well, we call them high-quality TV sets because they have much clearer pictures than the old ones.\n W: I see. How much does each cost?\n M: 2000 dollars. If you buy one before the end of the month, you can get a DVD player as a special gift.\n W: That sounds nice. I will buy two then.\n M: Where do you live, may I ask?\n W: Does it matter where I live?\n M: It's like this: If you live within 40 miles of the city center, we will deliver them to your house for free. But if you live farther than that, I am afraid you have to manage it by yourself.\n W: Well, I guess you can just bring the Tvsets to Number 88, Morning Sun Street.\n M: OK. They will be there soon.\n\nQuestion:\nWhat is special about TCL TV sets?\n\nChoices:\n(A) They are cheaper than the old ones.\n(B) They are much lighter than the old ones.\n(C) They show clearer pictures than the old ones.\n\nAnswer:\n",
-        "model_prediction": "(C) They show clearer pictures than the old ones."
+        "model_prediction": "C"
     },
     {
         "answer": "(C) Stay at home.",
@@ -24073,7 +24073,7 @@
         "context": "W: Have you seen my glasses?\n M: No, where did you leave them?\n W: Right here by the telephone.\n M: Are you sure?\n W: Yes, I'm sure! I saw them here five minutes ago.\n M: Maybe you left them in the living room.\n W: No, I put them here by the telephone.\n M: Well, they are not there now.\n W: Maybe someone took them. I know I left them here.",
         "question": "Where did the woman leave her glasses?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nW: Have you seen my glasses?\n M: No, where did you leave them?\n W: Right here by the telephone.\n M: Are you sure?\n W: Yes, I'm sure! I saw them here five minutes ago.\n M: Maybe you left them in the living room.\n W: No, I put them here by the telephone.\n M: Well, they are not there now.\n W: Maybe someone took them. I know I left them here.\n\nQuestion:\nWhere did the woman leave her glasses?\n\nChoices:\n(A) By the television.\n(B) In the living room.\n(C) By the telephone.\n\nAnswer:\n",
-        "model_prediction": "(C) By the telephone."
+        "model_prediction": "C"
     },
     {
         "answer": "(B) Karen is very forgetful.",
@@ -24333,7 +24333,7 @@
         "context": "W: How much are the flowers?\n W: Roses are 120 dollars, but the shopkeeper let me have it for 100 dollars.",
         "question": "What discount did the man get?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nW: How much are the flowers?\n W: Roses are 120 dollars, but the shopkeeper let me have it for 100 dollars.\n\nQuestion:\nWhat discount did the man get?\n\nChoices:\n(A) $40 off\n(B) $20 off\n(C) $30 off\n\nAnswer:\n",
-        "model_prediction": "(C) $30 off"
+        "model_prediction": "(A) $40 off"
     },
     {
         "answer": "(C) Finish the man's work.",
@@ -24554,7 +24554,7 @@
         "context": "M: Is the girl by the door a nurse?\n F: No, she's a secretary.",
         "question": "What's the girl?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nM: Is the girl by the door a nurse?\n F: No, she's a secretary.\n\nQuestion:\nWhat's the girl?\n\nChoices:\n(A) A teacher.\n(B) A secretary.\n(C) A nurse.\n\nAnswer:\n",
-        "model_prediction": "(B) A secretary."
+        "model_prediction": "B"
     },
     {
         "answer": "(B) Last October.",
@@ -25633,7 +25633,7 @@
         "context": "M: Time to eat!\n W: Oh, I'm starving. Where is Mom?\n M: Mom put me in charge of dinner because she's not feeling well tonight.\n W: But what is it ...and that smell?\n M: It's pizza. I just followed an old family recipe here,and ...\n W: Let me see that ...Oh, you're missing a page!\n M: Oh, uh, well, uh ...well I couldn't find the second page of the recipe. But don't worry, I have plenty of experience around the house.\n W: Let me try it. Oh, you put too much salt in it and it's burnt.\n M: Well, I think we'd better go out for dinner.",
         "question": "What does the man cook for dinner?",
         "model_input": "You will receive a dialogue along with a question. Begin by thoroughly reading the dialogue, and then provide your answer to the question by selecting the most suitable choices. Simply select the choice, no explanations required.\n\nDialogue:\nM: Time to eat!\n W: Oh, I'm starving. Where is Mom?\n M: Mom put me in charge of dinner because she's not feeling well tonight.\n W: But what is it ...and that smell?\n M: It's pizza. I just followed an old family recipe here,and ...\n W: Let me see that ...Oh, you're missing a page!\n M: Oh, uh, well, uh ...well I couldn't find the second page of the recipe. But don't worry, I have plenty of experience around the house.\n W: Let me try it. Oh, you put too much salt in it and it's burnt.\n M: Well, I think we'd better go out for dinner.\n\nQuestion:\nWhat does the man cook for dinner?\n\nChoices:\n(A) A hamburger.\n(B) A sandwich.\n(C) A pizza.\n\nAnswer:\n",
-        "model_prediction": "(C) A pizza."
+        "model_prediction": "C"
     },
     {
         "answer": "(A) To give her regards to his parents.",

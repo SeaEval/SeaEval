@@ -42,7 +42,7 @@
         "context": "[USERNAME] Mas Adie biasanya para pecundang memang kaya gitu...selalu berharap hal terburuk menimpa negri ini sambil meperkeruh suasana .... dengan harapan ada kesempatan untuk mencuri kekuasaan...#2019IstiqomahJokowi",
         "id": "test_3",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] Mas Adie biasanya para pecundang memang kaya gitu...selalu berharap hal terburuk menimpa negri ini sambil meperkeruh suasana .... dengan harapan ada kesempatan untuk mencuri kekuasaan...#2019IstiqomahJokowi\n\nChoices:\n(A) Love\n(B) Anger\n(C) Happy\n(D) Sadness\n(E) Neutral\n(F) Fear\n\nAnswer:\n",
-        "model_prediction": "(D) Sad"
+        "model_prediction": "Step 1: Identify keywords and phrases in the sentence that may indicate sentiment."
     },
     {
         "answer": "(E) Happy",
@@ -57,7 +57,7 @@
         "context": "#thanks to mpmhondajatim [USERNAME] [USERNAME] #halalbihalal #jatimotoblog #2018 di #blitar bisa terlaksana tanpa kurang satu apapun... #sugimasihada #blogger #rider #touring [URL]",
         "id": "test_4",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n#thanks to mpmhondajatim [USERNAME] [USERNAME] #halalbihalal #jatimotoblog #2018 di #blitar bisa terlaksana tanpa kurang satu apapun... #sugimasihada #blogger #rider #touring [URL]\n\nChoices:\n(A) Love\n(B) Sadness\n(C) Fear\n(D) Anger\n(E) Happy\n(F) Neutral\n\nAnswer:\n",
-        "model_prediction": "(E) Happy"
+        "model_prediction": "Step 1: Identify keywords and phrases that indicate sentiment."
     },
     {
         "answer": "(B) Happy",
@@ -87,7 +87,7 @@
         "context": "[USERNAME] Aku gak salah bila mohon pd [USERNAME], segera Perintahkan MENKES utk menambah Ruangan Khusus \"Sakit Jiwa\" pd stiap Rmh Sakit. Sbab, tdk menutup kemungkinan, USAI PILPRES, stiap Rmh Sakit akan dibanjiri Pasien \"Sakit Jiwa\". Tanda2 kearah sa",
         "id": "test_6",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] Aku gak salah bila mohon pd [USERNAME], segera Perintahkan MENKES utk menambah Ruangan Khusus \"Sakit Jiwa\" pd stiap Rmh Sakit. Sbab, tdk menutup kemungkinan, USAI PILPRES, stiap Rmh Sakit akan dibanjiri Pasien \"Sakit Jiwa\". Tanda2 kearah sa\n\nChoices:\n(A) Neutral\n(B) Happy\n(C) Love\n(D) Fear\n(E) Sadness\n(F) Anger\n\nAnswer:\n",
-        "model_prediction": "(E) Sad"
+        "model_prediction": "Step 1: Identify the main subject and context of the sentence."
     },
     {
         "answer": "(A) Sadness",
@@ -132,7 +132,7 @@
         "context": "hanya kamu yang bisa membuat aku jadi tergila membuat aku jatuh cinta karena tak ada yang lain sepertimu",
         "id": "test_9",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nhanya kamu yang bisa membuat aku jadi tergila membuat aku jatuh cinta karena tak ada yang lain sepertimu\n\nChoices:\n(A) Fear\n(B) Happy\n(C) Sadness\n(D) Love\n(E) Neutral\n(F) Anger\n\nAnswer:\n",
-        "model_prediction": "(D) Love"
+        "model_prediction": "Step 1: Identify the keywords and phrases in the sentence that may indicate sentiment."
     },
     {
         "answer": "(E) Happy",
@@ -297,7 +297,7 @@
         "context": "[USERNAME] Sekedar mengingatkan juga mas, mungkin cari tahu apa penyebab dollar terus melambung sebelum kasih statement yg menggiring opini seperti ini.",
         "id": "test_20",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] Sekedar mengingatkan juga mas, mungkin cari tahu apa penyebab dollar terus melambung sebelum kasih statement yg menggiring opini seperti ini.\n\nChoices:\n(A) Sadness\n(B) Love\n(C) Neutral\n(D) Happy\n(E) Anger\n(F) Fear\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the main subject and verb in the sentence."
+        "model_prediction": "Step 1: Identify the main subject and tone of the sentence."
     },
     {
         "answer": "(E) Happy",
@@ -327,7 +327,7 @@
         "context": "web permata krg profesional. Ada program cashback 10rb token pln, waktu di klik info, masuknya ke program paket kuota data. Piye iki?",
         "id": "test_22",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nweb permata krg profesional. Ada program cashback 10rb token pln, waktu di klik info, masuknya ke program paket kuota data. Piye iki?\n\nChoices:\n(A) Happy\n(B) Sadness\n(C) Neutral\n(D) Fear\n(E) Love\n(F) Anger\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the language of the sentence."
+        "model_prediction": "(C) Neutral"
     },
     {
         "answer": "(E) Happy",
@@ -447,7 +447,7 @@
         "context": "Gue tipe orang yg penakut banget. Kadang kalo di kos sendiri padahal ga ada apa2 tapi gue parno gitu takut dan ngerasa kaya ada seseorang. Menurut kalian nih, gue harus ngelakuin atau apa nih biar ga jd orang penakut? (  Minta di ruqiyah kalo gitu  [URL]",
         "id": "test_30",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nGue tipe orang yg penakut banget. Kadang kalo di kos sendiri padahal ga ada apa2 tapi gue parno gitu takut dan ngerasa kaya ada seseorang. Menurut kalian nih, gue harus ngelakuin atau apa nih biar ga jd orang penakut? (  Minta di ruqiyah kalo gitu  [URL]\n\nChoices:\n(A) Anger\n(B) Neutral\n(C) Fear\n(D) Love\n(E) Sadness\n(F) Happy\n\nAnswer:\n",
-        "model_prediction": "(C) Fea"
+        "model_prediction": "Step 1: Identify the main subject and sentiment words in the sentence."
     },
     {
         "answer": "(B) Anger",
@@ -462,7 +462,7 @@
         "context": "[USERNAME] [USERNAME] [USERNAME] Bodo amat Bonek The Jak gak bisa akur kalo modelannya mereka begituan. Jijik kalo harus satu mindset sm mereka. Goblok permanen",
         "id": "test_31",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] [USERNAME] [USERNAME] Bodo amat Bonek The Jak gak bisa akur kalo modelannya mereka begituan. Jijik kalo harus satu mindset sm mereka. Goblok permanen\n\nChoices:\n(A) Sadness\n(B) Anger\n(C) Neutral\n(D) Fear\n(E) Happy\n(F) Love\n\nAnswer:\n",
-        "model_prediction": "(B) Ang"
+        "model_prediction": "Step 1: Identify the keywords in the sentence that may indicate sentiment."
     },
     {
         "answer": "(C) Happy",
@@ -567,7 +567,7 @@
         "context": "[USERNAME] Terlalu banyak kesalahan yg sdh aku perbuat untuk alm. Hingga menjelang ajalnya pun aku masih membentak dan marah2 pada beliau, semoga beliau sudi memaafkan aku",
         "id": "test_38",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] Terlalu banyak kesalahan yg sdh aku perbuat untuk alm. Hingga menjelang ajalnya pun aku masih membentak dan marah2 pada beliau, semoga beliau sudi memaafkan aku\n\nChoices:\n(A) Love\n(B) Happy\n(C) Anger\n(D) Neutral\n(E) Fear\n(F) Sadness\n\nAnswer:\n",
-        "model_prediction": "(F) Sad"
+        "model_prediction": "Step 1: Identify the main subject and context of the sentence."
     },
     {
         "answer": "(B) Happy",
@@ -777,7 +777,7 @@
         "context": "[USERNAME] [USERNAME] Mekanisme pemilihan direksi dan komisarisnya dgn cara gmna ya? Sontoloyo khan uang rakyat dipake buat gaji BOD dan BOC yg model gini....",
         "id": "test_52",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] [USERNAME] Mekanisme pemilihan direksi dan komisarisnya dgn cara gmna ya? Sontoloyo khan uang rakyat dipake buat gaji BOD dan BOC yg model gini....\n\nChoices:\n(A) Happy\n(B) Fear\n(C) Neutral\n(D) Anger\n(E) Love\n(F) Sadness\n\nAnswer:\n",
-        "model_prediction": "(D) Anger"
+        "model_prediction": "(D) Ang"
     },
     {
         "answer": "(F) Fear",
@@ -807,7 +807,7 @@
         "context": "[USERNAME] [USERNAME] sebenarnya orang itu yang katanya Profesor gak bisa jawab... jadi belagak congkak... sok melempar jawaban ke yang lain untuk jawab...",
         "id": "test_54",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] [USERNAME] sebenarnya orang itu yang katanya Profesor gak bisa jawab... jadi belagak congkak... sok melempar jawaban ke yang lain untuk jawab...\n\nChoices:\n(A) Love\n(B) Anger\n(C) Fear\n(D) Neutral\n(E) Happy\n(F) Sadness\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the keywords and phrases in the sentence that indicate sentiment."
+        "model_prediction": "Step 1: Identify the keywords and phrases in the sentence that may indicate sentiment."
     },
     {
         "answer": "(E) Happy",
@@ -837,7 +837,7 @@
         "context": "Tapi so far ga ada yg aneh sih Ka malah byk yg support Justru lebih ngeri netizen di IG kayanya wkwk jgn dikunci sayang Ka",
         "id": "test_56",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nTapi so far ga ada yg aneh sih Ka malah byk yg support Justru lebih ngeri netizen di IG kayanya wkwk jgn dikunci sayang Ka\n\nChoices:\n(A) Sadness\n(B) Happy\n(C) Fear\n(D) Love\n(E) Neutral\n(F) Anger\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the key phrases in the sentence."
+        "model_prediction": "(E) Neutral"
     },
     {
         "answer": "(F) Anger",
@@ -1032,7 +1032,7 @@
         "context": "[USERNAME] manja, kang spam, suka imagine, perhatian banget ke satu cowo, bakalan sayang banget ke satu cowo, kalo udh kangen suka manjanya kelewatan, bawel banget, bullyable wjwk apalagi yaa wkwk",
         "id": "test_69",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] manja, kang spam, suka imagine, perhatian banget ke satu cowo, bakalan sayang banget ke satu cowo, kalo udh kangen suka manjanya kelewatan, bawel banget, bullyable wjwk apalagi yaa wkwk\n\nChoices:\n(A) Anger\n(B) Fear\n(C) Sadness\n(D) Love\n(E) Neutral\n(F) Happy\n\nAnswer:\n",
-        "model_prediction": "(F) Happy"
+        "model_prediction": "(D) Lov"
     },
     {
         "answer": "(F) Anger",
@@ -1062,7 +1062,7 @@
         "context": "[USERNAME] makasih banyak [USERNAME] atas kerja kerasnya ,nggak papa EXO nggak jadi kesini semoga EXO Planet #5 EXO bisa kesini amin , terimakasih banyak [USERNAME] :')",
         "id": "test_71",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] makasih banyak [USERNAME] atas kerja kerasnya ,nggak papa EXO nggak jadi kesini semoga EXO Planet #5 EXO bisa kesini amin , terimakasih banyak [USERNAME] :')\n\nChoices:\n(A) Neutral\n(B) Happy\n(C) Anger\n(D) Sadness\n(E) Love\n(F) Fear\n\nAnswer:\n",
-        "model_prediction": "(B) Happy"
+        "model_prediction": "Step 1: Identify the keywords and phrases in the sentence that may indicate sentiment."
     },
     {
         "answer": "(A) Love",
@@ -1332,7 +1332,7 @@
         "context": "[USERNAME] [USERNAME] [USERNAME] [USERNAME] [USERNAME] [USERNAME] Biasanya yg bikin barisan sakit hati yg sdh nggak dpt jatah selama jkw jd gubernur DKI dan skrg jd presiden tujuannya membentuk opini publik spy kalah pilpres # Salam 2 PERIODE",
         "id": "test_89",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] [USERNAME] [USERNAME] [USERNAME] [USERNAME] [USERNAME] Biasanya yg bikin barisan sakit hati yg sdh nggak dpt jatah selama jkw jd gubernur DKI dan skrg jd presiden tujuannya membentuk opini publik spy kalah pilpres # Salam 2 PERIODE\n\nChoices:\n(A) Happy\n(B) Neutral\n(C) Sadness\n(D) Fear\n(E) Love\n(F) Anger\n\nAnswer:\n",
-        "model_prediction": "(F) Anger"
+        "model_prediction": "Step 1: Identify the keywords and phrases in the sentence that may indicate sentiment."
     },
     {
         "answer": "(B) Anger",
@@ -1407,7 +1407,7 @@
         "context": "sebagai pendukung seseorang saja, aku tak lupa ingatan tak cari muka, muka kubawa dengan ingatan.. bos hati2 awas didepan ada api atau jurang yg dpt mencelakakan.. Piawai lah melangkah, betapa api dn jurang ada jua mabfaat di dalamnya",
         "id": "test_94",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nsebagai pendukung seseorang saja, aku tak lupa ingatan tak cari muka, muka kubawa dengan ingatan.. bos hati2 awas didepan ada api atau jurang yg dpt mencelakakan.. Piawai lah melangkah, betapa api dn jurang ada jua mabfaat di dalamnya\n\nChoices:\n(A) Sadness\n(B) Happy\n(C) Love\n(D) Neutral\n(E) Fear\n(F) Anger\n\nAnswer:\n",
-        "model_prediction": "(E) Fear"
+        "model_prediction": "(D) Neutral"
     },
     {
         "answer": "(E) Happy",
@@ -1497,7 +1497,7 @@
         "context": "[USERNAME] [USERNAME] [USERNAME] [USERNAME] [USERNAME] [USERNAME] [USERNAME] Butuh tempat yg nyaman agar supaya betah dan tida berpaling",
         "id": "test_100",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] [USERNAME] [USERNAME] [USERNAME] [USERNAME] [USERNAME] [USERNAME] Butuh tempat yg nyaman agar supaya betah dan tida berpaling\n\nChoices:\n(A) Sadness\n(B) Happy\n(C) Neutral\n(D) Fear\n(E) Love\n(F) Anger\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the keywords in the sentence."
+        "model_prediction": "Step 1: Identify the main keywords in the sentence."
     },
     {
         "answer": "(D) Anger",
@@ -1617,7 +1617,7 @@
         "context": "Kok banyak yaa di kabupaten w anak muda yg mendaftar caleg apa mereka bisa mewakili aspirasi rakyat padahal tempat nongkrongnya di cafe/restoran mewah bukan warung di tengah kampung",
         "id": "test_108",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nKok banyak yaa di kabupaten w anak muda yg mendaftar caleg apa mereka bisa mewakili aspirasi rakyat padahal tempat nongkrongnya di cafe/restoran mewah bukan warung di tengah kampung\n\nChoices:\n(A) Fear\n(B) Neutral\n(C) Sadness\n(D) Love\n(E) Happy\n(F) Anger\n\nAnswer:\n",
-        "model_prediction": "(F) Anger"
+        "model_prediction": "(F) Ang"
     },
     {
         "answer": "(C) Fear",
@@ -1662,7 +1662,7 @@
         "context": "[USERNAME] [USERNAME] Please jangan bawa nama anak muda bro, kalau masih debat dg pak [USERNAME] tak pakai data apalagi nyinyir. Serasa generasi milenial kurang literatur.",
         "id": "test_111",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] [USERNAME] Please jangan bawa nama anak muda bro, kalau masih debat dg pak [USERNAME] tak pakai data apalagi nyinyir. Serasa generasi milenial kurang literatur.\n\nChoices:\n(A) Neutral\n(B) Happy\n(C) Love\n(D) Sadness\n(E) Fear\n(F) Anger\n\nAnswer:\n",
-        "model_prediction": "(D) Sad"
+        "model_prediction": "Step 1: Identify the main subject and tone of the sentence."
     },
     {
         "answer": "(C) Happy",
@@ -1707,7 +1707,7 @@
         "context": "Walau Ramadhan menyebarkan energi kebaikan harus lebih semangat dibandingkan sebelumnya, terima kasih untuk PLN BATAM. [URL]",
         "id": "test_114",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nWalau Ramadhan menyebarkan energi kebaikan harus lebih semangat dibandingkan sebelumnya, terima kasih untuk PLN BATAM. [URL]\n\nChoices:\n(A) Fear\n(B) Happy\n(C) Sadness\n(D) Anger\n(E) Love\n(F) Neutral\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the main subject and context of the sentence."
+        "model_prediction": "(B) Happy"
     },
     {
         "answer": "(C) Love",
@@ -1767,7 +1767,7 @@
         "context": "Jangan sekalikali dah negosiasi sama Sagitarius, kolo moody lagi berantakan tolong jangan diganggu dulu. ucapannya lebih menyakitkan.. *manusia*",
         "id": "test_118",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nJangan sekalikali dah negosiasi sama Sagitarius, kolo moody lagi berantakan tolong jangan diganggu dulu. ucapannya lebih menyakitkan.. *manusia*\n\nChoices:\n(A) Anger\n(B) Happy\n(C) Neutral\n(D) Love\n(E) Fear\n(F) Sadness\n\nAnswer:\n",
-        "model_prediction": "(A) Ang"
+        "model_prediction": "(F) Sad"
     },
     {
         "answer": "(A) Happy",
@@ -1782,7 +1782,7 @@
         "context": "happy wedding elizasekar semoga langgeng sampai kakek nenek. - - #wedding #weddingparty #weddingtradisional #adatjawa",
         "id": "test_119",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nhappy wedding elizasekar semoga langgeng sampai kakek nenek. - - #wedding #weddingparty #weddingtradisional #adatjawa\n\nChoices:\n(A) Happy\n(B) Love\n(C) Neutral\n(D) Sadness\n(E) Fear\n(F) Anger\n\nAnswer:\n",
-        "model_prediction": "(A) Happy"
+        "model_prediction": "Step 1: Identify the keywords in the sentence."
     },
     {
         "answer": "(C) Anger",
@@ -1947,7 +1947,7 @@
         "context": "separah inilah aku yang tak mengerti bahwa ada fitur sms banking dan i-banking. okay i'm done~ btw terimakasih sudah menjadi yg tersabar menghadapi diriku yg gapteknya gak ketulungan, semoga alam semesta mengamini chatmu ya!",
         "id": "test_130",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nseparah inilah aku yang tak mengerti bahwa ada fitur sms banking dan i-banking. okay i'm done~ btw terimakasih sudah menjadi yg tersabar menghadapi diriku yg gapteknya gak ketulungan, semoga alam semesta mengamini chatmu ya!\n\nChoices:\n(A) Love\n(B) Anger\n(C) Sadness\n(D) Fear\n(E) Happy\n(F) Neutral\n\nAnswer:\n",
-        "model_prediction": "(E) Happy"
+        "model_prediction": "(C) Sad"
     },
     {
         "answer": "(C) Fear",
@@ -2022,7 +2022,7 @@
         "context": "Duh...kok sedih yah, naikin berat badan susah tp turunnya mudah bgt puasa seminggu turun 6kg lebih, apalagi sekarang udah puasa ke20an. Celana melorot semua. Ya Allah doaku semoga abis lebaran nanti aku dikasih gemuk kyk ayam negri ... Aminnn... #RecehkanTwitter #kapangemuk",
         "id": "test_135",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nDuh...kok sedih yah, naikin berat badan susah tp turunnya mudah bgt puasa seminggu turun 6kg lebih, apalagi sekarang udah puasa ke20an. Celana melorot semua. Ya Allah doaku semoga abis lebaran nanti aku dikasih gemuk kyk ayam negri ... Aminnn... #RecehkanTwitter #kapangemuk\n\nChoices:\n(A) Anger\n(B) Sadness\n(C) Neutral\n(D) Love\n(E) Fear\n(F) Happy\n\nAnswer:\n",
-        "model_prediction": "(F) Happy"
+        "model_prediction": "(B) Sad"
     },
     {
         "answer": "(B) Sadness",
@@ -2292,7 +2292,7 @@
         "context": "Alhamdulillah Prof, setelah berbicara semalam di [USERNAME] adem rasanya, semoga membawa keberkahan. Aamiin Yaa Rabbal 'Aalamiin.",
         "id": "test_153",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nAlhamdulillah Prof, setelah berbicara semalam di [USERNAME] adem rasanya, semoga membawa keberkahan. Aamiin Yaa Rabbal 'Aalamiin.\n\nChoices:\n(A) Fear\n(B) Neutral\n(C) Love\n(D) Happy\n(E) Anger\n(F) Sadness\n\nAnswer:\n",
-        "model_prediction": "(D) Happy"
+        "model_prediction": "Step 1: Identify the keywords and phrases in the sentence that may indicate sentiment."
     },
     {
         "answer": "(B) Happy",
@@ -2382,7 +2382,7 @@
         "context": "#PacaranJamanDulu baru jadian langsung ganti status di Facebook \"berpacaran dengan...\", kalo putus langsung saat itu juga ganti status di Facebook \"Lajang\"",
         "id": "test_159",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n#PacaranJamanDulu baru jadian langsung ganti status di Facebook \"berpacaran dengan...\", kalo putus langsung saat itu juga ganti status di Facebook \"Lajang\"\n\nChoices:\n(A) Happy\n(B) Fear\n(C) Neutral\n(D) Love\n(E) Anger\n(F) Sadness\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the keywords in the sentence that may indicate sentiment."
+        "model_prediction": "Step 1: Identify the main subject and context of the sentence."
     },
     {
         "answer": "(F) Sadness",
@@ -2397,7 +2397,7 @@
         "context": "[USERNAME] Iya kali ya cikk.. Apalagi ky bsk yg mw pemadaman hmm byasanya kan kl dah mepet ga ada air ataupun listrik ke kos elu yaaa huhuuu",
         "id": "test_160",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] Iya kali ya cikk.. Apalagi ky bsk yg mw pemadaman hmm byasanya kan kl dah mepet ga ada air ataupun listrik ke kos elu yaaa huhuuu\n\nChoices:\n(A) Love\n(B) Neutral\n(C) Anger\n(D) Happy\n(E) Fear\n(F) Sadness\n\nAnswer:\n",
-        "model_prediction": "(D) Happy"
+        "model_prediction": "Step 1: Identify the language of the sentence. The sentence is in Indonesian."
     },
     {
         "answer": "(C) Anger",
@@ -2412,7 +2412,7 @@
         "context": "[USERNAME] sehat? Tiap hidupin data seluler selalu muncul notif yg pemakaian lbh dri 500mb. Terus data seluler otomatis mati. Gitu terus berulang. Padal kuotanya msih 1 Gb lebih.. Akhirnya gabisa dipakai. Respon yg solutif. Udah berkali kali kek gini ht",
         "id": "test_161",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] sehat? Tiap hidupin data seluler selalu muncul notif yg pemakaian lbh dri 500mb. Terus data seluler otomatis mati. Gitu terus berulang. Padal kuotanya msih 1 Gb lebih.. Akhirnya gabisa dipakai. Respon yg solutif. Udah berkali kali kek gini ht\n\nChoices:\n(A) Sadness\n(B) Neutral\n(C) Anger\n(D) Love\n(E) Happy\n(F) Fear\n\nAnswer:\n",
-        "model_prediction": "(C) Anger"
+        "model_prediction": "(C) Ang"
     },
     {
         "answer": "(F) Anger",
@@ -2487,7 +2487,7 @@
         "context": "Bahaha.. dia ke kasir after me. Sambil ngangkat keresek belanjaanku, masih sempet liat mas nya nyodorin barang belanjaannya",
         "id": "test_166",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nBahaha.. dia ke kasir after me. Sambil ngangkat keresek belanjaanku, masih sempet liat mas nya nyodorin barang belanjaannya\n\nChoices:\n(A) Sadness\n(B) Fear\n(C) Happy\n(D) Anger\n(E) Love\n(F) Neutral\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the keywords and phrases in the sentence that indicate sentiment."
+        "model_prediction": "Step 1: Identify the keywords and phrases in the sentence that may indicate sentiment."
     },
     {
         "answer": "(A) Love",
@@ -2577,7 +2577,7 @@
         "context": "Demi apa, kalau gue punya pc ban Agus, gue trade langsung nih sama si Mas",
         "id": "test_172",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nDemi apa, kalau gue punya pc ban Agus, gue trade langsung nih sama si Mas\n\nChoices:\n(A) Sadness\n(B) Happy\n(C) Fear\n(D) Anger\n(E) Love\n(F) Neutral\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the key phrases in the sentence."
+        "model_prediction": "(B) Happy"
     },
     {
         "answer": "(C) Happy",
@@ -2622,7 +2622,7 @@
         "context": "[USERNAME] jaringannya mati ya? Tidak bisa dibuka mobile jkn. Saya mau ke puskesmes trus piye mau tunjukkan kartu elektoniknya? #kecewa",
         "id": "test_175",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] jaringannya mati ya? Tidak bisa dibuka mobile jkn. Saya mau ke puskesmes trus piye mau tunjukkan kartu elektoniknya? #kecewa\n\nChoices:\n(A) Anger\n(B) Neutral\n(C) Fear\n(D) Love\n(E) Happy\n(F) Sadness\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the keywords and phrases that indicate sentiment in the sentence."
+        "model_prediction": "Step 1: Identify keywords and phrases that indicate sentiment."
     },
     {
         "answer": "(E) Anger",
@@ -2682,7 +2682,7 @@
         "context": "oke terima kasih :)",
         "id": "test_179",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\noke terima kasih :)\n\nChoices:\n(A) Happy\n(B) Sadness\n(C) Love\n(D) Fear\n(E) Neutral\n(F) Anger\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the words and symbols in the sentence."
+        "model_prediction": "(A) Happy"
     },
     {
         "answer": "(E) Sadness",
@@ -2742,7 +2742,7 @@
         "context": "[USERNAME] Akhirnya kutemui kembali, lelaki yg sekian tahun lalu gagal aku dekati, Ketika tahun ini ingin memperjuangkan cinta kembali ternyata kau sudah ada calon untuk kau nikahi",
         "id": "test_183",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] Akhirnya kutemui kembali, lelaki yg sekian tahun lalu gagal aku dekati, Ketika tahun ini ingin memperjuangkan cinta kembali ternyata kau sudah ada calon untuk kau nikahi\n\nChoices:\n(A) Neutral\n(B) Fear\n(C) Sadness\n(D) Love\n(E) Happy\n(F) Anger\n\nAnswer:\n",
-        "model_prediction": "(D) Lov"
+        "model_prediction": "Step 1: Identify the main subject and emotion in the sentence."
     },
     {
         "answer": "(A) Anger",
@@ -2862,7 +2862,7 @@
         "context": "iya ya kok saya bodoh si dana jatuh dilubang yang sama wkwk tidak-kuat nih saya begini mulu! capai",
         "id": "test_191",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\niya ya kok saya bodoh si dana jatuh dilubang yang sama wkwk tidak-kuat nih saya begini mulu! capai\n\nChoices:\n(A) Love\n(B) Sadness\n(C) Happy\n(D) Neutral\n(E) Fear\n(F) Anger\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the keywords in the sentence that may indicate sentiment."
+        "model_prediction": "Step 1: Identify the keywords and phrases in the sentence that may indicate sentiment."
     },
     {
         "answer": "(D) Fear",
@@ -2907,7 +2907,7 @@
         "context": "Langsung mewek baca thread ini, keren maksimal usaha semua orang dalam misi penyelamatan, sampai harus ada yang gugur. [URL]",
         "id": "test_194",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nLangsung mewek baca thread ini, keren maksimal usaha semua orang dalam misi penyelamatan, sampai harus ada yang gugur. [URL]\n\nChoices:\n(A) Love\n(B) Happy\n(C) Sadness\n(D) Anger\n(E) Fear\n(F) Neutral\n\nAnswer:\n",
-        "model_prediction": "(C) Sad"
+        "model_prediction": "Step 1: Identify the keywords and phrases in the sentence that may indicate sentiment."
     },
     {
         "answer": "(D) Love",
@@ -2922,7 +2922,7 @@
         "context": "HAHAHA BODO AMAT DEEHHH YG PENTING DI VIDEO INI SE FRAME SAMA DANIELSAYANG BANGEET DONGG SM DIAAA DAN MEREKA [USERNAME]",
         "id": "test_195",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nHAHAHA BODO AMAT DEEHHH YG PENTING DI VIDEO INI SE FRAME SAMA DANIELSAYANG BANGEET DONGG SM DIAAA DAN MEREKA [USERNAME]\n\nChoices:\n(A) Fear\n(B) Anger\n(C) Neutral\n(D) Love\n(E) Sadness\n(F) Happy\n\nAnswer:\n",
-        "model_prediction": "(F) Happy"
+        "model_prediction": "Step 1: Identify the keywords and phrases in the sentence that may indicate sentiment."
     },
     {
         "answer": "(D) Anger",
@@ -2937,7 +2937,7 @@
         "context": "Fuck u lol...loe mau jatuhin agnezmo kan..ha ha",
         "id": "test_196",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nFuck u lol...loe mau jatuhin agnezmo kan..ha ha\n\nChoices:\n(A) Neutral\n(B) Happy\n(C) Love\n(D) Anger\n(E) Fear\n(F) Sadness\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the words and phrases that carry sentiment in the sentence."
+        "model_prediction": "Step 1: Identify the words and phrases that indicate sentiment in the sentence."
     },
     {
         "answer": "(A) Love",
@@ -2982,7 +2982,7 @@
         "context": "[USERNAME] [USERNAME] [USERNAME] Apakah bisa di anggap saudara jika mreka akan membubarkan acara ustadz yg akan memberikan tausiah ilmu kpd kami???mikir dikit napa??",
         "id": "test_199",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] [USERNAME] [USERNAME] Apakah bisa di anggap saudara jika mreka akan membubarkan acara ustadz yg akan memberikan tausiah ilmu kpd kami???mikir dikit napa??\n\nChoices:\n(A) Sadness\n(B) Love\n(C) Neutral\n(D) Anger\n(E) Happy\n(F) Fear\n\nAnswer:\n",
-        "model_prediction": "(C) Neutral"
+        "model_prediction": "Step 1: Identify the main keywords in the sentence."
     },
     {
         "answer": "(F) Happy",
@@ -3117,7 +3117,7 @@
         "context": "[USERNAME] Amin, Punten Pa, ada issu miring terkait rencana pertemuan (buka bareng) dgn kuwu-kuwu serta Rt/Rw di-kecamatan ciwaringin sore nanti bertempat dirumah bos buah depan RS Sumberwaras...",
         "id": "test_208",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] Amin, Punten Pa, ada issu miring terkait rencana pertemuan (buka bareng) dgn kuwu-kuwu serta Rt/Rw di-kecamatan ciwaringin sore nanti bertempat dirumah bos buah depan RS Sumberwaras...\n\nChoices:\n(A) Fear\n(B) Sadness\n(C) Love\n(D) Happy\n(E) Neutral\n(F) Anger\n\nAnswer:\n",
-        "model_prediction": "(E) Neutral"
+        "model_prediction": "Step 1: Identify the main subject and context of the sentence."
     },
     {
         "answer": "(A) Sadness",
@@ -3132,7 +3132,7 @@
         "context": "Kamu.... Ah aku benci semuanya! :'(",
         "id": "test_209",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nKamu.... Ah aku benci semuanya! :'(\n\nChoices:\n(A) Sadness\n(B) Fear\n(C) Neutral\n(D) Happy\n(E) Anger\n(F) Love\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the keywords in the sentence that indicate sentiment."
+        "model_prediction": "Step 1: Identify the keywords in the sentence that can help determine the sentiment."
     },
     {
         "answer": "(A) Happy",
@@ -3147,7 +3147,7 @@
         "context": "[USERNAME] Selamat Siang Sahabat Pos. Kiriman tsb sudah diterima ya sahabat. Terima kasih telah mempercayakan dan menggunakan layanan kami :) ^FD [URL]",
         "id": "test_210",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] Selamat Siang Sahabat Pos. Kiriman tsb sudah diterima ya sahabat. Terima kasih telah mempercayakan dan menggunakan layanan kami :) ^FD [URL]\n\nChoices:\n(A) Happy\n(B) Fear\n(C) Love\n(D) Anger\n(E) Neutral\n(F) Sadness\n\nAnswer:\n",
-        "model_prediction": "(A) Happy"
+        "model_prediction": "Step 1: Identify the keywords and phrases in the sentence that may indicate sentiment."
     },
     {
         "answer": "(D) Love",
@@ -3162,7 +3162,7 @@
         "context": "selalu jatuh cinta dengan [USERNAME] paket lengkap seorang Wanita Indonesia yang sangat menginspirasi..",
         "id": "test_211",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nselalu jatuh cinta dengan [USERNAME] paket lengkap seorang Wanita Indonesia yang sangat menginspirasi..\n\nChoices:\n(A) Happy\n(B) Neutral\n(C) Anger\n(D) Love\n(E) Fear\n(F) Sadness\n\nAnswer:\n",
-        "model_prediction": "(D) Lov"
+        "model_prediction": "Step 1: Identify the keywords in the sentence that indicate sentiment."
     },
     {
         "answer": "(D) Love",
@@ -3207,7 +3207,7 @@
         "context": "[USERNAME] [USERNAME] Lagu ya? Banyak sih. Tapi aku bener bener suka sama awake karena lagu itu buat aku semangat ngejar mimpiku buat dapet sertifikat bahasa jepang",
         "id": "test_214",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] [USERNAME] Lagu ya? Banyak sih. Tapi aku bener bener suka sama awake karena lagu itu buat aku semangat ngejar mimpiku buat dapet sertifikat bahasa jepang\n\nChoices:\n(A) Happy\n(B) Anger\n(C) Sadness\n(D) Love\n(E) Fear\n(F) Neutral\n\nAnswer:\n",
-        "model_prediction": "(D) Lov"
+        "model_prediction": "Step 1: Identify keywords and phrases that indicate sentiment."
     },
     {
         "answer": "(C) Love",
@@ -3237,7 +3237,7 @@
         "context": "[USERNAME] [USERNAME] Saya sudah 2 bulan dana mengendap di Bukalapak gara2 di Bekukan ini Bagaimana ??? semua pertanyaan dari pihak Bukalapak dan Bukti2 sudah saya kirim kan Pedagang hanya mengirim barang terhadap pesanan lalu BL membekukan secara se",
         "id": "test_216",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] [USERNAME] Saya sudah 2 bulan dana mengendap di Bukalapak gara2 di Bekukan ini Bagaimana ??? semua pertanyaan dari pihak Bukalapak dan Bukti2 sudah saya kirim kan Pedagang hanya mengirim barang terhadap pesanan lalu BL membekukan secara se\n\nChoices:\n(A) Happy\n(B) Neutral\n(C) Fear\n(D) Love\n(E) Sadness\n(F) Anger\n\nAnswer:\n",
-        "model_prediction": "(F) Anger"
+        "model_prediction": "Step 1: Identify the main subject and context of the sentence."
     },
     {
         "answer": "(F) Fear",
@@ -3252,7 +3252,7 @@
         "context": "[USERNAME] [USERNAME] Biar saja mereka, asal jangan kita. Naudzubillah berat pertanggung-jawabannya. Yg jelas gelar, tahta, harta, kedudukan / jabatan \"TIDAK DIBAWA MATI\" semua akan jadi 1 panggilan akhir yg melekat yakni alm. / almh.",
         "id": "test_217",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] [USERNAME] Biar saja mereka, asal jangan kita. Naudzubillah berat pertanggung-jawabannya. Yg jelas gelar, tahta, harta, kedudukan / jabatan \"TIDAK DIBAWA MATI\" semua akan jadi 1 panggilan akhir yg melekat yakni alm. / almh.\n\nChoices:\n(A) Neutral\n(B) Love\n(C) Sadness\n(D) Anger\n(E) Happy\n(F) Fear\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the keywords and phrases in the sentence that may indicate sentiment."
+        "model_prediction": "Step 1: Identify the keywords and phrases that indicate sentiment in the sentence."
     },
     {
         "answer": "(D) Sadness",
@@ -3312,7 +3312,7 @@
         "context": "Udah ah, udah panjang. Pokoknya tuh aku sayang kamu, i love you, saranghae, 143",
         "id": "test_221",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nUdah ah, udah panjang. Pokoknya tuh aku sayang kamu, i love you, saranghae, 143\n\nChoices:\n(A) Sadness\n(B) Happy\n(C) Neutral\n(D) Love\n(E) Anger\n(F) Fear\n\nAnswer:\n",
-        "model_prediction": "(D) Lov"
+        "model_prediction": "Step 1: Identify the keywords in the sentence that can indicate sentiment."
     },
     {
         "answer": "(B) Fear",
@@ -3402,7 +3402,7 @@
         "context": "[USERNAME] [USERNAME] Oh iya bisa tuh tp mesti bikin mold bentuk panda dulu hahahaha, aku pngn nya bikin marble soap nis kyk gini [URL]",
         "id": "test_227",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] [USERNAME] Oh iya bisa tuh tp mesti bikin mold bentuk panda dulu hahahaha, aku pngn nya bikin marble soap nis kyk gini [URL]\n\nChoices:\n(A) Sadness\n(B) Anger\n(C) Love\n(D) Happy\n(E) Neutral\n(F) Fear\n\nAnswer:\n",
-        "model_prediction": "(D) Happy"
+        "model_prediction": "Step 1: Identify the keywords and phrases in the sentence that may indicate sentiment."
     },
     {
         "answer": "(B) Anger",
@@ -3417,7 +3417,7 @@
         "context": "[USERNAME] [USERNAME] Keledai itu dibilang bodoh karena bisa jato ke lobang yg sama.. ternyata ada juga yang lebih parah dari keledai. Bikin emosi aja ngebayangin besok",
         "id": "test_228",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] [USERNAME] Keledai itu dibilang bodoh karena bisa jato ke lobang yg sama.. ternyata ada juga yang lebih parah dari keledai. Bikin emosi aja ngebayangin besok\n\nChoices:\n(A) Happy\n(B) Anger\n(C) Neutral\n(D) Sadness\n(E) Love\n(F) Fear\n\nAnswer:\n",
-        "model_prediction": "(B) Ang"
+        "model_prediction": "Step 1: Identify the main subject and context of the sentence."
     },
     {
         "answer": "(A) Happy",
@@ -3492,7 +3492,7 @@
         "context": "sangat tidak mudah mjd keluarga korban pencabulan, beberapa keluarga yg memilih menutup buku kasus, karena takut aib akan tersebar. lebih milih kyk gitu, trauma anak jd nomor 2",
         "id": "test_233",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nsangat tidak mudah mjd keluarga korban pencabulan, beberapa keluarga yg memilih menutup buku kasus, karena takut aib akan tersebar. lebih milih kyk gitu, trauma anak jd nomor 2\n\nChoices:\n(A) Neutral\n(B) Happy\n(C) Fear\n(D) Sadness\n(E) Anger\n(F) Love\n\nAnswer:\n",
-        "model_prediction": "(C) Fear"
+        "model_prediction": "(C) Fea"
     },
     {
         "answer": "(C) Fear",
@@ -3582,7 +3582,7 @@
         "context": "Astaghfirullah baru jam 10 gw udah istighfar aja mo marah-marahin orang 'please refer to my last e-mail' alias BITCH I JUST SAID SO WHY ARE YOU ASKING AGAIN",
         "id": "test_239",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nAstaghfirullah baru jam 10 gw udah istighfar aja mo marah-marahin orang 'please refer to my last e-mail' alias BITCH I JUST SAID SO WHY ARE YOU ASKING AGAIN\n\nChoices:\n(A) Fear\n(B) Neutral\n(C) Love\n(D) Happy\n(E) Sadness\n(F) Anger\n\nAnswer:\n",
-        "model_prediction": "(F) Ang"
+        "model_prediction": "(F) Anger"
     },
     {
         "answer": "(E) Happy",
@@ -3597,7 +3597,7 @@
         "context": "[USERNAME] But what makes me liking blink so much itu gara gara muka mereka beda beda dan gampang di hapal + most of them are lulusan idola cilik.",
         "id": "test_240",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] But what makes me liking blink so much itu gara gara muka mereka beda beda dan gampang di hapal + most of them are lulusan idola cilik.\n\nChoices:\n(A) Neutral\n(B) Love\n(C) Sadness\n(D) Fear\n(E) Happy\n(F) Anger\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the keywords in the sentence that may indicate sentiment."
+        "model_prediction": "Step 1: Identify the keywords and phrases in the sentence that may indicate sentiment."
     },
     {
         "answer": "(B) Sadness",
@@ -3702,7 +3702,7 @@
         "context": "[USERNAME] #belanjaitugakribet ternyata cm slogan doang.stelah dkomplen ternyata dbatalin sepihak. Dan nama besar itu ndak jaminan keprofesionalan ya..trus nyampein ke pihak official store klo sy yg batalin..pdhl samsek ga sy batalin.jd skrg sy udh tau kal",
         "id": "test_247",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] #belanjaitugakribet ternyata cm slogan doang.stelah dkomplen ternyata dbatalin sepihak. Dan nama besar itu ndak jaminan keprofesionalan ya..trus nyampein ke pihak official store klo sy yg batalin..pdhl samsek ga sy batalin.jd skrg sy udh tau kal\n\nChoices:\n(A) Love\n(B) Anger\n(C) Neutral\n(D) Sadness\n(E) Fear\n(F) Happy\n\nAnswer:\n",
-        "model_prediction": "(B) Ang"
+        "model_prediction": "Step 1: Identify the keywords and phrases in the sentence that may indicate sentiment."
     },
     {
         "answer": "(B) Love",
@@ -3807,7 +3807,7 @@
         "context": "bangun tidur bgt cek handphone dapet pergantian schedule klo besok harus tugas terbang ke china. langsung meleeekk, huaaa kok baru ini gue takut mau tugas terbang",
         "id": "test_254",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nbangun tidur bgt cek handphone dapet pergantian schedule klo besok harus tugas terbang ke china. langsung meleeekk, huaaa kok baru ini gue takut mau tugas terbang\n\nChoices:\n(A) Anger\n(B) Sadness\n(C) Neutral\n(D) Fear\n(E) Happy\n(F) Love\n\nAnswer:\n",
-        "model_prediction": "(D) Fear"
+        "model_prediction": "(D) Fea"
     },
     {
         "answer": "(D) Happy",
@@ -3852,7 +3852,7 @@
         "context": "[USERNAME] sehat? Tiap hidupin data seluler selalu muncul notif yg kanan. Terus data seluler otomatis mati. Gitu terus berulang. Padal kuotanya msih 1 Gb lebih.. Akhirnya gabisa dipakai. Respon respon ya [URL]",
         "id": "test_257",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] sehat? Tiap hidupin data seluler selalu muncul notif yg kanan. Terus data seluler otomatis mati. Gitu terus berulang. Padal kuotanya msih 1 Gb lebih.. Akhirnya gabisa dipakai. Respon respon ya [URL]\n\nChoices:\n(A) Happy\n(B) Sadness\n(C) Fear\n(D) Love\n(E) Neutral\n(F) Anger\n\nAnswer:\n",
-        "model_prediction": "(E) Neutral"
+        "model_prediction": "Step 1: Identify the keywords and phrases that indicate sentiment in the sentence."
     },
     {
         "answer": "(F) Happy",
@@ -3882,7 +3882,7 @@
         "context": "pulang sudah ah jakarta keras men kalau sudah sore!",
         "id": "test_259",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\npulang sudah ah jakarta keras men kalau sudah sore!\n\nChoices:\n(A) Fear\n(B) Love\n(C) Sadness\n(D) Anger\n(E) Happy\n(F) Neutral\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the keywords in the sentence."
+        "model_prediction": "Step 1: Identify the key words and phrases in the sentence."
     },
     {
         "answer": "(A) Anger",
@@ -3957,7 +3957,7 @@
         "context": "[USERNAME] Selamat Siang Sahabat Pos. Mohon maaf baru dibalas. Kiriman tsb sudah diterima ya sahabat. Terima kasih telah mempercayakan dan menggunakan layanan kami :) ^FD [URL]",
         "id": "test_264",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] Selamat Siang Sahabat Pos. Mohon maaf baru dibalas. Kiriman tsb sudah diterima ya sahabat. Terima kasih telah mempercayakan dan menggunakan layanan kami :) ^FD [URL]\n\nChoices:\n(A) Sadness\n(B) Happy\n(C) Neutral\n(D) Fear\n(E) Anger\n(F) Love\n\nAnswer:\n",
-        "model_prediction": "(B) Happy"
+        "model_prediction": "Step 1: Identify the keywords and phrases that indicate sentiment in the sentence."
     },
     {
         "answer": "(E) Anger",
@@ -4062,7 +4062,7 @@
         "context": "[USERNAME] no telepon 02122302243 Sudah dr kemaren useetv sy layar blank.. Tolong segera dieprbaiki. Dan tolong segera kirim teknisi ke lapangan.. Sy menunggu 1 jam lagi.. Tolonf konfirmasinya Sy hrs pergi kerja Jangan pelanggan hanya disuruh menunggu I",
         "id": "test_271",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] no telepon 02122302243 Sudah dr kemaren useetv sy layar blank.. Tolong segera dieprbaiki. Dan tolong segera kirim teknisi ke lapangan.. Sy menunggu 1 jam lagi.. Tolonf konfirmasinya Sy hrs pergi kerja Jangan pelanggan hanya disuruh menunggu I\n\nChoices:\n(A) Sadness\n(B) Fear\n(C) Love\n(D) Anger\n(E) Neutral\n(F) Happy\n\nAnswer:\n",
-        "model_prediction": "(D) Anger"
+        "model_prediction": "(D) Ang"
     },
     {
         "answer": "(D) Sadness",
@@ -4227,7 +4227,7 @@
         "context": "Dunia maya... tadi liat di IG, ngeri euy videonya... mana yang ngedamprat ceweknya badannya gede gempal yg diseruduk g bisa ngelawan",
         "id": "test_282",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nDunia maya... tadi liat di IG, ngeri euy videonya... mana yang ngedamprat ceweknya badannya gede gempal yg diseruduk g bisa ngelawan\n\nChoices:\n(A) Sadness\n(B) Neutral\n(C) Anger\n(D) Happy\n(E) Fear\n(F) Love\n\nAnswer:\n",
-        "model_prediction": "(E) Fear"
+        "model_prediction": "(E) Fea"
     },
     {
         "answer": "(B) Fear",
@@ -4272,7 +4272,7 @@
         "context": "itu pesan masuknya udah sexual harrasement sih, dan itu sesuatu yang gak bisa dibilang biasa aja. di budaya yang paham Patriarki nya tinggi memang hal itu keliatan gak penting, tapi coba yang diperlakukan begitu saudari kalian, temen, atau pacar? - ttp semangat Gita & Via",
         "id": "test_285",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nitu pesan masuknya udah sexual harrasement sih, dan itu sesuatu yang gak bisa dibilang biasa aja. di budaya yang paham Patriarki nya tinggi memang hal itu keliatan gak penting, tapi coba yang diperlakukan begitu saudari kalian, temen, atau pacar? - ttp semangat Gita & Via\n\nChoices:\n(A) Sadness\n(B) Happy\n(C) Neutral\n(D) Love\n(E) Anger\n(F) Fear\n\nAnswer:\n",
-        "model_prediction": "(E) Ang"
+        "model_prediction": "(E) Anger"
     },
     {
         "answer": "(A) Sadness",
@@ -4302,7 +4302,7 @@
         "context": "[USERNAME] Lah.. hahahaha.. namany villa salse tp dia hotel trs ada warungnya gt menurut aku bagus sih kak nyaman gt trs nanti naik ke atas ada bird park..",
         "id": "test_287",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] Lah.. hahahaha.. namany villa salse tp dia hotel trs ada warungnya gt menurut aku bagus sih kak nyaman gt trs nanti naik ke atas ada bird park..\n\nChoices:\n(A) Fear\n(B) Happy\n(C) Anger\n(D) Love\n(E) Sadness\n(F) Neutral\n\nAnswer:\n",
-        "model_prediction": "(B) Happy"
+        "model_prediction": "Step 1: Identify the keywords and phrases in the sentence that may indicate sentiment."
     },
     {
         "answer": "(E) Happy",
@@ -4347,7 +4347,7 @@
         "context": "[USERNAME] Namanya juga kerja a -_- harus profesional, kalo gak profesional mau makan apa neng? Cinta? Gak kenyang neng lebih suka makan daging apalagi yg bakarnya aa!",
         "id": "test_290",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] Namanya juga kerja a -_- harus profesional, kalo gak profesional mau makan apa neng? Cinta? Gak kenyang neng lebih suka makan daging apalagi yg bakarnya aa!\n\nChoices:\n(A) Fear\n(B) Happy\n(C) Neutral\n(D) Love\n(E) Sadness\n(F) Anger\n\nAnswer:\n",
-        "model_prediction": "(F) Anger"
+        "model_prediction": "Step 1: Identify the main keywords and phrases in the sentence."
     },
     {
         "answer": "(D) Sadness",
@@ -4407,7 +4407,7 @@
         "context": "Jika cinta itu OOP, maka cintaku padamu bagaikan sebuah kelas yang extend ke kelas hati.",
         "id": "test_294",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nJika cinta itu OOP, maka cintaku padamu bagaikan sebuah kelas yang extend ke kelas hati.\n\nChoices:\n(A) Happy\n(B) Sadness\n(C) Love\n(D) Neutral\n(E) Anger\n(F) Fear\n\nAnswer:\n",
-        "model_prediction": "Step 1: Understand the sentence in English."
+        "model_prediction": "Step 1: Identify the main subject and sentiment words in the sentence."
     },
     {
         "answer": "(A) Happy",
@@ -4467,7 +4467,7 @@
         "context": "[USERNAME] Sudah, jawabannya sama, no HP/billing/NPWP dll tidak terdaftar. Bagaimana mungkin belum terdaftar wong saya mendaftar di kantor BPJSTK di Menara Jamsostek kok. Dan mengapa pakai tokopedia bisa? (Pakai tokopedia kena biaya admin).",
         "id": "test_298",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] Sudah, jawabannya sama, no HP/billing/NPWP dll tidak terdaftar. Bagaimana mungkin belum terdaftar wong saya mendaftar di kantor BPJSTK di Menara Jamsostek kok. Dan mengapa pakai tokopedia bisa? (Pakai tokopedia kena biaya admin).\n\nChoices:\n(A) Neutral\n(B) Fear\n(C) Happy\n(D) Love\n(E) Sadness\n(F) Anger\n\nAnswer:\n",
-        "model_prediction": "(F) Anger"
+        "model_prediction": "Step 1: Identify the main subject and sentiment indicators in the sentence."
     },
     {
         "answer": "(C) Sadness",
@@ -4497,7 +4497,7 @@
         "context": "Cinta itu sederhana. Aku dan kamu, dan tidak ada yang lain. Aku untukmu, dan kamu untukku. Yang lain cuma nonton.",
         "id": "test_300",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nCinta itu sederhana. Aku dan kamu, dan tidak ada yang lain. Aku untukmu, dan kamu untukku. Yang lain cuma nonton.\n\nChoices:\n(A) Fear\n(B) Happy\n(C) Love\n(D) Sadness\n(E) Neutral\n(F) Anger\n\nAnswer:\n",
-        "model_prediction": "(B) Happy"
+        "model_prediction": "Step 1: Identify the keywords and phrases in the sentence."
     },
     {
         "answer": "(F) Love",
@@ -4617,7 +4617,7 @@
         "context": "Dan twitter pun menjadi pelarian dari sosmed lain karena curhat di sosmed lain ga sebebas curhat di sini.... .... .... .... termasuk saya ahahahahahhaha",
         "id": "test_308",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nDan twitter pun menjadi pelarian dari sosmed lain karena curhat di sosmed lain ga sebebas curhat di sini.... .... .... .... termasuk saya ahahahahahhaha\n\nChoices:\n(A) Happy\n(B) Love\n(C) Sadness\n(D) Fear\n(E) Anger\n(F) Neutral\n\nAnswer:\n",
-        "model_prediction": "(A) Happy"
+        "model_prediction": "(F) Neutral"
     },
     {
         "answer": "(F) Love",
@@ -4647,7 +4647,7 @@
         "context": "Rafinha yang pemain bola di endorse sama [USERNAME] pula saya udah mainin Gitar dari tangan kanan ke kiri kiri ke kanan dibeliin gitar baru juga enggak sama emak [URL]",
         "id": "test_310",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nRafinha yang pemain bola di endorse sama [USERNAME] pula saya udah mainin Gitar dari tangan kanan ke kiri kiri ke kanan dibeliin gitar baru juga enggak sama emak [URL]\n\nChoices:\n(A) Neutral\n(B) Fear\n(C) Happy\n(D) Anger\n(E) Love\n(F) Sadness\n\nAnswer:\n",
-        "model_prediction": "(C) Happy"
+        "model_prediction": "Step 1: Identify the keywords and phrases in the sentence that may indicate sentiment."
     },
     {
         "answer": "(C) Sadness",
@@ -4797,7 +4797,7 @@
         "context": "[USERNAME] kalo memang gak sanggup, lambaikan tangan ke camera aja bro. Nanti ada yang jemput. Pleaselah stop komen aneh2 tentang negara ini, anda khan salah satu petugas pemerintah juga tho ??? [URL]",
         "id": "test_320",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] kalo memang gak sanggup, lambaikan tangan ke camera aja bro. Nanti ada yang jemput. Pleaselah stop komen aneh2 tentang negara ini, anda khan salah satu petugas pemerintah juga tho ??? [URL]\n\nChoices:\n(A) Happy\n(B) Neutral\n(C) Sadness\n(D) Fear\n(E) Anger\n(F) Love\n\nAnswer:\n",
-        "model_prediction": "(E) Anger"
+        "model_prediction": "Step 1: Identify the main subject and tone of the sentence."
     },
     {
         "answer": "(E) Fear",
@@ -4872,7 +4872,7 @@
         "context": "Pernah ngalamin, kepikiran kata-kata buat ngetweet. Udah ngetik panjang-panjang, tapi cuma disave as draf? Takut ada yang tersinggung, khawatir ada yang salah paham.",
         "id": "test_325",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nPernah ngalamin, kepikiran kata-kata buat ngetweet. Udah ngetik panjang-panjang, tapi cuma disave as draf? Takut ada yang tersinggung, khawatir ada yang salah paham.\n\nChoices:\n(A) Happy\n(B) Sadness\n(C) Fear\n(D) Love\n(E) Anger\n(F) Neutral\n\nAnswer:\n",
-        "model_prediction": "(C) Fea"
+        "model_prediction": "(B) Sad"
     },
     {
         "answer": "(A) Anger",
@@ -5097,7 +5097,7 @@
         "context": "[USERNAME] [USERNAME] Coba selama masa jabatan anda pak [USERNAME] , apa saja yg sudah anda lakukan untuk Indonesia agar disegani bangsa2? Bangsa mana saja yg sudah menyegani Indonesia?",
         "id": "test_340",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] [USERNAME] Coba selama masa jabatan anda pak [USERNAME] , apa saja yg sudah anda lakukan untuk Indonesia agar disegani bangsa2? Bangsa mana saja yg sudah menyegani Indonesia?\n\nChoices:\n(A) Neutral\n(B) Sadness\n(C) Anger\n(D) Fear\n(E) Love\n(F) Happy\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the main subject and context of the sentence."
+        "model_prediction": "Step 1: Identify the main subject and tone of the sentence."
     },
     {
         "answer": "(E) Love",
@@ -5157,7 +5157,7 @@
         "context": "Banyak hal yang membuat ku khawatir didunia ini tapi kamulah yang paling aku khawatirkan..",
         "id": "test_344",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nBanyak hal yang membuat ku khawatir didunia ini tapi kamulah yang paling aku khawatirkan..\n\nChoices:\n(A) Neutral\n(B) Anger\n(C) Happy\n(D) Love\n(E) Sadness\n(F) Fear\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the key words and phrases in the sentence."
+        "model_prediction": "Step 1: Identify the keywords and phrases in the sentence that may indicate sentiment."
     },
     {
         "answer": "(C) Sadness",
@@ -5247,7 +5247,7 @@
         "context": "sudah ngaku saja ci haha enga lah enak saja kamu -_-",
         "id": "test_350",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nsudah ngaku saja ci haha enga lah enak saja kamu -_-\n\nChoices:\n(A) Happy\n(B) Fear\n(C) Love\n(D) Neutral\n(E) Anger\n(F) Sadness\n\nAnswer:\n",
-        "model_prediction": "(E) Anger"
+        "model_prediction": "Step 1: Identify the language and any specific cultural nuances."
     },
     {
         "answer": "(D) Sadness",
@@ -5262,7 +5262,7 @@
         "context": "aku rasa hidup tanpa jiwa orang yang miskin atau kaya sama ganasnya terhadap harta bagai binatang di dalam rimba (nocturno) #falsong",
         "id": "test_351",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\naku rasa hidup tanpa jiwa orang yang miskin atau kaya sama ganasnya terhadap harta bagai binatang di dalam rimba (nocturno) #falsong\n\nChoices:\n(A) Fear\n(B) Neutral\n(C) Love\n(D) Sadness\n(E) Happy\n(F) Anger\n\nAnswer:\n",
-        "model_prediction": "(F) Anger"
+        "model_prediction": "Step 1: Identify keywords and phrases that may indicate sentiment in the sentence."
     },
     {
         "answer": "(E) Anger",
@@ -5277,7 +5277,7 @@
         "context": "Aku termasuk orang yang tidak habis pikir dengan orang yang menganggap wajar hal tersebut dan justru menyalahkan Via Vallen karena dianggap lebay, namanya pelecehan dalam bentuk apapun itu pasti menyakitkan. Tidak peduli jenis pelecehan apa itu.",
         "id": "test_352",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nAku termasuk orang yang tidak habis pikir dengan orang yang menganggap wajar hal tersebut dan justru menyalahkan Via Vallen karena dianggap lebay, namanya pelecehan dalam bentuk apapun itu pasti menyakitkan. Tidak peduli jenis pelecehan apa itu.\n\nChoices:\n(A) Neutral\n(B) Happy\n(C) Fear\n(D) Love\n(E) Anger\n(F) Sadness\n\nAnswer:\n",
-        "model_prediction": "(E) Anger"
+        "model_prediction": "(E) Ang"
     },
     {
         "answer": "(B) Happy",
@@ -5292,7 +5292,7 @@
         "context": "Makasih selalu ciptain lagu bagus buat nuest dan nuble huhuhu you've work hard sayang jadi sini peluk akuu aja gak usah peluk tiang :') #Happy_BAEKHO_Day",
         "id": "test_353",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nMakasih selalu ciptain lagu bagus buat nuest dan nuble huhuhu you've work hard sayang jadi sini peluk akuu aja gak usah peluk tiang :') #Happy_BAEKHO_Day\n\nChoices:\n(A) Neutral\n(B) Happy\n(C) Love\n(D) Fear\n(E) Sadness\n(F) Anger\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the keywords and phrases in the sentence that may indicate sentiment."
+        "model_prediction": "Step 1: Identify keywords and phrases that indicate sentiment."
     },
     {
         "answer": "(F) Happy",
@@ -5382,7 +5382,7 @@
         "context": "Seperti dulu aku mencintaimu, sampai selamanya tanpa akhir, cinta tak perlu alasan untuk mengalir",
         "id": "test_359",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nSeperti dulu aku mencintaimu, sampai selamanya tanpa akhir, cinta tak perlu alasan untuk mengalir\n\nChoices:\n(A) Happy\n(B) Neutral\n(C) Sadness\n(D) Fear\n(E) Anger\n(F) Love\n\nAnswer:\n",
-        "model_prediction": "(F) Lov"
+        "model_prediction": "Step 1: Identify the keywords and phrases in the sentence that may indicate sentiment."
     },
     {
         "answer": "(D) Sadness",
@@ -5577,7 +5577,7 @@
         "context": "[USERNAME] [USERNAME] [USERNAME] Negara mana didunia ini yg bisa memendam liberalisme? Afganistan? Pakistan? Iran? Termasuk negara maju ga mereka sekarang? Negara mana yg masih menggunakan khilafah?",
         "id": "test_372",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] [USERNAME] [USERNAME] Negara mana didunia ini yg bisa memendam liberalisme? Afganistan? Pakistan? Iran? Termasuk negara maju ga mereka sekarang? Negara mana yg masih menggunakan khilafah?\n\nChoices:\n(A) Love\n(B) Anger\n(C) Sadness\n(D) Neutral\n(E) Happy\n(F) Fear\n\nAnswer:\n",
-        "model_prediction": "(D) Neutral"
+        "model_prediction": "(B) Ang"
     },
     {
         "answer": "(D) Anger",
@@ -5922,7 +5922,7 @@
         "context": "[USERNAME] saya coba hubungi yg di cakung dan minta di wa balik untuk tanya prosedur pembelian, sudah 5 hari sejak jumat tidak difollow up. Apakah demikian service maksindo?",
         "id": "test_395",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] saya coba hubungi yg di cakung dan minta di wa balik untuk tanya prosedur pembelian, sudah 5 hari sejak jumat tidak difollow up. Apakah demikian service maksindo?\n\nChoices:\n(A) Neutral\n(B) Love\n(C) Anger\n(D) Fear\n(E) Happy\n(F) Sadness\n\nAnswer:\n",
-        "model_prediction": "(C) Ang"
+        "model_prediction": "Step 1: Identify the main subject and sentiment words in the sentence."
     },
     {
         "answer": "(E) Fear",
@@ -5982,7 +5982,7 @@
         "context": "Sungguh sangat BEJAD...!! Anggota DPR, Wakil Rkyt, dibayar dgn Uang Rkyt. Malah menyalahkan Aparat/Densus 88. Dan mendukung Teroris.",
         "id": "test_399",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nSungguh sangat BEJAD...!! Anggota DPR, Wakil Rkyt, dibayar dgn Uang Rkyt. Malah menyalahkan Aparat/Densus 88. Dan mendukung Teroris.\n\nChoices:\n(A) Happy\n(B) Love\n(C) Anger\n(D) Fear\n(E) Neutral\n(F) Sadness\n\nAnswer:\n",
-        "model_prediction": "(C) Anger"
+        "model_prediction": "(C) Ang"
     },
     {
         "answer": "(F) Happy",
@@ -5997,7 +5997,7 @@
         "context": "[USERNAME] Selamat Siang Sahabat Pos. Kiriman tsb sudah diterima ya sahabat. Terima kasih telah mempercayakan dan menggunakan layanan kami :) ^FD [URL]",
         "id": "test_400",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] Selamat Siang Sahabat Pos. Kiriman tsb sudah diterima ya sahabat. Terima kasih telah mempercayakan dan menggunakan layanan kami :) ^FD [URL]\n\nChoices:\n(A) Neutral\n(B) Fear\n(C) Sadness\n(D) Anger\n(E) Love\n(F) Happy\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the sentiment words in the sentence."
+        "model_prediction": "Step 1: Identify the keywords and phrases in the sentence that may indicate sentiment."
     },
     {
         "answer": "(E) Anger",
@@ -6297,7 +6297,7 @@
         "context": "[USERNAME] [USERNAME] [USERNAME] [USERNAME] [USERNAME] [USERNAME] @4Y4NKZ [USERNAME] [USERNAME] [USERNAME] Makanya dari itu saya bilang kurang cerdas walaupun mau percaya spt apapun jika sesuatu hal yg tdk masuk akal kita tdk bisa percaya",
         "id": "test_420",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] [USERNAME] [USERNAME] [USERNAME] [USERNAME] [USERNAME] @4Y4NKZ [USERNAME] [USERNAME] [USERNAME] Makanya dari itu saya bilang kurang cerdas walaupun mau percaya spt apapun jika sesuatu hal yg tdk masuk akal kita tdk bisa percaya\n\nChoices:\n(A) Happy\n(B) Anger\n(C) Neutral\n(D) Fear\n(E) Love\n(F) Sadness\n\nAnswer:\n",
-        "model_prediction": "(B) Ang"
+        "model_prediction": "Step 1: Identify the keywords and phrases that indicate sentiment in the sentence."
     },
     {
         "answer": "(F) Happy",
@@ -6357,7 +6357,7 @@
         "context": "[USERNAME] my love. meskipun kadang beda pendapat, trus suka susah juga diomongin, trus juga kayanya sering aku bikin sakit hati :') tapi beliau baik banget, orangnya keras tapi sebenernya lembut banget, sebel kalo udah panik pasti bikin semua orang bing",
         "id": "test_424",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] my love. meskipun kadang beda pendapat, trus suka susah juga diomongin, trus juga kayanya sering aku bikin sakit hati :') tapi beliau baik banget, orangnya keras tapi sebenernya lembut banget, sebel kalo udah panik pasti bikin semua orang bing\n\nChoices:\n(A) Love\n(B) Neutral\n(C) Anger\n(D) Sadness\n(E) Fear\n(F) Happy\n\nAnswer:\n",
-        "model_prediction": "(F) Happy"
+        "model_prediction": "Step 1: Identify the sentiment words in the sentence."
     },
     {
         "answer": "(C) Fear",
@@ -6432,7 +6432,7 @@
         "context": "Done.. lukisan teakhir dah slese kemaren & sudah di bungkus di bawa pulang.. Smoga berkenan.. like this",
         "id": "test_429",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nDone.. lukisan teakhir dah slese kemaren & sudah di bungkus di bawa pulang.. Smoga berkenan.. like this\n\nChoices:\n(A) Anger\n(B) Love\n(C) Fear\n(D) Sadness\n(E) Neutral\n(F) Happy\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the keywords in the sentence that can help determine the sentiment."
+        "model_prediction": "Step 1: Identify the keywords and phrases in the sentence that may indicate sentiment."
     },
     {
         "answer": "(B) Fear",
@@ -6507,7 +6507,7 @@
         "context": "Malah Lu harusnya tanya ke IG nya langsung, yang menghapus yg punya akun atau dari kebijakan IGnya? Pastikan... jangan melulu salahkan rezim.... kalau ternyata bukan akibat rezim itu ntar masuknya fitnah.... n",
         "id": "test_434",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\nMalah Lu harusnya tanya ke IG nya langsung, yang menghapus yg punya akun atau dari kebijakan IGnya? Pastikan... jangan melulu salahkan rezim.... kalau ternyata bukan akibat rezim itu ntar masuknya fitnah.... n\n\nChoices:\n(A) Neutral\n(B) Sadness\n(C) Happy\n(D) Anger\n(E) Love\n(F) Fear\n\nAnswer:\n",
-        "model_prediction": "(D) Anger"
+        "model_prediction": "(D) Ang"
     },
     {
         "answer": "(C) Fear",
@@ -6537,7 +6537,7 @@
         "context": "[USERNAME] [USERNAME] Aku betah karena banyak hal. Aku suka kalo kita saling memberi semangat untuk vote, untuk saling menguatkan dan semacemnya. Banyaaak banget. Aku juga punya semangat buat berusaha menjadi lebih baik lagi",
         "id": "test_436",
         "model_input": "Please read the following Indonesian sentence and decide its sentiment by choosing the most possible option.\n\nSentence:\n[USERNAME] [USERNAME] Aku betah karena banyak hal. Aku suka kalo kita saling memberi semangat untuk vote, untuk saling menguatkan dan semacemnya. Banyaaak banget. Aku juga punya semangat buat berusaha menjadi lebih baik lagi\n\nChoices:\n(A) Happy\n(B) Love\n(C) Sadness\n(D) Fear\n(E) Anger\n(F) Neutral\n\nAnswer:\n",
-        "model_prediction": "(A) Happy"
+        "model_prediction": "Step 1: Identify keywords and phrases that indicate sentiment."
     },
     {
         "answer": "(E) Love",

@@ -57,7 +57,7 @@
         "context": "Premise: My usual partner.' Hypothesis: My usual partner told him to go away.",
         "answer": "(A) Neutral",
         "model_input": "Choose the correct answer from the provided choices by assessing the relationship between the two sentences. Simply select the choice, no explanations required.\nPremise: My usual partner.' Hypothesis: My usual partner told him to go away.\nChoices:\n(A) Neutral\n(B) Contradiction\n(C) Entailment\nAnswer:\n",
-        "model_prediction": "(B) Contradictio"
+        "model_prediction": "(C) Entailment"
     },
     {
         "choices": [

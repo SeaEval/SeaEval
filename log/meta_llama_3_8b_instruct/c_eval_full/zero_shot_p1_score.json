@@ -1,11 +1,11 @@
 {
-    "accuracy": 0.4900373599003736,
+    "accuracy": 0.49066002490660027,
     "category_acc": {
         "computer_network": 0.4583333333333333,
         "operating_system": 0.625,
         "computer_architecture": 0.4230769230769231,
         "college_programming": 0.5714285714285714,
-        "college_physics": 0.4166666666666667,
+        "college_physics": 0.4583333333333333,
         "college_chemistry": 0.4482758620689655,
         "advanced_mathematics": 0.2916666666666667,
         "probability_and_statistics": 0.43478260869565216,
@@ -16,7 +16,7 @@
         "high_school_physics": 0.3333333333333333,
         "high_school_chemistry": 0.5833333333333334,
         "high_school_biology": 0.375,
-        "middle_school_mathematics": 0.3333333333333333,
+        "middle_school_mathematics": 0.2916666666666667,
         "middle_school_biology": 0.6538461538461539,
         "middle_school_physics": 0.5833333333333334,
         "middle_school_chemistry": 0.44,
@@ -26,7 +26,7 @@
         "marxism": 0.5833333333333334,
         "mao_zedong_thought": 0.6551724137931034,
         "education_science": 0.5882352941176471,
-        "teacher_qualification": 0.7755102040816326,
+        "teacher_qualification": 0.7346938775510204,
         "high_school_politics": 0.5833333333333334,
         "high_school_geography": 0.5416666666666666,
         "middle_school_politics": 0.6923076923076923,
@@ -38,8 +38,8 @@
         "chinese_language_and_literature": 0.5357142857142857,
         "art_studies": 0.5789473684210527,
         "professional_tour_guide": 0.5588235294117647,
-        "legal_professional": 0.42857142857142855,
-        "high_school_chinese": 0.25,
+        "legal_professional": 0.4642857142857143,
+        "high_school_chinese": 0.2916666666666667,
         "high_school_history": 0.36,
         "middle_school_history": 0.7037037037037037,
         "civil_servant": 0.4423076923076923,
@@ -52,6 +52,6 @@
         "fire_engineer": 0.4444444444444444,
         "environmental_impact_assessment_engineer": 0.3333333333333333,
         "tax_accountant": 0.3333333333333333,
-        "physician": 0.5555555555555556
+        "physician": 0.5740740740740741
     }
 }

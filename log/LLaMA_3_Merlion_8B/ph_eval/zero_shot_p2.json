@@ -39,7 +39,7 @@
         "category": "brand",
         "answer": "(D) National Bookstore",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nIn the context of the Philippines, what is the name of a brand of stationary stores whose first store was located in Escolta, and whose name is related to the term \"sovereignty\"?\nChoices:\n(A) Powerbooks\n(B) Office Warehouse\n(C) Fully Booked\n(D) National Bookstore\nAnswer:\n",
-        "model_prediction": "(D) National Bookstore"
+        "model_prediction": "(D) National Booksto"
     },
     {
         "id": "test_4",
@@ -53,7 +53,7 @@
         "category": "brand",
         "answer": "(C) Silver",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nIn the context of the Philippines, what color is the winged animal in the name of a soy sauce brand?\nChoices:\n(A) Black\n(B) White\n(C) Silver\n(D) Grey\nAnswer:\n",
-        "model_prediction": "(A) Black"
+        "model_prediction": "(C) Silver"
     },
     {
         "id": "test_5",
@@ -95,7 +95,7 @@
         "category": "brand",
         "answer": "(A) 200",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nhow many kilometers did the first flight of Philippine Airlines take? Select the choice closest to the answer.\nChoices:\n(A) 200\n(B) 150\n(C) 1,000\n(D) 4,000\nAnswer:\n",
-        "model_prediction": "(B) 150"
+        "model_prediction": "To find the correct answer, we need to research the first flight of Philippine Airlines."
     },
     {
         "id": "test_8",
@@ -109,7 +109,7 @@
         "category": "brand",
         "answer": "(C) Sky Flakes",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nThis product name contains the word \"flakes\" in its name, and it belongs to the category with the highest spending in the Philippines Consumer Snapshot 2023. What is it?\nChoices:\n(A) Wood Flakes\n(B) Red Flakes\n(C) Sky Flakes\n(D) No Hair Flakes\nAnswer:\n",
-        "model_prediction": "(C) Sky Flakes"
+        "model_prediction": "(C) Sky Flak"
     },
     {
         "id": "test_9",
@@ -123,7 +123,7 @@
         "category": "brand",
         "answer": "(A) Hermes",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nWho is the god, in greek, that is the mascot of a drug store chain in the Philippines?\nChoices:\n(A) Hermes\n(B) Aphrodite\n(C) Ares\n(D) Zeus\nAnswer:\n",
-        "model_prediction": "(A) Hermes"
+        "model_prediction": "(A) Herm"
     },
     {
         "id": "test_10",
@@ -179,7 +179,7 @@
         "category": "demographics",
         "answer": "(C) Las Pinas, Valenzuela, Muntinlupa",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nAccording to the 2020 Philippine Census, Metropolitan Manila contains 16 cities. From these, which of the following triplets of cities would, if added, would roughly equal the population of another city in Metropolitan Manila?\nChoices:\n(A) Caloocan, Muntinlupa, and Marikina\n(B) Pasig, Makati, and Taguig\n(C) Las Pinas, Valenzuela, Muntinlupa\n(D) San Juan, Pasay, and Caloocan\nAnswer:\n",
-        "model_prediction": "(C) Las Pinas, Valenzuela, Muntinlupa"
+        "model_prediction": "(A) Caloocan, Muntinlupa, and Marikina"
     },
     {
         "id": "test_14",
@@ -221,7 +221,7 @@
         "category": "biology",
         "answer": "(B) 7 years",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nWhat is the difference between the age that the Philippine Eagle in Mandai Zoo died in 2023 and the maximum prison sentence for killing a Philippine Eagle?\nChoices:\n(A) 5 years\n(B) 7 years\n(C) 20 years\n(D) 25 years\nAnswer:\n",
-        "model_prediction": "(C) 20 years"
+        "model_prediction": "To find the answer, we need to know the age of the Philippine Eagle when it died in 2023 and the maximum prison sentence for killing a Philippine Eagle."
     },
     {
         "id": "test_17",
@@ -263,7 +263,7 @@
         "category": "biology",
         "answer": "(B) Philippine Tarsier",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nSelect an animal endemic to the Philippines whose eyes are the largest relative to its brain.\nChoices:\n(A) Philippine Eagle\n(B) Philippine Tarsier\n(C) Philippine Mouse Deer\n(D) Philippine Crocodile\nAnswer:\n",
-        "model_prediction": "(B) Philippine Tarsier"
+        "model_prediction": "(B) Philippine Tarsi"
     },
     {
         "id": "test_20",
@@ -277,7 +277,7 @@
         "category": "biology",
         "answer": "(A) Philippine Cobra",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nWhich among these Philippine snakes can harm a person from a distance?\nChoices:\n(A) Philippine Cobra\n(B) Philippine Pit Viper\n(C) King Cobra\n(D) Philippine Rat Snake\nAnswer:\n",
-        "model_prediction": "(B) Philippine Pit Viper"
+        "model_prediction": "(B) Philippine Pit Vip"
     },
     {
         "id": "test_21",
@@ -291,7 +291,7 @@
         "category": "biology",
         "answer": "(C) Philippine Mouse Deer",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nWhich of the following Philippine endemic animals has a name that does not actually describe them?\nChoices:\n(A) Philippine Eagle\n(B) Philippine Rat Snake\n(C) Philippine Mouse Deer\n(D) Philippine Crocodile\nAnswer:\n",
-        "model_prediction": "(B) Philippine Rat Snake"
+        "model_prediction": "(B) Philippine Rat Snak"
     },
     {
         "id": "test_22",
@@ -319,7 +319,7 @@
         "category": "biology",
         "answer": "(C) Sus cebifrons",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nAs of 2023, what is the taxonomic name of an organism endemic to the Philippines known for its warts?\nChoices:\n(A) Crocodylus mindorensis\n(B) Rana magna\n(C) Sus cebifrons\n(D) Rusa marianna\nAnswer:\n",
-        "model_prediction": "(C) Sus cebifrons"
+        "model_prediction": "(C) Sus cebifro"
     },
     {
         "id": "test_24",
@@ -333,7 +333,7 @@
         "category": "biology",
         "answer": "(A) Luzon bleeding-heart",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nWhat Philippine animal is named after a damaged organ?\nChoices:\n(A) Luzon bleeding-heart\n(B) Mindanao Red Eye\n(C) Visayan Pierced Ear Bird\n(D) Philippine Black Eye Lizard\nAnswer:\n",
-        "model_prediction": "(C) Visayan Pierced Ear Bird"
+        "model_prediction": "(A) Luzon bleeding-heart"
     },
     {
         "id": "test_25",
@@ -347,7 +347,7 @@
         "category": "biology",
         "answer": "(D) Tamaraw",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nWhat Philippine animal is the namesake of a truck model popular in that country?\nChoices:\n(A) Eagle\n(B) Viper\n(C) Flying Fox\n(D) Tamaraw\nAnswer:\n",
-        "model_prediction": "(D) Tamaraw"
+        "model_prediction": "(D) Tamara"
     },
     {
         "id": "test_26",
@@ -361,7 +361,7 @@
         "category": "history",
         "answer": "(D) United Kingdom",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nIn the context of the Philippines, which European country held the territory that Aguinaldo escaped to in 1897?\nChoices:\n(A) Spain\n(B) France\n(C) Germany\n(D) United Kingdom\nAnswer:\n",
-        "model_prediction": "(B) France"
+        "model_prediction": "(B) Franc"
     },
     {
         "id": "test_27",
@@ -375,7 +375,7 @@
         "category": "history",
         "answer": "(C) France",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nWhich of the following countries did not have a colony in the Philippines?\nChoices:\n(A) United States\n(B) Japan\n(C) France\n(D) United Kingdom\nAnswer:\n",
-        "model_prediction": "(A) United Stat"
+        "model_prediction": "To answer this question, we need to identify which of the given choices did not have a colony in the Philippines."
     },
     {
         "id": "test_28",
@@ -389,7 +389,7 @@
         "category": "history",
         "answer": "(B) Dominicans",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nWhat Catholic order founded a militant organization active during the Philippine-American War?\nChoices:\n(A) Jesuits\n(B) Dominicans\n(C) Franciscans\n(D) Augustinians\nAnswer:\n",
-        "model_prediction": "(D) Augustinians"
+        "model_prediction": "(D) Augustinia"
     },
     {
         "id": "test_29",
@@ -473,7 +473,7 @@
         "category": "history",
         "answer": "(C) Sayote",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nWhich Filipino word is originally from the language of the Empire the Spanish conquered in modern-day Mexico?\nChoices:\n(A) Guro\n(B) Bundok\n(C) Sayote\n(D) Papaya\nAnswer:\n",
-        "model_prediction": "(C) Sayote"
+        "model_prediction": "(C) Sayot"
     },
     {
         "id": "test_35",
@@ -529,7 +529,7 @@
         "category": "history",
         "answer": "(C) World War I",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nAmong which of the following wars did the Philippines did not send combat troops to?\nChoices:\n(A) Korean War\n(B) Vietnam War\n(C) World War I\n(D) World War II\nAnswer:\n",
-        "model_prediction": "(C) World War I"
+        "model_prediction": "(A) Korean Wa"
     },
     {
         "id": "test_39",
@@ -655,7 +655,7 @@
         "category": "literature",
         "answer": "(C) Wow I can apparently read now?!",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nWhat is an appropriate translation for the title of the Filipino novel \"ABNKKBSNPLAko?!\" in English?\nChoices:\n(A) What? I study and learn school?!\n(B) I'm a Filipino, What's Your Excuse?!\n(C) Wow I can apparently read now?!\n(D) I can write sentences with ease?!\nAnswer:\n",
-        "model_prediction": "(C) Wow I can apparently read now?!"
+        "model_prediction": "(B) I'm a Filipino, What's Your Excuse?!"
     },
     {
         "id": "test_48",
@@ -893,7 +893,7 @@
         "category": "culture",
         "answer": "(C) Aglipayan Church",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nWhat is the Philippines' first Filipino-led Christian church?\nChoices:\n(A) Sakdalistas\n(B) Iglesia Ni Cristo\n(C) Aglipayan Church\n(D) Guardia de Honor\nAnswer:\n",
-        "model_prediction": "(C) Aglipayan Church"
+        "model_prediction": "Step 1: Read the question and understand what is being asked."
     },
     {
         "id": "test_65",
@@ -1089,7 +1089,7 @@
         "category": "film",
         "answer": "(B) Incest",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nWhich theme does the Filipino film \"Kisapmata\" (1981) portray?\nChoices:\n(A) Poverty\n(B) Incest\n(C) Torture\n(D) Drug abuse\nAnswer:\n",
-        "model_prediction": "(C) Torture"
+        "model_prediction": "(C) Tortu"
     },
     {
         "id": "test_79",
@@ -1173,7 +1173,7 @@
         "category": "law",
         "answer": "(B) Divorce",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nAs of 2023, The Philippines and Vatican City are the only two states that do not allow for:\nChoices:\n(A) Clerical Marriage\n(B) Divorce\n(C) Abortion\n(D) Civil Marriage\nAnswer:\n",
-        "model_prediction": "(A) Clerical Marriag"
+        "model_prediction": "(D) Civil Marriag"
     },
     {
         "id": "test_85",
@@ -1201,7 +1201,7 @@
         "category": "law",
         "answer": "(B) TRAIN Law",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nWhat Filipino law has an acronym pertaining to a vehicle?\nChoices:\n(A) JEEPNEY Care Law\n(B) TRAIN Law\n(C) CAR Act\n(D) RAIL Act\nAnswer:\n",
-        "model_prediction": "(A) JEEPNEY Care Law"
+        "model_prediction": "(A) JEEPNEY Care La"
     },
     {
         "id": "test_87",
@@ -1271,7 +1271,7 @@
         "category": "geography",
         "answer": "(A) Archipelagos",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nThe Philippines and Japan share the physical feature of being:\nChoices:\n(A) Archipelagos\n(B) Peninsulas\n(C) Volcanic Islands\n(D) Mountainous\nAnswer:\n",
-        "model_prediction": "(A) Archipelagos"
+        "model_prediction": "(A) Archipelago"
     },
     {
         "id": "test_92",
@@ -1313,7 +1313,7 @@
         "category": "geography",
         "answer": "(D) 400 meters",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nWhat is the estimated difference of maximum depths of the deepest trench in the Philippines and the deepest trench in the World?\nChoices:\n(A) 300 meters\n(B) 100 meters\n(C) 200 meters\n(D) 400 meters\nAnswer:\n",
-        "model_prediction": "(A) 300 meters"
+        "model_prediction": "To find the estimated difference of maximum depths, we need to know the maximum depths of both trenches."
     },
     {
         "id": "test_95",
@@ -1397,6 +1397,6 @@
         "category": "geography",
         "answer": "(C) 25,000",
         "model_input": "Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\nWhat is the most accurate estimated combined number of islands from the Philippines and Indonesia?\nChoices:\n(A) 30,000\n(B) 15,000\n(C) 25,000\n(D) 40,000\nAnswer:\n",
-        "model_prediction": "(B) 15,000"
+        "model_prediction": "To find the most accurate estimated combined number of islands from the Philippines and Indonesia, we need to research the number of islands in each country."
     }
 ]

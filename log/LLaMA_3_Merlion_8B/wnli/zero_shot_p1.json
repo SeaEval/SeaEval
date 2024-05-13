@@ -107,6 +107,6 @@
         "context": "Sentence1: When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. They were very much in the majority. Sentence2: The sponsors were very much in the majority.",
         "id": "test_10",
         "model_input": "Assess whether the second sentence can be inferred from the first sentence and choose the correct answer from the provided choices. Simply select the choice, no explanations required.\n\nSentence1: When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. They were very much in the majority. Sentence2: The sponsors were very much in the majority.\n\nChoices:\n(A) Not Entailment\n(B) Entailment\n\nAnswer:\n",
-        "model_prediction": "(A) Not Entailment"
+        "model_prediction": "(B) Entailment"
     }
 ]

@@ -25,7 +25,7 @@
         "category": "brand",
         "answer": "(A) A brand of milk",
         "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nAs of 2023, Alaska, if not a place, is what kind of entity in the Philippines?\n\nChoices:\n(A) A brand of milk\n(B) A brand of canned goods\n(C) A brand of meat\n(D) A brand of fish\n\nAnswer:\n",
-        "model_prediction": "(A) A brand of milk"
+        "model_prediction": "(D) A brand of fish"
     },
     {
         "id": "test_3",
@@ -109,7 +109,7 @@
         "category": "brand",
         "answer": "(C) Sky Flakes",
         "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nThis product name contains the word \"flakes\" in its name, and it belongs to the category with the highest spending in the Philippines Consumer Snapshot 2023. What is it?\n\nChoices:\n(A) Wood Flakes\n(B) Red Flakes\n(C) Sky Flakes\n(D) No Hair Flakes\n\nAnswer:\n",
-        "model_prediction": "(D) No Hair Flak"
+        "model_prediction": "(C) Sky Flak"
     },
     {
         "id": "test_9",
@@ -249,7 +249,7 @@
         "category": "biology",
         "answer": "(A) Sinarapan",
         "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhat is the local name for an edible fish uniquely found in Lake Buhi, Philippines?\n\nChoices:\n(A) Sinarapan\n(B) Tawilis\n(C) Dulong\n(D) Tulingan\n\nAnswer:\n",
-        "model_prediction": "(A) Sinarapa"
+        "model_prediction": "(D) Tulinga"
     },
     {
         "id": "test_19",
@@ -319,7 +319,7 @@
         "category": "biology",
         "answer": "(C) Sus cebifrons",
         "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nAs of 2023, what is the taxonomic name of an organism endemic to the Philippines known for its warts?\n\nChoices:\n(A) Crocodylus mindorensis\n(B) Rana magna\n(C) Sus cebifrons\n(D) Rusa marianna\n\nAnswer:\n",
-        "model_prediction": "(C) Sus cebifro"
+        "model_prediction": "(D) Rusa marianna"
     },
     {
         "id": "test_24",
@@ -347,7 +347,7 @@
         "category": "biology",
         "answer": "(D) Tamaraw",
         "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhat Philippine animal is the namesake of a truck model popular in that country?\n\nChoices:\n(A) Eagle\n(B) Viper\n(C) Flying Fox\n(D) Tamaraw\n\nAnswer:\n",
-        "model_prediction": "(D) Tamara"
+        "model_prediction": "(C) Flying Fox"
     },
     {
         "id": "test_26",
@@ -487,7 +487,7 @@
         "category": "history",
         "answer": "(C) 7",
         "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nIn the context of the Philippines, how many years is the namesake of the war in which the British besieged Manila?\n\nChoices:\n(A) 5\n(B) 30\n(C) 7\n(D) 80\n\nAnswer:\n",
-        "model_prediction": "(D) 80"
+        "model_prediction": "(C) 7"
     },
     {
         "id": "test_36",
@@ -1397,6 +1397,6 @@
         "category": "geography",
         "answer": "(C) 25,000",
         "model_input": "Please answer the following the-Philippines-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhat is the most accurate estimated combined number of islands from the Philippines and Indonesia?\n\nChoices:\n(A) 30,000\n(B) 15,000\n(C) 25,000\n(D) 40,000\n\nAnswer:\n",
-        "model_prediction": "(D) 40,000"
+        "model_prediction": "(A) 30,000"
     }
 ]

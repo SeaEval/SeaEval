@@ -11,7 +11,7 @@
         "category": "brand",
         "answer": "(B) Argentina",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nAs of 2023, what is a corned beef brand in the Philippines that is named after a country?\nChoices:\n(A) Uruguay\n(B) Argentina\n(C) New Zealand\n(D) India\nAnswer:\n",
-        "model_prediction": "(C) New Zealand"
+        "model_prediction": "(B) Argentina"
     },
     {
         "id": "test_2",
@@ -67,7 +67,7 @@
         "category": "brand",
         "answer": "(B) 20",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nWhat was the age of the namesake of the original name of the Bank of the Philippine Islands (BPI) when the latter was founded?\nChoices:\n(A) 19\n(B) 20\n(C) 21\n(D) 22\nAnswer:\n",
-        "model_prediction": "(C) 21"
+        "model_prediction": "(A) 19"
     },
     {
         "id": "test_6",
@@ -165,7 +165,7 @@
         "category": "demographics",
         "answer": "(B) Argentina",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nAs of 2023, if you multiply the population of each South American country by 2, which South American country will have the closest population to the Philippines?\nChoices:\n(A) Brazil\n(B) Argentina\n(C) Chile\n(D) Peru\nAnswer:\n",
-        "model_prediction": "(B) Argentina"
+        "model_prediction": "(A) Brazil"
     },
     {
         "id": "test_13",
@@ -221,7 +221,7 @@
         "category": "biology",
         "answer": "(B) 7 years",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nWhat is the difference between the age that the Philippine Eagle in Mandai Zoo died in 2023 and the maximum prison sentence for killing a Philippine Eagle?\nChoices:\n(A) 5 years\n(B) 7 years\n(C) 20 years\n(D) 25 years\nAnswer:\n",
-        "model_prediction": "(C) 20 yea"
+        "model_prediction": "(C) 20 years"
     },
     {
         "id": "test_17",
@@ -249,7 +249,7 @@
         "category": "biology",
         "answer": "(A) Sinarapan",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nWhat is the local name for an edible fish uniquely found in Lake Buhi, Philippines?\nChoices:\n(A) Sinarapan\n(B) Tawilis\n(C) Dulong\n(D) Tulingan\nAnswer:\n",
-        "model_prediction": "(D) Tulinga"
+        "model_prediction": "(A) Sinarapa"
     },
     {
         "id": "test_19",
@@ -263,7 +263,7 @@
         "category": "biology",
         "answer": "(B) Philippine Tarsier",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nSelect an animal endemic to the Philippines whose eyes are the largest relative to its brain.\nChoices:\n(A) Philippine Eagle\n(B) Philippine Tarsier\n(C) Philippine Mouse Deer\n(D) Philippine Crocodile\nAnswer:\n",
-        "model_prediction": "(B) Philippine Tarsi"
+        "model_prediction": "(B) Philippine Tarsier"
     },
     {
         "id": "test_20",
@@ -403,7 +403,7 @@
         "category": "history",
         "answer": "(D) 22",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nIn the context of the Philippines, how old was Gregorio del Pilar when the Hong Kong Junta was formed?\nChoices:\n(A) 19\n(B) 20\n(C) 21\n(D) 22\nAnswer:\n",
-        "model_prediction": "(C) 21"
+        "model_prediction": "(A) 19"
     },
     {
         "id": "test_30",
@@ -473,7 +473,7 @@
         "category": "history",
         "answer": "(C) Sayote",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nWhich Filipino word is originally from the language of the Empire the Spanish conquered in modern-day Mexico?\nChoices:\n(A) Guro\n(B) Bundok\n(C) Sayote\n(D) Papaya\nAnswer:\n",
-        "model_prediction": "(C) Sayot"
+        "model_prediction": "(C) Sayote"
     },
     {
         "id": "test_35",
@@ -949,7 +949,7 @@
         "category": "culture",
         "answer": "(C) Padrino System",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nWhat is the term for the Filipino practice of gaining favors through family / friends?\nChoices:\n(A) Nepotismo\n(B) Kapatiran\n(C) Padrino System\n(D) Connection System\nAnswer:\n",
-        "model_prediction": "(C) Padrino System"
+        "model_prediction": "(B) Kapatira"
     },
     {
         "id": "test_69",
@@ -1047,7 +1047,7 @@
         "category": "film",
         "answer": "(A) Hazing",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nWhat is the main subject of the Filipino film \"Batch 81\"?\nChoices:\n(A) Hazing\n(B) Gang Violence\n(C) Extrajudicial Murder\n(D) Police Brutality\nAnswer:\n",
-        "model_prediction": "(A) Hazing"
+        "model_prediction": ""
     },
     {
         "id": "test_76",
@@ -1159,7 +1159,7 @@
         "category": "law",
         "answer": "(C) Free contraceptives",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nIn the Philippines, Republic Act No. 10354 allows for the provision of:\nChoices:\n(A) Free education\n(B) Free healthcare\n(C) Free contraceptives\n(D) Free housing\nAnswer:\n",
-        "model_prediction": "(C) Free contraceptiv"
+        "model_prediction": "(A) Free educatio"
     },
     {
         "id": "test_84",
@@ -1173,7 +1173,7 @@
         "category": "law",
         "answer": "(B) Divorce",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nAs of 2023, The Philippines and Vatican City are the only two states that do not allow for:\nChoices:\n(A) Clerical Marriage\n(B) Divorce\n(C) Abortion\n(D) Civil Marriage\nAnswer:\n",
-        "model_prediction": "(A) Clerical Marriag"
+        "model_prediction": "(D) Civil Marriag"
     },
     {
         "id": "test_85",
@@ -1257,7 +1257,7 @@
         "category": "law",
         "answer": "(C) Libel",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nIn the Philippines, Republic Act No. 10175 has been criticized for being too authoritarian on its provisions on:\nChoices:\n(A) Cybersquatting\n(B) Freedom of Expression\n(C) Libel\n(D) Freedom of Association\nAnswer:\n",
-        "model_prediction": "(B) Freedom of Expressio"
+        "model_prediction": "B"
     },
     {
         "id": "test_91",
@@ -1397,6 +1397,6 @@
         "category": "geography",
         "answer": "(C) 25,000",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the Philippines. Simply select the choice, no explanations required.\nQuestion:\nWhat is the most accurate estimated combined number of islands from the Philippines and Indonesia?\nChoices:\n(A) 30,000\n(B) 15,000\n(C) 25,000\n(D) 40,000\nAnswer:\n",
-        "model_prediction": "(B) 15,000"
+        "model_prediction": "(C) 25,000"
     }
 ]

@@ -272,7 +272,7 @@
         "context": "it seems like i have been waiting my whole life for this movie and now i ca n't wait for the sequel . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nit seems like i have been waiting my whole life for this movie and now i ca n't wait for the sequel . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(B) Positiv"
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_26",
@@ -360,7 +360,7 @@
         "context": "suffocated by its fussy script and uptight characters , this musty adaptation is all the more annoying since it 's been packaged and sold back to us by hollywood . ",
         "answer": "(B) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nsuffocated by its fussy script and uptight characters , this musty adaptation is all the more annoying since it 's been packaged and sold back to us by hollywood . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negativ"
+        "model_prediction": "(B) Negative"
     },
     {
         "id": "test_34",
@@ -448,7 +448,7 @@
         "context": "in a way , the film feels like a breath of fresh air , but only to those that allow it in . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nin a way , the film feels like a breath of fresh air , but only to those that allow it in . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(B) Positiv"
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_42",
@@ -492,7 +492,7 @@
         "context": "or emptying rat traps . ",
         "answer": "(A) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nor emptying rat traps . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "Step 1: Analyze the sentence for any positive or negative words or phrases."
+        "model_prediction": "(A) Negative"
     },
     {
         "id": "test_46",
@@ -591,7 +591,7 @@
         "context": "an infectious cultural fable with a tasty balance of family drama and frenetic comedy . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nan infectious cultural fable with a tasty balance of family drama and frenetic comedy . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(B) Positiv"
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_55",
@@ -613,7 +613,7 @@
         "context": "it confirms fincher 's status as a film maker who artfully bends technical know-how to the service of psychological insight . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nit confirms fincher 's status as a film maker who artfully bends technical know-how to the service of psychological insight . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(B) Positiv"
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_57",
@@ -756,7 +756,7 @@
         "context": "it all adds up to good fun . ",
         "answer": "(A) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nit all adds up to good fun . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "Step 1: Read the sentence and understand its meaning."
+        "model_prediction": "(A) Positiv"
     },
     {
         "id": "test_70",
@@ -932,7 +932,7 @@
         "context": "... takes the beauty of baseball and melds it with a story that could touch anyone regardless of their familiarity with the sport ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\n... takes the beauty of baseball and melds it with a story that could touch anyone regardless of their familiarity with the sport \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(B) Positiv"
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_86",
@@ -987,7 +987,7 @@
         "context": "one of the most significant moviegoing pleasures of the year . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\none of the most significant moviegoing pleasures of the year . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(B) Positive"
+        "model_prediction": "(B) Positiv"
     },
     {
         "id": "test_91",
@@ -1130,7 +1130,7 @@
         "context": "the primitive force of this film seems to bubble up from the vast collective memory of the combatants . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nthe primitive force of this film seems to bubble up from the vast collective memory of the combatants . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(B) Positiv"
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_104",
@@ -1174,7 +1174,7 @@
         "context": "this flick is about as cool and crowd-pleasing as a documentary can get . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nthis flick is about as cool and crowd-pleasing as a documentary can get . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the key phrases in the sentence."
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_108",
@@ -1196,7 +1196,7 @@
         "context": "a tender , heartfelt family drama . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\na tender , heartfelt family drama . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "Step 1: Analyze the sentence for sentiment clues."
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_110",
@@ -1251,7 +1251,7 @@
         "context": "the vivid lead performances sustain interest and empathy , but the journey is far more interesting than the final destination . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nthe vivid lead performances sustain interest and empathy , but the journey is far more interesting than the final destination . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(B) Positiv"
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_115",
@@ -1372,7 +1372,7 @@
         "context": "a gorgeous , witty , seductive movie . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\na gorgeous , witty , seductive movie . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the words that indicate sentiment."
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_126",
@@ -1438,7 +1438,7 @@
         "context": "for the most part , it 's a work of incendiary genius , steering clear of knee-jerk reactions and quick solutions . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nfor the most part , it 's a work of incendiary genius , steering clear of knee-jerk reactions and quick solutions . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(B) Positive"
+        "model_prediction": "(B) Positiv"
     },
     {
         "id": "test_132",
@@ -1449,7 +1449,7 @@
         "context": "a coarse and stupid gross-out . ",
         "answer": "(A) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\na coarse and stupid gross-out . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "Step 1: Analyze the sentence for any positive or negative words or phrases."
+        "model_prediction": "(A) Negativ"
     },
     {
         "id": "test_133",
@@ -1471,7 +1471,7 @@
         "context": "bad . ",
         "answer": "(B) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nbad . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negative"
+        "model_prediction": "(B) Negativ"
     },
     {
         "id": "test_135",
@@ -1537,7 +1537,7 @@
         "context": "... a boring parade of talking heads and technical gibberish that will do little to advance the linux cause . ",
         "answer": "(B) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\n... a boring parade of talking heads and technical gibberish that will do little to advance the linux cause . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negativ"
+        "model_prediction": "(B) Negative"
     },
     {
         "id": "test_141",
@@ -1724,7 +1724,7 @@
         "context": "a warm , funny , engaging film . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\na warm , funny , engaging film . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the sentiment words in the sentence."
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_158",
@@ -1845,7 +1845,7 @@
         "context": "the wild thornberrys movie is a jolly surprise . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nthe wild thornberrys movie is a jolly surprise . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(B) Positiv"
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_169",
@@ -1878,7 +1878,7 @@
         "context": "the draw ( for `` big bad love '' ) is a solid performance by arliss howard . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nthe draw ( for `` big bad love '' ) is a solid performance by arliss howard . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(B) Positiv"
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_172",
@@ -1911,7 +1911,7 @@
         "context": "an operatic , sprawling picture that 's entertainingly acted , magnificently shot and gripping enough to sustain most of its 170-minute length . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nan operatic , sprawling picture that 's entertainingly acted , magnificently shot and gripping enough to sustain most of its 170-minute length . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(B) Positiv"
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_175",
@@ -1977,7 +1977,7 @@
         "context": "no screen fantasy-adventure in recent memory has the showmanship of clones ' last 45 minutes . ",
         "answer": "(A) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nno screen fantasy-adventure in recent memory has the showmanship of clones ' last 45 minutes . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(A) Positiv"
+        "model_prediction": "(A) Positive"
     },
     {
         "id": "test_181",
@@ -1999,7 +1999,7 @@
         "context": "one of the more intelligent children 's movies to hit theaters this year . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\none of the more intelligent children 's movies to hit theaters this year . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(B) Positiv"
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_183",
@@ -2021,7 +2021,7 @@
         "context": "should have been someone else - ",
         "answer": "(B) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nshould have been someone else - \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negativ"
+        "model_prediction": "(B) Negative"
     },
     {
         "id": "test_185",
@@ -2032,7 +2032,7 @@
         "context": "and that 's a big part of why we go to the movies . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nand that 's a big part of why we go to the movies . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(B) Positiv"
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_186",
@@ -2274,7 +2274,7 @@
         "context": "it moves quickly , adroitly , and without fuss ; it does n't give you time to reflect on the inanity -- and the cold war datedness -- of its premise . ",
         "answer": "(A) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nit moves quickly , adroitly , and without fuss ; it does n't give you time to reflect on the inanity -- and the cold war datedness -- of its premise . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negativ"
+        "model_prediction": "(B) Negative"
     },
     {
         "id": "test_208",
@@ -2329,7 +2329,7 @@
         "context": "the film will play equally well on both the standard and giant screens . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nthe film will play equally well on both the standard and giant screens . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(B) Positiv"
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_213",
@@ -2340,7 +2340,7 @@
         "context": "the notion that bombing buildings is the funniest thing in the world goes entirely unexamined in this startlingly unfunny comedy . ",
         "answer": "(B) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nthe notion that bombing buildings is the funniest thing in the world goes entirely unexamined in this startlingly unfunny comedy . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negativ"
+        "model_prediction": "(B) Negative"
     },
     {
         "id": "test_214",
@@ -2351,7 +2351,7 @@
         "context": "zhang ... has done an amazing job of getting realistic performances from his mainly nonprofessional cast . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nzhang ... has done an amazing job of getting realistic performances from his mainly nonprofessional cast . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the key words and phrases in the sentence."
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_215",
@@ -2439,7 +2439,7 @@
         "context": "one from the heart . ",
         "answer": "(A) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\none from the heart . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "Step 1: Analyze the sentence for any positive or negative words or phrases."
+        "model_prediction": "(A) Positiv"
     },
     {
         "id": "test_223",
@@ -2725,7 +2725,7 @@
         "context": "burns never really harnesses to full effect the energetic cast . ",
         "answer": "(A) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nburns never really harnesses to full effect the energetic cast . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(A) Negativ"
+        "model_prediction": "(A) Negative"
     },
     {
         "id": "test_249",
@@ -2736,7 +2736,7 @@
         "context": "because of an unnecessary and clumsy last scene , ` swimfan ' left me with a very bad feeling . ",
         "answer": "(B) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nbecause of an unnecessary and clumsy last scene , ` swimfan ' left me with a very bad feeling . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negativ"
+        "model_prediction": "(B) Negative"
     },
     {
         "id": "test_250",
@@ -2945,7 +2945,7 @@
         "context": "while the ideas about techno-saturation are far from novel , they 're presented with a wry dark humor . ",
         "answer": "(A) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nwhile the ideas about techno-saturation are far from novel , they 're presented with a wry dark humor . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negativ"
+        "model_prediction": "(B) Negative"
     },
     {
         "id": "test_269",
@@ -2956,7 +2956,7 @@
         "context": "this piece of channel 5 grade trash is , quite frankly , an insult to the intelligence of the true genre enthusiast . ",
         "answer": "(B) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nthis piece of channel 5 grade trash is , quite frankly , an insult to the intelligence of the true genre enthusiast . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negativ"
+        "model_prediction": "(B) Negative"
     },
     {
         "id": "test_270",
@@ -3000,7 +3000,7 @@
         "context": "is the time really ripe for a warmed-over james bond adventure , with a village idiot as the 007 clone ? ",
         "answer": "(B) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nis the time really ripe for a warmed-over james bond adventure , with a village idiot as the 007 clone ? \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negativ"
+        "model_prediction": "(B) Negative"
     },
     {
         "id": "test_274",
@@ -3077,7 +3077,7 @@
         "context": "it 's hard to like a film about a guy who is utterly unlikeable , and shiner , starring michael caine as an aging british boxing promoter desperate for a taste of fame and fortune , is certainly that . ",
         "answer": "(B) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nit 's hard to like a film about a guy who is utterly unlikeable , and shiner , starring michael caine as an aging british boxing promoter desperate for a taste of fame and fortune , is certainly that . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negativ"
+        "model_prediction": "(B) Negative"
     },
     {
         "id": "test_281",
@@ -3099,7 +3099,7 @@
         "context": "something akin to a japanese alice through the looking glass , except that it seems to take itself far more seriously . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nsomething akin to a japanese alice through the looking glass , except that it seems to take itself far more seriously . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(A) Negativ"
+        "model_prediction": "(B) Positiv"
     },
     {
         "id": "test_283",
@@ -3154,7 +3154,7 @@
         "context": "smart , provocative and blisteringly funny . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nsmart , provocative and blisteringly funny . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(B) Positiv"
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_288",
@@ -3286,7 +3286,7 @@
         "context": "it 's also , clearly , great fun . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nit 's also , clearly , great fun . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the key words in the sentence that indicate sentiment."
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_300",
@@ -3297,7 +3297,7 @@
         "context": "do n't be fooled by the impressive cast list - eye see you is pure junk . ",
         "answer": "(B) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\ndo n't be fooled by the impressive cast list - eye see you is pure junk . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negativ"
+        "model_prediction": "(B) Negative"
     },
     {
         "id": "test_301",
@@ -3385,7 +3385,7 @@
         "context": "american chai encourages rueful laughter at stereotypes only an indian-american would recognize . ",
         "answer": "(B) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\namerican chai encourages rueful laughter at stereotypes only an indian-american would recognize . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negativ"
+        "model_prediction": "(B) Negative"
     },
     {
         "id": "test_309",
@@ -3407,7 +3407,7 @@
         "context": "utterly lacking in charm , wit and invention , roberto benigni 's pinocchio is an astonishingly bad film . ",
         "answer": "(B) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nutterly lacking in charm , wit and invention , roberto benigni 's pinocchio is an astonishingly bad film . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negativ"
+        "model_prediction": "(B) Negative"
     },
     {
         "id": "test_311",
@@ -3495,7 +3495,7 @@
         "context": "it 's worth seeing just on the basis of the wisdom , and at times , the startling optimism , of the children . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nit 's worth seeing just on the basis of the wisdom , and at times , the startling optimism , of the children . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "Step 1: Read the sentence and identify keywords that indicate sentiment."
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_319",
@@ -3528,7 +3528,7 @@
         "context": "we root for ( clara and paul ) , even like them , though perhaps it 's an emotion closer to pity . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nwe root for ( clara and paul ) , even like them , though perhaps it 's an emotion closer to pity . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(B) Positive"
+        "model_prediction": "(B) Positiv"
     },
     {
         "id": "test_322",
@@ -3583,7 +3583,7 @@
         "context": "it 's fun lite . ",
         "answer": "(A) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nit 's fun lite . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "Step 1: Analyze the sentence for any positive or negative words or phrases."
+        "model_prediction": "(A) Positiv"
     },
     {
         "id": "test_327",
@@ -3638,7 +3638,7 @@
         "context": "it 's made with deftly unsettling genre flair . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nit 's made with deftly unsettling genre flair . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(B) Positiv"
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_332",
@@ -3649,7 +3649,7 @@
         "context": "first-time writer-director serry shows a remarkable gift for storytelling with this moving , effective little film . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nfirst-time writer-director serry shows a remarkable gift for storytelling with this moving , effective little film . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(B) Positiv"
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_333",
@@ -3770,7 +3770,7 @@
         "context": "slick piece of cross-promotion . ",
         "answer": "(A) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nslick piece of cross-promotion . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(A) Positiv"
+        "model_prediction": "(B) Negative"
     },
     {
         "id": "test_344",
@@ -3891,7 +3891,7 @@
         "context": "stealing harvard is evidence that the farrelly bros. -- peter and bobby -- and their brand of screen comedy are wheezing to an end , along with green 's half-hearted movie career . ",
         "answer": "(B) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nstealing harvard is evidence that the farrelly bros. -- peter and bobby -- and their brand of screen comedy are wheezing to an end , along with green 's half-hearted movie career . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negativ"
+        "model_prediction": "(B) Negative"
     },
     {
         "id": "test_355",
@@ -3913,7 +3913,7 @@
         "context": "it has the charm of the original american road movies , feasting on the gorgeous , ramshackle landscape of the filmmaker 's motherland . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nit has the charm of the original american road movies , feasting on the gorgeous , ramshackle landscape of the filmmaker 's motherland . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(B) Positiv"
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_357",
@@ -3935,7 +3935,7 @@
         "context": "far more imaginative and ambitious than the trivial , cash-in features nickelodeon has made from its other animated tv series . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nfar more imaginative and ambitious than the trivial , cash-in features nickelodeon has made from its other animated tv series . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(A) Negativ"
+        "model_prediction": "(A) Negative"
     },
     {
         "id": "test_359",
@@ -4078,7 +4078,7 @@
         "context": "the piquant story needs more dramatic meat on its bones . ",
         "answer": "(A) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nthe piquant story needs more dramatic meat on its bones . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(A) Negativ"
+        "model_prediction": "(A) Negative"
     },
     {
         "id": "test_372",
@@ -4133,7 +4133,7 @@
         "context": "what better message than ` love thyself ' could young women of any size receive ? ",
         "answer": "(A) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nwhat better message than ` love thyself ' could young women of any size receive ? \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(A) Positiv"
+        "model_prediction": "(A) Positive"
     },
     {
         "id": "test_377",
@@ -4243,7 +4243,7 @@
         "context": "reign of fire looks as if it was made without much thought -- and is best watched that way . ",
         "answer": "(A) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nreign of fire looks as if it was made without much thought -- and is best watched that way . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negativ"
+        "model_prediction": "(B) Negative"
     },
     {
         "id": "test_387",
@@ -4353,7 +4353,7 @@
         "context": "do not see this film . ",
         "answer": "(A) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\ndo not see this film . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "Step 1: Read the sentence and understand its meaning."
+        "model_prediction": "(A) Negativ"
     },
     {
         "id": "test_397",
@@ -4375,7 +4375,7 @@
         "context": "an important movie , a reminder of the power of film to move us and to make us examine our values . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nan important movie , a reminder of the power of film to move us and to make us examine our values . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(B) Positiv"
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_399",
@@ -4386,7 +4386,7 @@
         "context": "corny , schmaltzy and predictable , but still manages to be kind of heartwarming , nonetheless . ",
         "answer": "(A) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\ncorny , schmaltzy and predictable , but still manages to be kind of heartwarming , nonetheless . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(A) Positiv"
+        "model_prediction": "(B) Negativ"
     },
     {
         "id": "test_400",
@@ -4441,7 +4441,7 @@
         "context": "at times , the suspense is palpable , but by the end there 's a sense that the crux of the mystery hinges on a technicality that strains credulity and leaves the viewer haunted by the waste of potential . ",
         "answer": "(B) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nat times , the suspense is palpable , but by the end there 's a sense that the crux of the mystery hinges on a technicality that strains credulity and leaves the viewer haunted by the waste of potential . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negativ"
+        "model_prediction": "(B) Negative"
     },
     {
         "id": "test_405",
@@ -4496,7 +4496,7 @@
         "context": "not exactly the bees knees ",
         "answer": "(B) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nnot exactly the bees knees \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negativ"
+        "model_prediction": "(B) Negative"
     },
     {
         "id": "test_410",
@@ -4815,7 +4815,7 @@
         "context": "less dizzying than just dizzy , the jaunt is practically over before it begins . ",
         "answer": "(B) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nless dizzying than just dizzy , the jaunt is practically over before it begins . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negativ"
+        "model_prediction": "(B) Negative"
     },
     {
         "id": "test_439",
@@ -4870,7 +4870,7 @@
         "context": "a string of rehashed sight gags based in insipid vulgarity . ",
         "answer": "(B) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\na string of rehashed sight gags based in insipid vulgarity . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negativ"
+        "model_prediction": "(B) Negative"
     },
     {
         "id": "test_444",
@@ -4925,7 +4925,7 @@
         "context": "a delectable and intriguing thriller filled with surprises , read my lips is an original . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\na delectable and intriguing thriller filled with surprises , read my lips is an original . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(B) Positiv"
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_449",
@@ -4969,7 +4969,7 @@
         "context": "a lackluster , unessential sequel to the classic disney adaptation of j.m. barrie 's peter pan . ",
         "answer": "(B) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\na lackluster , unessential sequel to the classic disney adaptation of j.m. barrie 's peter pan . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negativ"
+        "model_prediction": "(B) Negative"
     },
     {
         "id": "test_453",
@@ -5002,7 +5002,7 @@
         "context": "sam mendes has become valedictorian at the school for soft landings and easy ways out . ",
         "answer": "(A) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nsam mendes has become valedictorian at the school for soft landings and easy ways out . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(A) Negativ"
+        "model_prediction": "(A) Negative"
     },
     {
         "id": "test_456",
@@ -5101,7 +5101,7 @@
         "context": "for this reason and this reason only -- the power of its own steadfast , hoity-toity convictions -- chelsea walls deserves a medal . ",
         "answer": "(A) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nfor this reason and this reason only -- the power of its own steadfast , hoity-toity convictions -- chelsea walls deserves a medal . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negative"
+        "model_prediction": "(B) Negativ"
     },
     {
         "id": "test_465",
@@ -5112,7 +5112,7 @@
         "context": "sade is an engaging look at the controversial eponymous and fiercely atheistic hero . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nsade is an engaging look at the controversial eponymous and fiercely atheistic hero . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(B) Positiv"
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_466",
@@ -5200,7 +5200,7 @@
         "context": "a smart , witty follow-up . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\na smart , witty follow-up . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the key words in the sentence."
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_474",
@@ -5222,7 +5222,7 @@
         "context": "visually rather stunning , but ultimately a handsome-looking bore , the true creativity would have been to hide treasure planet entirely and completely reimagine it . ",
         "answer": "(B) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nvisually rather stunning , but ultimately a handsome-looking bore , the true creativity would have been to hide treasure planet entirely and completely reimagine it . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negativ"
+        "model_prediction": "(B) Negative"
     },
     {
         "id": "test_476",
@@ -5266,7 +5266,7 @@
         "context": "it 's too bad that the helping hand he uses to stir his ingredients is also a heavy one . ",
         "answer": "(A) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nit 's too bad that the helping hand he uses to stir his ingredients is also a heavy one . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(A) Negativ"
+        "model_prediction": "(A) Negative"
     },
     {
         "id": "test_480",
@@ -5486,7 +5486,7 @@
         "context": "if you dig on david mamet 's mind tricks ... rent this movie and enjoy ! ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nif you dig on david mamet 's mind tricks ... rent this movie and enjoy ! \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the key phrases in the sentence."
+        "model_prediction": "(B) Positiv"
     },
     {
         "id": "test_500",
@@ -5640,7 +5640,7 @@
         "context": "has a lot of the virtues of eastwood at his best . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nhas a lot of the virtues of eastwood at his best . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(B) Positive"
+        "model_prediction": "(B) Positiv"
     },
     {
         "id": "test_514",
@@ -5739,7 +5739,7 @@
         "context": "good old-fashioned slash-and-hack is back ! ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\ngood old-fashioned slash-and-hack is back ! \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the key words in the sentence."
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_523",
@@ -5772,7 +5772,7 @@
         "context": "that 's a cheat . ",
         "answer": "(A) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nthat 's a cheat . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(A) Negativ"
+        "model_prediction": "(A) Negative"
     },
     {
         "id": "test_526",
@@ -5805,7 +5805,7 @@
         "context": "inside the film 's conflict-powered plot there is a decent moral trying to get out , but it 's not that , it 's the tension that keeps you in your seat . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\ninside the film 's conflict-powered plot there is a decent moral trying to get out , but it 's not that , it 's the tension that keeps you in your seat . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(B) Positiv"
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_529",
@@ -5915,7 +5915,7 @@
         "context": "it haunts , horrifies , startles and fascinates ; it is impossible to look away . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nit haunts , horrifies , startles and fascinates ; it is impossible to look away . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(A) Negativ"
+        "model_prediction": "(B) Positiv"
     },
     {
         "id": "test_539",
@@ -5937,7 +5937,7 @@
         "context": "the son 's room is a triumph of gentility that earns its moments of pathos . ",
         "answer": "(A) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nthe son 's room is a triumph of gentility that earns its moments of pathos . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(A) Positiv"
+        "model_prediction": "(A) Positive"
     },
     {
         "id": "test_541",
@@ -5970,7 +5970,7 @@
         "context": "richard gere and diane lane put in fine performances as does french actor oliver martinez . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nrichard gere and diane lane put in fine performances as does french actor oliver martinez . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(B) Positiv"
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_544",
@@ -6113,7 +6113,7 @@
         "context": "it 's a cookie-cutter movie , a cut-and-paste job . ",
         "answer": "(B) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nit 's a cookie-cutter movie , a cut-and-paste job . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negativ"
+        "model_prediction": "(B) Negative"
     },
     {
         "id": "test_557",
@@ -6157,7 +6157,7 @@
         "context": "writer/director joe carnahan 's grimy crime drama is a manual of precinct cliches , but it moves fast enough to cover its clunky dialogue and lapses in logic . ",
         "answer": "(A) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nwriter/director joe carnahan 's grimy crime drama is a manual of precinct cliches , but it moves fast enough to cover its clunky dialogue and lapses in logic . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negativ"
+        "model_prediction": "(B) Negative"
     },
     {
         "id": "test_561",
@@ -6168,7 +6168,7 @@
         "context": "it 's a charming and often affecting journey . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nit 's a charming and often affecting journey . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(B) Positiv"
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_562",
@@ -6421,7 +6421,7 @@
         "context": "an occasionally funny , but overall limp , fish-out-of-water story . ",
         "answer": "(B) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nan occasionally funny , but overall limp , fish-out-of-water story . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negativ"
+        "model_prediction": "(B) Negative"
     },
     {
         "id": "test_585",
@@ -6531,7 +6531,7 @@
         "context": "a fast , funny , highly enjoyable movie . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\na fast , funny , highly enjoyable movie . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the keywords in the sentence."
+        "model_prediction": "(B) Positiv"
     },
     {
         "id": "test_595",
@@ -6575,7 +6575,7 @@
         "context": "lovely and poignant . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nlovely and poignant . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the words that carry sentiment in the sentence."
+        "model_prediction": "(B) Positiv"
     },
     {
         "id": "test_599",
@@ -6597,7 +6597,7 @@
         "context": "mcconaughey 's fun to watch , the dragons are okay , not much fire in the script . ",
         "answer": "(A) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nmcconaughey 's fun to watch , the dragons are okay , not much fire in the script . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negativ"
+        "model_prediction": "(B) Negative"
     },
     {
         "id": "test_601",
@@ -6762,7 +6762,7 @@
         "context": "i just loved every minute of this film . ",
         "answer": "(A) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\ni just loved every minute of this film . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "Step 1: Read the sentence and understand its meaning."
+        "model_prediction": "(A) Positiv"
     },
     {
         "id": "test_616",
@@ -6905,7 +6905,7 @@
         "context": "old-form moviemaking at its best . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nold-form moviemaking at its best . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "Step 1: Analyze the sentence for sentiment clues."
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_629",
@@ -6982,7 +6982,7 @@
         "context": "my reaction in a word : disappointment . ",
         "answer": "(B) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nmy reaction in a word : disappointment . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the key words in the sentence that indicate sentiment. In this case, the key word is \"disappointment.\""
+        "model_prediction": "Step 1: Identify the key words in the sentence."
     },
     {
         "id": "test_636",
@@ -7147,7 +7147,7 @@
         "context": "this is so bad . ",
         "answer": "(A) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nthis is so bad . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "Step 1: Read the sentence and understand its meaning."
+        "model_prediction": "(A) Negativ"
     },
     {
         "id": "test_651",
@@ -7158,7 +7158,7 @@
         "context": "deadeningly dull , mired in convoluted melodrama , nonsensical jargon and stiff-upper-lip laboriousness . ",
         "answer": "(B) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\ndeadeningly dull , mired in convoluted melodrama , nonsensical jargon and stiff-upper-lip laboriousness . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negativ"
+        "model_prediction": "(B) Negative"
     },
     {
         "id": "test_652",
@@ -7213,7 +7213,7 @@
         "context": "determined to be fun , and bouncy , with energetic musicals , the humor did n't quite engage this adult . ",
         "answer": "(A) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\ndetermined to be fun , and bouncy , with energetic musicals , the humor did n't quite engage this adult . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(A) Negativ"
+        "model_prediction": "(A) Negative"
     },
     {
         "id": "test_657",
@@ -7279,7 +7279,7 @@
         "context": "i do n't think i laughed out loud once . ",
         "answer": "(A) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\ni do n't think i laughed out loud once . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(A) Negative"
+        "model_prediction": "(A) Negativ"
     },
     {
         "id": "test_663",
@@ -7543,7 +7543,7 @@
         "context": "this illuminating documentary transcends our preconceived vision of the holy land and its inhabitants , revealing the human complexities beneath . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nthis illuminating documentary transcends our preconceived vision of the holy land and its inhabitants , revealing the human complexities beneath . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(B) Positiv"
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_687",
@@ -7653,7 +7653,7 @@
         "context": "scooby dooby doo / and shaggy too / you both look and sound great . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nscooby dooby doo / and shaggy too / you both look and sound great . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(B) Positiv"
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_697",
@@ -7664,7 +7664,7 @@
         "context": "( a ) shapeless blob of desperate entertainment . ",
         "answer": "(A) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\n( a ) shapeless blob of desperate entertainment . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "Step 1: Analyze the sentence for any positive or negative words or phrases."
+        "model_prediction": "(A) Negativ"
     },
     {
         "id": "test_698",
@@ -7983,7 +7983,7 @@
         "context": "though moonlight mile is replete with acclaimed actors and actresses and tackles a subject that 's potentially moving , the movie is too predictable and too self-conscious to reach a level of high drama . ",
         "answer": "(B) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nthough moonlight mile is replete with acclaimed actors and actresses and tackles a subject that 's potentially moving , the movie is too predictable and too self-conscious to reach a level of high drama . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negativ"
+        "model_prediction": "(B) Negative"
     },
     {
         "id": "test_727",
@@ -8038,7 +8038,7 @@
         "context": "a dumb movie with dumb characters doing dumb things and you have to be really dumb not to see where this is going . ",
         "answer": "(B) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\na dumb movie with dumb characters doing dumb things and you have to be really dumb not to see where this is going . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negativ"
+        "model_prediction": "(B) Negative"
     },
     {
         "id": "test_732",
@@ -8060,7 +8060,7 @@
         "context": "it 's just filler . ",
         "answer": "(A) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nit 's just filler . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "Step 1: Analyze the sentence for any positive or negative words or phrases."
+        "model_prediction": "(A) Negativ"
     },
     {
         "id": "test_734",
@@ -8082,7 +8082,7 @@
         "context": "puts a human face on a land most westerners are unfamiliar with . ",
         "answer": "(A) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nputs a human face on a land most westerners are unfamiliar with . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(A) Positiv"
+        "model_prediction": "(A) Positive"
     },
     {
         "id": "test_736",
@@ -8313,7 +8313,7 @@
         "context": "nonsensical , dull `` cyber-horror '' flick is a grim , hollow exercise in flat scares and bad acting . ",
         "answer": "(B) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nnonsensical , dull `` cyber-horror '' flick is a grim , hollow exercise in flat scares and bad acting . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negativ"
+        "model_prediction": "(B) Negative"
     },
     {
         "id": "test_757",
@@ -8346,7 +8346,7 @@
         "context": "not since japanese filmmaker akira kurosawa 's ran have the savagery of combat and the specter of death been visualized with such operatic grandeur . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nnot since japanese filmmaker akira kurosawa 's ran have the savagery of combat and the specter of death been visualized with such operatic grandeur . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(B) Positive"
+        "model_prediction": "(B) Positiv"
     },
     {
         "id": "test_760",
@@ -8478,7 +8478,7 @@
         "context": "a cartoon that 's truly cinematic in scope , and a story that 's compelling and heartfelt -- even if the heart belongs to a big , four-legged herbivore . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\na cartoon that 's truly cinematic in scope , and a story that 's compelling and heartfelt -- even if the heart belongs to a big , four-legged herbivore . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(B) Positiv"
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_772",
@@ -8665,7 +8665,7 @@
         "context": "excessive , profane , packed with cartoonish violence and comic-strip characters . ",
         "answer": "(B) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nexcessive , profane , packed with cartoonish violence and comic-strip characters . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negativ"
+        "model_prediction": "(B) Negative"
     },
     {
         "id": "test_789",
@@ -8918,7 +8918,7 @@
         "context": "the iditarod lasts for days - this just felt like it did . ",
         "answer": "(A) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nthe iditarod lasts for days - this just felt like it did . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(A) Negativ"
+        "model_prediction": "(B) Positiv"
     },
     {
         "id": "test_812",
@@ -9006,7 +9006,7 @@
         "context": "i 'd have to say the star and director are the big problems here . ",
         "answer": "(B) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\ni 'd have to say the star and director are the big problems here . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negativ"
+        "model_prediction": "(B) Negative"
     },
     {
         "id": "test_820",
@@ -9039,7 +9039,7 @@
         "context": "a poignant and compelling story about relationships , food of love takes us on a bumpy but satisfying journey of the heart . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\na poignant and compelling story about relationships , food of love takes us on a bumpy but satisfying journey of the heart . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(B) Positiv"
+        "model_prediction": "(B) Positive"
     },
     {
         "id": "test_823",
@@ -9182,7 +9182,7 @@
         "context": "that is a compliment to kuras and miller . ",
         "answer": "(A) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nthat is a compliment to kuras and miller . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "Step 1: Analyze the sentence for any positive or negative words or phrases."
+        "model_prediction": "(A) Positiv"
     },
     {
         "id": "test_836",
@@ -9402,7 +9402,7 @@
         "context": "it 's so good that its relentless , polished wit can withstand not only inept school productions , but even oliver parker 's movie adaptation . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nit 's so good that its relentless , polished wit can withstand not only inept school productions , but even oliver parker 's movie adaptation . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "(B) Positive"
+        "model_prediction": "(B) Positiv"
     },
     {
         "id": "test_856",
@@ -9413,7 +9413,7 @@
         "context": "it 's not original , and , robbed of the element of surprise , it does n't have any huge laughs in its story of irresponsible cops who love to play pranks . ",
         "answer": "(B) Negative",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nit 's not original , and , robbed of the element of surprise , it does n't have any huge laughs in its story of irresponsible cops who love to play pranks . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "(B) Negativ"
+        "model_prediction": "(B) Negative"
     },
     {
         "id": "test_857",
@@ -9578,7 +9578,7 @@
         "context": "enormously entertaining for moviegoers of any age . ",
         "answer": "(A) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\nenormously entertaining for moviegoers of any age . \n\nChoices:\n(A) Positive\n(B) Negative\n\nAnswer:\n",
-        "model_prediction": "Step 1: Read the sentence and understand its meaning."
+        "model_prediction": "(A) Positiv"
     },
     {
         "id": "test_872",
@@ -9589,6 +9589,6 @@
         "context": "just as moving , uplifting and funny as ever . ",
         "answer": "(B) Positive",
         "model_input": "Determine the sentiment of the following sentence and choose the most suitable option. Simply select the choice, no explanations required.\n\nSentence:\njust as moving , uplifting and funny as ever . \n\nChoices:\n(A) Negative\n(B) Positive\n\nAnswer:\n",
-        "model_prediction": "Step 1: Identify the key words in the sentence that indicate sentiment."
+        "model_prediction": "(B) Positive"
     }
 ]

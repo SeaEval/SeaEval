@@ -10,7 +10,7 @@
         "question": "In American government, the power to declare war rests with",
         "answer": "(B) Congress.",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nIn American government, the power to declare war rests with\nChoices:\n(A) the secretary of defense.\n(B) Congress.\n(C) the chairman of the Joint Chiefs of Staff.\n(D) the president of the United States.\nAnswer:\n",
-        "model_prediction": "(D) the president of the United States."
+        "model_prediction": "(B) Congress."
     },
     {
         "choices": [
@@ -23,7 +23,7 @@
         "question": "Which of these is not a component of the 'American Creed'?",
         "answer": "(C) Autocracy",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nWhich of these is not a component of the 'American Creed'?\nChoices:\n(A) Equality\n(B) Liberty\n(C) Autocracy\n(D) Individualism\nAnswer:\n",
-        "model_prediction": "C"
+        "model_prediction": "(C) Autocracy"
     },
     {
         "choices": [
@@ -75,7 +75,7 @@
         "question": "Each of the two main political parties of the United States is organized",
         "answer": "(C) as a relatively independent organization that exists at all levels of government",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nEach of the two main political parties of the United States is organized\nChoices:\n(A) as a single party with a presence at the national level only\n(B) in a top-down fashion, so that instructions are dispersed from the national level to the state and local levels\n(C) as a relatively independent organization that exists at all levels of government\n(D) into a federal structure in which state and local parties have no power\nAnswer:\n",
-        "model_prediction": "(B) in a top-down fashion, so that instructions are dispersed from the national level to the state and local level"
+        "model_prediction": "(B)"
     },
     {
         "choices": [
@@ -296,7 +296,7 @@
         "question": "The United States Supreme Court's decision in Roe v Wade is highly controversial because:",
         "answer": "(D) The majority held that the abortion law of Texas was unconstitutional because it violated a woman's right to privacy.",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nThe United States Supreme Court's decision in Roe v Wade is highly controversial because:\nChoices:\n(A) It failed to consider the rights of fathers.\n(B) The court failed to consider the medical evidence.\n(C) It overlooked the common law relating to abortion.\n(D) The majority held that the abortion law of Texas was unconstitutional because it violated a woman's right to privacy.\nAnswer:\n",
-        "model_prediction": "(D) The majority held that the abortion law of Texas was unconstitutional because it violated a woman's right to privacy."
+        "model_prediction": "(D)"
     },
     {
         "choices": [
@@ -374,7 +374,7 @@
         "question": "Which of the following would be included in U.S. GDP calculations?",
         "answer": "(C) A worker donating $200 to the Red Cross",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nWhich of the following would be included in U.S. GDP calculations?\nChoices:\n(A) High school students spending their Saturdays building homes for the homeless\n(B) An auto mechanic fixing his dentist’s car for a filling\n(C) A worker donating $200 to the Red Cross\n(D) A stay-at-home dad providing childcare for his children\nAnswer:\n",
-        "model_prediction": "(B) An auto mechanic fixing his dentist’s car for a filling"
+        "model_prediction": "(B) An auto mechanic fixing his dentist's car for a filling"
     },
     {
         "choices": [
@@ -699,7 +699,7 @@
         "question": "The Federal Open Market Committee",
         "answer": "(C) is part of the Federal Reserve System.",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nThe Federal Open Market Committee\nChoices:\n(A) has seven members.\n(B) promotes free trade.\n(C) is part of the Federal Reserve System.\n(D) advises the President of the United States.\nAnswer:\n",
-        "model_prediction": "(C) is part of the Federal Reserve System."
+        "model_prediction": "(C)"
     },
     {
         "choices": [
@@ -751,7 +751,7 @@
         "question": "The boundary lines of congressional districts must be redrawn every 10 years to",
         "answer": "(D) reflect population shifts indicated by the national census",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nThe boundary lines of congressional districts must be redrawn every 10 years to\nChoices:\n(A) determine which party's leader will be named Speaker of the House\n(B) make sure each state's congressional delegation exactly mirrors its residents' party affiliations\n(C) guarantee the turnover of the majority of congressional seats\n(D) reflect population shifts indicated by the national census\nAnswer:\n",
-        "model_prediction": "(D) reflect population shifts indicated by the national censu"
+        "model_prediction": "(D)"
     },
     {
         "choices": [
@@ -894,7 +894,7 @@
         "question": "Which of the following has been true of the Republican Party since the 1980s?",
         "answer": "(B) It has become more influenced by evangelical Christians.",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nWhich of the following has been true of the Republican Party since the 1980s?\nChoices:\n(A) It has become more antagonistic to business interests.\n(B) It has become more influenced by evangelical Christians.\n(C) It has become aligned with civil libertarians.\n(D) It has come to be dominated by labor unions.\nAnswer:\n",
-        "model_prediction": "(B) It has become more influenced by evangelical Christians."
+        "model_prediction": "(B)"
     },
     {
         "choices": [
@@ -1011,7 +1011,7 @@
         "question": "The American patriot Paul Revere was named for his father whose original name was what?",
         "answer": "(B) Apollos Rivoire",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nThe American patriot Paul Revere was named for his father whose original name was what?\nChoices:\n(A) Paolo Reverini\n(B) Apollos Rivoire\n(C) Paul Silver\n(D) John Paul Revere\nAnswer:\n",
-        "model_prediction": "(D) John Paul Rev"
+        "model_prediction": "(A) Paolo Reverini"
     },
     {
         "choices": [
@@ -1180,7 +1180,7 @@
         "question": "All of the following contribute to lower voting rates among Americans in the 18-to-25 age bracket EXCEPT",
         "answer": "(C) the fact that the minimum voting age in some states is 21",
         "model_input": "Please select the most appropriate option to answer the question from your perspective as a resident of the United States. Simply select the choice, no explanations required.\nQuestion:\nAll of the following contribute to lower voting rates among Americans in the 18-to-25 age bracket EXCEPT\nChoices:\n(A) frequent relocation of one's primary residence\n(B) the remoteness of most political issues to the daily lives of young people\n(C) the fact that the minimum voting age in some states is 21\n(D) college attendance in a state other than one's home state\nAnswer:\n",
-        "model_prediction": "(C) the fact that the minimum voting age in some states is 21"
+        "model_prediction": "(C)"
     },
     {
         "choices": [

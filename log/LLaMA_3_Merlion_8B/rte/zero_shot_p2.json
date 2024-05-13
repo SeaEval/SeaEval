@@ -8,7 +8,7 @@
         "answer": "(A) Entailment",
         "id": "test_1",
         "model_input": "Does the second sentence entail the first sentence? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nSentence1: Adela Lupse was born in 1988 to a miner's family in the village of Poiana, Bihor in Transylvania, Romania. A member of Romania's first post-Ceausescu generation, she grasped the power of television at a young age: \"I think television is the most interesting phenomenon that the modern day has given us....for my type of personality, I find it impressive, the power that television has worldwide....We dress like the people that television promotes. We want to look like the celebrities that television launches.\" Sentence2: Bihor is situated in Romania.\nChoices:\n(A) Entailment\n(B) Not Entailment\nAnswer:\n",
-        "model_prediction": "(B) Not Entailment"
+        "model_prediction": "(A) Entailment"
     },
     {
         "choices": [
@@ -74,7 +74,7 @@
         "answer": "(B) Not Entailment",
         "id": "test_7",
         "model_input": "Does the second sentence entail the first sentence? Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nSentence1: It is hoped that women, who constitute more than half of the population, will vote for other women and ensure that their issues are represented in parliament. Sentence2: Women are poorly represented in parliament.\nChoices:\n(A) Entailment\n(B) Not Entailment\nAnswer:\n",
-        "model_prediction": "(B) Not Entailment"
+        "model_prediction": "(A) Entailment"
     },
     {
         "choices": [

@@ -36,7 +36,7 @@
         "question": "There was an accident at a manufacturing plant located in California which state generally allows prevailing parties to collect punitive damages. A worker from Washington was injured at the California plant and she filed suit in federal district court in her home state of Washington. Washington does not generally allow punitive damages. The plaintiff has alleged in their federal lawsuit filed in Washington that they are entitled to punitive damages. The court should",
         "answer": "(C) Apply the punitive damage rule in Washington because that is where the court is located.",
         "model_input": "As a person living in the United States, try your best to answer the question by selecting the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion:\nThere was an accident at a manufacturing plant located in California which state generally allows prevailing parties to collect punitive damages. A worker from Washington was injured at the California plant and she filed suit in federal district court in her home state of Washington. Washington does not generally allow punitive damages. The plaintiff has alleged in their federal lawsuit filed in Washington that they are entitled to punitive damages. The court should\n\nChoices:\n(A) Apply the punitive damage rule in Washington since that is where the plaintiff resides.\n(B) Let the jury in the case decide which state law of punitive damage should apply based upon their analysis of the relative culpability of the parties.\n(C) Apply the punitive damage rule in Washington because that is where the court is located.\n(D) Apply the punitive damage rule in California since that is where the accident occurred.\n\nAnswer:\n",
-        "model_prediction": "(D) Apply the punitive damage rule in California since that is where the accident occurred."
+        "model_prediction": "(A) Apply the punitive damage rule in Washington since that is where the plaintiff resides."
     },
     {
         "choices": [
@@ -101,7 +101,7 @@
         "question": "The standard tip in a restaurant is $ 15 \\%$ of the bill before tax. Many people in California find the tip by doubling the sales tax, which is $8.25 \\%$. By how many cents does this exceed the standard tip on a bill of $ \\$60 $ before tax?",
         "answer": "(C) 90",
         "model_input": "As a person living in the United States, try your best to answer the question by selecting the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion:\nThe standard tip in a restaurant is $ 15 \\%$ of the bill before tax. Many people in California find the tip by doubling the sales tax, which is $8.25 \\%$. By how many cents does this exceed the standard tip on a bill of $ \\$60 $ before tax?\n\nChoices:\n(A) 80\n(B) 60\n(C) 90\n(D) 70\n\nAnswer:\n",
-        "model_prediction": "To find the answer, we first need to calculate the standard tip and the tip based on doubling the sales tax."
+        "model_prediction": "To find the standard tip, we first calculate 15% of $60:"
     },
     {
         "choices": [
@@ -543,7 +543,7 @@
         "question": "Which of the following is included in U.S. GDP? I.   The market value of movies made in Africa by U.S. citizens II.   The market value of olive oil made in Italy and sold in the United States. III.   The market value of blue jeans made in the United States and sold in Japan IV.   The market value of wine made in the United States by Canadian citizens",
         "answer": "(D) III and IV only",
         "model_input": "As a person living in the United States, try your best to answer the question by selecting the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion:\nWhich of the following is included in U.S. GDP? I.   The market value of movies made in Africa by U.S. citizens II.   The market value of olive oil made in Italy and sold in the United States. III.   The market value of blue jeans made in the United States and sold in Japan IV.   The market value of wine made in the United States by Canadian citizens\n\nChoices:\n(A) I and III only\n(B) II III and IV only\n(C) II and IV only\n(D) III and IV only\n\nAnswer:\n",
-        "model_prediction": "(B) II III and IV only"
+        "model_prediction": "(C) II and IV only"
     },
     {
         "choices": [

@@ -244,7 +244,7 @@
         "context": "M: Have you been here before, Lucy?\n W: Yes, this is the third time that I've been in Yantai.",
         "question": "How many times has Lucy been in Yantai?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: Have you been here before, Lucy?\n W: Yes, this is the third time that I've been in Yantai.\nQuestion:\nHow many times has Lucy been in Yantai?\nChoices:\n(A) 4 times.\n(B) 5 times.\n(C) 3 times.\nAnswer:\n",
-        "model_prediction": "C"
+        "model_prediction": "(C) 3 times."
     },
     {
         "answer": "(C) Candy.",
@@ -452,7 +452,7 @@
         "context": "M: How about driving into the country on Thursday?\n W: Well, I'll see if I can get the afternoon off, and I'd like to see my parents first.",
         "question": "What would the man like to do?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: How about driving into the country on Thursday?\n W: Well, I'll see if I can get the afternoon off, and I'd like to see my parents first.\nQuestion:\nWhat would the man like to do?\nChoices:\n(A) To visit his parents.\n(B) To drive to the countryside.\n(C) To travel to another country.\nAnswer:\n",
-        "model_prediction": "(B) To drive to the countryside."
+        "model_prediction": "B"
     },
     {
         "answer": "(A) King-size beds.",
@@ -816,7 +816,7 @@
         "context": "W: I'm not sure about this soup, Carl. It has no taste.\n M: No! I don't think so, Maria. It tastes fine to me. We've been to this place before, and I don't feel the soup tastes any different.\n W: Well, I still think it needs something. Salt?\n M: No, certainly not. What about pepper? If anything, I think it could use a little more of that.\n W: Now you're talking. That's exactly what it needs. And how about some more onions too?\n M: I don't know about that. You seem to be starting to like food with strong tastes recently.\n W: Oh, really?",
         "question": "What does Carl say can be added to the soup?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nW: I'm not sure about this soup, Carl. It has no taste.\n M: No! I don't think so, Maria. It tastes fine to me. We've been to this place before, and I don't feel the soup tastes any different.\n W: Well, I still think it needs something. Salt?\n M: No, certainly not. What about pepper? If anything, I think it could use a little more of that.\n W: Now you're talking. That's exactly what it needs. And how about some more onions too?\n M: I don't know about that. You seem to be starting to like food with strong tastes recently.\n W: Oh, really?\nQuestion:\nWhat does Carl say can be added to the soup?\nChoices:\n(A) Salt.\n(B) Pepper.\n(C) Onions.\nAnswer:\n",
-        "model_prediction": "Based on the conversation, Carl suggests that pepper can be added to the soup. So, the correct choice is:"
+        "model_prediction": "(B) Pepper."
     },
     {
         "answer": "(A) John is Jane's boyfriend.",
@@ -1206,7 +1206,7 @@
         "context": "M: Do you think Fred will help us?\n W: Sure. He has a heart of gold.",
         "question": "What is the woman's opinion of Fred?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: Do you think Fred will help us?\n W: Sure. He has a heart of gold.\nQuestion:\nWhat is the woman's opinion of Fred?\nChoices:\n(A) He is rich.\n(B) He is helpful.\n(C) He is unfriendly.\nAnswer:\n",
-        "model_prediction": "Based on the conversation, the correct option is:"
+        "model_prediction": "(B) He is helpful."
     },
     {
         "answer": "(C) He'd better speak to her at once.",
@@ -1505,7 +1505,7 @@
         "context": "W: How did you like the dinner just now?\n M: It was quite delicious, but the beef was a bit well done.",
         "question": "How did the man like the beef?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nW: How did you like the dinner just now?\n M: It was quite delicious, but the beef was a bit well done.\nQuestion:\nHow did the man like the beef?\nChoices:\n(A) Satisfying.\n(B) Delicious.\n(C) Not satisfying.\nAnswer:\n",
-        "model_prediction": "(C) Not satisfying."
+        "model_prediction": "C"
     },
     {
         "answer": "(B) Leave some time earlier.",
@@ -1778,7 +1778,7 @@
         "context": "W: Frank, do you hear that strange noise?\n M: Yes, I have noticed it for a while. It seems to be coming from the motor.\n W: What shall we do?\n M: I don't know. Perhaps if we slow it down we can stop at the next park place and check what is the matter.\n W: OK, Let's do it.\n M: Oh, it is burning hot, We have run out of water.\n W: How is the motor itself? Is it OK?\n M: I think it's all right. Let's wait till it cools down a bit.",
         "question": "Where is the noise coming from?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nW: Frank, do you hear that strange noise?\n M: Yes, I have noticed it for a while. It seems to be coming from the motor.\n W: What shall we do?\n M: I don't know. Perhaps if we slow it down we can stop at the next park place and check what is the matter.\n W: OK, Let's do it.\n M: Oh, it is burning hot, We have run out of water.\n W: How is the motor itself? Is it OK?\n M: I think it's all right. Let's wait till it cools down a bit.\nQuestion:\nWhere is the noise coming from?\nChoices:\n(A) The car.\n(B) The motor.\n(C) The motorbike.\nAnswer:\n",
-        "model_prediction": "Based on the conversation, the correct answer is:"
+        "model_prediction": "B"
     },
     {
         "answer": "(C) She is tired of wearing old, used clothing.",
@@ -2181,7 +2181,7 @@
         "context": "M: Would you like to come out for a drink?\n F: Yes, that would be wonderful. Thanks.",
         "question": "What will the woman do?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: Would you like to come out for a drink?\n F: Yes, that would be wonderful. Thanks.\nQuestion:\nWhat will the woman do?\nChoices:\n(A) Take a walk with the man.\n(B) Have a drink with the man.\n(C) Hold a party at home.\nAnswer:\n",
-        "model_prediction": "Based on the conversation, the correct option is:"
+        "model_prediction": "(B) Have a drink with the man."
     },
     {
         "answer": "(C) He is quite busy.",
@@ -2493,7 +2493,7 @@
         "context": "W: Sir, I'm hurrying to Chicago, but I can't see the timetable clearly.\n M: I'll read it for you. The 9:10 a.m. train to Chicago, the 9:40 a. m. one to Boston... Oh, madam, it's 9:20 now.",
         "question": "What do we know about the woman?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nW: Sir, I'm hurrying to Chicago, but I can't see the timetable clearly.\n M: I'll read it for you. The 9:10 a.m. train to Chicago, the 9:40 a. m. one to Boston... Oh, madam, it's 9:20 now.\nQuestion:\nWhat do we know about the woman?\nChoices:\n(A) She has missed the train.\n(B) She can catch the train in time.\n(C) She should buy the ticket now.\nAnswer:\n",
-        "model_prediction": "(A) She has missed the train."
+        "model_prediction": "(B) She can catch the train in time."
     },
     {
         "answer": "(A) Tomorrow.",
@@ -2727,7 +2727,7 @@
         "context": "W: What does your mother do?\n M: She is a doctor.",
         "question": "Where does her mother work?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nW: What does your mother do?\n M: She is a doctor.\nQuestion:\nWhere does her mother work?\nChoices:\n(A) In a bank.\n(B) In a hospital.\n(C) In a factory.\nAnswer:\n",
-        "model_prediction": "(B) In a hospital."
+        "model_prediction": "B"
     },
     {
         "answer": "(C) Go to the KTV.",
@@ -2805,7 +2805,7 @@
         "context": "M: May I speak to Tim Smith, please?\n W: Nobody by that name lives here.",
         "question": "What do we learn from the conversation?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: May I speak to Tim Smith, please?\n W: Nobody by that name lives here.\nQuestion:\nWhat do we learn from the conversation?\nChoices:\n(A) Tim Smith can't come to the phone right now.\n(B) Tim Smith isn't at home right now.\n(C) The caller dialed the wrong number.\nAnswer:\n",
-        "model_prediction": "(C) The caller dialed the wrong number."
+        "model_prediction": "(B) Tim Smith isn't at home right now."
     },
     {
         "answer": "(C) On Thursday morning at 10: 00.",
@@ -2883,7 +2883,7 @@
         "context": "M: Ruth seems very unhappy today.\n W: She failed to answer the teacher's question in class.",
         "question": "Why is Ruth unhappy today?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: Ruth seems very unhappy today.\n W: She failed to answer the teacher's question in class.\nQuestion:\nWhy is Ruth unhappy today?\nChoices:\n(A) She didn't pass a test.\n(B) She couldn't answer her teacher's question.\n(C) She forgot to do her homework.\nAnswer:\n",
-        "model_prediction": "Based on the conversation, the correct answer to the question \"Why is Ruth unhappy today?\" is:"
+        "model_prediction": "(B) She couldn't answer her teacher's question."
     },
     {
         "answer": "(B) He listened to some serious music.",
@@ -3390,7 +3390,7 @@
         "context": "W: Hi, Mike. Why didn't you come to attend my birthday party last Saturday?\n M: I'm sorry I felt a bit off color.",
         "question": "How did the man feel last Saturday?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nW: Hi, Mike. Why didn't you come to attend my birthday party last Saturday?\n M: I'm sorry I felt a bit off color.\nQuestion:\nHow did the man feel last Saturday?\nChoices:\n(A) Unsatisfied.\n(B) Unwell.\n(C) Happy.\nAnswer:\n",
-        "model_prediction": "Based on the conversation, the correct option is:"
+        "model_prediction": "Based on the conversation, the correct answer to the question \"How did the man feel last Saturday?\" is:"
     },
     {
         "answer": "(C) He will surf on the Internet.",
@@ -4144,7 +4144,7 @@
         "context": "F: That film is great. Don't you think so?\n M: Well... the color is good.",
         "question": "What does the man think of the film?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nF: That film is great. Don't you think so?\n M: Well... the color is good.\nQuestion:\nWhat does the man think of the film?\nChoices:\n(A) That film is great except color.\n(B) That film is not good.\n(C) That film is great.\nAnswer:\n",
-        "model_prediction": "(C) That film is great."
+        "model_prediction": "C"
     },
     {
         "answer": "(A) She phones her parents regularly atweekends.",
@@ -5223,7 +5223,7 @@
         "context": "W: Is it far from the theater?\n M: No, it's only ten minutes walk, or five minutes ride.",
         "question": "How long will it take to go to the theater on foot?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nW: Is it far from the theater?\n M: No, it's only ten minutes walk, or five minutes ride.\nQuestion:\nHow long will it take to go to the theater on foot?\nChoices:\n(A) 15 minutes.\n(B) 5 minutes.\n(C) 10 minutes.\nAnswer:\n",
-        "model_prediction": "(C) 10 minutes."
+        "model_prediction": "(B) 5 minutes."
     },
     {
         "answer": "(B) In a clothing store.",
@@ -5574,7 +5574,7 @@
         "context": "M: Excuse me. I need to find out where the city center is.\n W: Ah well, let me see ... You turn left and then go straight on.\n M: Ah left, thank you. Er ... I wonder if you could tell me whether there's a museum somewhere in the city.\n W: Well, it's further down the city center. You go across the bridge and it's on the other side of the river.\n M: I see. Could you tell me a bit more about it?\n W: I'm not really sure. I've never been there myself. I think it's quite interesting.\n M: Worth visiting, you think?\n W: Well, it's one of the tourist attractions of the city.\n M: I see. Thank you very much.",
         "question": "Who do you think the man is?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: Excuse me. I need to find out where the city center is.\n W: Ah well, let me see ... You turn left and then go straight on.\n M: Ah left, thank you. Er ... I wonder if you could tell me whether there's a museum somewhere in the city.\n W: Well, it's further down the city center. You go across the bridge and it's on the other side of the river.\n M: I see. Could you tell me a bit more about it?\n W: I'm not really sure. I've never been there myself. I think it's quite interesting.\n M: Worth visiting, you think?\n W: Well, it's one of the tourist attractions of the city.\n M: I see. Thank you very much.\nQuestion:\nWho do you think the man is?\nChoices:\n(A) A visitor to the woman's family.\n(B) A stranger to the place.\n(C) A native of the city.\nAnswer:\n",
-        "model_prediction": "(B) A stranger to the place."
+        "model_prediction": "(C) A native of the city."
     },
     {
         "answer": "(A) One with furniture in it.",
@@ -6055,7 +6055,7 @@
         "context": "M: I don't want red or blue marker. Please give me the pink one.\n W: All right.",
         "question": "What color marker does he want?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: I don't want red or blue marker. Please give me the pink one.\n W: All right.\nQuestion:\nWhat color marker does he want?\nChoices:\n(A) Blue.\n(B) Red.\n(C) Pink.\nAnswer:\n",
-        "model_prediction": "(C) Pink."
+        "model_prediction": "C"
     },
     {
         "answer": "(B) It is too noisy.",
@@ -6250,7 +6250,7 @@
         "context": "W: Hi Bob, I haven't seen you for quite a few days.\n M: Well, I just flew back from Paris. I was in London for a week.",
         "question": "Where has the man been?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nW: Hi Bob, I haven't seen you for quite a few days.\n M: Well, I just flew back from Paris. I was in London for a week.\nQuestion:\nWhere has the man been?\nChoices:\n(A) London.\n(B) Paris.\n(C) Both A and B.\nAnswer:\n",
-        "model_prediction": "C"
+        "model_prediction": "(C) Both A and B."
     },
     {
         "answer": "(B) He'll go by plane.",
@@ -6263,7 +6263,7 @@
         "context": "W: Do you plan on flying to the United States, Jack?\n M: Yes. It costs a lot but the trains and buses don't run the day I'm going. So I have no choice.",
         "question": "How would Jack get to the United States?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nW: Do you plan on flying to the United States, Jack?\n M: Yes. It costs a lot but the trains and buses don't run the day I'm going. So I have no choice.\nQuestion:\nHow would Jack get to the United States?\nChoices:\n(A) He'll go by bus.\n(B) He'll go by plane.\n(C) He'll go by train.\nAnswer:\n",
-        "model_prediction": "Based on the conversation, the correct answer to the question \"How would Jack get to the United States?\" is:"
+        "model_prediction": "(B) He'll go by plane."
     },
     {
         "answer": "(B) CDs and books",
@@ -6315,7 +6315,7 @@
         "context": "W: It's a fine day today, isn't it?\n M: Yes, but yesterday was very cold.",
         "question": "What was the weather like yesterday?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nW: It's a fine day today, isn't it?\n M: Yes, but yesterday was very cold.\nQuestion:\nWhat was the weather like yesterday?\nChoices:\n(A) Cook\n(B) Fine.\n(C) Cold.\nAnswer:\n",
-        "model_prediction": "Based on the conversation, the correct answer to the question \"What was the weather like yesterday?\" is:"
+        "model_prediction": "C"
     },
     {
         "answer": "(A) One and a half hours.",
@@ -6328,7 +6328,7 @@
         "context": "W: Holiday Travel! What can I do for you?\n M: Hello! I'd like to book a flight to Berlin for the 23rd this month.\n W: OK. Let me see what's available. And when will you be returning?\n M: Er, well, I'd like to catch a return flight on the 29th. Oh, and I'd like the cheapest seat possible.\n W: OK, let me see. Hmm... the ticket price is much lower if you leave one day earlier.\n M: I see. How much is it for one day earlier?\n W: It's only 980 dollars.\n M: All right. Then I'll take that flight.\n W: OK. That's flight BA 7101, from Salt Lake City to New York Kennedy Airport. Then Flight BA 2701 from Kennedy Airport to Berlin. The fist flight leaves Salt Lake City at 10:00 am, and arrives in New York at 4:15 pm. Then the 2nd flight leaves Kennedy Airport at 5:45 pm. You'll arrive in Berlin at 8:30 am the next day.\n M: All right. Thanks.",
         "question": "How long will the man have to wait at Kennedy Airport?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nW: Holiday Travel! What can I do for you?\n M: Hello! I'd like to book a flight to Berlin for the 23rd this month.\n W: OK. Let me see what's available. And when will you be returning?\n M: Er, well, I'd like to catch a return flight on the 29th. Oh, and I'd like the cheapest seat possible.\n W: OK, let me see. Hmm... the ticket price is much lower if you leave one day earlier.\n M: I see. How much is it for one day earlier?\n W: It's only 980 dollars.\n M: All right. Then I'll take that flight.\n W: OK. That's flight BA 7101, from Salt Lake City to New York Kennedy Airport. Then Flight BA 2701 from Kennedy Airport to Berlin. The fist flight leaves Salt Lake City at 10:00 am, and arrives in New York at 4:15 pm. Then the 2nd flight leaves Kennedy Airport at 5:45 pm. You'll arrive in Berlin at 8:30 am the next day.\n M: All right. Thanks.\nQuestion:\nHow long will the man have to wait at Kennedy Airport?\nChoices:\n(A) One and a half hours.\n(B) Two hours.\n(C) Half an hour.\nAnswer:\n",
-        "model_prediction": "(A) One and a half hours."
+        "model_prediction": "(B) Two hours."
     },
     {
         "answer": "(C) At a restaurant.",
@@ -6731,7 +6731,7 @@
         "context": "M: Did you buy the bed we saw last week?\n W: Of course. Though it's not so beautiful, it's very cheap.",
         "question": "Why did the woman buy the bed?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: Did you buy the bed we saw last week?\n W: Of course. Though it's not so beautiful, it's very cheap.\nQuestion:\nWhy did the woman buy the bed?\nChoices:\n(A) The woman likes it very much.\n(B) It is cheap.\n(C) It is beautiful\nAnswer:\n",
-        "model_prediction": "Based on the conversation, the correct option is:"
+        "model_prediction": "Based on the conversation, the correct answer to the question \"Why did the woman buy the bed?\" is:"
     },
     {
         "answer": "(C) Anna.",
@@ -7966,7 +7966,7 @@
         "context": "F: Tomorrow is Sunday, let's go outing together.\n M: Good idea.",
         "question": "What day is it tomorrow?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nF: Tomorrow is Sunday, let's go outing together.\n M: Good idea.\nQuestion:\nWhat day is it tomorrow?\nChoices:\n(A) Friday.\n(B) Sunday.\n(C) Monday.\nAnswer:\n",
-        "model_prediction": "(B) Sunday."
+        "model_prediction": "B"
     },
     {
         "answer": "(B) They are family.",
@@ -8057,7 +8057,7 @@
         "context": "M: Um... Well... Are you free next weekend?\n W: I'm sorry, I have made a plan.",
         "question": "What does the woman mean?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: Um... Well... Are you free next weekend?\n W: I'm sorry, I have made a plan.\nQuestion:\nWhat does the woman mean?\nChoices:\n(A) She has to work on her paper tonight.\n(B) She wants to know the man's suggestion.\n(C) She has already made her plan.\nAnswer:\n",
-        "model_prediction": "C"
+        "model_prediction": "(C) She has already made her plan."
     },
     {
         "answer": "(A) A mother and a son.",
@@ -8382,7 +8382,7 @@
         "context": "W: What time is it now?\n M: It's ten to five.",
         "question": "What are they talking about?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nW: What time is it now?\n M: It's ten to five.\nQuestion:\nWhat are they talking about?\nChoices:\n(A) Time.\n(B) A place.\n(C) Numbers.\nAnswer:\n",
-        "model_prediction": "(A) Time."
+        "model_prediction": ") Time."
     },
     {
         "answer": "(A) She is working there.",
@@ -8551,7 +8551,7 @@
         "context": "W: What happened to you, Jack? You look upset.\n M: I had my car stolen.\n W: Oh, I'm sorry to hear that. You should report it to the police right away.\n M: I guess you are right.",
         "question": "What can we learn from the conversation?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nW: What happened to you, Jack? You look upset.\n M: I had my car stolen.\n W: Oh, I'm sorry to hear that. You should report it to the police right away.\n M: I guess you are right.\nQuestion:\nWhat can we learn from the conversation?\nChoices:\n(A) Jack will go to the police station.\n(B) Jack has just been to the police station.\n(C) Jack's friend has reported the case to the police.\nAnswer:\n",
-        "model_prediction": "(A) Jack will go to the police station."
+        "model_prediction": "(B) Jack has just been to the police station."
     },
     {
         "answer": "(B) Glasses.",
@@ -8733,7 +8733,7 @@
         "context": "M: The tape always gets stuck and the voice becomes unnatural.\n W: Why not take it to Henry?",
         "question": "What does Henry probably do?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: The tape always gets stuck and the voice becomes unnatural.\n W: Why not take it to Henry?\nQuestion:\nWhat does Henry probably do?\nChoices:\n(A) He sells recorders.\n(B) He repairs recorders.\n(C) He's a singer.\nAnswer:\n",
-        "model_prediction": "Based on the conversation, the correct answer to the question \"What does Henry probably do?\" is:"
+        "model_prediction": "(B) He repairs recorders."
     },
     {
         "answer": "(C) Order his food quickly.",
@@ -8798,7 +8798,7 @@
         "context": "M: Here are coming seven guests in the evening. Have you prepared enough food, dear?\n W: I forget to tell you that the couple Simth won't come.",
         "question": "How many guests will be at the dinner?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: Here are coming seven guests in the evening. Have you prepared enough food, dear?\n W: I forget to tell you that the couple Simth won't come.\nQuestion:\nHow many guests will be at the dinner?\nChoices:\n(A) Five\n(B) Six\n(C) Seven\nAnswer:\n",
-        "model_prediction": "(C) Sev"
+        "model_prediction": "(B) Six"
     },
     {
         "answer": "(B) Different.",
@@ -8967,7 +8967,7 @@
         "context": "M: Isn't that a new brand of typewriter you're working at?\n W: Oh, Bill, this isn't the first time you asked me about it.",
         "question": "What does the woman imply?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: Isn't that a new brand of typewriter you're working at?\n W: Oh, Bill, this isn't the first time you asked me about it.\nQuestion:\nWhat does the woman imply?\nChoices:\n(A) The typewriter is not new.\n(B) The man is a forgetful person.\n(C) The man can have the typewriter later.\nAnswer:\n",
-        "model_prediction": "(A) The typewriter is not new."
+        "model_prediction": "(B) The man is a forgetful person."
     },
     {
         "answer": "(A) She made too many mistakes on work.",
@@ -9682,7 +9682,7 @@
         "context": "M: What happened to you? You are so late.\n W: The bus I took broke down in front of the hospital and I had to walk from there.",
         "question": "Why was the woman so late?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: What happened to you? You are so late.\n W: The bus I took broke down in front of the hospital and I had to walk from there.\nQuestion:\nWhy was the woman so late?\nChoices:\n(A) Something prevented her from catching the bus.\n(B) She took somebody to hospital.\n(C) Something went wrong with the bus.\nAnswer:\n",
-        "model_prediction": "C"
+        "model_prediction": "(C) Something went wrong with the bus."
     },
     {
         "answer": "(B) She doesn't expect it to come so soon.",
@@ -9812,7 +9812,7 @@
         "context": "M: You should have seen the line at the housing office. It took me an hour to make my dormitory deposit for next year. Have you made yours yet?\n W: No, I'm not sure I'm going to.\n M: There's not much time left. The deadline's May 1. That is just two weeks from now. Are you short of cash?\n W: No, I'm Okay.\n M: You'd better hurry up if you want a dorm room next September. There aren't enough rooms for every one, and first year students have priority.\n W: Well, I've been thinking about living off campus.\n M: Have you any idea of how much that would cost? There is the rent, utilities, and you'd probably need a car.\n W: I know it would be more expensive. I think I can handle it though. The dorm is just so noisy that I can't get anything done. Maybe my grades would be better if I had some peace and quiet in a place of my own.\n M: You should study in the library the way I do. Think of the money you'd save.\n W: I've got to think it over some more. There's still two weeks left in April.",
         "question": "What does the man seem to be concerned about?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: You should have seen the line at the housing office. It took me an hour to make my dormitory deposit for next year. Have you made yours yet?\n W: No, I'm not sure I'm going to.\n M: There's not much time left. The deadline's May 1. That is just two weeks from now. Are you short of cash?\n W: No, I'm Okay.\n M: You'd better hurry up if you want a dorm room next September. There aren't enough rooms for every one, and first year students have priority.\n W: Well, I've been thinking about living off campus.\n M: Have you any idea of how much that would cost? There is the rent, utilities, and you'd probably need a car.\n W: I know it would be more expensive. I think I can handle it though. The dorm is just so noisy that I can't get anything done. Maybe my grades would be better if I had some peace and quiet in a place of my own.\n M: You should study in the library the way I do. Think of the money you'd save.\n W: I've got to think it over some more. There's still two weeks left in April.\nQuestion:\nWhat does the man seem to be concerned about?\nChoices:\n(A) Money.\n(B) Privacy.\n(C) Grades.\nAnswer:\n",
-        "model_prediction": "(C) Grades."
+        "model_prediction": "(A) Money."
     },
     {
         "answer": "(A) It's Jack's birthday.",
@@ -10696,7 +10696,7 @@
         "context": "M: Do you know that Chinese first played football hundreds of years ago?\n F: But now the Europeans play it well.",
         "question": "What does the woman think?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: Do you know that Chinese first played football hundreds of years ago?\n F: But now the Europeans play it well.\nQuestion:\nWhat does the woman think?\nChoices:\n(A) She thinks the Japanese first got to know how to play football.\n(B) She thinks the Europeans play football better.\n(C) She doesn't think football came from China.\nAnswer:\n",
-        "model_prediction": "(C) She doesn't think football came from China."
+        "model_prediction": "(B) She thinks the Europeans play football better."
     },
     {
         "answer": "(C) Horror stories.",
@@ -10735,7 +10735,7 @@
         "context": "M: Hi, Jane. I hear you are leaving for Washington this weekend.\n W: No, I am not going anywhere now.\n M: What happened?\n W: I lost my money and my train ticket.\n M: Oh, nuts! Where do you think you lost them?\n W: I'm sure I had my wallet this morning. When I was in the bank changing money, I took it from my bag.\n M: Where did you go after that?\n W: To the gym. I can almost be certain that the wallet fell out of my pocket and was picked up by someone else.",
         "question": "What is the most probable relationship between the speakers?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: Hi, Jane. I hear you are leaving for Washington this weekend.\n W: No, I am not going anywhere now.\n M: What happened?\n W: I lost my money and my train ticket.\n M: Oh, nuts! Where do you think you lost them?\n W: I'm sure I had my wallet this morning. When I was in the bank changing money, I took it from my bag.\n M: Where did you go after that?\n W: To the gym. I can almost be certain that the wallet fell out of my pocket and was picked up by someone else.\nQuestion:\nWhat is the most probable relationship between the speakers?\nChoices:\n(A) Husband and wife.\n(B) Money owner and policeman.\n(C) Friends.\nAnswer:\n",
-        "model_prediction": "(C) Friends."
+        "model_prediction": "C"
     },
     {
         "answer": "(B) junior high school",
@@ -10930,7 +10930,7 @@
         "context": "W: I read the instructions, but I'm still not sure how to use my cell phone.\n M: Actually, it's pretty easy. First of all, don't forget to turn it on.\n W: Got it!\n M: Then dial the number. And remember to press the \"send\" button.\n W: That's all?\n M: Pretty much. Just make sure to recharge the batteries every few weeks. And try not to drop it. It's fragile.\n W: Good advice.\n M: And one more thing: Be sure to pay the phone bill every month!",
         "question": "How often should the woman recharge the batteries?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nW: I read the instructions, but I'm still not sure how to use my cell phone.\n M: Actually, it's pretty easy. First of all, don't forget to turn it on.\n W: Got it!\n M: Then dial the number. And remember to press the \"send\" button.\n W: That's all?\n M: Pretty much. Just make sure to recharge the batteries every few weeks. And try not to drop it. It's fragile.\n W: Good advice.\n M: And one more thing: Be sure to pay the phone bill every month!\nQuestion:\nHow often should the woman recharge the batteries?\nChoices:\n(A) Every few months.\n(B) Every few days.\n(C) Every few weeks.\nAnswer:\n",
-        "model_prediction": "C"
+        "model_prediction": "(C) Every few weeks."
     },
     {
         "answer": "(B) Satisfactory.",
@@ -11775,7 +11775,7 @@
         "context": "W: 8872471, hello!\n M: Hello! Is that Mary speaking?\n W: Yes, Mary speaking. Is that John?\n M: Yes, I'm at the reception desk of the hotel. I'll be back soon. Just wait for me.",
         "question": "Where is the man?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nW: 8872471, hello!\n M: Hello! Is that Mary speaking?\n W: Yes, Mary speaking. Is that John?\n M: Yes, I'm at the reception desk of the hotel. I'll be back soon. Just wait for me.\nQuestion:\nWhere is the man?\nChoices:\n(A) At home.\n(B) In a hotel.\n(C) In a shop.\nAnswer:\n",
-        "model_prediction": "B"
+        "model_prediction": "(B) In a hotel."
     },
     {
         "answer": "(C) It makes reference to old-style beds that used ropes to hold up the mattresses.",
@@ -11801,7 +11801,7 @@
         "context": "M: Would you like to study with us in the library?\n W: I'd rather study at home.",
         "question": "What does the man mean?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: Would you like to study with us in the library?\n W: I'd rather study at home.\nQuestion:\nWhat does the man mean?\nChoices:\n(A) Prefers to study than to go home.\n(B) He prefers to study at hom\n(C) He thinks it is better than studying at home.\nAnswer:\n",
-        "model_prediction": "B"
+        "model_prediction": "(B) He prefers to study at home."
     },
     {
         "answer": "(A) Literature.",
@@ -11827,7 +11827,7 @@
         "context": "W: What is it like outside today?\n M: It's clear and sunny but cold.\n W: I'd better wear my heavy jacket.\n M: That's a good idea.",
         "question": "What's the weather like today?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nW: What is it like outside today?\n M: It's clear and sunny but cold.\n W: I'd better wear my heavy jacket.\n M: That's a good idea.\nQuestion:\nWhat's the weather like today?\nChoices:\n(A) It's sunny.\n(B) It's fine.\n(C) It's cold.\nAnswer:\n",
-        "model_prediction": "(C) It's cold."
+        "model_prediction": "(A) It's sunny."
     },
     {
         "answer": "(B) It might not be necessary to buy a guide-book.",
@@ -12399,7 +12399,7 @@
         "context": "W: Mr. Rice, I wonder if I could be off on Friday.\n M: Do you really have to? It's a bit difficult with so many people away on holiday, you know.",
         "question": "What can be the result of the talk?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nW: Mr. Rice, I wonder if I could be off on Friday.\n M: Do you really have to? It's a bit difficult with so many people away on holiday, you know.\nQuestion:\nWhat can be the result of the talk?\nChoices:\n(A) The woman can be off on Friday.\n(B) No result.\n(C) The woman should work on Friday.\nAnswer:\n",
-        "model_prediction": "(B) No result."
+        "model_prediction": "(A) The woman can be off on Friday."
     },
     {
         "answer": "(B) Teacher and student.",
@@ -12841,7 +12841,7 @@
         "context": "M: Hey, Jenny, let's go to a movie. You've been working on these bills for hours now.\n W: It's impossible.\n M: Why?\n W: We can't afford to go out. Look at the bills yourself. Everything I say goes in one ear and out of the other.\n M: All right. I've been trying to cut down our expenses lately. I've been turning off the lights when I leave the room.",
         "question": "What does the man want to do?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: Hey, Jenny, let's go to a movie. You've been working on these bills for hours now.\n W: It's impossible.\n M: Why?\n W: We can't afford to go out. Look at the bills yourself. Everything I say goes in one ear and out of the other.\n M: All right. I've been trying to cut down our expenses lately. I've been turning off the lights when I leave the room.\nQuestion:\nWhat does the man want to do?\nChoices:\n(A) Have his hair cut.\n(B) Go travel.\n(C) Go to the cinema.\nAnswer:\n",
-        "model_prediction": "(C) Go to the cinema."
+        "model_prediction": "C"
     },
     {
         "answer": "(A) He's looking for his watch.",
@@ -13426,7 +13426,7 @@
         "context": "M: This is ridiculous! I've been waiting for my meal for more than half an hour.\n W: I know. But you see, the restaurant is full and we are short-handed today.",
         "question": "How does the man feel?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: This is ridiculous! I've been waiting for my meal for more than half an hour.\n W: I know. But you see, the restaurant is full and we are short-handed today.\nQuestion:\nHow does the man feel?\nChoices:\n(A) He is curious.\n(B) He is impatient.\n(C) He is exhausted.\nAnswer:\n",
-        "model_prediction": "Based on the conversation, the correct option is:"
+        "model_prediction": "(B) He is impatient."
     },
     {
         "answer": "(C) Helen is quiet.",
@@ -13595,7 +13595,7 @@
         "context": "M: Sally! Sally! Could you please turn off the radio? I hate to have to say this, but it's too noisy here.\n W: What? But...\n M: You know I'm reading my books and I'm preparing for my English exam this afternoon.\n W: I know that. But I'm not listening to the radio. The noise comes from our neighbours upstairs.\n M: Oh! How terrible! I'll talk to them and let them be quiet!",
         "question": "Why is the man so annoyed?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: Sally! Sally! Could you please turn off the radio? I hate to have to say this, but it's too noisy here.\n W: What? But...\n M: You know I'm reading my books and I'm preparing for my English exam this afternoon.\n W: I know that. But I'm not listening to the radio. The noise comes from our neighbours upstairs.\n M: Oh! How terrible! I'll talk to them and let them be quiet!\nQuestion:\nWhy is the man so annoyed?\nChoices:\n(A) Because his sister made him study very hard.\n(B) Because the noise disturbed him so much.\n(C) Because he didn't like listening to radio.\nAnswer:\n",
-        "model_prediction": "B"
+        "model_prediction": "(B) Because the noise disturbed him so much."
     },
     {
         "answer": "(C) Jane's.",
@@ -13829,7 +13829,7 @@
         "context": "W: These are really good. You see where says selling dishes?\n M: Yes?\n W: The food comes to the table all bubbling and spitting. I had a big dish last time.\n M: It's worth having again, then?\n W: Well, I'll try something different, like fish?\n M: Era, I'm not too keen on that, actually. What about this duck thing? Is it a sort of specialty?\n W: Yes, crispy duck with aromatic sauce, young.\n M: Ok, well, that's one thing. And I quite like the taste of this rice. It seems to have a bit of everything in it.\n W: I think the noodles are better, actually.",
         "question": "You hear two people discussing the menu in a Chinese restaurant. Which dish are they going to have?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nW: These are really good. You see where says selling dishes?\n M: Yes?\n W: The food comes to the table all bubbling and spitting. I had a big dish last time.\n M: It's worth having again, then?\n W: Well, I'll try something different, like fish?\n M: Era, I'm not too keen on that, actually. What about this duck thing? Is it a sort of specialty?\n W: Yes, crispy duck with aromatic sauce, young.\n M: Ok, well, that's one thing. And I quite like the taste of this rice. It seems to have a bit of everything in it.\n W: I think the noodles are better, actually.\nQuestion:\nYou hear two people discussing the menu in a Chinese restaurant. Which dish are they going to have?\nChoices:\n(A) Beef.\n(B) Fish.\n(C) Duck.\nAnswer:\n",
-        "model_prediction": "(C) Duck."
+        "model_prediction": "C"
     },
     {
         "answer": "(A) Boss and employee.",
@@ -14453,7 +14453,7 @@
         "context": "M: Maths department, Doctor Webster speaking.\n W: Hello, Professor Webster, this is Janet Wang calling. I'm living two doors down from your teaching assistant, Ken Williams. Ken asked me to call you because he has lost his voice and can't talk to you himself.\n M: Lost his voice? Oh, what a shame! Is there anything I can do for you?\n W: Well, Ken has a class this afternoon from two-thirty to four and he won't be able to teach it, but he doesn't want to cancel it either.\n M: Want me to try to find somebody else to teach the class?\n W: No, not exactly. What he wants to do is to get someone to go in for him, just to pass back the midterm exams. He's already marked them and they are on the desk in his office. The whole thing wouldn't take more than ten minutes.\n M: His classes are two-thirty, eh? Well, I'm afraid at that time I'll be on campus anyway; so I can do it for him.\n W: Thank you very much, Professor Webster.",
         "question": "What's Ken's problem?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: Maths department, Doctor Webster speaking.\n W: Hello, Professor Webster, this is Janet Wang calling. I'm living two doors down from your teaching assistant, Ken Williams. Ken asked me to call you because he has lost his voice and can't talk to you himself.\n M: Lost his voice? Oh, what a shame! Is there anything I can do for you?\n W: Well, Ken has a class this afternoon from two-thirty to four and he won't be able to teach it, but he doesn't want to cancel it either.\n M: Want me to try to find somebody else to teach the class?\n W: No, not exactly. What he wants to do is to get someone to go in for him, just to pass back the midterm exams. He's already marked them and they are on the desk in his office. The whole thing wouldn't take more than ten minutes.\n M: His classes are two-thirty, eh? Well, I'm afraid at that time I'll be on campus anyway; so I can do it for him.\n W: Thank you very much, Professor Webster.\nQuestion:\nWhat's Ken's problem?\nChoices:\n(A) He doesn't like his class.\n(B) He is unable to talk.\n(C) He can't find his office key.\nAnswer:\n",
-        "model_prediction": "Based on the conversation, the correct answer is:"
+        "model_prediction": "(B) He is unable to talk."
     },
     {
         "answer": "(A) They are on holiday.",
@@ -14869,7 +14869,7 @@
         "context": "M: What's your favorite kind of music?\n W: I love jazz. I have over 50 jazz CDs. What about you?\n M: I love all kinds of music -- jazz, rock, classical, and folk.",
         "question": "What kind of music does the woman like?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: What's your favorite kind of music?\n W: I love jazz. I have over 50 jazz CDs. What about you?\n M: I love all kinds of music -- jazz, rock, classical, and folk.\nQuestion:\nWhat kind of music does the woman like?\nChoices:\n(A) Classical.\n(B) Jazz.\n(C) Folk.\nAnswer:\n",
-        "model_prediction": "Based on the conversation, the correct answer is:"
+        "model_prediction": "(B) Jazz."
     },
     {
         "answer": "(A) A week.",
@@ -14973,7 +14973,7 @@
         "context": "M: I believe you have a room to let.\n W: That's so. Yes, won't you come in?",
         "question": "What can we learn from the conversation?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: I believe you have a room to let.\n W: That's so. Yes, won't you come in?\nQuestion:\nWhat can we learn from the conversation?\nChoices:\n(A) The woman is a secretary.\n(B) The man is looking for a place to live in.\n(C) The man has a house for rent.\nAnswer:\n",
-        "model_prediction": "Based on the conversation, we can learn that the man is looking for a place to live in. So, the correct option is:"
+        "model_prediction": "(B) The man is looking for a place to live in."
     },
     {
         "answer": "(C) At a restaurant",
@@ -15103,7 +15103,7 @@
         "context": "W: Do you know that John's health took a turn for the worse?\n M: But he used to be as strong as a horse.\n W: You will never know when your health will fail all of a sudden.\n M: It's one of the misfortunes in life, isn't it?\n W: It sure is.\n M: So health is more valuable than anything else. No matter how much money we have, you can not buy good health with it.\n W: I quite agree with you, and similarly, honors can never equal good health either.\n M: To conclude, we should try our best to keep us as healthy as possible.",
         "question": "What happened to John?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nW: Do you know that John's health took a turn for the worse?\n M: But he used to be as strong as a horse.\n W: You will never know when your health will fail all of a sudden.\n M: It's one of the misfortunes in life, isn't it?\n W: It sure is.\n M: So health is more valuable than anything else. No matter how much money we have, you can not buy good health with it.\n W: I quite agree with you, and similarly, honors can never equal good health either.\n M: To conclude, we should try our best to keep us as healthy as possible.\nQuestion:\nWhat happened to John?\nChoices:\n(A) He had an accident.\n(B) He turned around suddenly.\n(C) His health suddenly failed.\nAnswer:\n",
-        "model_prediction": "(C) His health suddenly failed."
+        "model_prediction": "C"
     },
     {
         "answer": "(C) Go away.",
@@ -15129,7 +15129,7 @@
         "context": "M: How many students took the exam last Saturday?\n W: Well, let me see. I believe that we had twenty-five from the Middle East and fifteen from Latin America.",
         "question": "How many students took the exam?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: How many students took the exam last Saturday?\n W: Well, let me see. I believe that we had twenty-five from the Middle East and fifteen from Latin America.\nQuestion:\nHow many students took the exam?\nChoices:\n(A) Forty students.\n(B) Fifty students.\n(C) Twenty-five students.\nAnswer:\n",
-        "model_prediction": "(C) Twenty-five students."
+        "model_prediction": "(B) Fifty students."
     },
     {
         "answer": "(C) geometry",
@@ -15857,7 +15857,7 @@
         "context": "M: I hear a businessman is building a dog park in our city.\n W: Really? What for?\n M: Obviously because there's a law against having dogs in the streets.\n W: Does it mean that dogs have to stay at home all the time?\n M: Sounds pretty cruel, right? Maybe a dog park is a good idea.\n W: Maybe they should just allow people to walk their dogs in the streets.\n M: But then streets could be a mess.\n W: Couldn't people clean up after their dogs?\n M: Would they?",
         "question": "What do we know from what the woman said?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: I hear a businessman is building a dog park in our city.\n W: Really? What for?\n M: Obviously because there's a law against having dogs in the streets.\n W: Does it mean that dogs have to stay at home all the time?\n M: Sounds pretty cruel, right? Maybe a dog park is a good idea.\n W: Maybe they should just allow people to walk their dogs in the streets.\n M: But then streets could be a mess.\n W: Couldn't people clean up after their dogs?\n M: Would they?\nQuestion:\nWhat do we know from what the woman said?\nChoices:\n(A) Dogs should be kept at home.\n(B) Building a dog park is necessary.\n(C) People would remove the dog waste.\nAnswer:\n",
-        "model_prediction": "(C) People would remove the dog waste."
+        "model_prediction": "(B) Building a dog park is necessary."
     },
     {
         "answer": "(A) A boss and her employee.",
@@ -17365,7 +17365,7 @@
         "context": "W: Could you help me, Sir? My flight got in 15 minutes ago. Everyone else has picked up the luggage but mine hasn't come through.\n M: I'm sorry, Madam, I'll go and find out if there is any more to come.",
         "question": "What's the woman's problem?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nW: Could you help me, Sir? My flight got in 15 minutes ago. Everyone else has picked up the luggage but mine hasn't come through.\n M: I'm sorry, Madam, I'll go and find out if there is any more to come.\nQuestion:\nWhat's the woman's problem?\nChoices:\n(A) Someone has taken her luggage.\n(B) Her luggage has been delayed.\n(C) Her flight is 50 minutes late.\nAnswer:\n",
-        "model_prediction": "Based on the conversation, the correct option is:"
+        "model_prediction": "(B) Her luggage has been delayed."
     },
     {
         "answer": "(B) It's in bad condition.",
@@ -17456,7 +17456,7 @@
         "context": "W: Will you join us later for the card game?\n M: I have to catch up on the lessons I missed.",
         "question": "What will the man do?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nW: Will you join us later for the card game?\n M: I have to catch up on the lessons I missed.\nQuestion:\nWhat will the man do?\nChoices:\n(A) Play a card game.\n(B) Join his friends.\n(C) Do more studying.\nAnswer:\n",
-        "model_prediction": "(C) Do more studying."
+        "model_prediction": "C"
     },
     {
         "answer": "(B) Their apartments.",
@@ -18028,7 +18028,7 @@
         "context": "F: Why do you throw your pen away?\n M: It doesn't work well.",
         "question": "Why does the man throw the pen away?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nF: Why do you throw your pen away?\n M: It doesn't work well.\nQuestion:\nWhy does the man throw the pen away?\nChoices:\n(A) He doesn't like the color.\n(B) The pen doesn't work well.\n(C) It's not his pen.\nAnswer:\n",
-        "model_prediction": "Based on the conversation, the correct response to the question is:"
+        "model_prediction": "(B) The pen doesn't work well."
     },
     {
         "answer": "(C) The pear.",
@@ -18548,7 +18548,7 @@
         "context": "W: Did you meet the new teacher yesterday?\n M: I've been sick for three days.",
         "question": "What does the man mean?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nW: Did you meet the new teacher yesterday?\n M: I've been sick for three days.\nQuestion:\nWhat does the man mean?\nChoices:\n(A) He didn't like the teacher.\n(B) The new teacher is sick.\n(C) He hasn't met the teacher yet.\nAnswer:\n",
-        "model_prediction": "(C) He hasn't met the teacher yet."
+        "model_prediction": "(B) The new teacher is sick."
     },
     {
         "answer": "(B) Rest and have fun.",
@@ -18691,7 +18691,7 @@
         "context": "M: Did you watch the football match on TV yesterday evening?\n W: No I didn't. I had dinner with a friend and didn't go back home until eight o'clock.",
         "question": "What did the woman do yesterday evening?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: Did you watch the football match on TV yesterday evening?\n W: No I didn't. I had dinner with a friend and didn't go back home until eight o'clock.\nQuestion:\nWhat did the woman do yesterday evening?\nChoices:\n(A) She watched TV.\n(B) She ate out.\n(C) She watched a match.\nAnswer:\n",
-        "model_prediction": "Based on the conversation, the correct option is:"
+        "model_prediction": "(B) She ate out."
     },
     {
         "answer": "(B) They like swimming.",
@@ -18912,7 +18912,7 @@
         "context": "W: Would you like some drink?\n M: Just some water, please.",
         "question": "What will the man want to drink?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nW: Would you like some drink?\n M: Just some water, please.\nQuestion:\nWhat will the man want to drink?\nChoices:\n(A) A cup of tea.\n(B) Some water.\n(C) A glass of coffee.\nAnswer:\n",
-        "model_prediction": "Based on the conversation, the correct option is:"
+        "model_prediction": "Based on the conversation, the correct answer to the question \"What will the man want to drink?\" is:"
     },
     {
         "answer": "(C) They are really good.",
@@ -18925,7 +18925,7 @@
         "context": "M: I've never tried tomatoes but I'm sure I wouldn't like them if I did.\n W: You don't know what you are missing.",
         "question": "What does the woman think of tomatoes?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: I've never tried tomatoes but I'm sure I wouldn't like them if I did.\n W: You don't know what you are missing.\nQuestion:\nWhat does the woman think of tomatoes?\nChoices:\n(A) She doesn't like them.\n(B) They are not tasty.\n(C) They are really good.\nAnswer:\n",
-        "model_prediction": "(C) They are really good."
+        "model_prediction": "C"
     },
     {
         "answer": "(C) It was made of low-quality metal.",
@@ -19016,7 +19016,7 @@
         "context": "M: A friend gave me a photo. I wanted to show it to you.\n W: Great! Could you bring it to school tomorrow?",
         "question": "What will he bring to school tomorrow?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: A friend gave me a photo. I wanted to show it to you.\n W: Great! Could you bring it to school tomorrow?\nQuestion:\nWhat will he bring to school tomorrow?\nChoices:\n(A) He will bring a friend to school.\n(B) He will bring a photo to school.\n(C) He win bring a photo to home.\nAnswer:\n",
-        "model_prediction": "Based on the conversation, the correct option is:"
+        "model_prediction": "(B) He will bring a photo to school."
     },
     {
         "answer": "(C) Once a week.",
@@ -19224,7 +19224,7 @@
         "context": "M: This hotel in India just got ranked the number one hotel in the world!\n W: What, by some silly website that specializes in top ten lists just to sell more ads?\n M: No, by Travel + Leisure magazine.\n W: Oh, really? They really know their stuff. Hey, that looks more like a palace!\n M: It's designed after the ancient palaces of northern India.\n W: It looks like a lot of the rooms have balconies.\n M: Yeah, those are the suites that have direct access to private pools. But all the rooms have Wi-Fi, flat screen TVs, king-size beds, daily newspapers, and...\n W: OK, stop talking! We've got to make our reservations!\n M: Well, hang on a second. You don't really like Indian food.\n W: But I thought they offer other choices besides Indian food...\n M: Maybe. Also, this part of India is pretty quiet. There's no shopping or clubbing. People go there to relax.\n W: That's OK. I can go shopping anywhere.\n M: The rooms start at $350 per night, and those suites are $750 per night.\n W: Whoa! I thought India was supposed to be inexpensive!",
         "question": "What may have changed the woman's mind about the hotel?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: This hotel in India just got ranked the number one hotel in the world!\n W: What, by some silly website that specializes in top ten lists just to sell more ads?\n M: No, by Travel + Leisure magazine.\n W: Oh, really? They really know their stuff. Hey, that looks more like a palace!\n M: It's designed after the ancient palaces of northern India.\n W: It looks like a lot of the rooms have balconies.\n M: Yeah, those are the suites that have direct access to private pools. But all the rooms have Wi-Fi, flat screen TVs, king-size beds, daily newspapers, and...\n W: OK, stop talking! We've got to make our reservations!\n M: Well, hang on a second. You don't really like Indian food.\n W: But I thought they offer other choices besides Indian food...\n M: Maybe. Also, this part of India is pretty quiet. There's no shopping or clubbing. People go there to relax.\n W: That's OK. I can go shopping anywhere.\n M: The rooms start at $350 per night, and those suites are $750 per night.\n W: Whoa! I thought India was supposed to be inexpensive!\nQuestion:\nWhat may have changed the woman's mind about the hotel?\nChoices:\n(A) The area around the hotel.\n(B) The food that is available.\n(C) The price of the rooms.\nAnswer:\n",
-        "model_prediction": "(B) The food that is available."
+        "model_prediction": "(C) The price of the rooms."
     },
     {
         "answer": "(B) She takes some hot water for him.",
@@ -19718,7 +19718,7 @@
         "context": "M: Hi. It's good to see the sun again.\n W: Yes, we have been looking forward to this change for many days.\n M: But it's supposed to cloud over this afternoon.\n W: Oh, I can't believe it. The vegetables in my garden do need sunlight. They are getting yellow.\n M: The same with mine. But I don't think we can do anything but wait.\n W: What did the weather report say?\n M: It said just what I told you.\n W: Oh, my God!",
         "question": "Why do the speakers hope for sunny days?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: Hi. It's good to see the sun again.\n W: Yes, we have been looking forward to this change for many days.\n M: But it's supposed to cloud over this afternoon.\n W: Oh, I can't believe it. The vegetables in my garden do need sunlight. They are getting yellow.\n M: The same with mine. But I don't think we can do anything but wait.\n W: What did the weather report say?\n M: It said just what I told you.\n W: Oh, my God!\nQuestion:\nWhy do the speakers hope for sunny days?\nChoices:\n(A) They can't do anything in the rain.\n(B) They feel bored with the rain.\n(C) They are worrying about their vegetables.\nAnswer:\n",
-        "model_prediction": "C"
+        "model_prediction": "(C) They are worrying about their vegetables."
     },
     {
         "answer": "(B) He shares the woman's opinion.",
@@ -20082,7 +20082,7 @@
         "context": "M: Well, what did you think of the house?\n F: The sitting room was all right, but the kitchen was very small.",
         "question": "What did the woman think of the house?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: Well, what did you think of the house?\n F: The sitting room was all right, but the kitchen was very small.\nQuestion:\nWhat did the woman think of the house?\nChoices:\n(A) All right\n(B) Too bad\n(C) Only the sitting room was all right\nAnswer:\n",
-        "model_prediction": "C"
+        "model_prediction": "(C) Only the sitting room was all right"
     },
     {
         "answer": "(C) He did no better than the woman in the test.",
@@ -20485,7 +20485,7 @@
         "context": "M: What's the matter with you, madam?\n W: I have a headache. And I felt confused and cold.\n M: You probably have caught a cold. Let me check your pulse and lake your temperature. Oh, you de have a high fever.\n W: Is it serious?\n M: Take it easy. Here is the prescription and get some medicine, you will be better soon.\n W: Do I have to be given an injection?\n M: Yes, before you leave, I want my nurse to give you an injection.\n W: Okay. Do I have to go on a diet?\n M: Not necessarily. Drink as much water or juice as you can, avoid greasy food and keep warm.\n W: Thank you.",
         "question": "What is the probable relationship between the two speakers?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: What's the matter with you, madam?\n W: I have a headache. And I felt confused and cold.\n M: You probably have caught a cold. Let me check your pulse and lake your temperature. Oh, you de have a high fever.\n W: Is it serious?\n M: Take it easy. Here is the prescription and get some medicine, you will be better soon.\n W: Do I have to be given an injection?\n M: Yes, before you leave, I want my nurse to give you an injection.\n W: Okay. Do I have to go on a diet?\n M: Not necessarily. Drink as much water or juice as you can, avoid greasy food and keep warm.\n W: Thank you.\nQuestion:\nWhat is the probable relationship between the two speakers?\nChoices:\n(A) Writer and reader.\n(B) Teacher and student.\n(C) Doctor and patient.\nAnswer:\n",
-        "model_prediction": "(C) Doctor and patient."
+        "model_prediction": "C"
     },
     {
         "answer": "(C) They don't like summer.",
@@ -20680,7 +20680,7 @@
         "context": "M: Any ticket for Washington? I'm going there on business.\n W: Sorry. But you can transfer in New York.",
         "question": "What's the man's destination?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: Any ticket for Washington? I'm going there on business.\n W: Sorry. But you can transfer in New York.\nQuestion:\nWhat's the man's destination?\nChoices:\n(A) Los Angeles.\n(B) Washington.\n(C) New York.\nAnswer:\n",
-        "model_prediction": "(B) Washington."
+        "model_prediction": "(C) New York."
     },
     {
         "answer": "(C) The boy went home himself.",
@@ -20823,7 +20823,7 @@
         "context": "M: How are you going to send the letter, by ordinary mail or by registered mail?\n W: By ordinary mail, please.",
         "question": "Where do you think the conversation takes place?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: How are you going to send the letter, by ordinary mail or by registered mail?\n W: By ordinary mail, please.\nQuestion:\nWhere do you think the conversation takes place?\nChoices:\n(A) A bank.\n(B) A shopping center.\n(C) A post office.\nAnswer:\n",
-        "model_prediction": "C"
+        "model_prediction": "(C) A post office."
     },
     {
         "answer": "(C) To repeat it.",
@@ -20901,7 +20901,7 @@
         "context": "M: Can I have the earphone changed? It's not working.\n W: Let me check it.",
         "question": "What does the woman mean?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: Can I have the earphone changed? It's not working.\n W: Let me check it.\nQuestion:\nWhat does the woman mean?\nChoices:\n(A) She'd like to see what is wrong with it.\n(B) She can't change it for him.\n(C) She'll change it for him.\nAnswer:\n",
-        "model_prediction": "(C) She'll change it for him."
+        "model_prediction": "(A) She'd like to see what is wrong with it."
     },
     {
         "answer": "(C) At 5:15.",
@@ -22071,7 +22071,7 @@
         "context": "M: What would you like to drink?\n F: Some coffee, please.",
         "question": "What will the woman drink?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: What would you like to drink?\n F: Some coffee, please.\nQuestion:\nWhat will the woman drink?\nChoices:\n(A) Beer\n(B) Coffee\n(C) Tea\nAnswer:\n",
-        "model_prediction": "Based on the conversation, the correct option is:"
+        "model_prediction": "To answer this question, I will follow these steps:"
     },
     {
         "answer": "(B) He has another appointment.",
@@ -22448,7 +22448,7 @@
         "context": "F: Are these six students all in your class?\n M: No, two of them are not.",
         "question": "How many students are there in the man's class?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nF: Are these six students all in your class?\n M: No, two of them are not.\nQuestion:\nHow many students are there in the man's class?\nChoices:\n(A) 4\n(B) 5\n(C) 6\nAnswer:\n",
-        "model_prediction": "(C) 6"
+        "model_prediction": "(B) 5"
     },
     {
         "answer": "(A) apple pie",
@@ -22565,7 +22565,7 @@
         "context": "W: The movie next Tuesday has been cancelled due to lack of interest.\n M: What do you mean?\n W: Well, by last night only a few tickets has been sold.",
         "question": "What can we conclude about the movie?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nW: The movie next Tuesday has been cancelled due to lack of interest.\n M: What do you mean?\n W: Well, by last night only a few tickets has been sold.\nQuestion:\nWhat can we conclude about the movie?\nChoices:\n(A) They want to buy the tickets for the movie.\n(B) The movie will not be shown.\n(C) The tickets for the movie were sold.\nAnswer:\n",
-        "model_prediction": "Based on the conversation, we can conclude that the movie will not be shown. So, the correct option is:"
+        "model_prediction": "(B) The movie will not be shown."
     },
     {
         "answer": "(A) At an art gallery.",
@@ -23293,7 +23293,7 @@
         "context": "M: You know the party last night? Lots of old faces from college were there.\n W: Really?\n M: Yeah. Sally was there with her husband; I heard he,s something very high up and important in some business company.\n W: Yes, I heard that too. To tell you the truth, I never really expected her to marry someone successful. She was alway untidy and didn't like to work.\n M: Obviously, she has changed her attitude to life. I mean she was very smartly dressed, and she kept telling me all about how much money their new house had cost.\n W: Seriously.\n M: Yes, she was really proud of it.\n W: Well,she never used to be interested in money at all.\n M: By the way, Simon Fox was at the party.\n W: Was he? I haven't seen him for ages.\n M: Naturally, he couldn't help asking me questions about you.\n W: I think he still thinks that we might get back together one day.\n M: Exactly.\n W: Well, not much chance of that.",
         "question": "What did Sally try to show her friends?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: You know the party last night? Lots of old faces from college were there.\n W: Really?\n M: Yeah. Sally was there with her husband; I heard he,s something very high up and important in some business company.\n W: Yes, I heard that too. To tell you the truth, I never really expected her to marry someone successful. She was alway untidy and didn't like to work.\n M: Obviously, she has changed her attitude to life. I mean she was very smartly dressed, and she kept telling me all about how much money their new house had cost.\n W: Seriously.\n M: Yes, she was really proud of it.\n W: Well,she never used to be interested in money at all.\n M: By the way, Simon Fox was at the party.\n W: Was he? I haven't seen him for ages.\n M: Naturally, he couldn't help asking me questions about you.\n W: I think he still thinks that we might get back together one day.\n M: Exactly.\n W: Well, not much chance of that.\nQuestion:\nWhat did Sally try to show her friends?\nChoices:\n(A) She was very happy.\n(B) She was interested in Simon.\n(C) She was successful in business.\nAnswer:\n",
-        "model_prediction": "(C) She was successful in business."
+        "model_prediction": "(A) She was very happy."
     },
     {
         "answer": "(C) To learn from others.",
@@ -23592,7 +23592,7 @@
         "context": "W: Should I ask John what we have to read for tomorrow?\n M: How would he know?",
         "question": "What does the man mean?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nW: Should I ask John what we have to read for tomorrow?\n M: How would he know?\nQuestion:\nWhat does the man mean?\nChoices:\n(A) He knows John well enough.\n(B) John won't know at all.\n(C) John would be the one to ask.\nAnswer:\n",
-        "model_prediction": "B"
+        "model_prediction": "(B) John won't know at all."
     },
     {
         "answer": "(C) give misleading information",
@@ -23943,7 +23943,7 @@
         "context": "M: Last night, jack left his car parked in front of his girl-friend's house and when he came out to go home, it was gone.\n W: Wow! That's really tough. He just bought it last month, didn't he?",
         "question": "What do you think happened?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: Last night, jack left his car parked in front of his girl-friend's house and when he came out to go home, it was gone.\n W: Wow! That's really tough. He just bought it last month, didn't he?\nQuestion:\nWhat do you think happened?\nChoices:\n(A) Jack bought a new car.\n(B) Jack's car was stolen.\n(C) Jack sold his car.\nAnswer:\n",
-        "model_prediction": "Based on the conversation, the correct option is:"
+        "model_prediction": "Based on the conversation, the correct answer to the question \"What do you think happened?\" is:"
     },
     {
         "answer": "(A) Someone",
@@ -24203,7 +24203,7 @@
         "context": "M: Henry has four classes on Wednesday and Peter has three.\n W: I only have two. but I have five on Thursday.",
         "question": "How many classes does the woman have on Wednesday?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: Henry has four classes on Wednesday and Peter has three.\n W: I only have two. but I have five on Thursday.\nQuestion:\nHow many classes does the woman have on Wednesday?\nChoices:\n(A) Five.\n(B) Three.\n(C) Two.\nAnswer:\n",
-        "model_prediction": "C"
+        "model_prediction": "(C) Two."
     },
     {
         "answer": "(B) Play table tennis.",
@@ -25282,7 +25282,7 @@
         "context": "F: Turn on the TV, please. I want to know tomorrow's weather.\n M: All right.",
         "question": "Why does the woman ask the man to turn on the TV?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nF: Turn on the TV, please. I want to know tomorrow's weather.\n M: All right.\nQuestion:\nWhy does the woman ask the man to turn on the TV?\nChoices:\n(A) Because she wants to watch the weather report.\n(B) Because she wants to watch the evening news.\n(C) Because she wants to watch a famous film.\nAnswer:\n",
-        "model_prediction": "(A) Because she wants to watch the weather report."
+        "model_prediction": "(B) Because she wants to watch the evening news."
     },
     {
         "answer": "(A) $150.",
@@ -25386,7 +25386,7 @@
         "context": "M: I hope you can pass the exam this time.\n W: I'm afraid I'll have to make you disappointed again.",
         "question": "What does the woman mean?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: I hope you can pass the exam this time.\n W: I'm afraid I'll have to make you disappointed again.\nQuestion:\nWhat does the woman mean?\nChoices:\n(A) She doesn't want to pass the exam because she wants to disappoint the man.\n(B) She is confident that she will pass the exam.\n(C) She is probably to fail the exam again.\nAnswer:\n",
-        "model_prediction": "C"
+        "model_prediction": "(C) She is probably to fail the exam again."
     },
     {
         "answer": "(B) A dress and a hat.",
@@ -26218,7 +26218,7 @@
         "context": "M: Hey, Lily, are you French?\n F: No, I'm not. I'm Swiss.",
         "question": "What's the woman's name?",
         "model_input": "Based on the conversation, respond to the question by selecting the correct option. Simply select the choice, no explanations required.\nDialogue:\nM: Hey, Lily, are you French?\n F: No, I'm not. I'm Swiss.\nQuestion:\nWhat's the woman's name?\nChoices:\n(A) Simon\n(B) Lily\n(C) Jimmy\nAnswer:\n",
-        "model_prediction": "(B) Lily"
+        "model_prediction": "The correct answer is (B) Lily. In the dialogue, the person asking the question is addressed as \"Hey, Lily,\" which indicates that Lily is the woman's name."
     },
     {
         "answer": "(C) Friday evening.",

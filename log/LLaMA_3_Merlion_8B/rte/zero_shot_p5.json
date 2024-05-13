@@ -8,7 +8,7 @@
         "answer": "(A) Entailment",
         "id": "test_1",
         "model_input": "Respond to the following question by choosing the most suitable option. Simply select the choice, no explanations required.\nQuestion: Are the following two sentence entailment or not?\n\nSentence1: Adela Lupse was born in 1988 to a miner's family in the village of Poiana, Bihor in Transylvania, Romania. A member of Romania's first post-Ceausescu generation, she grasped the power of television at a young age: \"I think television is the most interesting phenomenon that the modern day has given us....for my type of personality, I find it impressive, the power that television has worldwide....We dress like the people that television promotes. We want to look like the celebrities that television launches.\" Sentence2: Bihor is situated in Romania.\n\nChoices:\n(A) Entailment\n(B) Not Entailment\n\nAnswer:\n",
-        "model_prediction": "(B) Not Entailment"
+        "model_prediction": "(A) Entailment"
     },
     {
         "choices": [

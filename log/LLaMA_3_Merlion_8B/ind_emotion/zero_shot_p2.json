@@ -522,7 +522,7 @@
         "context": "[USERNAME] JORR macet total! Dari Pintu Tol Pasar Minggu sampai Jati Asih udah hampir 3 jam! Banyak asongan di tengah jalan. Truk di jalur paling kanan. Bayar tol buat apa ya?!  [URL]",
         "id": "test_35",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\n[USERNAME] JORR macet total! Dari Pintu Tol Pasar Minggu sampai Jati Asih udah hampir 3 jam! Banyak asongan di tengah jalan. Truk di jalur paling kanan. Bayar tol buat apa ya?!  [URL]\nPilihan:\n(A) Neutral\n(B) Love\n(C) Sadness\n(D) Anger\n(E) Happy\n(F) Fear\nJawaban:\n",
-        "model_prediction": "(D) Ang"
+        "model_prediction": "Dalam menentukan emosi dari kalimat tersebut, pertama-tama kita perlu memahami konteks dari kalimat tersebut. Konteksnya adalah tentang kemacetan di JORR (Jalan Tol JORR) yang menyebabkan kesalahan pengguna jalan. Dalam konteks ini, emosi yang paling sesuai adalah:"
     },
     {
         "answer": "(A) Fear",
@@ -717,7 +717,7 @@
         "context": "serial komedi taun 2013, cuma 1 season. ceritanya mba2 yg masih muda nikah sama duda 3 anak, kadang malah dua mantan istrinya juga ngumpul di rumah. receh bgt asli",
         "id": "test_48",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\nserial komedi taun 2013, cuma 1 season. ceritanya mba2 yg masih muda nikah sama duda 3 anak, kadang malah dua mantan istrinya juga ngumpul di rumah. receh bgt asli\nPilihan:\n(A) Happy\n(B) Sadness\n(C) Anger\n(D) Neutral\n(E) Fear\n(F) Love\nJawaban:\n",
-        "model_prediction": "(C) Ang"
+        "model_prediction": "(B) Sad"
     },
     {
         "answer": "(C) Love",
@@ -777,7 +777,7 @@
         "context": "[USERNAME] [USERNAME] Mekanisme pemilihan direksi dan komisarisnya dgn cara gmna ya? Sontoloyo khan uang rakyat dipake buat gaji BOD dan BOC yg model gini....",
         "id": "test_52",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\n[USERNAME] [USERNAME] Mekanisme pemilihan direksi dan komisarisnya dgn cara gmna ya? Sontoloyo khan uang rakyat dipake buat gaji BOD dan BOC yg model gini....\nPilihan:\n(A) Happy\n(B) Fear\n(C) Neutral\n(D) Anger\n(E) Love\n(F) Sadness\nJawaban:\n",
-        "model_prediction": "(D) Ang"
+        "model_prediction": "Dalam menyelesaikan tugas ini, saya akan menganalisis konteks dan kata-kata yang digunakan dalam kalimat tersebut. Setelah menganalisis konteks, saya akan memilih jawaban yang paling sesuai dengan emosi yang ditunjukkan dalam kalimat tersebut."
     },
     {
         "answer": "(F) Fear",
@@ -912,7 +912,7 @@
         "context": "[USERNAME] [USERNAME] [USERNAME] [USERNAME] Ku ditinggal senja Malam menghampiri Sendiri ku dalam menanti Segera oh angin sampaikan rinduku Terlupakah kau pada janjimu Ketika bersama rindu bergelora Perpisahan menikam jiwa Kau pandai mengusik kau pan",
         "id": "test_61",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\n[USERNAME] [USERNAME] [USERNAME] [USERNAME] Ku ditinggal senja Malam menghampiri Sendiri ku dalam menanti Segera oh angin sampaikan rinduku Terlupakah kau pada janjimu Ketika bersama rindu bergelora Perpisahan menikam jiwa Kau pandai mengusik kau pan\nPilihan:\n(A) Sadness\n(B) Fear\n(C) Love\n(D) Happy\n(E) Neutral\n(F) Anger\nJawaban:\n",
-        "model_prediction": "(C) Lov"
+        "model_prediction": "(A) Sad"
     },
     {
         "answer": "(C) Fear",
@@ -1527,7 +1527,7 @@
         "context": "Baru kali ini ngerasa sukarela nyebarin kegiatan yang disukai dan bermanfaat juga. Tanpa diminta nyebarin pun, pasti bakal disebar. Mulai dari sekarang, mari bersepeda! #bersepeda #bandungbersepeda #bandung #bandungnightride #indonesiabersepeda [URL]",
         "id": "test_102",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\nBaru kali ini ngerasa sukarela nyebarin kegiatan yang disukai dan bermanfaat juga. Tanpa diminta nyebarin pun, pasti bakal disebar. Mulai dari sekarang, mari bersepeda! #bersepeda #bandungbersepeda #bandung #bandungnightride #indonesiabersepeda [URL]\nPilihan:\n(A) Love\n(B) Neutral\n(C) Anger\n(D) Happy\n(E) Sadness\n(F) Fear\nJawaban:\n",
-        "model_prediction": "Dalam menyelesaikan tugas ini, saya akan menganalisis kalimat yang diberikan dan mencari emosi yang paling sesuai dengan konteksnya. Berikut adalah langkah-langkah yang saya lakukan:"
+        "model_prediction": "Dalam menyelesaikan tugas ini, saya akan menganalisis kalimat yang diberikan dan mencari emosi yang paling sesuai dengan konteksnya. Berikut adalah langkah-langkah yang saya ambil:"
     },
     {
         "answer": "(F) Happy",
@@ -1647,7 +1647,7 @@
         "context": "SEMUA WARGA BERHAK NYAPRES NYAWAPRES.. dan warga sebagai konstituen punya hak juga utk milih dan tidak memilih.. jadi jangan gederasa dulu kalo wajahnya dah masuk tivi dan koran.. tebarkan bantuan ke kirikanan tanpa harus nunggu jadi petinggi mumpung itu lebih baik #wisngonowae",
         "id": "test_110",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\nSEMUA WARGA BERHAK NYAPRES NYAWAPRES.. dan warga sebagai konstituen punya hak juga utk milih dan tidak memilih.. jadi jangan gederasa dulu kalo wajahnya dah masuk tivi dan koran.. tebarkan bantuan ke kirikanan tanpa harus nunggu jadi petinggi mumpung itu lebih baik #wisngonowae\nPilihan:\n(A) Anger\n(B) Fear\n(C) Love\n(D) Sadness\n(E) Neutral\n(F) Happy\nJawaban:\n",
-        "model_prediction": "(E) Neutral"
+        "model_prediction": "(F) Happy"
     },
     {
         "answer": "(F) Anger",
@@ -1782,7 +1782,7 @@
         "context": "happy wedding elizasekar semoga langgeng sampai kakek nenek. - - #wedding #weddingparty #weddingtradisional #adatjawa",
         "id": "test_119",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\nhappy wedding elizasekar semoga langgeng sampai kakek nenek. - - #wedding #weddingparty #weddingtradisional #adatjawa\nPilihan:\n(A) Happy\n(B) Love\n(C) Neutral\n(D) Sadness\n(E) Fear\n(F) Anger\nJawaban:\n",
-        "model_prediction": "(A) Happy"
+        "model_prediction": ") Happy"
     },
     {
         "answer": "(C) Anger",
@@ -2232,7 +2232,7 @@
         "context": "[USERNAME] [USERNAME] Inilah Contoh Manusia Yg Buta Matanya.Udh Tau Ok Oce Dn Dp 0% Hanya tipu Muslihat.Mau Di Bilang Ada Paktanya.Udh Ga Waras Ya Loe.",
         "id": "test_149",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\n[USERNAME] [USERNAME] Inilah Contoh Manusia Yg Buta Matanya.Udh Tau Ok Oce Dn Dp 0% Hanya tipu Muslihat.Mau Di Bilang Ada Paktanya.Udh Ga Waras Ya Loe.\nPilihan:\n(A) Love\n(B) Happy\n(C) Sadness\n(D) Neutral\n(E) Anger\n(F) Fear\nJawaban:\n",
-        "model_prediction": "(E) Anger"
+        "model_prediction": "(E) Ang"
     },
     {
         "answer": "(B) Happy",
@@ -2322,7 +2322,7 @@
         "context": "Tungkai itu gemetaran bukan main. Duduk hati-hati jangan sampai peluh berjatuhan. Berhadapan dengan atasan satu kelompok mafia buat dia hampir gila.",
         "id": "test_155",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\nTungkai itu gemetaran bukan main. Duduk hati-hati jangan sampai peluh berjatuhan. Berhadapan dengan atasan satu kelompok mafia buat dia hampir gila.\nPilihan:\n(A) Fear\n(B) Anger\n(C) Sadness\n(D) Neutral\n(E) Happy\n(F) Love\nJawaban:\n",
-        "model_prediction": ") Fea"
+        "model_prediction": ""
     },
     {
         "answer": "(E) Sadness",
@@ -2352,7 +2352,7 @@
         "context": "krn jujur ga lg2 dihina remehin hina sodaraw dari pihak mama gw..ada sepupu setan dengkii smua si lina gw sumpahin segera mampus sok kaya belagu merasa kaya bgt kali norak ga lama lg kebongkar dia tipu2annya mau liatin aja bakal seterusnya sukses dia ahahhah najisin tuh sepupu",
         "id": "test_157",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\nkrn jujur ga lg2 dihina remehin hina sodaraw dari pihak mama gw..ada sepupu setan dengkii smua si lina gw sumpahin segera mampus sok kaya belagu merasa kaya bgt kali norak ga lama lg kebongkar dia tipu2annya mau liatin aja bakal seterusnya sukses dia ahahhah najisin tuh sepupu\nPilihan:\n(A) Fear\n(B) Neutral\n(C) Love\n(D) Sadness\n(E) Anger\n(F) Happy\nJawaban:\n",
-        "model_prediction": "(E) Anger"
+        "model_prediction": "(E) Ang"
     },
     {
         "answer": "(E) Happy",
@@ -2577,7 +2577,7 @@
         "context": "Demi apa, kalau gue punya pc ban Agus, gue trade langsung nih sama si Mas",
         "id": "test_172",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\nDemi apa, kalau gue punya pc ban Agus, gue trade langsung nih sama si Mas\nPilihan:\n(A) Sadness\n(B) Happy\n(C) Fear\n(D) Anger\n(E) Love\n(F) Neutral\nJawaban:\n",
-        "model_prediction": "(F) Neutral"
+        "model_prediction": "(B) Happy"
     },
     {
         "answer": "(C) Happy",
@@ -2967,7 +2967,7 @@
         "context": "Berkumpul dengan temen-temen SMP, yes SMP. Yg pernah berjuang bersama 14 taun yg lalu. Udah jadi bapak dan calon bapak. Saya sih harusnya udah jadi calon bapak juga, kalau saja taun lalu, iya taun lalu, ah sudahlah haha.",
         "id": "test_198",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\nBerkumpul dengan temen-temen SMP, yes SMP. Yg pernah berjuang bersama 14 taun yg lalu. Udah jadi bapak dan calon bapak. Saya sih harusnya udah jadi calon bapak juga, kalau saja taun lalu, iya taun lalu, ah sudahlah haha.\nPilihan:\n(A) Happy\n(B) Sadness\n(C) Love\n(D) Fear\n(E) Neutral\n(F) Anger\nJawaban:\n",
-        "model_prediction": "(C) Lov"
+        "model_prediction": "(E) Neutral"
     },
     {
         "answer": "(D) Anger",
@@ -3147,7 +3147,7 @@
         "context": "[USERNAME] Selamat Siang Sahabat Pos. Kiriman tsb sudah diterima ya sahabat. Terima kasih telah mempercayakan dan menggunakan layanan kami :) ^FD [URL]",
         "id": "test_210",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\n[USERNAME] Selamat Siang Sahabat Pos. Kiriman tsb sudah diterima ya sahabat. Terima kasih telah mempercayakan dan menggunakan layanan kami :) ^FD [URL]\nPilihan:\n(A) Happy\n(B) Fear\n(C) Love\n(D) Anger\n(E) Neutral\n(F) Sadness\nJawaban:\n",
-        "model_prediction": "(A) Happy"
+        "model_prediction": ") Happy"
     },
     {
         "answer": "(D) Love",
@@ -3537,7 +3537,7 @@
         "context": "Kemaren di belakang kampus juga, ada anak kambing asal nyebrang. Eh kambing nya b ajha yang nyebrang w yang histeris takut mereka ketabrak :((",
         "id": "test_236",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\nKemaren di belakang kampus juga, ada anak kambing asal nyebrang. Eh kambing nya b ajha yang nyebrang w yang histeris takut mereka ketabrak :((\nPilihan:\n(A) Love\n(B) Fear\n(C) Anger\n(D) Neutral\n(E) Sadness\n(F) Happy\nJawaban:\n",
-        "model_prediction": "(B) Fear"
+        "model_prediction": "(B) Fea"
     },
     {
         "answer": "(E) Sadness",
@@ -3567,7 +3567,7 @@
         "context": "JILBABER BAJU NATAL NORAK & ANJING2 KALIAN SDH MNYAMBUT DI HOTEL WAHAI INTEL SETAN [USERNAME] [USERNAME] APEP AHMAD TARDIYANA URBANE ANJING !! INI AJA POLA ULAH INTEL BUSUK LO NGIKUTIN ORG KEMNPUN TAEKKKK !! ALAT TEROR BNGSAT LAGI2 KALIAN PASANG DI KAMAR KERJASAMA DGN HOTEL TAEK!",
         "id": "test_238",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\nJILBABER BAJU NATAL NORAK & ANJING2 KALIAN SDH MNYAMBUT DI HOTEL WAHAI INTEL SETAN [USERNAME] [USERNAME] APEP AHMAD TARDIYANA URBANE ANJING !! INI AJA POLA ULAH INTEL BUSUK LO NGIKUTIN ORG KEMNPUN TAEKKKK !! ALAT TEROR BNGSAT LAGI2 KALIAN PASANG DI KAMAR KERJASAMA DGN HOTEL TAEK!\nPilihan:\n(A) Sadness\n(B) Happy\n(C) Fear\n(D) Neutral\n(E) Anger\n(F) Love\nJawaban:\n",
-        "model_prediction": "(E) Anger"
+        "model_prediction": "(E) Ang"
     },
     {
         "answer": "(F) Anger",
@@ -3672,7 +3672,7 @@
         "context": "Pasti km akan berpikir bagaimana cara menggantiku kelak. Tapi kumohon. Sesuaikan lah gaya hidup dengan kondisi. Aku ikhlas membantu. Ini untuk kelanjutan mu kelak. Disaat aku tak punya apa\" untuk membantu",
         "id": "test_245",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\nPasti km akan berpikir bagaimana cara menggantiku kelak. Tapi kumohon. Sesuaikan lah gaya hidup dengan kondisi. Aku ikhlas membantu. Ini untuk kelanjutan mu kelak. Disaat aku tak punya apa\" untuk membantu\nPilihan:\n(A) Sadness\n(B) Fear\n(C) Anger\n(D) Love\n(E) Neutral\n(F) Happy\nJawaban:\n",
-        "model_prediction": "(E) Neutral"
+        "model_prediction": "(A) Sad"
     },
     {
         "answer": "(C) Love",
@@ -3822,7 +3822,7 @@
         "context": "Jodoh itu kalau sudah waktunya ya akan ketemu juga. Minggu lalu Bli datang bawain kain. Hari ini Emak pulang membawa kebaya bordir. Yang dikasih kegirangan krn sekarang jadi punya sepasang baju cantik  [URL]",
         "id": "test_255",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\nJodoh itu kalau sudah waktunya ya akan ketemu juga. Minggu lalu Bli datang bawain kain. Hari ini Emak pulang membawa kebaya bordir. Yang dikasih kegirangan krn sekarang jadi punya sepasang baju cantik  [URL]\nPilihan:\n(A) Sadness\n(B) Neutral\n(C) Anger\n(D) Happy\n(E) Love\n(F) Fear\nJawaban:\n",
-        "model_prediction": "Dalam menyelesaikan tugas ini, saya akan menganalisis kalimat dan memilih jawaban yang paling sesuai dengan emosi yang terkandung dalam kalimat tersebut."
+        "model_prediction": "Dalam menyelesaikan tugas ini, saya akan menganalisis kalimat yang diberikan dan mencari kata kunci yang menunjukkan emosi yang terkait dengan kalimat tersebut. Setelah menganalisis kalimat, saya akan memilih jawaban yang sesuai dengan emosi yang ditemukan."
     },
     {
         "answer": "(E) Sadness",
@@ -4107,7 +4107,7 @@
         "context": "Saya tidak pernah mendapatkan edukasi mengenai efek buruk dan bahaya merokok ketika di sekolah baik di SD, SMP atau SMA. Sama sekali. Tidak pernah ada edukasi, yang ada hanya sanksi kepada yang sudah terlanjur merokok tanpa berusaha melarang dan mencegah kami untuk merokok.",
         "id": "test_274",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\nSaya tidak pernah mendapatkan edukasi mengenai efek buruk dan bahaya merokok ketika di sekolah baik di SD, SMP atau SMA. Sama sekali. Tidak pernah ada edukasi, yang ada hanya sanksi kepada yang sudah terlanjur merokok tanpa berusaha melarang dan mencegah kami untuk merokok.\nPilihan:\n(A) Love\n(B) Fear\n(C) Neutral\n(D) Anger\n(E) Sadness\n(F) Happy\nJawaban:\n",
-        "model_prediction": "(E) Sad"
+        "model_prediction": "(D) Ang"
     },
     {
         "answer": "(D) Happy",
@@ -4182,7 +4182,7 @@
         "context": "aq cinta ka dije hahahahahahahahaha goodnayt dari mimimingg yg baru saja menyelesaikan meng-approve 6000+ row usulan daerah",
         "id": "test_279",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\naq cinta ka dije hahahahahahahahaha goodnayt dari mimimingg yg baru saja menyelesaikan meng-approve 6000+ row usulan daerah\nPilihan:\n(A) Anger\n(B) Love\n(C) Sadness\n(D) Happy\n(E) Neutral\n(F) Fear\nJawaban:\n",
-        "model_prediction": "(D) Happy"
+        "model_prediction": "Dalam kalimat tersebut, emosi yang terungkap adalah:"
     },
     {
         "answer": "(A) Anger",
@@ -4422,7 +4422,7 @@
         "context": "Pagi selalu mengajarkan kita, bahwa ada harapan di setiap langkah kehidupan... . . .",
         "id": "test_295",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\nPagi selalu mengajarkan kita, bahwa ada harapan di setiap langkah kehidupan... . . .\nPilihan:\n(A) Happy\n(B) Neutral\n(C) Fear\n(D) Anger\n(E) Love\n(F) Sadness\nJawaban:\n",
-        "model_prediction": "(F) Sad"
+        "model_prediction": "(B) Neutral"
     },
     {
         "answer": "(C) Anger",
@@ -4512,7 +4512,7 @@
         "context": "Cewek bawel karna dia perduli. cewek cemburu karna dia sayang. cewek khawatir karna dia takut kehilangan. bersyukur punya cewek kayak gitu. :)",
         "id": "test_301",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\nCewek bawel karna dia perduli. cewek cemburu karna dia sayang. cewek khawatir karna dia takut kehilangan. bersyukur punya cewek kayak gitu. :)\nPilihan:\n(A) Fear\n(B) Sadness\n(C) Anger\n(D) Happy\n(E) Neutral\n(F) Love\nJawaban:\n",
-        "model_prediction": "(D) Happy"
+        "model_prediction": "(F) Lov"
     },
     {
         "answer": "(F) Happy",
@@ -4722,7 +4722,7 @@
         "context": "so soan ngeprank sih keseel, panas tiris kunaon? lagian meni tahan amat ngediemin aku dua hari",
         "id": "test_315",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\nso soan ngeprank sih keseel, panas tiris kunaon? lagian meni tahan amat ngediemin aku dua hari\nPilihan:\n(A) Happy\n(B) Fear\n(C) Love\n(D) Sadness\n(E) Anger\n(F) Neutral\nJawaban:\n",
-        "model_prediction": "(E) Anger"
+        "model_prediction": "(E) Ang"
     },
     {
         "answer": "(B) Love",
@@ -4992,7 +4992,7 @@
         "context": "Lg rame sexual harassment gara2 via vallen.. Dan bnyk pro dan kontra atas yg dilakukan via. Yg kontra, mungkin hrs nonton 13 reason why sih tuh. Dmn udh cerita kmn2 mnta pertolongan, tp org2 nganggep hal tsb sepele. Telek.",
         "id": "test_333",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\nLg rame sexual harassment gara2 via vallen.. Dan bnyk pro dan kontra atas yg dilakukan via. Yg kontra, mungkin hrs nonton 13 reason why sih tuh. Dmn udh cerita kmn2 mnta pertolongan, tp org2 nganggep hal tsb sepele. Telek.\nPilihan:\n(A) Happy\n(B) Fear\n(C) Love\n(D) Anger\n(E) Sadness\n(F) Neutral\nJawaban:\n",
-        "model_prediction": "(D) Anger"
+        "model_prediction": "(D) Ang"
     },
     {
         "answer": "(B) Fear",
@@ -5202,7 +5202,7 @@
         "context": "Persahabatan itu tidak perlu filosopi, tidak memiliki nilai dalam hidup. akan tetapi, itulah yang memberikan nilai untuk kelangsungan hidup happy friendship day",
         "id": "test_347",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\nPersahabatan itu tidak perlu filosopi, tidak memiliki nilai dalam hidup. akan tetapi, itulah yang memberikan nilai untuk kelangsungan hidup happy friendship day\nPilihan:\n(A) Neutral\n(B) Sadness\n(C) Fear\n(D) Happy\n(E) Love\n(F) Anger\nJawaban:\n",
-        "model_prediction": "Dalam menyelesaikan tugas ini, saya akan menganalisis kalimat dan memilih kata kunci yang terkait dengan emosi. Setelah menganalisis kalimat, saya akan memilih jawaban yang paling sesuai dengan emosi yang terkait dengan kalimat tersebut."
+        "model_prediction": "Dalam menyelesaikan tugas ini, saya akan menganalisis kalimat dan memilih emosi yang paling sesuai dengan konteksnya. "
     },
     {
         "answer": "(E) Happy",
@@ -5337,7 +5337,7 @@
         "context": "It's like a circle of stupidity. Atlit gak diurusin, duitnya buat bebenah ini itu biar atlit yang dateng dari luar negri bisa nyaman disini tp atlit sendiri kurang gizi. Belum beres bebenah eh salah satu stadion dirusak \"supporter\" karna timnya (atlit) main jelek. What a moron.",
         "id": "test_356",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\nIt's like a circle of stupidity. Atlit gak diurusin, duitnya buat bebenah ini itu biar atlit yang dateng dari luar negri bisa nyaman disini tp atlit sendiri kurang gizi. Belum beres bebenah eh salah satu stadion dirusak \"supporter\" karna timnya (atlit) main jelek. What a moron.\nPilihan:\n(A) Love\n(B) Sadness\n(C) Happy\n(D) Fear\n(E) Anger\n(F) Neutral\nJawaban:\n",
-        "model_prediction": "(E) Anger"
+        "model_prediction": "(E) Ang"
     },
     {
         "answer": "(E) Happy",
@@ -5592,7 +5592,7 @@
         "context": "Anis bilang Prabowo didukung mafia asal mangap apa fakta?? sok nyolot kunyuk [USERNAME] satu ini nggak ada sopan santunnya sama pemimpin",
         "id": "test_373",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\nAnis bilang Prabowo didukung mafia asal mangap apa fakta?? sok nyolot kunyuk [USERNAME] satu ini nggak ada sopan santunnya sama pemimpin\nPilihan:\n(A) Fear\n(B) Neutral\n(C) Love\n(D) Anger\n(E) Happy\n(F) Sadness\nJawaban:\n",
-        "model_prediction": "(D) Ang"
+        "model_prediction": "Dalam menyelesaikan tugas ini, saya akan menganalisis kalimat yang diberikan dan mencari emosi yang paling sesuai dengan kalimat tersebut. Berikut adalah langkah-langkah yang saya lakukan:"
     },
     {
         "answer": "(D) Happy",
@@ -5607,7 +5607,7 @@
         "context": "Bahagia itu dekat, seperti I cinta the way you say Good Morning. So, say it every single day to me ya.. Cm mau ngingetin, jika satu org sdh mulai pudar kepeduliannya, jgn pernah takut, krna diluar sana akan ada org yg lbh peduli sama km, as long as you do something good jg.",
         "id": "test_374",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\nBahagia itu dekat, seperti I cinta the way you say Good Morning. So, say it every single day to me ya.. Cm mau ngingetin, jika satu org sdh mulai pudar kepeduliannya, jgn pernah takut, krna diluar sana akan ada org yg lbh peduli sama km, as long as you do something good jg.\nPilihan:\n(A) Love\n(B) Fear\n(C) Anger\n(D) Happy\n(E) Neutral\n(F) Sadness\nJawaban:\n",
-        "model_prediction": "Dalam menyelesaikan tugas ini, saya akan menganalisis kalimat dan mencari kata-kata atau frasa yang menunjukkan emosi tertentu. Setelah menganalisis kalimat, saya akan memilih jawaban yang paling sesuai dengan emosi yang terdapat dalam kalimat tersebut."
+        "model_prediction": "Dalam kalimat tersebut, emosi yang terungkap adalah (D) Happy. Pasalnya, kalimat tersebut mengandung ungkapan cinta dan kebahagiaan."
     },
     {
         "answer": "(F) Love",
@@ -5712,7 +5712,7 @@
         "context": "[USERNAME] [USERNAME] [USERNAME] [USERNAME] [USERNAME] [USERNAME] [USERNAME] Klau Berita Posttingan Si Juned Ini Benar.Trus Yg Mnghadirin Acara Itu Siapa.Mas.Anda Jngn Pura2 ediot.Udh jelas2 Yg Menghadiri Acara itu Para Politikus Pecun",
         "id": "test_381",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\n[USERNAME] [USERNAME] [USERNAME] [USERNAME] [USERNAME] [USERNAME] [USERNAME] Klau Berita Posttingan Si Juned Ini Benar.Trus Yg Mnghadirin Acara Itu Siapa.Mas.Anda Jngn Pura2 ediot.Udh jelas2 Yg Menghadiri Acara itu Para Politikus Pecun\nPilihan:\n(A) Sadness\n(B) Happy\n(C) Love\n(D) Neutral\n(E) Fear\n(F) Anger\nJawaban:\n",
-        "model_prediction": "(D) Neutral"
+        "model_prediction": "(B) Happy"
     },
     {
         "answer": "(D) Anger",
@@ -5757,7 +5757,7 @@
         "context": "Sayang, tapi emang Holmes juga akan lebih dapet menit di Suns. Kelebihan Muscala di outside shooting jadi pembeda di sini.",
         "id": "test_384",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\nSayang, tapi emang Holmes juga akan lebih dapet menit di Suns. Kelebihan Muscala di outside shooting jadi pembeda di sini.\nPilihan:\n(A) Anger\n(B) Happy\n(C) Fear\n(D) Sadness\n(E) Neutral\n(F) Love\nJawaban:\n",
-        "model_prediction": "(F) Lov"
+        "model_prediction": "(E) Neutral"
     },
     {
         "answer": "(B) Love",
@@ -5802,7 +5802,7 @@
         "context": "saya ganteng tidak-suka mati saja kamu",
         "id": "test_387",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\nsaya ganteng tidak-suka mati saja kamu\nPilihan:\n(A) Sadness\n(B) Fear\n(C) Happy\n(D) Love\n(E) Anger\n(F) Neutral\nJawaban:\n",
-        "model_prediction": "(E) Anger"
+        "model_prediction": "(E) Ang"
     },
     {
         "answer": "(A) Anger",
@@ -5817,7 +5817,7 @@
         "context": "[USERNAME] Betul betul mbah sya juga heran kok masih ada prof,kyai,dan buya yang mau dibawah rok siembok yang setahu saya selama sekolah tidak terdapat satupun tulisan ataupun artikel yang memuat jasa siembok terhadap negara",
         "id": "test_388",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\n[USERNAME] Betul betul mbah sya juga heran kok masih ada prof,kyai,dan buya yang mau dibawah rok siembok yang setahu saya selama sekolah tidak terdapat satupun tulisan ataupun artikel yang memuat jasa siembok terhadap negara\nPilihan:\n(A) Anger\n(B) Fear\n(C) Happy\n(D) Love\n(E) Neutral\n(F) Sadness\nJawaban:\n",
-        "model_prediction": "(E) Neutral"
+        "model_prediction": "(C) Happy"
     },
     {
         "answer": "(B) Anger",
@@ -5937,7 +5937,7 @@
         "context": "Setiap orang pasti ada masalah.. Masalah nya berbeda beda, asalkan kita mampu mengatasi masalah itu sendiri... Tapi masalah yang aku hadapi sulit untuk diatasi sendiri,,, Bingung, resah [URL]",
         "id": "test_396",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\nSetiap orang pasti ada masalah.. Masalah nya berbeda beda, asalkan kita mampu mengatasi masalah itu sendiri... Tapi masalah yang aku hadapi sulit untuk diatasi sendiri,,, Bingung, resah [URL]\nPilihan:\n(A) Anger\n(B) Love\n(C) Happy\n(D) Sadness\n(E) Fear\n(F) Neutral\nJawaban:\n",
-        "model_prediction": "(E) Fea"
+        "model_prediction": "(D) Sad"
     },
     {
         "answer": "(F) Love",
@@ -6087,7 +6087,7 @@
         "context": "Cak kalian tengok langit malam ini woi, cari bulan. Cantik sekali bulan malam ini, besar dan setengah penuh, berbinar binar seperti wajahku",
         "id": "test_406",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\nCak kalian tengok langit malam ini woi, cari bulan. Cantik sekali bulan malam ini, besar dan setengah penuh, berbinar binar seperti wajahku\nPilihan:\n(A) Love\n(B) Happy\n(C) Fear\n(D) Sadness\n(E) Anger\n(F) Neutral\nJawaban:\n",
-        "model_prediction": "(F) Neutral"
+        "model_prediction": "(B) Happy"
     },
     {
         "answer": "(D) Fear",
@@ -6102,7 +6102,7 @@
         "context": "Aku cuma takut aku terbuat dia kecewa  ini peluang terakhir, i knw him. Bila dia rasa kecewa yg teramat dia takkan pandang belakang. Dn dari sini pun dapat rasa kan yang aku mmg takut hilang dia",
         "id": "test_407",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\nAku cuma takut aku terbuat dia kecewa  ini peluang terakhir, i knw him. Bila dia rasa kecewa yg teramat dia takkan pandang belakang. Dn dari sini pun dapat rasa kan yang aku mmg takut hilang dia\nPilihan:\n(A) Neutral\n(B) Love\n(C) Sadness\n(D) Fear\n(E) Anger\n(F) Happy\nJawaban:\n",
-        "model_prediction": "Dalam menyelesaikan tugas ini, saya akan membagi kalimat menjadi beberapa bagian untuk memudahkan klasifikasi emosi. Setelah membagi kalimat, saya akan memilih jawaban yang paling sesuai dengan emosi yang terdapat dalam kalimat tersebut."
+        "model_prediction": "D"
     },
     {
         "answer": "(A) Sadness",
@@ -6507,7 +6507,7 @@
         "context": "Malah Lu harusnya tanya ke IG nya langsung, yang menghapus yg punya akun atau dari kebijakan IGnya? Pastikan... jangan melulu salahkan rezim.... kalau ternyata bukan akibat rezim itu ntar masuknya fitnah.... n",
         "id": "test_434",
         "model_input": "Klasifikasikan emosi dari kalimat berikut. Pilih jawaban yang benar dari pilihan.\nKalimat:\nMalah Lu harusnya tanya ke IG nya langsung, yang menghapus yg punya akun atau dari kebijakan IGnya? Pastikan... jangan melulu salahkan rezim.... kalau ternyata bukan akibat rezim itu ntar masuknya fitnah.... n\nPilihan:\n(A) Neutral\n(B) Sadness\n(C) Happy\n(D) Anger\n(E) Love\n(F) Fear\nJawaban:\n",
-        "model_prediction": "(D) Ang"
+        "model_prediction": "(B) Sad"
     },
     {
         "answer": "(C) Fear",

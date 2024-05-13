@@ -101,7 +101,7 @@
         "question": "The standard tip in a restaurant is $ 15 \\%$ of the bill before tax. Many people in California find the tip by doubling the sales tax, which is $8.25 \\%$. By how many cents does this exceed the standard tip on a bill of $ \\$60 $ before tax?",
         "answer": "(C) 90",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nThe standard tip in a restaurant is $ 15 \\%$ of the bill before tax. Many people in California find the tip by doubling the sales tax, which is $8.25 \\%$. By how many cents does this exceed the standard tip on a bill of $ \\$60 $ before tax?\n\nChoices:\n(A) 80\n(B) 60\n(C) 90\n(D) 70\n\nAnswer:\n",
-        "model_prediction": "To find the answer, we first need to calculate the standard tip and the tip based on doubling the sales tax."
+        "model_prediction": "To find the standard tip, we first calculate 15% of $60:"
     },
     {
         "choices": [
@@ -543,7 +543,7 @@
         "question": "Which of the following is included in U.S. GDP? I.   The market value of movies made in Africa by U.S. citizens II.   The market value of olive oil made in Italy and sold in the United States. III.   The market value of blue jeans made in the United States and sold in Japan IV.   The market value of wine made in the United States by Canadian citizens",
         "answer": "(D) III and IV only",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhich of the following is included in U.S. GDP? I.   The market value of movies made in Africa by U.S. citizens II.   The market value of olive oil made in Italy and sold in the United States. III.   The market value of blue jeans made in the United States and sold in Japan IV.   The market value of wine made in the United States by Canadian citizens\n\nChoices:\n(A) I and III only\n(B) II III and IV only\n(C) II and IV only\n(D) III and IV only\n\nAnswer:\n",
-        "model_prediction": "(B) II III and IV only"
+        "model_prediction": "(C) II and IV only"
     },
     {
         "choices": [
@@ -1193,7 +1193,7 @@
         "question": "The trade-off between defense and social spending is often referred to as a choice between",
         "answer": "(D) guns and butter.",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nThe trade-off between defense and social spending is often referred to as a choice between\n\nChoices:\n(A) war and peace.\n(B) bread and butter.\n(C) bombs and books.\n(D) guns and butter.\n\nAnswer:\n",
-        "model_prediction": "(B) bread and butter."
+        "model_prediction": "(C) bombs and books."
     },
     {
         "choices": [
@@ -1284,7 +1284,7 @@
         "question": "Which of the following is a formal region?",
         "answer": "(A) Pennsylvania",
         "model_input": "Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\nWhich of the following is a formal region?\n\nChoices:\n(A) Pennsylvania\n(B) The Pacific Northwest\n(C) Dixie\n(D) The market area of Winn-Dixie\n\nAnswer:\n",
-        "model_prediction": "(D) The market area of Winn-Dixie"
+        "model_prediction": "(C) Dixi"
     },
     {
         "choices": [

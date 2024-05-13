@@ -8,7 +8,7 @@
         ],
         "answer": "(A) Answerable",
         "model_input": "Based on the question and paragraph, determine if the answer can be inferred from the paragraph. Select the most appropriate choice as the answer. Simply select the choice, no explanations required.\n\nQuestion: What book recognizes the importance of the Chalcedonian Creed? Paragraph: The Book of Discipline also recognizes the importance of the Chalcedonian Creed of the Council of Chalcedon.\n\nChoices:\n(A) Answerable\n(B) Not Answerable\n\nAnswer:\n",
-        "model_prediction": "(B) Not Answerabl"
+        "model_prediction": "(A) Answerabl"
     },
     {
         "id": "test_2",
@@ -63,7 +63,7 @@
         ],
         "answer": "(A) Answerable",
         "model_input": "Based on the question and paragraph, determine if the answer can be inferred from the paragraph. Select the most appropriate choice as the answer. Simply select the choice, no explanations required.\n\nQuestion: Who did Tesla credit for his abilities? Paragraph: Nikola credited his eidetic memory and creative abilities to his mother's genetics and influence.\n\nChoices:\n(A) Answerable\n(B) Not Answerable\n\nAnswer:\n",
-        "model_prediction": "(B) Not Answerabl"
+        "model_prediction": "(A) Answerabl"
     },
     {
         "id": "test_7",
@@ -74,7 +74,7 @@
         ],
         "answer": "(B) Answerable",
         "model_input": "Based on the question and paragraph, determine if the answer can be inferred from the paragraph. Select the most appropriate choice as the answer. Simply select the choice, no explanations required.\n\nQuestion: The practice of occupying and looting Huguenot homes was called? Paragraph: Escalating, he instituted dragonnades, which included the occupation and looting of Huguenot homes by military troops, in an effort to forcibly convert them.\n\nChoices:\n(A) Not Answerable\n(B) Answerable\n\nAnswer:\n",
-        "model_prediction": "(A) Not Answerabl"
+        "model_prediction": "(B) Answerabl"
     },
     {
         "id": "test_8",

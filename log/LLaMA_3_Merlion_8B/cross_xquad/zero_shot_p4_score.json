@@ -1,34 +1,34 @@
 {
-    "overall_acc": 0.9128151260504201,
+    "overall_acc": 0.9130252100840336,
     "language_acc": {
         "Spanish": 0.9235294117647059,
         "English": 0.9403361344537815,
-        "Chinese": 0.892436974789916,
+        "Chinese": 0.8932773109243698,
         "Vietnamese": 0.8949579831932774
     },
-    "consistency_score_2": 0.8897759103641457,
-    "consistency_score_3": 0.8394957983193277,
-    "consistency_score_4": 0.8042016806722689,
+    "consistency_score_2": 0.8914565826330533,
+    "consistency_score_3": 0.8415966386554622,
+    "consistency_score_4": 0.807563025210084,
     "detailed_consistency_score": {
         "2_combine": {
-            "Spanish,English": 0.9226890756302522,
-            "Spanish,Chinese": 0.8722689075630252,
-            "Spanish,Vietnamese": 0.892436974789916,
+            "Spanish,English": 0.9252100840336135,
+            "Spanish,Chinese": 0.8689075630252101,
+            "Spanish,Vietnamese": 0.8974789915966387,
             "English,Chinese": 0.888235294117647,
-            "English,Vietnamese": 0.8941176470588236,
+            "English,Vietnamese": 0.9,
             "Chinese,Vietnamese": 0.8689075630252101
         },
         "3_combine": {
-            "Spanish,English,Chinese": 0.846218487394958,
-            "Spanish,English,Vietnamese": 0.8579831932773109,
-            "Spanish,Chinese,Vietnamese": 0.8235294117647058,
-            "English,Chinese,Vietnamese": 0.8302521008403362
+            "Spanish,English,Chinese": 0.8453781512605042,
+            "Spanish,English,Vietnamese": 0.8647058823529412,
+            "Spanish,Chinese,Vietnamese": 0.8243697478991596,
+            "English,Chinese,Vietnamese": 0.8319327731092437
         },
         "4_combine": {
-            "Spanish,English,Chinese,Vietnamese": 0.8042016806722689
+            "Spanish,English,Chinese,Vietnamese": 0.807563025210084
         }
     },
-    "AC3_2": 0.9011482841345106,
-    "AC3_3": 0.8746215665961681,
-    "AC3_4": 0.8550731193729354
+    "AC3_2": 0.902111993458991,
+    "AC3_3": 0.8758570381676687,
+    "AC3_4": 0.8570620042390829
 }
