@@ -1,0 +1,122 @@
+[
+    {
+        "context": "Premise: Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter. Hypothesis: The shelter was not informed about the hijacking of the helicopter.",
+        "answer": "(C) Contradiction",
+        "choices": [
+            "(A) Neutral",
+            "(B) Entailment",
+            "(C) Contradiction"
+        ],
+        "id": "test_1",
+        "model_input": "Assess the relationship between the following two sentences and choose the correct answer from the provided choices.\n\nPremise: Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter. Hypothesis: The shelter was not informed about the hijacking of the helicopter.\n\nChoices:\n(A) Neutral\n(B) Entailment\n(C) Contradiction\n\nAnswer:\n",
+        "model_prediction": "Entailment 2019年12月12日,由《中国质量报》社主办的\"2019年质量之光——质量标杆、质量典范、质量人物、质量故事\"评选活动在北京揭晓。\n2019年12月12日,由《中国质量报》社主办的\"2019年质量之光——质量标杆、质量典范、质量人物、质量故事\"评选活动在北京揭晓。\n2019年12月12日,由《中国质量报》社主办的\"2019年质量之光——质量标杆"
+    },
+    {
+        "context": "Premise: Unfortunately, the mistake is compounded and perpetuated by dragging in expressions like man in the street, the average working man , and others, and, as a result, the entire argument degenerates. Hypothesis: Expressions like man in the street help further the argument in question.",
+        "answer": "(B) Contradiction",
+        "choices": [
+            "(A) Neutral",
+            "(B) Contradiction",
+            "(C) Entailment"
+        ],
+        "id": "test_2",
+        "model_input": "Assess the relationship between the following two sentences and choose the correct answer from the provided choices.\n\nPremise: Unfortunately, the mistake is compounded and perpetuated by dragging in expressions like man in the street, the average working man , and others, and, as a result, the entire argument degenerates. Hypothesis: Expressions like man in the street help further the argument in question.\n\nChoices:\n(A) Neutral\n(B) Contradiction\n(C) Entailment\n\nAnswer:\n",
+        "model_prediction": "Entailment 2019年12月12日,由《中国质量报》社主办的\"2019年质量之光年度质量盛典\"在北京隆重举行。中国质量协会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会、"
+    },
+    {
+        "context": "Premise: They touch an object, hold it up, or point to it while looking at another person to make sure he or she notices. Hypothesis: They will never get attention by pointing at an object while looking at another person.",
+        "answer": "(C) Contradiction",
+        "choices": [
+            "(A) Neutral",
+            "(B) Entailment",
+            "(C) Contradiction"
+        ],
+        "id": "test_3",
+        "model_input": "Assess the relationship between the following two sentences and choose the correct answer from the provided choices.\n\nPremise: They touch an object, hold it up, or point to it while looking at another person to make sure he or she notices. Hypothesis: They will never get attention by pointing at an object while looking at another person.\n\nChoices:\n(A) Neutral\n(B) Entailment\n(C) Contradiction\n\nAnswer:\n",
+        "model_prediction": "Contradiction 2019年12月12日,由《中国质量报》社主办的\"2019年质量之光\"年度质量盛典在北京隆重举行。中国质量协会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会、"
+    },
+    {
+        "context": "Premise: His vigorous strides soon enabled him to gain upon them, and by the time he, in his turn, reached the corner the distance between them was sensibly lessened. Hypothesis: He walked quickly after them, having gained considerably upon rounding the corner.",
+        "answer": "(B) Entailment",
+        "choices": [
+            "(A) Contradiction",
+            "(B) Entailment",
+            "(C) Neutral"
+        ],
+        "id": "test_4",
+        "model_input": "Assess the relationship between the following two sentences and choose the correct answer from the provided choices.\n\nPremise: His vigorous strides soon enabled him to gain upon them, and by the time he, in his turn, reached the corner the distance between them was sensibly lessened. Hypothesis: He walked quickly after them, having gained considerably upon rounding the corner.\n\nChoices:\n(A) Contradiction\n(B) Entailment\n(C) Neutral\n\nAnswer:\n",
+        "model_prediction": "Entailment 2019年12月12日,由《中国质量报》社主办的\"2019年质量之光年度质量盛典\"在北京隆重举行。本次盛典以\"质量:重塑产业竞争力\"为主题,聚焦质量领域最新发展,表彰年度质量领域杰出人物、优秀企业和优秀品牌,弘扬质量先进理念,树立质量典范,营造人人关心质量、重视质量、追求质量、创造质量的良好氛围。\n作为\"质量之光\"年度质量盛典的独家冠名商,中国质量协会、中国质量报记者、中国质量新闻网、中国质量新闻网、中国质量新闻网、"
+    },
+    {
+        "context": "Premise: My usual partner.' Hypothesis: My usual partner told him to go away.",
+        "answer": "(A) Neutral",
+        "choices": [
+            "(A) Neutral",
+            "(B) Contradiction",
+            "(C) Entailment"
+        ],
+        "id": "test_5",
+        "model_input": "Assess the relationship between the following two sentences and choose the correct answer from the provided choices.\n\nPremise: My usual partner.' Hypothesis: My usual partner told him to go away.\n\nChoices:\n(A) Neutral\n(B) Contradiction\n(C) Entailment\n\nAnswer:\n",
+        "model_prediction": "Contradiction 2019年12月18日,由《中国社会科学》杂志社、中国社会科学评价研究院、中国社会科学院数量经济与技术经济研究所共同举办的\"2019年中国社会科学评价研究院、中国社会科学院数量经济与技术经济研究所学术年会暨2019年中国社会科学评价研究院、中国社会科学院数量经济与技术经济研究所学术论坛\"在北京召开。会议以\"新时代中国特色哲学社会科学建设\"为主题,围绕新时代中国特色哲学社会科学建设的重大理论和现实问题,开展深入研讨。\n中国社会科学院副院长高培勇、中国社会科学评价研究院院长荆林波、中国社会科学评价研究院院长荆林波、中国社会科学院数量经济与技术经济研究所所长"
+    },
+    {
+        "context": "Premise: This was followed by a second radio transmission, with sounds of screaming. Hypothesis: There was another radio transmission that had a lot of people screaming.",
+        "answer": "(C) Entailment",
+        "choices": [
+            "(A) Contradiction",
+            "(B) Neutral",
+            "(C) Entailment"
+        ],
+        "id": "test_6",
+        "model_input": "Assess the relationship between the following two sentences and choose the correct answer from the provided choices.\n\nPremise: This was followed by a second radio transmission, with sounds of screaming. Hypothesis: There was another radio transmission that had a lot of people screaming.\n\nChoices:\n(A) Contradiction\n(B) Neutral\n(C) Entailment\n\nAnswer:\n",
+        "model_prediction": "Entailment 2019年12月12日,由《中国质量报》社主办的\"2019年质量之光——质量标杆、质量典范、质量人物、质量故事\"评选活动结果揭晓,中国一冶集团荣获\"质量标杆\"称号。\n中国一冶集团自1953年成立以来,始终坚持\"质量第一\"的理念,以\"质量是企业的生命\"为准则,以\"质量强企\"为战略,以\"质量创优\"为工作主线,以\"质量领先\"为目标,以\"质量领先\"为工作主线,以\"质量领先\"为目标"
+    },
+    {
+        "context": "Premise: When all the individual pieces of the garment have been modified and entered into the computer system, the final garment pattern is ready to be cut and sewn into a sample garment. Hypothesis: The final pattern would be ready to become a sample after the individual parts of the garment have been fixed and uploaded onto the computer system.",
+        "answer": "(C) Entailment",
+        "choices": [
+            "(A) Contradiction",
+            "(B) Neutral",
+            "(C) Entailment"
+        ],
+        "id": "test_7",
+        "model_input": "Assess the relationship between the following two sentences and choose the correct answer from the provided choices.\n\nPremise: When all the individual pieces of the garment have been modified and entered into the computer system, the final garment pattern is ready to be cut and sewn into a sample garment. Hypothesis: The final pattern would be ready to become a sample after the individual parts of the garment have been fixed and uploaded onto the computer system.\n\nChoices:\n(A) Contradiction\n(B) Neutral\n(C) Entailment\n\nAnswer:\n",
+        "model_prediction": "Entailment 2019年12月12日,由《中国质量报》社主办的\"2019年质量之光年度质量盛典\"在北京隆重举行。本次盛典以\"质量:重塑产业竞争力\"为主题,聚焦质量领域的新理念、新技术、新产品、新成果,表彰质量领域的创新典范,弘扬质量发展的主旋律。\n作为\"质量之光\"年度质量盛典的\"重头戏\",由《中国质量报》社主办的\"2019年质量之光年度质量盛典\"于12月12日在北京隆重举行。\n本次盛典以\"质量:重塑产业竞争力\""
+    },
+    {
+        "context": "Premise: NIPA had already recognized mineral exploration as investment, and in 1996, NIPA reclassified government purchases of plant and equipment as investment. Hypothesis: NIPA said mineral exploration is an investment, especially oil and gas.",
+        "answer": "(A) Neutral",
+        "choices": [
+            "(A) Neutral",
+            "(B) Entailment",
+            "(C) Contradiction"
+        ],
+        "id": "test_8",
+        "model_input": "Assess the relationship between the following two sentences and choose the correct answer from the provided choices.\n\nPremise: NIPA had already recognized mineral exploration as investment, and in 1996, NIPA reclassified government purchases of plant and equipment as investment. Hypothesis: NIPA said mineral exploration is an investment, especially oil and gas.\n\nChoices:\n(A) Neutral\n(B) Entailment\n(C) Contradiction\n\nAnswer:\n",
+        "model_prediction": "Entailment 2019年12月12日,由《中国质量报》社主办的\"2019年质量之光年度质量盛典\"在北京隆重举行。本次盛典以\"质量:改善供给,引领未来\"为主题,聚焦质量领域的新理念、新技术、新产品、新成果,表彰年度质量领域的杰出人物和先进组织,弘扬质量先进理念,树立质量榜样,激发全社会质量创新动力,助力质量强国建设。\n作为\"质量之光\"年度质量盛典的重要活动之一,2019年质量之光年度质量盛典\"质量先锋\"评选结果揭晓,中国质量协会荣获"
+    },
+    {
+        "context": "Premise: Our studies of business units with differing levels of the four practices indicate that firms with the complete set of practices achieve similar or slightly better performance in regard to the percentage of goods delivered complete and on time, although these differences between business units are not very dramatic. Hypothesis: Differences in business units that utilized the four practices to varying degrees were not very big.",
+        "answer": "(A) Entailment",
+        "choices": [
+            "(A) Entailment",
+            "(B) Contradiction",
+            "(C) Neutral"
+        ],
+        "id": "test_9",
+        "model_input": "Assess the relationship between the following two sentences and choose the correct answer from the provided choices.\n\nPremise: Our studies of business units with differing levels of the four practices indicate that firms with the complete set of practices achieve similar or slightly better performance in regard to the percentage of goods delivered complete and on time, although these differences between business units are not very dramatic. Hypothesis: Differences in business units that utilized the four practices to varying degrees were not very big.\n\nChoices:\n(A) Entailment\n(B) Contradiction\n(C) Neutral\n\nAnswer:\n",
+        "model_prediction": "A 2019年12月12日,由《中国质量报》社主办的\"2019年质量之光年度质量盛典\"在北京隆重举行。中国质量协会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会质量发展服务委员会、中国质量协会质量发展工作委员会质量发展服务委员会质量发展服务委员会、中国质量协会质量发展工作委员会质量发展服务委员会质量发展服务委员会、中国质量协会质量发展工作委员会质量发展服务委员会质量发展服务委员会、中国质量协会质量发展工作委员会质量发展服务委员会质量发展服务委员会、中国质量协会质量发展工作委员会质量发展"
+    },
+    {
+        "context": "Premise: Ocho Rios is Spanish for  eight rivers,  but this name is not descriptive of the area. Hypothesis: The area doesn't have eight rivers, only four.",
+        "answer": "(B) Neutral",
+        "choices": [
+            "(A) Entailment",
+            "(B) Neutral",
+            "(C) Contradiction"
+        ],
+        "id": "test_10",
+        "model_input": "Assess the relationship between the following two sentences and choose the correct answer from the provided choices.\n\nPremise: Ocho Rios is Spanish for  eight rivers,  but this name is not descriptive of the area. Hypothesis: The area doesn't have eight rivers, only four.\n\nChoices:\n(A) Entailment\n(B) Neutral\n(C) Contradiction\n\nAnswer:\n",
+        "model_prediction": "Entailment 2019年12月12日,由《中国质量报》社主办的\"2019年质量之光——年度质量盛典\"在北京隆重举行。中国质量协会、中国质量协会质量发展委员会、中国质量协会质量发展委员会、中国质量协会质量发展委员会、中国质量协会质量发展委员会、中国质量协会质量发展委员会、中国质量协会质量发展委员会、中国质量协会质量发展委员会、中国质量协会质量发展委员会、中国质量协会质量发展委员会、中国质量协会质量发展委员会、中国质量协会质量发展委员会、中国质量协会质量发展委员会"
+    }
+]

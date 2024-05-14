@@ -1,0 +1,112 @@
+[
+    {
+        "choices": [
+            "(A) Answerable",
+            "(B) Not Answerable"
+        ],
+        "answer": "(A) Answerable",
+        "id": "test_1",
+        "context": "Question: What book recognizes the importance of the Chalcedonian Creed? Paragraph: The Book of Discipline also recognizes the importance of the Chalcedonian Creed of the Council of Chalcedon.",
+        "model_input": "Based on the question and paragraph, determine if the answer can be inferred from the paragraph. Select the most appropriate choice as the answer.\n\nQuestion: What book recognizes the importance of the Chalcedonian Creed? Paragraph: The Book of Discipline also recognizes the importance of the Chalcedonian Creed of the Council of Chalcedon.\n\nChoices:\n(A) Answerable\n(B) Not Answerable\n\nAnswer:\n",
+        "model_prediction": "A 2019年12月12日,由《中国纪检监察报》、中国纪检监察学院主办的\"不忘初心、牢记使命\"主题教育专题研讨会暨2019年纪检监察体制改革研讨会召开。会议以习近平新时代中国特色社会主义思想为指导,深入学习贯彻习近平总书记在中央主题教育工作会议上的重要讲话精神和《中国共产党纪律检查机关监督执纪工作规则》等党内法规,总结回顾2019年纪检监察体制改革工作,研究部署2020年纪检监察体制改革重点任务。中央纪委国家监委驻中央纪委国家监委纪检监察组组长、中央纪委国家监委驻教育部纪检监察组组长崔晓利出席会议并讲话。中央纪委国家监委驻教育部纪检监察组组长、教育部党组成员吴道槐主持会议。\n崔晓利指出,2019年"
+    },
+    {
+        "choices": [
+            "(A) Not Answerable",
+            "(B) Answerable"
+        ],
+        "answer": "(B) Answerable",
+        "id": "test_2",
+        "context": "Question: What is the name of the United Kingdom operation for BSkyB? Paragraph: The United Kingdom operations also changed the company name from British Sky Broadcasting Limited to Sky UK Limited, still trading as Sky.",
+        "model_input": "Based on the question and paragraph, determine if the answer can be inferred from the paragraph. Select the most appropriate choice as the answer.\n\nQuestion: What is the name of the United Kingdom operation for BSkyB? Paragraph: The United Kingdom operations also changed the company name from British Sky Broadcasting Limited to Sky UK Limited, still trading as Sky.\n\nChoices:\n(A) Not Answerable\n(B) Answerable\n\nAnswer:\n",
+        "model_prediction": "Answerable 2019年12月18日,由《中国质量报》社主办的\"2019年质量之光——质量标杆、质量典范、质量人物、质量故事\"评选活动结果揭晓,中国一冶荣获\"质量标杆\"称号。\n中国一冶自1953年成立以来,始终坚持\"质量第一\"的理念,以\"质量是企业的生命\"为准则,以\"质量强企\"为战略,以\"质量创优\"为工作主线,以\"质量领先\"为目标,以\"质量领先\"为工作主线,以\"质量领先\"为目标,以\""
+    },
+    {
+        "choices": [
+            "(A) Not Answerable",
+            "(B) Answerable"
+        ],
+        "answer": "(A) Not Answerable",
+        "id": "test_3",
+        "context": "Question: How many troops were defeated for British in BAttle of Carillon? Paragraph: Abercrombie saved something from the disaster when he sent John Bradstreet on an expedition that successfully destroyed Fort Frontenac, including caches of supplies destined for New France's western forts and furs destined for Europe.",
+        "model_input": "Based on the question and paragraph, determine if the answer can be inferred from the paragraph. Select the most appropriate choice as the answer.\n\nQuestion: How many troops were defeated for British in BAttle of Carillon? Paragraph: Abercrombie saved something from the disaster when he sent John Bradstreet on an expedition that successfully destroyed Fort Frontenac, including caches of supplies destined for New France's western forts and furs destined for Europe.\n\nChoices:\n(A) Not Answerable\n(B) Answerable\n\nAnswer:\n",
+        "model_prediction": "Answerable 2019年12月18日,由《中国纪检监察报》、中国纪检监察学院主办的\"不忘初心、牢记使命\"主题教育专题研讨会暨2019年纪检监察体制改革研讨会召开。会议以习近平新时代中国特色社会主义思想为指导,深入学习贯彻习近平总书记在中央主题教育工作会议上的重要讲话精神和《中共中央关于在全党开展\"不忘初心、牢记使命\"主题教育的意见》,对纪检监察体制改革进行研讨。中央纪委国家监委驻中央纪委国家监委纪检监察组组长、中央纪委国家监委直属事业单位主要负责人、中央纪委国家监委各派驻纪检监察组主要负责同志,中央纪委国家监委各直属单位主要负责同志,中央纪委国家监委机关各部门主要负责同志,中央纪委国家监委各派驻纪检监察组、中央纪委国家监委各直属单位领导班子成员,中央纪委国家监委各派驻纪检监察组、中央纪委国家监委各直属单位各部门主要负责同志,中央纪委国家监委各派驻纪检监察组"
+    },
+    {
+        "choices": [
+            "(A) Answerable",
+            "(B) Not Answerable"
+        ],
+        "answer": "(A) Answerable",
+        "id": "test_4",
+        "context": "Question: A column from which Moorish palace and fortress complex in Granada, Spain, is included in the V&A collection? Paragraph: The main architecture gallery has a series of pillars from various buildings and different periods, for example a column from the Alhambra.",
+        "model_input": "Based on the question and paragraph, determine if the answer can be inferred from the paragraph. Select the most appropriate choice as the answer.\n\nQuestion: A column from which Moorish palace and fortress complex in Granada, Spain, is included in the V&A collection? Paragraph: The main architecture gallery has a series of pillars from various buildings and different periods, for example a column from the Alhambra.\n\nChoices:\n(A) Answerable\n(B) Not Answerable\n\nAnswer:\n",
+        "model_prediction": "A 2019年12月12日,由《中国质量报》社主办的\"2019年质量之光年度质量盛典\"在北京隆重举行。本次盛典以\"质量:重塑产业竞争力\"为主题,聚焦质量领域的新理念、新技术、新产品、新成果,表彰质量领域的创新典范,弘扬质量精神,树立质量标杆,激发全社会质量创新动力和活力,助力中国经济高质量发展。\n作为\"质量之光\"年度质量盛典的重要活动之一,2019年质量之光年度质量盛典\"质量先锋\"评选结果揭晓,中国质量协会授予中国质量协会质量先锋奖,"
+    },
+    {
+        "choices": [
+            "(A) Answerable",
+            "(B) Not Answerable"
+        ],
+        "answer": "(A) Answerable",
+        "id": "test_5",
+        "context": "Question: The influence of India can be seen in which religious art objects from Thailand, Burma and Cambodia? Paragraph: Refined Hindu and Buddhist sculptures reflect the influence of India; items on show include betel-nut cutters, ivory combs and bronze palanquin hooks.",
+        "model_input": "Based on the question and paragraph, determine if the answer can be inferred from the paragraph. Select the most appropriate choice as the answer.\n\nQuestion: The influence of India can be seen in which religious art objects from Thailand, Burma and Cambodia? Paragraph: Refined Hindu and Buddhist sculptures reflect the influence of India; items on show include betel-nut cutters, ivory combs and bronze palanquin hooks.\n\nChoices:\n(A) Answerable\n(B) Not Answerable\n\nAnswer:\n",
+        "model_prediction": "A 2019年12月12日,由《中国质量报》社主办的\"2019年(第四届)中国质量奖颁奖大会暨质量标杆经验交流研讨会\"在北京举行。中国质量奖是质量领域的最高荣誉,旨在表彰在质量管理模式、管理方法和管理理论领域取得重大创新以及优秀成果的企业、组织和个人。\n2019年,中国质量奖共评选出中国质量奖获奖项目1个,中国质量奖提名奖获奖项目10个,中国质量奖提名奖提名项目10个。其中,中国质量奖获奖项目由中国质量协会组织行业专家进行"
+    },
+    {
+        "choices": [
+            "(A) Answerable",
+            "(B) Not Answerable"
+        ],
+        "answer": "(A) Answerable",
+        "id": "test_6",
+        "context": "Question: Who did Tesla credit for his abilities? Paragraph: Nikola credited his eidetic memory and creative abilities to his mother's genetics and influence.",
+        "model_input": "Based on the question and paragraph, determine if the answer can be inferred from the paragraph. Select the most appropriate choice as the answer.\n\nQuestion: Who did Tesla credit for his abilities? Paragraph: Nikola credited his eidetic memory and creative abilities to his mother's genetics and influence.\n\nChoices:\n(A) Answerable\n(B) Not Answerable\n\nAnswer:\n",
+        "model_prediction": "A 2019年12月12日,由《中国质量报》社主办的\"2019年(第四届)中国质量奖颁奖大会暨质量标杆经验交流研讨会\"在北京举行。中国质量奖是质量领域的最高荣誉,旨在表彰在质量管理模式、管理方法和管理理论领域取得重大创新以及优秀成果、具有显著经济效益和社会效益,对经济社会发展做出突出贡献的团体和个人。\n2019年,中国质量奖共评选出中国质量奖获奖项目1个,中国质量奖提名奖项目10个,中国质量奖组织特别奖项目1个,中国质量奖组织特别奖项目获奖单位"
+    },
+    {
+        "choices": [
+            "(A) Not Answerable",
+            "(B) Answerable"
+        ],
+        "answer": "(B) Answerable",
+        "id": "test_7",
+        "context": "Question: The practice of occupying and looting Huguenot homes was called? Paragraph: Escalating, he instituted dragonnades, which included the occupation and looting of Huguenot homes by military troops, in an effort to forcibly convert them.",
+        "model_input": "Based on the question and paragraph, determine if the answer can be inferred from the paragraph. Select the most appropriate choice as the answer.\n\nQuestion: The practice of occupying and looting Huguenot homes was called? Paragraph: Escalating, he instituted dragonnades, which included the occupation and looting of Huguenot homes by military troops, in an effort to forcibly convert them.\n\nChoices:\n(A) Not Answerable\n(B) Answerable\n\nAnswer:\n",
+        "model_prediction": "Answerable 2019年12月12日,由《中国质量报》社主办的\"2019年质量之光年度质量盛典\"在北京隆重举行。中国质量协会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会、中国质量协会质量发展工作委员会、中国"
+    },
+    {
+        "choices": [
+            "(A) Answerable",
+            "(B) Not Answerable"
+        ],
+        "answer": "(B) Not Answerable",
+        "id": "test_8",
+        "context": "Question: In what year did Warszowa become the official capital of the Masovian Duchy? Paragraph: Upon the extinction of the local ducal line, the duchy was reincorporated into the Polish Crown in 1526.",
+        "model_input": "Based on the question and paragraph, determine if the answer can be inferred from the paragraph. Select the most appropriate choice as the answer.\n\nQuestion: In what year did Warszowa become the official capital of the Masovian Duchy? Paragraph: Upon the extinction of the local ducal line, the duchy was reincorporated into the Polish Crown in 1526.\n\nChoices:\n(A) Answerable\n(B) Not Answerable\n\nAnswer:\n",
+        "model_prediction": "A 2019年12月18日,由《中国质量报》社主办的\"2019年质量之光年度质量盛典\"在北京隆重举行。本次盛典以\"质量:改善供给,引领未来\"为主题,聚焦质量领域的新理念、新技术、新产品、新成果,表彰2019年度在质量领域做出突出贡献的集体和个人,弘扬质量先进理念,树立质量榜样标杆,激发全社会质量创新动力和热情,助力中国经济高质量发展。\n作为\"质量之光\"年度质量盛典的重要活动之一,2019年质量之光年度质量盛典\"质量先锋\"评选结果"
+    },
+    {
+        "choices": [
+            "(A) Answerable",
+            "(B) Not Answerable"
+        ],
+        "answer": "(A) Answerable",
+        "id": "test_9",
+        "context": "Question: What is the name of the current King of Thebes in the play? Paragraph: One of the oldest depictions of civil disobedience is in Sophocles' play Antigone, in which Antigone, one of the daughters of former King of Thebes, Oedipus, defies Creon, the current King of Thebes, who is trying to stop her from giving her brother Polynices a proper burial.",
+        "model_input": "Based on the question and paragraph, determine if the answer can be inferred from the paragraph. Select the most appropriate choice as the answer.\n\nQuestion: What is the name of the current King of Thebes in the play? Paragraph: One of the oldest depictions of civil disobedience is in Sophocles' play Antigone, in which Antigone, one of the daughters of former King of Thebes, Oedipus, defies Creon, the current King of Thebes, who is trying to stop her from giving her brother Polynices a proper burial.\n\nChoices:\n(A) Answerable\n(B) Not Answerable\n\nAnswer:\n",
+        "model_prediction": "A 2019年12月18日,由《中国质量万里行》杂志社、中国质量协会、中国质量协会消费者工作委员会、中国质量协会消费者工作委员会家居家装专业委员会、中国质量协会消费者工作委员会家居家装专业委员会、中国质量协会消费者工作委员会家居家装专业委员会、中国质量协会消费者工作委员会家居家装专业委员会、中国质量协会消费者工作委员会家居家装专业委员会、中国质量协会消费者工作委员会家居家装专业委员会、中国质量协会消费者工作委员会家居家装专业委员会、中国质量协会消费者工作委员会家居家装专业委员会、中国质量协会消费者工作委员会家居家装专业委员会、中国质量协会消费者工作委员会家居家装专业委员会、中国质量协会消费者工作委员会"
+    },
+    {
+        "choices": [
+            "(A) Answerable",
+            "(B) Not Answerable"
+        ],
+        "answer": "(A) Answerable",
+        "id": "test_10",
+        "context": "Question: How long did Western Europe control Cyprus? Paragraph: The conquest of Cyprus by the Anglo-Norman forces of the Third Crusade opened a new chapter in the history of the island, which would be under Western European domination for the following 380 years.",
+        "model_input": "Based on the question and paragraph, determine if the answer can be inferred from the paragraph. Select the most appropriate choice as the answer.\n\nQuestion: How long did Western Europe control Cyprus? Paragraph: The conquest of Cyprus by the Anglo-Norman forces of the Third Crusade opened a new chapter in the history of the island, which would be under Western European domination for the following 380 years.\n\nChoices:\n(A) Answerable\n(B) Not Answerable\n\nAnswer:\n",
+        "model_prediction": "A 2019年11月12日,由《中国质量报》社主办的\"2019年(第十届)中国质量大会\"在北京隆重召开。大会以\"质量:改善供给,引领未来\"为主题,围绕\"质量强国\"和\"质量革命\"两大关键词,聚焦质量发展、质量变革、质量、质量治理、质量品牌、质量基础、质量保障、质量创新、质量基础、质量保障、质量创新、质量治理、质量品牌、质量基础、质量保障、质量创新、质量治理、质量品牌、质量基础、质量保障、质量创新、"
+    }
+]

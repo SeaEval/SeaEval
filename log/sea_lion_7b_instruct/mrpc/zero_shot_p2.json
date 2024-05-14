@@ -1,0 +1,112 @@
+[
+    {
+        "id": "test_1",
+        "choices": [
+            "(A) The two sentences are not paraphrase",
+            "(B) The two sentences are paraphrase"
+        ],
+        "answer": "(B) The two sentences are paraphrase",
+        "context": "Sentence1: In the undergraduate case , Rehnquist said the use of race was not \" narrowly tailored \" to achieve the university 's asserted interest in diversity . Sentence2: Rehnquist wrote that the system was not narrowly tailored to achieve the interest in educational diversity .",
+        "model_input": "Do the following two sentences have the same meaning? Choose the correct answer from the available choices.\nSentence1: In the undergraduate case , Rehnquist said the use of race was not \" narrowly tailored \" to achieve the university 's asserted interest in diversity . Sentence2: Rehnquist wrote that the system was not narrowly tailored to achieve the interest in educational diversity .\nChoices:\n(A) The two sentences are not paraphrase\n(B) The two sentences are paraphrase\nAnswer:\n",
+        "model_prediction": "(A) 2019年12月12日,由《中国质量报》社主办的\"2019年质量之光——年度品质案例评选\"活动在北京揭晓。中国兵器工业集团所属中国兵器工业集团北化研究院集团北京化工研究总院(以下简称北化总院)的\"北化总院-北京化工大学联合研发中心\"荣获\"年度品质案例\"称号。 2019年12月12日,由《中国质量报》社主办的\"2019年质量之光——年度品质案例评选\"活动在北京揭晓。中国兵器"
+    },
+    {
+        "id": "test_2",
+        "choices": [
+            "(A) The two sentences are not paraphrase",
+            "(B) The two sentences are paraphrase"
+        ],
+        "answer": "(B) The two sentences are paraphrase",
+        "context": "Sentence1: He said he has begun a court action to seize Beacon Hill 's assets and has frozen more than $ 13 million Beacon Hill had when it closed . Sentence2: He said he has initiated a forfeiture action in court and frozen more than $ 13 million Beacon Hill had when it closed .",
+        "model_input": "Do the following two sentences have the same meaning? Choose the correct answer from the available choices.\nSentence1: He said he has begun a court action to seize Beacon Hill 's assets and has frozen more than $ 13 million Beacon Hill had when it closed . Sentence2: He said he has initiated a forfeiture action in court and frozen more than $ 13 million Beacon Hill had when it closed .\nChoices:\n(A) The two sentences are not paraphrase\n(B) The two sentences are paraphrase\nAnswer:\n",
+        "model_prediction": "(B) The two sentences are paraphrase 2019年11月12日,由《中国质量报》社主办的\"2019年(第十届)中国质量大会\"在北京隆重召开。大会以\"质量:改善供给,引领未来\"为主题,围绕\"质量强国\"和\"质量变革\"两大关键词,聚焦质量发展、质量变革、质量创新,聚焦质量、品牌、服务,聚焦质量、品牌、服务,聚焦质量、品牌、服务,聚焦质量、品牌、服务,聚焦质量、品牌、服务,聚焦质量、品牌、服务,聚焦质量、品牌"
+    },
+    {
+        "id": "test_3",
+        "choices": [
+            "(A) The two sentences are paraphrase",
+            "(B) The two sentences are not paraphrase"
+        ],
+        "answer": "(B) The two sentences are not paraphrase",
+        "context": "Sentence1: We strongly disagree with Novell 's position and view it as a desperate measure to curry favor with the Linux community . Sentence2: McBride characterized Novell 's move as \" a desperate measure to curry favor with the Linux community . \"",
+        "model_input": "Do the following two sentences have the same meaning? Choose the correct answer from the available choices.\nSentence1: We strongly disagree with Novell 's position and view it as a desperate measure to curry favor with the Linux community . Sentence2: McBride characterized Novell 's move as \" a desperate measure to curry favor with the Linux community . \"\nChoices:\n(A) The two sentences are paraphrase\n(B) The two sentences are not paraphrase\nAnswer:\n",
+        "model_prediction": "A 2019年12月12日,由《中国质量报》社主办的\"2019年(第四届)中国质量奖颁奖暨质量标杆经验交流大会\"在北京举行。中国质量奖是质量领域的最高荣誉,旨在表彰在质量管理模式、管理方法和管理制度领域取得显著成就的组织和为推动质量发展作出突出贡献的个人。\n2019年,中国质量奖共评选出中国质量奖获奖项目1个,中国质量奖提名奖获奖项目10个,中国质量奖提名奖提名项目10个。其中,中国质量奖获奖项目由中国质量协会组织专家评审"
+    },
+    {
+        "id": "test_4",
+        "choices": [
+            "(A) The two sentences are paraphrase",
+            "(B) The two sentences are not paraphrase"
+        ],
+        "answer": "(A) The two sentences are paraphrase",
+        "context": "Sentence1: It 's been a busy couple of days for security gurus assigned to keep their companies safe and sound . Sentence2: It 's been a busy couple of days for enterprise security gurus tasked with the job of keeping their companies safe and sound .",
+        "model_input": "Do the following two sentences have the same meaning? Choose the correct answer from the available choices.\nSentence1: It 's been a busy couple of days for security gurus assigned to keep their companies safe and sound . Sentence2: It 's been a busy couple of days for enterprise security gurus tasked with the job of keeping their companies safe and sound .\nChoices:\n(A) The two sentences are paraphrase\n(B) The two sentences are not paraphrase\nAnswer:\n",
+        "model_prediction": "A 2019年12月18日,由《中国质量报》社主办的\"2019年质量之光——质量标杆、质量典范、质量人物、质量故事\"评选活动结果揭晓,中国一冶集团荣获\"质量标杆\"称号。\n中国一冶集团自1953年成立以来,始终坚持\"质量第一\"的理念,以\"质量是企业的生命\"为准则,以\"质量强企\"为目标,以\"质量创优\"为抓手,以\"质量领先\"为目标,以\"质量领先\"为目标,以\"质量领先\"为目标,以\"质量领先\"为目标"
+    },
+    {
+        "id": "test_5",
+        "choices": [
+            "(A) The two sentences are paraphrase",
+            "(B) The two sentences are not paraphrase"
+        ],
+        "answer": "(A) The two sentences are paraphrase",
+        "context": "Sentence1: Today , analysts say , UN members can no longer ignore the shifts since the September 11 2001 attacks . Sentence2: On Wednesday , analysts say , UN members can no longer ignore the shifts since the attacks in the US of September 11 2001 .",
+        "model_input": "Do the following two sentences have the same meaning? Choose the correct answer from the available choices.\nSentence1: Today , analysts say , UN members can no longer ignore the shifts since the September 11 2001 attacks . Sentence2: On Wednesday , analysts say , UN members can no longer ignore the shifts since the attacks in the US of September 11 2001 .\nChoices:\n(A) The two sentences are paraphrase\n(B) The two sentences are not paraphrase\nAnswer:\n",
+        "model_prediction": "A 2019年11月12日,由《中国质量报》社主办的\"2019年(第四届)中国质量奖颁奖大会暨质量标杆经验交流研讨会\"在北京举行。中国质量奖是质量领域的最高荣誉,旨在表彰在质量管理模式、管理方法和管理理论领域取得重大创新以及优秀成果的企业、组织和个人。\n2019年,中国质量奖共评选出中国质量奖获奖项目1个,中国质量奖提名奖项目10个,中国质量奖组织特别奖项目1个,中国质量奖组织特别奖项目获奖单位1个,中国质量奖组织特别奖项目"
+    },
+    {
+        "id": "test_6",
+        "choices": [
+            "(A) The two sentences are paraphrase",
+            "(B) The two sentences are not paraphrase"
+        ],
+        "answer": "(A) The two sentences are paraphrase",
+        "context": "Sentence1: It 's happened five times in the last 11 years : A disaster puts this Southwestern town in the headlines during the summer tourist season . Sentence2: It 's happened five times in the last decade : A disaster puts this tourist town in the headlines during summer , its busiest season .",
+        "model_input": "Do the following two sentences have the same meaning? Choose the correct answer from the available choices.\nSentence1: It 's happened five times in the last 11 years : A disaster puts this Southwestern town in the headlines during the summer tourist season . Sentence2: It 's happened five times in the last decade : A disaster puts this tourist town in the headlines during summer , its busiest season .\nChoices:\n(A) The two sentences are paraphrase\n(B) The two sentences are not paraphrase\nAnswer:\n",
+        "model_prediction": "A\nThe two sentences are paraphrase. 2019年12月12日,由《中国质量报》社主办的\"2019年质量之光——年度质量盛典\"在北京隆重举行。中国质量协会、中国质量协会质量发展委员会、中国质量协会质量发展委员会、中国质量协会质量发展委员会、中国质量协会质量发展委员会、中国质量协会质量发展委员会、中国质量协会质量发展委员会、中国质量协会质量发展委员会、中国质量协会质量发展委员会、中国质量协会质量发展委员会、中国质量协会质量发展委员会、中国质量协会质量发展委员会、中国"
+    },
+    {
+        "id": "test_7",
+        "choices": [
+            "(A) The two sentences are paraphrase",
+            "(B) The two sentences are not paraphrase"
+        ],
+        "answer": "(A) The two sentences are paraphrase",
+        "context": "Sentence1: The men were remanded in custody and are due to appear again before court on July 8 . Sentence2: They were remanded in custody and will appear in court again on July 8 .",
+        "model_input": "Do the following two sentences have the same meaning? Choose the correct answer from the available choices.\nSentence1: The men were remanded in custody and are due to appear again before court on July 8 . Sentence2: They were remanded in custody and will appear in court again on July 8 .\nChoices:\n(A) The two sentences are paraphrase\n(B) The two sentences are not paraphrase\nAnswer:\n",
+        "model_prediction": "A 2019年12月12日,由《中国质量报》社主办的\"2019年(第四届)中国质量奖颁奖暨质量标杆经验交流大会\"在北京举行。中国质量奖是质量领域的最高荣誉,旨在表彰在质量管理模式、管理方法和管理制度领域取得显著成就的组织和为推动质量发展作出突出贡献的个人。\n2019年,中国质量奖共评选出中国质量奖获奖项目1个,中国质量奖提名奖获奖项目10个,中国质量奖提名奖提名项目10个。其中,中国质量奖获奖项目由中国质量协会组织专家评审"
+    },
+    {
+        "id": "test_8",
+        "choices": [
+            "(A) The two sentences are paraphrase",
+            "(B) The two sentences are not paraphrase"
+        ],
+        "answer": "(A) The two sentences are paraphrase",
+        "context": "Sentence1: PeopleSoft also said its board had officially rejected Oracle 's offer . Sentence2: Thursday morning , PeopleSoft 's board rejected the Oracle takeover offer .",
+        "model_input": "Do the following two sentences have the same meaning? Choose the correct answer from the available choices.\nSentence1: PeopleSoft also said its board had officially rejected Oracle 's offer . Sentence2: Thursday morning , PeopleSoft 's board rejected the Oracle takeover offer .\nChoices:\n(A) The two sentences are paraphrase\n(B) The two sentences are not paraphrase\nAnswer:\n",
+        "model_prediction": "A 2019年11月12日,由《中国质量报》社主办的\"2019年(第十届)中国质量大会\"在北京隆重召开。大会以\"质量:改善供给,引领未来\"为主题,围绕\"质量强国\"和\"质量革命\"两大关键词,聚焦质量发展、质量变革、质量、质量治理、质量品牌、质量基础、质量保障、质量创新、质量基础、质量保障、质量创新、质量治理、质量品牌、质量基础、质量保障、质量创新、质量治理、质量品牌、质量基础、质量保障、质量创新、"
+    },
+    {
+        "id": "test_9",
+        "choices": [
+            "(A) The two sentences are paraphrase",
+            "(B) The two sentences are not paraphrase"
+        ],
+        "answer": "(A) The two sentences are paraphrase",
+        "context": "Sentence1: He said his hatred for such people grew from these discussions and had helped convince him violence was the answer . Sentence2: His hatred for these people had germinated from these discussions and helped cement his belief that violence was the panacea .",
+        "model_input": "Do the following two sentences have the same meaning? Choose the correct answer from the available choices.\nSentence1: He said his hatred for such people grew from these discussions and had helped convince him violence was the answer . Sentence2: His hatred for these people had germinated from these discussions and helped cement his belief that violence was the panacea .\nChoices:\n(A) The two sentences are paraphrase\n(B) The two sentences are not paraphrase\nAnswer:\n",
+        "model_prediction": "A 2019年11月12日,由《中国质量报》社主办的\"2019年(第四届)中国质量奖颁奖大会暨质量标杆经验交流研讨会\"在北京举行。中国质量奖是质量领域的最高荣誉,旨在表彰在质量管理模式、管理方法和管理理论领域取得重大创新成就与突破性成果,对产品、服务、工程或者战略健康实施评价,对质量理念、质量人才、质量组织、质量环境、质量责任等方面取得显著成绩的集体与个人。\n2019年,中国质量奖共评选出中国质量奖获奖项目1个,中国质量奖提名奖"
+    },
+    {
+        "id": "test_10",
+        "choices": [
+            "(A) The two sentences are not paraphrase",
+            "(B) The two sentences are paraphrase"
+        ],
+        "answer": "(B) The two sentences are paraphrase",
+        "context": "Sentence1: The hearing , expected to last a week , will determine whether Akbar faces a court-martial . Sentence2: The purpose of the hearing is to determine whether Akbar should be court-martialled .",
+        "model_input": "Do the following two sentences have the same meaning? Choose the correct answer from the available choices.\nSentence1: The hearing , expected to last a week , will determine whether Akbar faces a court-martial . Sentence2: The purpose of the hearing is to determine whether Akbar should be court-martialled .\nChoices:\n(A) The two sentences are not paraphrase\n(B) The two sentences are paraphrase\nAnswer:\n",
+        "model_prediction": "(B) The two sentences are paraphrase 2019年11月12日,由《中国质量报》社主办的\"2019年(第四届)中国质量奖颁奖大会暨质量标杆经验交流研讨会\"在北京举行。中国质量奖是质量领域的最高荣誉,旨在表彰在质量管理模式、管理方法和管理制度领域取得显著成就的组织和为推动质量发展作出突出贡献的个人。\n2019年,中国质量奖共评选出中国质量奖获奖项目1个,中国质量奖提名奖获奖项目10个,中国质量奖提名奖提名项目10个。其中,中国质量奖"
+    }
+]

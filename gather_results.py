@@ -98,8 +98,11 @@ MODEL_LIST={
     'gemma_7b_it'                    : ['7B', 'https://huggingface.co/google/gemma-7b-it'],
     'qwen_1_5_7b'                    : ['7B', 'https://huggingface.co/Qwen/Qwen1.5-7B'],
     'qwen_1_5_7b_chat'               : ['7B', 'https://huggingface.co/Qwen/Qwen1.5-7B-Chat'],
-    
+    'sea_lion_7b_instruct'           : ['7B', 'https://huggingface.co/aisingapore/sea-lion-7b-instruct'],
+    'sea_lion_7b_instruct_research'  : ['7B', 'https://huggingface.co/aisingapore/sea-lion-7b-instruct-research'],
+
     'LLaMA_3_Merlion_8B'             : ['8B', 'https://seaeval.github.io/'],
+
 
 }
 

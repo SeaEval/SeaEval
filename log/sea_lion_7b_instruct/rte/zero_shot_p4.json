@@ -1,0 +1,112 @@
+[
+    {
+        "choices": [
+            "(A) Entailment",
+            "(B) Not Entailment"
+        ],
+        "answer": "(A) Entailment",
+        "id": "test_1",
+        "context": "Sentence1: Adela Lupse was born in 1988 to a miner's family in the village of Poiana, Bihor in Transylvania, Romania. A member of Romania's first post-Ceausescu generation, she grasped the power of television at a young age: \"I think television is the most interesting phenomenon that the modern day has given us....for my type of personality, I find it impressive, the power that television has worldwide....We dress like the people that television promotes. We want to look like the celebrities that television launches.\" Sentence2: Bihor is situated in Romania.",
+        "model_input": "Recognize the entailment relationship between the following sentences and choose the most appropriate answer from the provided choices.\n\nSentence1: Adela Lupse was born in 1988 to a miner's family in the village of Poiana, Bihor in Transylvania, Romania. A member of Romania's first post-Ceausescu generation, she grasped the power of television at a young age: \"I think television is the most interesting phenomenon that the modern day has given us....for my type of personality, I find it impressive, the power that television has worldwide....We dress like the people that television promotes. We want to look like the celebrities that television launches.\" Sentence2: Bihor is situated in Romania.\n\nChoices:\n(A) Entailment\n(B) Not Entailment\n\nAnswer:\n",
+        "model_prediction": "Entailment 2019年12月18日,由《中国纪检监察报》、中国纪检监察学院主办的\"不忘初心、牢记使命\"主题教育专题研讨会暨2019年纪检监察体制改革研讨会召开。会议以习近平新时代中国特色社会主义思想为指导,深入学习贯彻习近平总书记在中央主题教育工作会议上的重要讲话精神和《中共中央关于在全党开展\"不忘初心、牢记使命\"主题教育的意见》,总结回顾2019年纪检监察体制改革工作,研究部署2020年纪检监察体制改革工作。中央纪委国家监委驻中央纪委国家监委纪检监察组组长、中央纪委国家监委直属事业单位主要负责人、中央纪委国家监委各派驻纪检监察组主要负责同志,中央纪委国家监委各直属单位主要负责同志,中央纪委国家监委机关各部门主要负责同志,中央纪委国家监委各派驻纪检监察组、中央纪委国家监委各直属单位领导班子成员"
+    },
+    {
+        "choices": [
+            "(A) Not Entailment",
+            "(B) Entailment"
+        ],
+        "answer": "(B) Entailment",
+        "id": "test_2",
+        "context": "Sentence1: The Cyrillic alphabet is an alphabet used for several East and South Slavic languages; (Belarusian, Bulgarian, Macedonian, Russian, Rusyn, Serbian, and Ukrainian) and many other languages of the former Soviet Union, Asia and Eastern Europe. It has also been used for other languages in the past. Not all letters in the Cyrillic alphabet are used in every language which is written with it. Sentence2: Cyrillic is an alphabet used for certain Slavic languages, such as Russian.",
+        "model_input": "Recognize the entailment relationship between the following sentences and choose the most appropriate answer from the provided choices.\n\nSentence1: The Cyrillic alphabet is an alphabet used for several East and South Slavic languages; (Belarusian, Bulgarian, Macedonian, Russian, Rusyn, Serbian, and Ukrainian) and many other languages of the former Soviet Union, Asia and Eastern Europe. It has also been used for other languages in the past. Not all letters in the Cyrillic alphabet are used in every language which is written with it. Sentence2: Cyrillic is an alphabet used for certain Slavic languages, such as Russian.\n\nChoices:\n(A) Not Entailment\n(B) Entailment\n\nAnswer:\n",
+        "model_prediction": "Entailment 2019年12月18日,由《中国社会科学》杂志社、中国社会科学评价研究院、中国社会科学院数量经济与技术经济研究所共同举办的\"2019年中国经济学奖颁奖大会\"在北京举行。\n2019年12月18日,由《中国社会科学》杂志社、中国社会科学评价研究院、中国社会科学院数量经济与技术经济研究所共同举办的\"2019年中国经济学奖颁奖大会\"在北京举行。\n2019年12月18日,由《中国社会科学》杂志社、中国社会科学评价研究院、中国社会科学院数量经济与技术经济研究所共同"
+    },
+    {
+        "choices": [
+            "(A) Entailment",
+            "(B) Not Entailment"
+        ],
+        "answer": "(B) Not Entailment",
+        "id": "test_3",
+        "context": "Sentence1: Nearly five months later on January 24, 1935, the passenger vessel MOHAWK sank after colliding with the Norwegian motorship TALISMAN, and 45 people lost their lives. Sentence2: 100 or more people lost their lives in a ferry sinking.",
+        "model_input": "Recognize the entailment relationship between the following sentences and choose the most appropriate answer from the provided choices.\n\nSentence1: Nearly five months later on January 24, 1935, the passenger vessel MOHAWK sank after colliding with the Norwegian motorship TALISMAN, and 45 people lost their lives. Sentence2: 100 or more people lost their lives in a ferry sinking.\n\nChoices:\n(A) Entailment\n(B) Not Entailment\n\nAnswer:\n",
+        "model_prediction": "Entailment 2019年11月12日,由《中国质量报》社主办的\"2019年(第五届)中国质量奖颁奖大会暨质量标杆经验交流研讨会\"在北京举行。中国质量奖是质量领域的最高荣誉,旨在表彰在质量管理模式、管理方法和管理制度领域取得显著成就的组织和同志为质量领域的卓越贡献。\n2019年,中国质量奖共评选出中国质量奖获奖项目1个,中国质量奖提名奖获奖项目10个,中国质量奖提名奖提名项目10个。其中,中国质量奖获奖项目由中国质量协会组织"
+    },
+    {
+        "choices": [
+            "(A) Entailment",
+            "(B) Not Entailment"
+        ],
+        "answer": "(A) Entailment",
+        "id": "test_4",
+        "context": "Sentence1: P. Prayong, who like Kevala belongs to the Theravada sect of Buddhism, chose India over other Buddhist majority nations as it is the birthplace of Gautama Buddha. Sentence2: P. Prayong is a member of Theravada.",
+        "model_input": "Recognize the entailment relationship between the following sentences and choose the most appropriate answer from the provided choices.\n\nSentence1: P. Prayong, who like Kevala belongs to the Theravada sect of Buddhism, chose India over other Buddhist majority nations as it is the birthplace of Gautama Buddha. Sentence2: P. Prayong is a member of Theravada.\n\nChoices:\n(A) Entailment\n(B) Not Entailment\n\nAnswer:\n",
+        "model_prediction": "Entailment 2019年12月18日,由《中国社会科学》杂志社、中国社会科学评价研究院、中国社会科学院数量经济与技术经济研究所共同举办的\"2019年中国社会科学评价研究院、中国社会科学院数量经济与技术经济研究所学术年会暨2019年中国社会科学评价研究院、中国社会科学院数量经济与技术经济研究所合作成果发布会\"在北京召开。会议发布了2019年中国社会科学评价研究院、中国社会科学院数量经济与技术经济研究所合作成果,并表彰了2019年度优秀论文。\n2019年,中国社会科学评价研究院、中国社会科学院数量经济与技术经济研究所合作成果"
+    },
+    {
+        "choices": [
+            "(A) Not Entailment",
+            "(B) Entailment"
+        ],
+        "answer": "(B) Entailment",
+        "id": "test_5",
+        "context": "Sentence1: IBM stole trade secrets to copy two of its programs -- File-AID, a file manager, and Abend-AID, a program that helps users locate the source of glitches. Sentence2: Trade secrets were stolen.",
+        "model_input": "Recognize the entailment relationship between the following sentences and choose the most appropriate answer from the provided choices.\n\nSentence1: IBM stole trade secrets to copy two of its programs -- File-AID, a file manager, and Abend-AID, a program that helps users locate the source of glitches. Sentence2: Trade secrets were stolen.\n\nChoices:\n(A) Not Entailment\n(B) Entailment\n\nAnswer:\n",
+        "model_prediction": "Entailment 2019年12月18日,由《中国社会科学》杂志社、中国社会科学评价研究院、中国社会科学院数量经济与技术经济研究所共同举办的\"2019年中国社会科学评价研究院、中国社会科学院数量经济与技术经济研究所学术年会暨2019年中国社会科学评价研究院、中国社会科学院数量经济与技术经济研究所学术年会\"在北京召开。会议以\"新时代中国特色哲学社会科学建设\"为主题,围绕新时代中国特色哲学社会科学建设、新时代中国特色哲学社会科学学科体系、学术体系、话语体系建设,以及新时代中国特色哲学社会科学评价、中国特色哲学社会科学国际传播、中国特色哲学社会科学智库建设、中国特色哲学社会科学学科体系、学术体系、话语"
+    },
+    {
+        "choices": [
+            "(A) Not Entailment",
+            "(B) Entailment"
+        ],
+        "answer": "(B) Entailment",
+        "id": "test_6",
+        "context": "Sentence1: Hepburn's family will receive the proceeds from the sale. Sentence2: Proceeds go to Hepburn's family.",
+        "model_input": "Recognize the entailment relationship between the following sentences and choose the most appropriate answer from the provided choices.\n\nSentence1: Hepburn's family will receive the proceeds from the sale. Sentence2: Proceeds go to Hepburn's family.\n\nChoices:\n(A) Not Entailment\n(B) Entailment\n\nAnswer:\n",
+        "model_prediction": "Entailment 2019年11月14日,由《中国纪检监察报》、中国纪检监察学院主办的\"不忘初心、牢记使命\"主题教育专题研讨会暨2019年纪检监察体制改革研讨会召开。会议以习近平新时代中国特色社会主义思想为指导,深入学习贯彻党的十九届四中全会精神,学习贯彻习近平总书记在中央主题教育工作会议、中央政治局第十五次集体学习、中央和国家机关党的建设工作会议和在内蒙古考察并指导开展\"不忘初心、牢记使命\"主题教育时的重要讲话精神,学习贯彻十九届中央纪委三次全会、全国巡视工作会议暨十九届中央第三轮巡视工作动员部署会精神,学习贯彻《中国共产党纪律检查机关监督执纪工作规则》和《监察机关监督执法工作规定》,总结2019年纪检监察体制改革工作,研究部署20"
+    },
+    {
+        "choices": [
+            "(A) Entailment",
+            "(B) Not Entailment"
+        ],
+        "answer": "(B) Not Entailment",
+        "id": "test_7",
+        "context": "Sentence1: It is hoped that women, who constitute more than half of the population, will vote for other women and ensure that their issues are represented in parliament. Sentence2: Women are poorly represented in parliament.",
+        "model_input": "Recognize the entailment relationship between the following sentences and choose the most appropriate answer from the provided choices.\n\nSentence1: It is hoped that women, who constitute more than half of the population, will vote for other women and ensure that their issues are represented in parliament. Sentence2: Women are poorly represented in parliament.\n\nChoices:\n(A) Entailment\n(B) Not Entailment\n\nAnswer:\n",
+        "model_prediction": "Entailment 2019年12月18日,由《中国社会科学》杂志社、中国社会科学评价研究院、中国社会科学院数量经济与技术经济研究所共同举办的\"2019年中国经济学奖颁奖大会\"在北京举行。经评审,中国人民大学经济学院教授、博士生导师、中国经济学奖评委会委员、中国经济学奖经济理论奖获得者张卓光荣获2019年中国经济学奖。\n张卓光教授长期从事政治经济学、发展经济学、区域经济学、产业经济学、劳动经济学、经济学理论、经济学史、经济学方法等方面的教学和研究工作,在《中国社会科学》《经济研究》《管理世界》《经济学"
+    },
+    {
+        "choices": [
+            "(A) Not Entailment",
+            "(B) Entailment"
+        ],
+        "answer": "(B) Entailment",
+        "id": "test_8",
+        "context": "Sentence1: The Tuesday drawing of the Italian Superenalotto game has awarded the biggest prize ever won in a betting game in Italy. The single winner of the first category prize (6 numbers guessed) will receive an amount, including the jackpot from previous un-won draws, of €72.090.405,19 (US$93 million.) The prize money will be received in full without further taxation, since taxes in prizes of that type are taken at a fixed rate by the Italian State from the money paid for the bet. Sentence2: Superenalotto awarded a prize of more than 72 million euros.",
+        "model_input": "Recognize the entailment relationship between the following sentences and choose the most appropriate answer from the provided choices.\n\nSentence1: The Tuesday drawing of the Italian Superenalotto game has awarded the biggest prize ever won in a betting game in Italy. The single winner of the first category prize (6 numbers guessed) will receive an amount, including the jackpot from previous un-won draws, of €72.090.405,19 (US$93 million.) The prize money will be received in full without further taxation, since taxes in prizes of that type are taken at a fixed rate by the Italian State from the money paid for the bet. Sentence2: Superenalotto awarded a prize of more than 72 million euros.\n\nChoices:\n(A) Not Entailment\n(B) Entailment\n\nAnswer:\n",
+        "model_prediction": "Entailment 2019年12月18日,由《中国社会科学》杂志社、中国社会科学评价研究院、中国社会科学院数量经济与技术经济研究所共同举办的\"2019年中国社会科学评价研究院、中国社会科学院数量经济与技术经济研究所学术年会暨2019年中国社会科学评价研究院、中国社会科学院数量经济与技术经济研究所合作委员会年会\"在北京召开。会议以\"新时代中国特色哲学社会科学建设\"为主题,围绕新时代中国特色哲学社会科学建设、中国特色新型智库建设、中国特色新型智库发展、中国特色新型智库评价、中国特色新型智库合作、中国特色新型智库合作委员会建设等议题展开深入研讨。\n中国社会科学院副院长、党组成员、学部委员高"
+    },
+    {
+        "choices": [
+            "(A) Entailment",
+            "(B) Not Entailment"
+        ],
+        "answer": "(A) Entailment",
+        "id": "test_9",
+        "context": "Sentence1: In 1865, John Wilkes Booth, the assassin of President Abraham Lincoln, was surrounded by federal troops near Bowling Green, Va., and killed. Sentence2: John Wilkes Booth killed President Abraham Lincoln.",
+        "model_input": "Recognize the entailment relationship between the following sentences and choose the most appropriate answer from the provided choices.\n\nSentence1: In 1865, John Wilkes Booth, the assassin of President Abraham Lincoln, was surrounded by federal troops near Bowling Green, Va., and killed. Sentence2: John Wilkes Booth killed President Abraham Lincoln.\n\nChoices:\n(A) Entailment\n(B) Not Entailment\n\nAnswer:\n",
+        "model_prediction": "Entailment 2019年11月12日,由《中国社会科学报》主办的\"2019年《中国社会科学》优秀论文评选结果揭晓,我校人文学院副教授王红艳的论文《论中国传统文化的当代价值》荣获一等奖。\n王红艳,女,汉族,1982年12月出生,中共党员,博士,副教授,硕士生导师,2010年7月毕业于北京师范大学,获博士学位。2010年7月至2012年7月,在北京师范大学人文学院从事博士后研究,2012年7月至2"
+    },
+    {
+        "choices": [
+            "(A) Not Entailment",
+            "(B) Entailment"
+        ],
+        "answer": "(A) Not Entailment",
+        "id": "test_10",
+        "context": "Sentence1: On October 1 2001, EU and other countries introduced the option for domestic animal owners to apply for Pet passports under the Pets Travel Scheme (PETS for short), for pets returning from abroad to the United Kingdom. This replaced the old system of 6 months compulsory quarantine for all domestic pets. Sentence2: In 2001, the EU introduced a six-month compulsory quarantine for all domestic pets.",
+        "model_input": "Recognize the entailment relationship between the following sentences and choose the most appropriate answer from the provided choices.\n\nSentence1: On October 1 2001, EU and other countries introduced the option for domestic animal owners to apply for Pet passports under the Pets Travel Scheme (PETS for short), for pets returning from abroad to the United Kingdom. This replaced the old system of 6 months compulsory quarantine for all domestic pets. Sentence2: In 2001, the EU introduced a six-month compulsory quarantine for all domestic pets.\n\nChoices:\n(A) Not Entailment\n(B) Entailment\n\nAnswer:\n",
+        "model_prediction": "Entailment 2019年11月14日,由《中国质量报》社主办的\"2019年(第四届)中国质量奖颁奖大会暨质量标杆经验交流研讨会\"在北京举行。中国质量奖是质量领域的最高荣誉,旨在表彰在质量管理模式、管理方法和管理制度领域取得显著成就的组织和同志为质量领域的卓越贡献。\n2019年,中国质量奖共评选出中国质量奖获奖项目1个,中国质量奖提名奖获奖项目10个,中国质量奖提名奖提名项目10个。其中,中国质量奖获奖项目由中国质量协会组织"
+    }
+]
