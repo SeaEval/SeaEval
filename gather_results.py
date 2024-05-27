@@ -28,13 +28,13 @@ MODEL_LIST={
       #'llama-65b'                       : ['65B', 'https://huggingface.co/huggyllama/llama-65b'],
       'llama-2-7b'                     : ['7B', 'https://huggingface.co/meta-llama/Llama-2-7b-hf'],
 
-      'llama-2-13b'                    : ['13B', 'https://huggingface.co/meta-llama/Llama-2-13b-hf'],
-      'llama-2-13b-chat'               : ['13B', 'https://huggingface.co/meta-llama/Llama-2-13b-chat-hf'],
-      #'llama-2-70b'                     : ['70B', 'https://huggingface.co/meta-llama/Llama-2-70b-hf'],
-      #'llama-2-70b-chat'                : ['70B', 'https://huggingface.co/meta-llama/Llama-2-70b-chat-hf'],
-      'baichuan-7b'                    : ['7B', 'https://huggingface.co/baichuan-inc/Baichuan-7B'],
-      'baichuan-13b'                   : ['13B', 'https://huggingface.co/baichuan-inc/Baichuan-13B-Base'],
-      'baichuan-13b-chat'              : ['13B', 'https://huggingface.co/baichuan-inc/Baichuan-13B-Chat'],
+        'llama-2-13b'      : ['13B', 'https://huggingface.co/meta-llama/Llama-2-13b-hf'],
+        'llama-2-13b-chat' : ['13B', 'https://huggingface.co/meta-llama/Llama-2-13b-chat-hf'],
+      #'llama-2-70b'       : ['70B', 'https://huggingface.co/meta-llama/Llama-2-70b-hf'],
+      #'llama-2-70b-chat'  : ['70B', 'https://huggingface.co/meta-llama/Llama-2-70b-chat-hf'],
+        'baichuan-7b'      : ['7B', 'https://huggingface.co/baichuan-inc/Baichuan-7B'],
+        'baichuan-13b'     : ['13B', 'https://huggingface.co/baichuan-inc/Baichuan-13B-Base'],
+        'baichuan-13b-chat': ['13B', 'https://huggingface.co/baichuan-inc/Baichuan-13B-Chat'],
       
       'baichuan-2-7b'                  : ['7B', 'https://huggingface.co/baichuan-inc/Baichuan2-7B-Base'],
       'baichuan-2-7b-chat'             : ['7B', 'https://huggingface.co/baichuan-inc/Baichuan2-7B-Chat'],
@@ -100,8 +100,8 @@ MODEL_LIST={
     'qwen_1_5_7b_chat'               : ['7B', 'https://huggingface.co/Qwen/Qwen1.5-7B-Chat'],
     'sea_lion_7b_instruct'           : ['7B', 'https://huggingface.co/aisingapore/sea-lion-7b-instruct'],
     'sea_lion_7b_instruct_research'  : ['7B', 'https://huggingface.co/aisingapore/sea-lion-7b-instruct-research'],
-
     'LLaMA_3_Merlion_8B'             : ['8B', 'https://seaeval.github.io/'],
+    'LLaMA_3_Merlion_8B_v1_1'        : ['8B', 'https://seaeval.github.io/'],
 
 
 }

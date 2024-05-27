@@ -894,6 +894,25 @@ OVERWRITE=True
 
 
 
+# =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =
+# Checked
+#####
+MODEL_NAME=LLaMA_3_Merlion_8B_v1_1
+GPU=0
+BZ=8
+EVAL_MODE=zero_shot
+NUM_PROMPTS=5
+EVAL_LANG=[English,Chinese,Indonesian,Vietnamese,Spanish,Malay,Filipino]
+OVERWRITE=True
+#####
+# =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =
+
+
+
+
+
+
+
 
 # =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =
 

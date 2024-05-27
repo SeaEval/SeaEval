@@ -63,6 +63,7 @@ from model_src.qwen_1_5_7b_chat import qwen_1_5_7b_chat_model_loader, qwen_1_5_7
 
 from model_src.sea_mistral_highest_acc_inst_7b import sea_mistral_highest_acc_inst_7b_model_loader, sea_mistral_highest_acc_inst_7b_model_generation
 from model_src.LLaMA_3_Merlion_8B import LLaMA_3_Merlion_8B_model_loader, LLaMA_3_Merlion_8B_model_generation
+from model_src.LLaMA_3_Merlion_8B_v1_1 import LLaMA_3_Merlion_8B_v1_1_model_loader, LLaMA_3_Merlion_8B_v1_1_model_generation
 
 
 # =  =  =  =  =  =  =  =  =  =  =  Logging Setup  =  =  =  =  =  =  =  =  =  =  =  =  = 
@@ -132,6 +133,8 @@ class Model(object):
 
         elif self.model_name == 'sea_mistral_highest_acc_inst_7b': sea_mistral_highest_acc_inst_7b_model_loader(self)
         elif self.model_name == 'LLaMA_3_Merlion_8B': LLaMA_3_Merlion_8B_model_loader(self)
+        elif self.model_name == 'LLaMA_3_Merlion_8B_v1_1': LLaMA_3_Merlion_8B_v1_1_model_loader(self)
+        
 
         else:
             raise NotImplementedError("Model {} not implemented yet".format(self.model_name))
@@ -184,6 +187,7 @@ class Model(object):
 
         elif self.model_name == 'sea_mistral_highest_acc_inst_7b': return sea_mistral_highest_acc_inst_7b_model_generation(self, batch_input)
         elif self.model_name == 'LLaMA_3_Merlion_8B': return LLaMA_3_Merlion_8B_model_generation(self, batch_input)
+        elif self.model_name == 'LLaMA_3_Merlion_8B_v1_1': return LLaMA_3_Merlion_8B_v1_1_model_generation(self, batch_input)
 
         else:
             raise NotImplementedError("Model {} not implemented yet".format(self.model_name))
