@@ -8,7 +8,7 @@
         "answer": "(A) Entailment",
         "id": "test_1",
         "model_input": "Recognize the entailment relationship between the following sentences and choose the most appropriate answer from the provided choices. Simply select the choice, no explanations required.\n\nSentence1: Adela Lupse was born in 1988 to a miner's family in the village of Poiana, Bihor in Transylvania, Romania. A member of Romania's first post-Ceausescu generation, she grasped the power of television at a young age: \"I think television is the most interesting phenomenon that the modern day has given us....for my type of personality, I find it impressive, the power that television has worldwide....We dress like the people that television promotes. We want to look like the celebrities that television launches.\" Sentence2: Bihor is situated in Romania.\n\nChoices:\n(A) Entailment\n(B) Not Entailment\n\nAnswer:\n",
-        "model_prediction": "(A) Entailment"
+        "model_prediction": "Recognize the entailment relationship between the following sentences and choose the most appropriate answer from the provided choices. Simply select the choice, no explanations required.\n\nSentence1: Adela Lupse was born in 1988 to a miner's family in the village of Poiana, Bihor in Transylvania, Romania. A member of Romania's first post-Ceausescu generation, she grasped the power of television at a young age: \"I think television is the most interesting phenomenon that the modern day has given us....for my type of personality, I find it impressive, the power that television has worldwide....We dress like"
     },
     {
         "choices": [
@@ -19,7 +19,7 @@
         "answer": "(B) Entailment",
         "id": "test_2",
         "model_input": "Recognize the entailment relationship between the following sentences and choose the most appropriate answer from the provided choices. Simply select the choice, no explanations required.\n\nSentence1: The Cyrillic alphabet is an alphabet used for several East and South Slavic languages; (Belarusian, Bulgarian, Macedonian, Russian, Rusyn, Serbian, and Ukrainian) and many other languages of the former Soviet Union, Asia and Eastern Europe. It has also been used for other languages in the past. Not all letters in the Cyrillic alphabet are used in every language which is written with it. Sentence2: Cyrillic is an alphabet used for certain Slavic languages, such as Russian.\n\nChoices:\n(A) Not Entailment\n(B) Entailment\n\nAnswer:\n",
-        "model_prediction": "(B) Entailment"
+        "model_prediction": "Explanation: The first sentence provides more information about the Cyrillic alphabet, stating that it is used for several East and South Slavic languages, as well as many other languages of the former Soviet Union, Asia, and Eastern Europe. The second sentence states that Cyrillic is an alphabet used for certain Slavic languages, such as Russian. The second sentence is a more specific example of the information provided in the first sentence. Therefore, the relationship between the two sentences is entailment."
     },
     {
         "choices": [
@@ -30,7 +30,7 @@
         "answer": "(B) Not Entailment",
         "id": "test_3",
         "model_input": "Recognize the entailment relationship between the following sentences and choose the most appropriate answer from the provided choices. Simply select the choice, no explanations required.\n\nSentence1: Nearly five months later on January 24, 1935, the passenger vessel MOHAWK sank after colliding with the Norwegian motorship TALISMAN, and 45 people lost their lives. Sentence2: 100 or more people lost their lives in a ferry sinking.\n\nChoices:\n(A) Entailment\n(B) Not Entailment\n\nAnswer:\n",
-        "model_prediction": "(B) Not Entailment"
+        "model_prediction": "Answer: B) Not Entailment"
     },
     {
         "choices": [
@@ -41,7 +41,7 @@
         "answer": "(A) Entailment",
         "id": "test_4",
         "model_input": "Recognize the entailment relationship between the following sentences and choose the most appropriate answer from the provided choices. Simply select the choice, no explanations required.\n\nSentence1: P. Prayong, who like Kevala belongs to the Theravada sect of Buddhism, chose India over other Buddhist majority nations as it is the birthplace of Gautama Buddha. Sentence2: P. Prayong is a member of Theravada.\n\nChoices:\n(A) Entailment\n(B) Not Entailment\n\nAnswer:\n",
-        "model_prediction": "(A) Entailment"
+        "model_prediction": "Answer: (A) Entailment"
     },
     {
         "choices": [
@@ -63,7 +63,7 @@
         "answer": "(B) Entailment",
         "id": "test_6",
         "model_input": "Recognize the entailment relationship between the following sentences and choose the most appropriate answer from the provided choices. Simply select the choice, no explanations required.\n\nSentence1: Hepburn's family will receive the proceeds from the sale. Sentence2: Proceeds go to Hepburn's family.\n\nChoices:\n(A) Not Entailment\n(B) Entailment\n\nAnswer:\n",
-        "model_prediction": "(B) Entailment"
+        "model_prediction": "Step 1: Read both sentences carefully.\nSentence1: Hepburn's family will receive the proceeds from the sale.\nSentence2: Proceeds go to Hepburn's family.\n\nStep 2: Identify the main ideas in both sentences.\nSentence1: Hepburn's family will receive the proceeds.\nSentence2: Proceeds go to Hepburn's family.\n\nStep 3: Compare the main ideas in both sentences.\nBoth sentences convey the idea that the proceeds from the sale will go to Hepburn's family.\n\nStep 4: Determine if the second sentence is entailed by the first sentence.\nSince both sentences convey the same main idea"
     },
     {
         "choices": [
@@ -74,7 +74,7 @@
         "answer": "(B) Not Entailment",
         "id": "test_7",
         "model_input": "Recognize the entailment relationship between the following sentences and choose the most appropriate answer from the provided choices. Simply select the choice, no explanations required.\n\nSentence1: It is hoped that women, who constitute more than half of the population, will vote for other women and ensure that their issues are represented in parliament. Sentence2: Women are poorly represented in parliament.\n\nChoices:\n(A) Entailment\n(B) Not Entailment\n\nAnswer:\n",
-        "model_prediction": "(A) Entailment"
+        "model_prediction": "Explanation: The first sentence expresses a hope that women will vote for other women and ensure that their issues are represented in parliament. The second sentence states that women are poorly represented in parliament. The first sentence implies that there is a need for more women's representation in parliament, which is supported by the second sentence. Therefore, the two sentences are entailed, and the correct choice is (A) Entailment."
     },
     {
         "choices": [
@@ -85,7 +85,7 @@
         "answer": "(B) Entailment",
         "id": "test_8",
         "model_input": "Recognize the entailment relationship between the following sentences and choose the most appropriate answer from the provided choices. Simply select the choice, no explanations required.\n\nSentence1: The Tuesday drawing of the Italian Superenalotto game has awarded the biggest prize ever won in a betting game in Italy. The single winner of the first category prize (6 numbers guessed) will receive an amount, including the jackpot from previous un-won draws, of €72.090.405,19 (US$93 million.) The prize money will be received in full without further taxation, since taxes in prizes of that type are taken at a fixed rate by the Italian State from the money paid for the bet. Sentence2: Superenalotto awarded a prize of more than 72 million euros.\n\nChoices:\n(A) Not Entailment\n(B) Entailment\n\nAnswer:\n",
-        "model_prediction": "(B) Entailment"
+        "model_prediction": "Recognize the entailment relationship between the following sentences and choose the most appropriate answer from the provided choices. Simply select the choice, no explanations required.\n\nSentence1: The Tuesday drawing of the Italian Superenalotto game has awarded the biggest prize ever won in a betting game in Italy. The single winner of the first category prize (6 numbers guessed) will receive an amount, including the jackpot from previous un-won draws, of €72.090.405,19 (US$93 million.) The prize money will be received in full without further taxation, since taxes in prizes of that type are taken at a fixed rate by the Italian"
     },
     {
         "choices": [
@@ -96,7 +96,7 @@
         "answer": "(A) Entailment",
         "id": "test_9",
         "model_input": "Recognize the entailment relationship between the following sentences and choose the most appropriate answer from the provided choices. Simply select the choice, no explanations required.\n\nSentence1: In 1865, John Wilkes Booth, the assassin of President Abraham Lincoln, was surrounded by federal troops near Bowling Green, Va., and killed. Sentence2: John Wilkes Booth killed President Abraham Lincoln.\n\nChoices:\n(A) Entailment\n(B) Not Entailment\n\nAnswer:\n",
-        "model_prediction": "(A) Entailment"
+        "model_prediction": "Answer: (A) Entailment"
     },
     {
         "choices": [
@@ -107,6 +107,6 @@
         "answer": "(A) Not Entailment",
         "id": "test_10",
         "model_input": "Recognize the entailment relationship between the following sentences and choose the most appropriate answer from the provided choices. Simply select the choice, no explanations required.\n\nSentence1: On October 1 2001, EU and other countries introduced the option for domestic animal owners to apply for Pet passports under the Pets Travel Scheme (PETS for short), for pets returning from abroad to the United Kingdom. This replaced the old system of 6 months compulsory quarantine for all domestic pets. Sentence2: In 2001, the EU introduced a six-month compulsory quarantine for all domestic pets.\n\nChoices:\n(A) Not Entailment\n(B) Entailment\n\nAnswer:\n",
-        "model_prediction": "(A) Not Entailment"
+        "model_prediction": "Answer: (A) Not Entailment"
     }
 ]

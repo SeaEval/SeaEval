@@ -50,23 +50,16 @@ def LLaMA_3_Merlion_8B_v1_1_model_loader(self):
 def LLaMA_3_Merlion_8B_v1_1_model_generation(self, batch_input):
 
     # add template
-    batch_input = ["[INST]"+sample+"[/INST]" for sample in batch_input]
-
+    batch_input_templated = []
+    for sample in batch_input:    
+        messages = [{"role": "user", "content": sample}]
+        sample_templated = self.tokenizer.apply_chat_template(messages, return_tensors="pt", tokenize=False)
+        batch_input_templated.append(sample_templated)
+    batch_input = batch_input_templated
 
     encoded_batch        = self.tokenizer(batch_input, return_tensors="pt", padding=True).to(self.model.device)
     generated_ids        = self.model.generate(**encoded_batch, do_sample=False, max_new_tokens=self.max_new_tokens, pad_token_id=self.tokenizer.eos_token_id)
     generated_ids        = generated_ids[:, encoded_batch.input_ids.shape[-1]:]
     decoded_batch_output = self.tokenizer.batch_decode(generated_ids, skip_special_tokens=True)
-
-    # remove '</s>'
-    decoded_batch_output = [output.strip('</s>').strip() for output in decoded_batch_output]
-
-    # remove anything after '\n'
-    decoded_batch_output = [output.strip('Answer:').strip().split('\n')[0] for output in decoded_batch_output]
-
-    # replace a) to A)
-    decoded_batch_output = [uppercase_start(output) for output in decoded_batch_output]
-
-
 
     return decoded_batch_output

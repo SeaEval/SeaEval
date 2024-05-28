@@ -37,7 +37,6 @@ def meta_llama_3_8b_instruct_model_generation(self, batch_input):
         messages = [{"role": "user", "content": sample}]
         sample_templated = self.tokenizer.apply_chat_template(messages, return_tensors="pt", tokenize=False)
         batch_input_templated.append(sample_templated)
-
     batch_input = batch_input_templated
 
     encoded_batch        = self.tokenizer(batch_input, return_tensors="pt", padding=True).to(self.model.device)

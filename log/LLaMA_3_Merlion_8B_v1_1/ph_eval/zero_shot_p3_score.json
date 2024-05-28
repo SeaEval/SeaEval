@@ -1,15 +1,15 @@
 {
-    "accuracy": 0.59,
+    "accuracy": 0.56,
     "category_acc": {
-        "brand": 0.5,
+        "brand": 0.2,
         "demographics": 0.2,
-        "biology": 0.8,
-        "history": 0.5333333333333333,
-        "literature": 0.5,
-        "politics": 0.8,
-        "culture": 0.9,
+        "biology": 0.6,
+        "history": 0.4666666666666667,
+        "literature": 0.6,
+        "politics": 0.9,
+        "culture": 0.7,
         "film": 0.5,
-        "law": 0.4,
-        "geography": 0.6
+        "law": 0.6,
+        "geography": 0.7
     }
 }

@@ -9,7 +9,7 @@
         "context": "Premise: Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter. Hypothesis: The shelter was not informed about the hijacking of the helicopter.",
         "answer": "(C) Contradiction",
         "model_input": "Determine the relationship between the following two sentences. Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nPremise: Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter. Hypothesis: The shelter was not informed about the hijacking of the helicopter.\nChoices:\n(A) Neutral\n(B) Entailment\n(C) Contradiction\nAnswer:\n",
-        "model_prediction": "(C) Contradiction"
+        "model_prediction": "Answer: (C) Contradiction"
     },
     {
         "choices": [
@@ -21,7 +21,7 @@
         "context": "Premise: Unfortunately, the mistake is compounded and perpetuated by dragging in expressions like man in the street, the average working man , and others, and, as a result, the entire argument degenerates. Hypothesis: Expressions like man in the street help further the argument in question.",
         "answer": "(B) Contradiction",
         "model_input": "Determine the relationship between the following two sentences. Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nPremise: Unfortunately, the mistake is compounded and perpetuated by dragging in expressions like man in the street, the average working man , and others, and, as a result, the entire argument degenerates. Hypothesis: Expressions like man in the street help further the argument in question.\nChoices:\n(A) Neutral\n(B) Contradiction\n(C) Entailment\nAnswer:\n",
-        "model_prediction": "(B) Contradictio"
+        "model_prediction": "The relationship between the premise and the hypothesis is a contradiction. Therefore, the correct answer is:\n\n(B) Contradiction"
     },
     {
         "choices": [
@@ -33,7 +33,7 @@
         "context": "Premise: They touch an object, hold it up, or point to it while looking at another person to make sure he or she notices. Hypothesis: They will never get attention by pointing at an object while looking at another person.",
         "answer": "(C) Contradiction",
         "model_input": "Determine the relationship between the following two sentences. Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nPremise: They touch an object, hold it up, or point to it while looking at another person to make sure he or she notices. Hypothesis: They will never get attention by pointing at an object while looking at another person.\nChoices:\n(A) Neutral\n(B) Entailment\n(C) Contradiction\nAnswer:\n",
-        "model_prediction": "(C) Contradictio"
+        "model_prediction": "Answer: (C) Contradiction"
     },
     {
         "choices": [
@@ -57,7 +57,7 @@
         "context": "Premise: My usual partner.' Hypothesis: My usual partner told him to go away.",
         "answer": "(A) Neutral",
         "model_input": "Determine the relationship between the following two sentences. Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nPremise: My usual partner.' Hypothesis: My usual partner told him to go away.\nChoices:\n(A) Neutral\n(B) Contradiction\n(C) Entailment\nAnswer:\n",
-        "model_prediction": "(B) Contradictio"
+        "model_prediction": "(C) Entailment"
     },
     {
         "choices": [
@@ -81,7 +81,7 @@
         "context": "Premise: When all the individual pieces of the garment have been modified and entered into the computer system, the final garment pattern is ready to be cut and sewn into a sample garment. Hypothesis: The final pattern would be ready to become a sample after the individual parts of the garment have been fixed and uploaded onto the computer system.",
         "answer": "(C) Entailment",
         "model_input": "Determine the relationship between the following two sentences. Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nPremise: When all the individual pieces of the garment have been modified and entered into the computer system, the final garment pattern is ready to be cut and sewn into a sample garment. Hypothesis: The final pattern would be ready to become a sample after the individual parts of the garment have been fixed and uploaded onto the computer system.\nChoices:\n(A) Contradiction\n(B) Neutral\n(C) Entailment\nAnswer:\n",
-        "model_prediction": "(C) Entailment"
+        "model_prediction": "The relationship between the premise and the hypothesis is one of entailment. This means that if the premise is true, then the hypothesis must also be true. In this case, the premise states that the final garment pattern is ready to be cut and sewn into a sample garment after the individual pieces have been modified and entered into the computer system. The hypothesis reiterates this same idea, stating that the final pattern would be ready to become a sample after the individual parts of the garment have been fixed and uploaded onto the computer system. Since both statements convey the same idea, the relationship between them is one of entailment."
     },
     {
         "choices": [
@@ -93,7 +93,7 @@
         "context": "Premise: NIPA had already recognized mineral exploration as investment, and in 1996, NIPA reclassified government purchases of plant and equipment as investment. Hypothesis: NIPA said mineral exploration is an investment, especially oil and gas.",
         "answer": "(A) Neutral",
         "model_input": "Determine the relationship between the following two sentences. Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nPremise: NIPA had already recognized mineral exploration as investment, and in 1996, NIPA reclassified government purchases of plant and equipment as investment. Hypothesis: NIPA said mineral exploration is an investment, especially oil and gas.\nChoices:\n(A) Neutral\n(B) Entailment\n(C) Contradiction\nAnswer:\n",
-        "model_prediction": "(B) Entailment"
+        "model_prediction": "Answer: (B) Entailment"
     },
     {
         "choices": [
@@ -117,6 +117,6 @@
         "context": "Premise: Ocho Rios is Spanish for  eight rivers,  but this name is not descriptive of the area. Hypothesis: The area doesn't have eight rivers, only four.",
         "answer": "(B) Neutral",
         "model_input": "Determine the relationship between the following two sentences. Choose the correct answer from the available choices. Simply select the choice, no explanations required.\nPremise: Ocho Rios is Spanish for  eight rivers,  but this name is not descriptive of the area. Hypothesis: The area doesn't have eight rivers, only four.\nChoices:\n(A) Entailment\n(B) Neutral\n(C) Contradiction\nAnswer:\n",
-        "model_prediction": "(C) Contradictio"
+        "model_prediction": "Answer: (C) Contradiction"
     }
 ]
