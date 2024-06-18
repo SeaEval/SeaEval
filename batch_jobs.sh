@@ -1,25 +1,25 @@
 
 
 
-
 # =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =
 # Checked
 #####
-MODEL_NAME=LLaMA_3_Merlion_8B_v1_1
+MODEL_NAME=meta_llama_3_8b_instruct
 GPU=0
-BZ=8
+BZ=4
 EVAL_MODE=zero_shot
 NUM_PROMPTS=5
-EVAL_LANG=[English,Chinese,Indonesian,Vietnamese,Spanish,Malay,Filipino]
+#EVAL_LANG=[English,Chinese,Indonesian,Vietnamese,Spanish,Malay,Filipino]
+EVAL_LANG=[English,Chinese,Vietnamese,Spanish]
 OVERWRITE=True
 #####
 # =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =
 
 
 
-for DATASET in cross_xquad cross_mmlu cross_logiqa sg_eval cn_eval us_eval ph_eval sing2eng indommlu flores_ind2eng flores_vie2eng flores_zho2eng flores_zsm2eng mmlu mmlu_full c_eval c_eval_full cmmlu cmmlu_full zbench ind_emotion ocnli c3 dream samsum dialogsum sst2 cola qqp mnli qnli wnli rte mrpc;
+# for DATASET in cross_xquad cross_mmlu cross_logiqa sg_eval cn_eval us_eval ph_eval sing2eng indommlu flores_ind2eng flores_vie2eng flores_zho2eng flores_zsm2eng mmlu mmlu_full c_eval c_eval_full cmmlu cmmlu_full zbench ind_emotion ocnli c3 dream samsum dialogsum sst2 cola qqp mnli qnli wnli rte mrpc;
 
-#for DATASET in sg_eval;
+for DATASET in cross_xquad cross_mmlu cross_logiqa;
 
 do
 

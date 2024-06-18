@@ -14,6 +14,8 @@ echo "================================="
 
 EVAL_LANG=[English,Chinese,Indonesian,Vietnamese,Spanish,Malay,Filipino]
 
+# EVAL_LANG=[English,Chinese,Vietnamese,Spanish]
+
 
 python src/evaluate.py \
     --dataset_name $4 \
