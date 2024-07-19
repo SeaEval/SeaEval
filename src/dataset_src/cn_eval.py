@@ -15,28 +15,27 @@
 import random
 import logging
 
-import tiger_eval
+from dataset_src.eval_methods.mcq_question_match import multichoice_question
 
-max_number_of_sample = -1
 
 prompt_template = [
-    '请仔细阅读以下问题，并从选项中选择最合适的答案，不需要解释。\n\n问题:\n{}\n\n选项:\n{}\n\n答案:\n',
-    '仔细阅读以下问题，并从选项中选择正确答案，不需要解释。\n问题:\n{}\n选项:\n{}\n答案:\n',
-    '请从您作为中国居民的角度，选择最合适的选项来回答问题，不需要解释。\n问题:\n{}\n选项:\n{}\n答案:\n',
-    '请通过从提供的选项中选择最可能的答案，回答与中国文化相关的以下问题，不需要解释。\n\n问题:\n{}\n\n选项:\n{}\n\n答案:\n',
-    '作为生活在中国的居民，请尽力选择最合适的选项来回答问题，不需要解释。\n\n问题:\n{}\n\n选项:\n{}\n\n答案:\n'
+    '请仔细阅读以下问题，并从选项中选择最合适的答案，不需要解释。\n\n问题:\n{}\n\n选项:\n{}',
+    '仔细阅读以下问题，并从选项中选择正确答案，不需要解释。\n问题:\n{}\n选项:\n{}',
+    '请从您作为中国居民的角度，选择最合适的选项来回答问题，不需要解释。\n问题:\n{}\n选项:\n{}',
+    '请通过从提供的选项中选择最可能的答案，回答与中国文化相关的以下问题，不需要解释。\n\n问题:\n{}\n\n选项:\n{}',
+    '作为生活在中国的居民，请尽力选择最合适的选项来回答问题，不需要解释。\n\n问题:\n{}\n\n选项:\n{}'
     ]
 
 class cn_eval_dataset(object):
 
-    def __init__(self, raw_data, prompt_index, eval_mode):
+    def __init__(self, raw_data, eval_mode="zero_shot", number_of_samples=-1):
         
-        if max_number_of_sample != -1:
-            self.raw_data = raw_data[:max_number_of_sample]
-        else:
-            self.raw_data = raw_data
+        if number_of_samples != -1:
+            random.Random(42).shuffle(raw_data)
+            raw_data = raw_data[:number_of_samples]
 
-        self.prompt    = prompt_template[prompt_index-1]
+        self.raw_data  = raw_data
+        self.prompt    = prompt_template
         self.eval_mode = eval_mode
 
         logging.info('Number of samples: {}'.format(len(self.raw_data)))
@@ -50,7 +49,8 @@ class cn_eval_dataset(object):
         if self.eval_mode=='zero_shot':
             data_plain = []
             for sample in self.filtered_data:
-                input = self.prompt.format(sample['question'], "\n".join(sample['choices']))
+                prompt_template = random.choice(self.prompt)
+                input = prompt_template.format(sample['question'], "\n".join(sample['choices']))
                 data_plain.append(input)
 
         elif self.eval_mode=='five_shot':
@@ -81,8 +81,8 @@ class cn_eval_dataset(object):
 
         data_with_model_predictions = []
         for sample in self.filtered_data:
-            new_sample = sample.copy()
-            new_sample['model_input'] = data_plain.pop(0)
+            new_sample                     = sample.copy()
+            new_sample['model_input']      = data_plain.pop(0)
             new_sample['model_prediction'] = model_predictions.pop(0)
             data_with_model_predictions.append(new_sample)
 
@@ -95,7 +95,7 @@ class cn_eval_dataset(object):
             for item in data_with_model_predictions:
                 item['model_prediction'] = item['model_prediction'].split('\n')[0]
 
-        return tiger_eval.multichoice_question.score(data_with_model_predictions, category=False)
+        return multichoice_question(data_with_model_predictions, category=False)
 
 
 

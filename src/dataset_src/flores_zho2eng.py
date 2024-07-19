@@ -15,29 +15,27 @@
 import random
 import logging
 
-import tiger_eval
-
-max_number_of_sample = -1
+from dataset_src.eval_methods.translation_bleu import translation_bleu
 
 prompt_template = [
-    'Translate the following sentence from Chinese to English. Output the translation only, nothing else.\n\nSentence in Chinese:\n{}\n\nTranslation in English:\n',
-    'Please translate the provided Chinese text into English. Output the translated content only.\nSentence in Chinese:\n{}\nTranslation in English:\n',
-    'Translate the Chinese text provided into English and provide only the translated content.\nSentence in Chinese:\n{}\nTranslation in English:\n',
-    'Given the sentence below, perform machine translation from Chinese to English. Output the translated content only.\n\nSentence in Chinese:\n{}\n\nTranslation in English:\n',
-    'Please translate the sentence: \"{}\" from Chinese to English. Output the translated content only.\n\nTranslation in English:\n'
+    'Translate the following sentence from Chinese to English. Direct output the translation only, nothing else.\n\nSentence in Chinese:\n{}',
+    'Please translate the provided Chinese text into English. Direct output the translated content only.\nSentence in Chinese:\n{}',
+    'Translate the Chinese text provided into English and provide only the translated content. Please direct output the translation. Nothing else.\nSentence in Chinese:\n{}',
+    'Given the sentence below, perform machine translation from Chinese to English. Direct output the translated content only.\n\nSentence in Chinese:\n{}',
+    'Please translate the sentence: \"{}\" from Chinese to English. Direct output the translated content only.'
     ]
 
 class flores_zho2eng_dataset(object):
 
-    def __init__(self, raw_data, prompt_index, eval_mode="zero_shot"):
+    def __init__(self, raw_data, eval_mode="zero_shot", number_of_samples=-1):
         
-        if max_number_of_sample != -1:
-            self.raw_data = raw_data[:max_number_of_sample]
-        else:
-            self.raw_data = raw_data
+        if number_of_samples != -1:
+            random.Random(42).shuffle(raw_data)
+            raw_data = raw_data[:number_of_samples]
 
-        self.prompt        = prompt_template[prompt_index-1]
-        self.eval_mode     = eval_mode
+        self.raw_data  = raw_data
+        self.prompt    = prompt_template
+        self.eval_mode = eval_mode
 
         logging.info('Number of samples: {}'.format(len(self.raw_data)))
 
@@ -49,7 +47,8 @@ class flores_zho2eng_dataset(object):
         if self.eval_mode=='zero_shot':
             data_plain = []
             for sample in self.filtered_data:
-                input = self.prompt.format(sample['context'])
+                prompt_template = random.choice(self.prompt)
+                input = prompt_template.format(sample['context'])
                 data_plain.append(input)
 
         elif self.eval_mode=='five_shot':
@@ -98,7 +97,7 @@ class flores_zho2eng_dataset(object):
         for item in data_with_model_predictions:
             item['model_prediction'] = item['model_prediction'].strip().split('\n')[0]
 
-        return tiger_eval.translation_bleu.score(data_with_model_predictions)
+        return translation_bleu(data_with_model_predictions)
 
 
 

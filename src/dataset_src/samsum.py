@@ -17,27 +17,28 @@ import logging
 
 import tiger_eval
 
-max_number_of_sample = -1
+from dataset_src.eval_methods.rouge_score import rouge_score
+
 
 prompt_template = [
-    'Summarize the following dialogue. Output the summary directly, nothing else.\n\nDialogue:\n{}\n\nSummary:\n',
-    'Compose a concise summary by condensing the key points from the following dialogue. Output the summary directly, nothing else.\nDialogue:\n{}\nSummary:\n',
-    'Please sum up the following conversation in a few sentences. Output the summary directly, nothing else.\nDialogue:\n{}\nSummary:\n',
-    'Produce a brief summary of the following conversation, focusing on conveying essential information. Output the summary directly, nothing else.\n\nDialogue:\n{}\n\nSummary:\n',
-    'Offer an extremely condensed summary of the conversation presented. Output the summary directly, nothing else.\n\nDialogue:\n{}\n\nSummary:\n'
+    'Summarize the following dialogue. Output the summary directly, nothing else.\n\nDialogue:\n{}',
+    'Compose a concise summary by condensing the key points from the following dialogue. Output the summary directly, nothing else.\nDialogue:\n{}',
+    'Please sum up the following conversation in a few sentences. Output the summary directly, nothing else.\nDialogue:\n{}',
+    'Produce a brief summary of the following conversation, focusing on conveying essential information. Output the summary directly, nothing else.\n\nDialogue:\n{}',
+    'Offer an extremely condensed summary of the conversation presented. Output the summary directly, nothing else.\n\nDialogue:\n{}'
     ]
 
 class samsum_dataset(object):
 
-    def __init__(self, raw_data, prompt_index, eval_mode="zero_shot"):
+    def __init__(self, raw_data, eval_mode="zero_shot", number_of_samples=-1):
         
-        if max_number_of_sample != -1:
-            self.raw_data = raw_data[:max_number_of_sample]
-        else:
-            self.raw_data = raw_data
+        if number_of_samples != -1:
+            random.Random(42).shuffle(raw_data)
+            raw_data = raw_data[:number_of_samples]
 
-        self.prompt        = prompt_template[prompt_index-1]
-        self.eval_mode     = eval_mode
+        self.raw_data  = raw_data
+        self.prompt    = prompt_template
+        self.eval_mode = eval_mode
 
         logging.info('Number of samples: {}'.format(len(self.raw_data)))
 
@@ -49,7 +50,8 @@ class samsum_dataset(object):
         if self.eval_mode=='zero_shot':
             data_plain = []
             for sample in self.filtered_data:
-                input = self.prompt.format(sample['context'])
+                prompt_template = random.choice(self.prompt)
+                input           = prompt_template.format(sample['context'])
                 data_plain.append(input)
 
         elif self.eval_mode=='five_shot':
@@ -94,7 +96,7 @@ class samsum_dataset(object):
             for item in data_with_model_predictions:
                 item['model_prediction'] = item['model_prediction'].split('\n')[0]
 
-        return tiger_eval.rouge.score(data_with_model_predictions)
+        return rouge_score(data_with_model_predictions)
 
 
 

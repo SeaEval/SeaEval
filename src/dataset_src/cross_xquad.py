@@ -15,27 +15,26 @@
 import random
 import logging
 
-import tiger_eval
+from dataset_src.eval_methods.cross_lingual_assessment import cross_lingual_assessment
 
-max_number_of_sample = -1
 
 prompt_template = [
-    'Respond to the question by selecting the most appropriate answer. Simply select the choice, no explanations required.\n\nContext:\n{}\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
-    'Kindly choose the correct answer from the options provided for the multiple-choice question. Simply select the answer, no explanations required.\nContext:\n{}\nQuestion:\n{}\nChoices:\n{}\nAnswer:\n',
-    'Solve the multi-choice question by selecting the accurate answer. Simply select the answer, no explanations required.\nContext:\n{}\nQuestion:\n{}\nChoices:\n{}\nAnswer:\n',
-    'Please answer the following multiple-choice question by selecting the correct option. Simply select the answer, no explanations required.\n\nContext:\n{}\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
-    'As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nContext:\n{}\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n'
+    'Respond to the question by selecting the most appropriate answer. Simply select the choice, no explanations required.\n\nContext:\n{}\n\nQuestion:\n{}\n\nChoices:\n{}',
+    'Kindly choose the correct answer from the options provided for the multiple-choice question. Simply select the answer, no explanations required.\nContext:\n{}\nQuestion:\n{}\nChoices:\n{}',
+    'Solve the multi-choice question by selecting the accurate answer. Simply select the answer, no explanations required.\nContext:\n{}\nQuestion:\n{}\nChoices:\n{}',
+    'Please answer the following multiple-choice question by selecting the correct option. Simply select the answer, no explanations required.\n\nContext:\n{}\n\nQuestion:\n{}\n\nChoices:\n{}',
+    'As an expert, your task is to solve the following multiple-choice question. Identify the correct response among the given choices. Simply select the answer, no explanations required.\n\nContext:\n{}\n\nQuestion:\n{}\n\nChoices:\n{}'
     ]
 
 class cross_xquad_dataset(object):
-    def __init__(self, raw_data, prompt_index, support_langs=None, eval_mode="zero_shot"):
+    def __init__(self, raw_data, eval_mode="zero_shot", support_langs=None, number_of_samples=-1):
         
-        if max_number_of_sample != -1:
-            self.raw_data = raw_data[:max_number_of_sample]
-        else:
-            self.raw_data = raw_data
+        if number_of_samples != -1:
+            random.Random(42).shuffle(raw_data)
+            raw_data = raw_data[:number_of_samples]
 
-        self.prompt        = prompt_template[prompt_index-1]
+        self.raw_data      = raw_data
+        self.prompt        = prompt_template
         self.support_langs = support_langs
         self.eval_mode     = eval_mode
 
@@ -56,18 +55,17 @@ class cross_xquad_dataset(object):
 
 
         if self.eval_mode=='zero_shot':
-
             data_plain = []
             for sample_set in filtered_data:
                 for key in sample_set:
                     if key == 'id':
                         continue
-                    input = self.prompt.format(sample_set[key]['context'], sample_set[key]['question'], "\n".join(sample_set[key]['choices']))
+                    prompt_template = random.choice(self.prompt)
+                    input = prompt_template.format(sample_set[key]['context'], sample_set[key]['question'], "\n".join(sample_set[key]['choices']))
                     data_plain.append(input)
 
 
         elif self.eval_mode=='five_shot':
-
             all_samples = []
             for sample_set in filtered_data:
                 for key in sample_set:
@@ -111,8 +109,8 @@ class cross_xquad_dataset(object):
                 if key == 'id':
                     new_sample_set[key] = sample_set[key]
                     continue
-                new_sample_set[key] = sample_set[key]
-                new_sample_set[key]['model_input'] = data_plain.pop(0)
+                new_sample_set[key]                     = sample_set[key]
+                new_sample_set[key]['model_input']      = data_plain.pop(0)
                 new_sample_set[key]['model_prediction'] = model_predictions.pop(0)
             data_with_model_predictions.append(new_sample_set)
 
@@ -130,7 +128,7 @@ class cross_xquad_dataset(object):
                     sample[key]['model_prediction'] = sample[key]['model_prediction'].split('\n')[0]
 
         
-        return tiger_eval.cross_lingual_assessment.score(data_with_model_predictions)
+        return cross_lingual_assessment(data_with_model_predictions)
 
 
 

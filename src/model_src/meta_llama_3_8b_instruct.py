@@ -18,11 +18,11 @@ import logging
 import torch
 import transformers
 
-model_path = '../prepared_models/Meta-Llama-3-8B-Instruct-hf'
+model_path = 'meta-llama/Meta-Llama-3-8B-Instruct'
 
 def meta_llama_3_8b_instruct_model_loader(self):
 
-    self.tokenizer           = transformers.AutoTokenizer.from_pretrained(model_path, padding_side='left')
+    self.tokenizer           = transformers.AutoTokenizer.from_pretrained(model_path, padding_side='left', truncation_side='left')
     self.tokenizer.pad_token = self.tokenizer.eos_token
 
     self.model = transformers.AutoModelForCausalLM.from_pretrained(model_path, device_map="auto", torch_dtype=torch.float16)
@@ -34,17 +34,16 @@ def meta_llama_3_8b_instruct_model_generation(self, batch_input):
 
     batch_input_templated = []
     for sample in batch_input:    
-        messages = [{"role": "user", "content": sample}]
-        sample_templated = self.tokenizer.apply_chat_template(messages, return_tensors="pt", tokenize=False)
+        messages = [
+                        {"role": "user", "content": sample}
+                    ]
+        sample_templated = self.tokenizer.apply_chat_template(messages, return_tensors="pt", tokenize=False, add_generation_prompt=True)
         batch_input_templated.append(sample_templated)
     batch_input = batch_input_templated
 
-    encoded_batch        = self.tokenizer(batch_input, return_tensors="pt", padding=True).to(self.model.device)
+    encoded_batch        = self.tokenizer(batch_input, return_tensors="pt", padding=True, truncation=True).to(self.model.device)
     generated_ids        = self.model.generate(**encoded_batch, do_sample=False, max_new_tokens=self.max_new_tokens, pad_token_id=self.tokenizer.eos_token_id)
     generated_ids        = generated_ids[:, encoded_batch.input_ids.shape[-1]:]
     decoded_batch_output = self.tokenizer.batch_decode(generated_ids, skip_special_tokens=True)
-
-    # remove things after assistant
-    decoded_batch_output = [item.split("assistant")[0] for item in decoded_batch_output]
 
     return decoded_batch_output

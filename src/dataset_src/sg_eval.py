@@ -15,29 +15,28 @@
 import random
 import logging
 
-import tiger_eval
+from dataset_src.eval_methods.mcq_question_match import multichoice_question
 
-max_number_of_sample = -1
 
 prompt_template = [
-    'Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
-    'Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\n{}\nChoices:\n{}\nAnswer:\n',
-    'Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\n{}\nChoices:\n{}\nAnswer:\n',
-    'Please answer the following Singapore-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
-    'As a person living in Singapore, try your best to answer the question by selecting the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion:\n{}\n\nChoices:\n{}\n\nAnswer:\n'
+    'Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\n{}\n\nChoices:\n{}',
+    'Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\n{}\nChoices:\n{}',
+    'Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\n{}\nChoices:\n{}',
+    'Please answer the following Singapore-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\n{}\n\nChoices:\n{}',
+    'As a person living in Singapore, try your best to answer the question by selecting the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion:\n{}\n\nChoices:\n{}'
     ]
 
 class sg_eval_dataset(object):
 
-    def __init__(self, raw_data, prompt_index, eval_mode="zero_shot"):
+    def __init__(self, raw_data, eval_mode="zero_shot", number_of_samples=-1):
         
-        if max_number_of_sample != -1:
-            self.raw_data = raw_data[:max_number_of_sample]
-        else:
-            self.raw_data = raw_data
+        if number_of_samples != -1:
+            random.Random(42).shuffle(raw_data)
+            raw_data = raw_data[:number_of_samples]
 
-        self.prompt        = prompt_template[prompt_index-1]
-        self.eval_mode     = eval_mode
+        self.raw_data  = raw_data
+        self.prompt    = prompt_template
+        self.eval_mode = eval_mode
 
         logging.info('Number of samples: {}'.format(len(self.raw_data)))
 
@@ -49,12 +48,15 @@ class sg_eval_dataset(object):
         if self.eval_mode=='zero_shot':
             data_plain = []
             for sample in self.filtered_data:
-                input = self.prompt.format(sample['question'], "\n".join(sample['choices']))
+                prompt_template = random.choice(self.prompt)
+                input = prompt_template.format(sample['question'], "\n".join(sample['choices']))
                 data_plain.append(input)
 
         elif self.eval_mode=='five_shot':
             data_plain = []
             for sample in self.filtered_data:
+
+                # Get six samples to avoid possible duplications
                 five_plus_one_samples = random.sample(self.filtered_data, 6)
 
                 count = 0
@@ -80,8 +82,8 @@ class sg_eval_dataset(object):
 
         data_with_model_predictions = []
         for sample in self.filtered_data:
-            new_sample = sample.copy()
-            new_sample['model_input'] = data_plain.pop(0)
+            new_sample                     = sample.copy()
+            new_sample['model_input']      = data_plain.pop(0)
             new_sample['model_prediction'] = model_predictions.pop(0)
             data_with_model_predictions.append(new_sample)
 
@@ -94,7 +96,7 @@ class sg_eval_dataset(object):
             for item in data_with_model_predictions:
                 item['model_prediction'] = item['model_prediction'].split('\n')[0]
 
-        return tiger_eval.multichoice_question.score(data_with_model_predictions, category=False)
+        return multichoice_question(data_with_model_predictions, category=False)
 
 
 

@@ -15,29 +15,28 @@
 import random
 import logging
 
-import tiger_eval
+from dataset_src.eval_methods.mcq_question_match import multichoice_question
 
-max_number_of_sample = -1
 
 prompt_template = [
-    'Assess the grammatical correctness of the following sentence and choose the appropriate answer from the provided options. Simply select the answer, no explanations required.\n\nSentence:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
-    'Assess the grammatical accuracy of the following sentence and choose the correct answer from the available options. Simply select the answer, no explanations required.\nSentence:\n{}\nChoices:\n{}\nAnswer:\n',
-    'Evaluate the grammatical correctness of the sentence and choose the correct answer from the provided choices. Simply select the answer, no explanations required.\nSentence:\n{}\nChoices:\n{}\nAnswer:\n',
-    'Analyze the sentence for its grammatical correctness and choose the most suitable answer from the provided options. Simply select the answer, no explanations required.\n\nSentence:\n{}\n\nChoices:\n{}\n\nAnswer:\n',
-    'Respond to the following question by choosing the most suitable option. Simply select the answer, no explanations required.\n\nQuestion:\nIs the following sentence grammatically correct or not?\n\nSentence:\n{}\n\nChoices:\n{}\n\nAnswer:\n'
+    'Assess the grammatical correctness of the following sentence and choose the appropriate answer from the provided options. Simply select the answer, no explanations required.\n\nSentence:\n{}\n\nChoices:\n{}',
+    'Assess the grammatical accuracy of the following sentence and choose the correct answer from the available options. Simply select the answer, no explanations required.\nSentence:\n{}\nChoices:\n{}',
+    'Evaluate the grammatical correctness of the sentence and choose the correct answer from the provided choices. Simply select the answer, no explanations required.\nSentence:\n{}\nChoices:\n{}',
+    'Analyze the sentence for its grammatical correctness and choose the most suitable answer from the provided options. Simply select the answer, no explanations required.\n\nSentence:\n{}\n\nChoices:\n{}',
+    'Respond to the following question by choosing the most suitable option. Simply select the answer, no explanations required.\n\nQuestion:\nIs the following sentence grammatically correct or not?\n\nSentence:\n{}\n\nChoices:\n{}'
     ]
 
 class cola_dataset(object):
 
-    def __init__(self, raw_data, prompt_index, eval_mode="zero_shot"):
+    def __init__(self, raw_data, eval_mode="zero_shot", number_of_samples=-1):
         
-        if max_number_of_sample != -1:
-            self.raw_data = raw_data[:max_number_of_sample]
-        else:
-            self.raw_data = raw_data
+        if number_of_samples != -1:
+            random.Random(42).shuffle(raw_data)
+            raw_data = raw_data[:number_of_samples]
 
-        self.prompt        = prompt_template[prompt_index-1]
-        self.eval_mode     = eval_mode
+        self.raw_data  = raw_data
+        self.prompt    = prompt_template
+        self.eval_mode = eval_mode
 
         logging.info('Number of samples: {}'.format(len(self.raw_data)))
 
@@ -49,7 +48,8 @@ class cola_dataset(object):
         if self.eval_mode=='zero_shot':
             data_plain = []
             for sample in self.filtered_data:
-                input = self.prompt.format(sample['context'], "\n".join(sample['choices']))
+                prompt_template = random.choice(self.prompt)
+                input           = prompt_template.format(sample['context'], "\n".join(sample['choices']))
                 data_plain.append(input)
 
         elif self.eval_mode=='five_shot':
@@ -94,7 +94,7 @@ class cola_dataset(object):
             for item in data_with_model_predictions:
                 item['model_prediction'] = item['model_prediction'].split('\n')[0]
 
-        return tiger_eval.multichoice_question.score(data_with_model_predictions, category=False)
+        return multichoice_question(data_with_model_predictions, category=False)
 
 
 
