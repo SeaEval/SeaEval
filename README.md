@@ -118,6 +118,11 @@ bash demo.sh
 |--|8B|TODO|
 
 
+## How to evaluate your own model?
+
+To use SeaEval to evaluate your own model, you can just add your model to `model.py` and `model_src` accordingly.
+
+
 ## 📚 Citation
 If you find our work useful, please consider citing our paper!
 
@@ -159,99 +164,4 @@ Contact: ```seaeval_help@googlegroups.com```
 
 
 
-
-
-
-# OLD README...
-
-
-
-## Introduction
-
-SeaEval is a toolkit for evaluating the capability of multilingual large language models (LLMs). \
-Details are presented in paper [SeaEval for Multilingual Foundation Models](https://arxiv.org/abs/2309.04766).
-
-**Evaluation Setting**: \
-&nbsp;&nbsp; Zero shot is for instruction-tuned model. The result is the median score from five prompts. \
-&nbsp;&nbsp; Five shot is for base model evaluation. 
-
-**Supported Datasets**: \
-&nbsp;&nbsp; Cross-XQuAD, Cross-MMLU, Cross-LogiQA, SG-Eval, CN-Eval, US-Eval, PH-Eval, Sing2Eng, \
-&nbsp;&nbsp; Flores-Ind2Eng, Flores-Vie2Eng, Flores-Zho2Eng, Flores-Zsm2Eng, MMLU, MMLU-Full, \
-&nbsp;&nbsp; C-Eval, C-Eval-Full, CMMLU, CMMLU-Full, ZBench, INDOMMLU, Ind_Emotion, OCNLI, C3, Dream, \
-&nbsp;&nbsp; SAMSUM, DialogSum, SST2, COLA \
-&nbsp;&nbsp; More details can be found in [DATASETS](img/DATASETS.md).
-
-
-**Supported Models**: \
-&nbsp;&nbsp; More details can be found in [MODELS](img/MODELS.md).
-
-
-## ✍️ Support 8 diverse Languages:
-
-**English** & **中文** & **Bahasa Indonesia** & **Español** & **Tiếng Việt** & **Bahasa Melayu** & **Wikang Filipino** & **Singlish**.
-
-## Resources
-  
-[\[**Live Leaderboard!**\]](https://huggingface.co/spaces/SeaEval/SeaEval_Leaderboard),
-[\[**Website**\]](https://seaeval.github.io/),
-[\[**Datasets**\]](https://huggingface.co/datasets/SeaEval/SeaEval_datasets),
-[\[**Paper**\]](https://arxiv.org/abs/2309.04766)
-
-## Quick Start
-
-Passed: python 3.10
-```
-pip install -r requirements.txt
-```
-
-#### Example: Mistral-7b-Instruct-v0.2 on SG-Eval
-
-Now, start to evaluate the model on one specific task. \
-Here, we take the example of evaluating `mistralai/Mistral-7B-Instruct-v0.2` model on SG-Eval dataset.
-
-```
-bash demo.sh
-```
-
-The expected output is as follows:
-```
-=  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =
-=  =  =  Dataset Sample  =  =  =
-Please carefully read the following question and select the most appropriate answer from the choices.
-
-Question:
-Which political party won the 1948 election of Singapore?
-
-Choices:
-(A) Singapore Progressive Party
-(B) Labour Front Party
-(C) Democratic Party
-(D) People's Action Party
-
-Answer:
-=  =  =  =  =  =  =  =  =  =  =  =
-Dataset name: SG_EVAL
-Model name: MISTRAL_7B_INSTRUCT_V0_2_DEMO
-Prompt index: 1
-Evaluation mode: ZERO_SHOT
-{
-    "accuracy": 0.6504854368932039
-}
-=  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =
-```
-
-### To Evaluate on other tasks, you can change the following variables.
-
-```
-DATASET = {cross_xquad, cross_mmlu, cross_logiqa, sg_eval, us_eval, cn_eval, ph_eval, flores_ind2eng, flores_vie2eng, flores_zho2eng, flores_zsm2eng, mmlu, mmlu_full, c_eval, c_eval_full, cmmlu, cmmlu_full, zbench, ind_emotion, ocnli, c3, dream, samsum, dialogsum, sst2, cola, qqp, mnli, qnli, wnli, rte, mrpc, indommlu}.
-
-PROMPT_INDEX = {1, 2, 3, 4, 5}.
-
-EVAL_MODE = {zero_shot, five_shot}
-```
-
-## How to evaluate your own model?
-
-To use SeaEval to evaluate your own model, you can just add your model to `model.py` and `model_src` accordingly.
 

@@ -19,6 +19,12 @@ sys.path.append('.')
 
 import logging
 
+
+# Newest models
+from model_src.meta_llama_3_8b_instruct import meta_llama_3_8b_instruct_model_loader, meta_llama_3_8b_instruct_model_generation
+from model_src.meta_llama_3_70b_instruct import meta_llama_3_70b_instruct_model_loader, meta_llama_3_70b_instruct_model_generation
+
+
 # Update:
 from model_src.mistral_7b_instruct_v0_2_demo import mistral_7b_instruct_v0_2_demo_model_loader, mistral_7b_instruct_v0_2_demo_model_generation
 from model_src.mistral_7b_instruct_v0_2 import mistral_7b_instruct_v0_2_model_loader, mistral_7b_instruct_v0_2_model_generation
@@ -33,8 +39,6 @@ from model_src.sailor_0_5b_chat import sailor_0_5b_chat_model_loader, sailor_0_5
 from model_src.random import random_model_loader, random_model_generation
 from model_src.meta_llama_3_8b import meta_llama_3_8b_model_loader, meta_llama_3_8b_model_generation
 from model_src.meta_llama_3_70b import meta_llama_3_70b_model_loader, meta_llama_3_70b_model_generation
-from model_src.meta_llama_3_8b_instruct import meta_llama_3_8b_instruct_model_loader, meta_llama_3_8b_instruct_model_generation
-from model_src.meta_llama_3_70b_instruct import meta_llama_3_70b_instruct_model_loader, meta_llama_3_70b_instruct_model_generation
 from model_src.mt0_xxl import mt0_xxl_model_loader, mt0_xxl_model_generation
 from model_src.flan_t5_small import flan_t5_small_model_loader, flan_t5_small_model_generation
 from model_src.flan_t5_base import flan_t5_base_model_loader, flan_t5_base_model_generation
@@ -65,10 +69,7 @@ from model_src.sea_mistral_highest_acc_inst_7b import sea_mistral_highest_acc_in
 from model_src.LLaMA_3_Merlion_8B import LLaMA_3_Merlion_8B_model_loader, LLaMA_3_Merlion_8B_model_generation
 from model_src.LLaMA_3_Merlion_8B_v1_1 import LLaMA_3_Merlion_8B_v1_1_model_loader, LLaMA_3_Merlion_8B_v1_1_model_generation
 
-from model_src.meta_llama_3_8b_instruct import meta_llama_3_8b_instruct_model_loader, meta_llama_3_8b_instruct_model_generation
 
-
-# Meta-Llama-3-8B-Instruct
 
 # =  =  =  =  =  =  =  =  =  =  =  Logging Setup  =  =  =  =  =  =  =  =  =  =  =  =  = 
 logger = logging.getLogger(__name__)
@@ -96,6 +97,8 @@ class Model(object):
         # Update:
         if self.model_name == 'random': random_model_loader(self)
         elif self.model_name == 'Meta-Llama-3-8B-Instruct': meta_llama_3_8b_instruct_model_loader(self)
+        elif self.model_name == 'Meta-Llama-3-70B-Instruct': meta_llama_3_70b_instruct_model_loader(self)
+        
 
 
         elif self.model_name == 'mistral_7b_instruct_v0_2_demo': mistral_7b_instruct_v0_2_demo_model_loader(self)
@@ -111,7 +114,7 @@ class Model(object):
         elif self.model_name == 'meta_llama_3_8b': meta_llama_3_8b_model_loader(self)
         elif self.model_name == 'meta_llama_3_70b': meta_llama_3_70b_model_loader(self)
         # elif self.model_name == 'meta_llama_3_8b_instruct': meta_llama_3_8b_instruct_model_loader(self)
-        elif self.model_name == 'meta_llama_3_70b_instruct': meta_llama_3_70b_instruct_model_loader(self)
+        # elif self.model_name == 'meta_llama_3_70b_instruct': meta_llama_3_70b_instruct_model_loader(self)
         elif self.model_name == 'mt0_xxl': mt0_xxl_model_loader(self)
         elif self.model_name == 'flan_t5_small': flan_t5_small_model_loader(self)
         elif self.model_name == 'flan_t5_base': flan_t5_base_model_loader(self)
@@ -152,6 +155,7 @@ class Model(object):
         # Update:
         if self.model_name == 'random': return random_model_generation(self, batch_input)
         elif self.model_name == 'Meta-Llama-3-8B-Instruct': return meta_llama_3_8b_instruct_model_generation(self, batch_input)
+        elif self.model_name == 'Meta-Llama-3-70B-Instruct': return meta_llama_3_70b_instruct_model_generation(self, batch_input)
 
         elif self.model_name == 'mistral_7b_instruct_v0_2_demo': return mistral_7b_instruct_v0_2_demo_model_generation(self, batch_input)
         elif self.model_name == 'mistral_7b_instruct_v0_2': return mistral_7b_instruct_v0_2_model_generation(self, batch_input)
@@ -165,8 +169,10 @@ class Model(object):
         elif self.model_name == 'sailor_7b_chat': return sailor_7b_chat_model_generation(self, batch_input)
         elif self.model_name == 'meta_llama_3_8b': return meta_llama_3_8b_model_generation(self, batch_input)
         elif self.model_name == 'meta_llama_3_70b': return meta_llama_3_70b_model_generation(self, batch_input)
-        elif self.model_name == 'meta_llama_3_8b_instruct': return meta_llama_3_8b_instruct_model_generation(self, batch_input)
-        elif self.model_name == 'meta_llama_3_70b_instruct': return meta_llama_3_70b_instruct_model_generation(self, batch_input)
+
+        #elif self.model_name == 'meta_llama_3_8b_instruct': return meta_llama_3_8b_instruct_model_generation(self, batch_input)
+        #elif self.model_name == 'meta_llama_3_70b_instruct': return meta_llama_3_70b_instruct_model_generation(self, batch_input)
+        
         elif self.model_name == 'mt0_xxl': return mt0_xxl_model_generation(self, batch_input)
         elif self.model_name == 'flan_t5_small': return flan_t5_small_model_generation(self, batch_input)
         elif self.model_name == 'flan_t5_base': return flan_t5_base_model_generation(self, batch_input)

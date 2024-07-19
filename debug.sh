@@ -1,0 +1,18 @@
+
+##### 
+MODEL_NAME=Meta-Llama-3-70B-Instruct
+GPU=0,1,2,3
+BATCH_SIZE=4
+EVAL_MODE=zero_shot
+OVERWRITE=False
+NUMBER_OF_SAMPLES=-1
+#####
+
+mkdir -p log/$MODEL_NAME
+
+
+
+
+DATASET=sg_eval
+bash eval.sh $DATASET $MODEL_NAME $BATCH_SIZE $EVAL_MODE $OVERWRITE $NUMBER_OF_SAMPLES $GPU 
+
