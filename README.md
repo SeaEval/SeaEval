@@ -109,15 +109,21 @@ bash demo.sh
 |**wnli**|Accuracy|✅|
 |**rte**|Accuracy|✅|
 |**mrpc**|Accuracy|✅|
+|**sg_eval_v1_cleaned**|Accuracy|✅|
+
 
 
 ### Models
 |Model|Size|Mode|Status|
 |---|---|---|---|
-|Llama-3-8B-Instruct|8B|0-Shot|✅|
-|Llama-3-70B-Instruct|70B|0-Shot|✅|
-|Llama-3-8B|8B|5-Shot|✅|
-|Llama-3-70B|70B|5-Shot|✅|
+|Meta-Llama-3-8B-Instruct|8B|0-Shot|✅|
+|Meta-Llama-3-70B-Instruct|70B|0-Shot|✅|
+|Meta-Llama-3.1-8B-Instruct|8B|0-Shot|✅|
+|Qwen2-7B-Instruct|7B|0-Shot|✅|
+|Qwen2-72B-Instruct|72B|0-Shot|✅|
+|Meta-Llama-3-8B|8B|5-Shot|✅|
+|Meta-Llama-3-70B|70B|5-Shot|✅|
+|Meta-Llama-3.1-8B|8B|5-Shot|✅|
 
 
 ## How to evaluate your own model?
