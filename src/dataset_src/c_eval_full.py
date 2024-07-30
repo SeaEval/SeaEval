@@ -15,7 +15,7 @@
 import random
 import logging
 
-import tiger_eval
+# import tiger_eval
 
 max_number_of_sample = -1
 

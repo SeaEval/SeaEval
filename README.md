@@ -112,10 +112,12 @@ bash demo.sh
 
 
 ### Models
-|Model|Size|Status|
-|---|---|---|
-|Llama-3-8B-Instruct|8B|✅|
-|--|8B|TODO|
+|Model|Size|Mode|Status|
+|---|---|---|---|
+|Llama-3-8B-Instruct|8B|0-Shot|✅|
+|Llama-3-70B-Instruct|70B|0-Shot|✅|
+|Llama-3-8B|8B|5-Shot|✅|
+|Llama-3-70B|70B|5-Shot|✅|
 
 
 ## How to evaluate your own model?

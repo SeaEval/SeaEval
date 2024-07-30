@@ -15,8 +15,6 @@
 import random
 import logging
 
-import tiger_eval
-
 from dataset_src.eval_methods.rouge_score import rouge_score
 
 

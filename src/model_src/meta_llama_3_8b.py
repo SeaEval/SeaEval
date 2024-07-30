@@ -18,11 +18,11 @@ import logging
 import torch
 import transformers
 
-model_path = '../prepared_models/Meta-Llama-3-8B-hf'
+model_path = 'meta-llama/Meta-Llama-3-8B'
 
 def meta_llama_3_8b_model_loader(self):
 
-    self.tokenizer           = transformers.AutoTokenizer.from_pretrained(model_path, padding_side='left')
+    self.tokenizer           = transformers.AutoTokenizer.from_pretrained(model_path, padding_side='left', truncation_side='left')
     self.tokenizer.pad_token = self.tokenizer.eos_token
 
     self.model = transformers.AutoModelForCausalLM.from_pretrained(model_path, device_map="auto", torch_dtype=torch.float16)
@@ -32,7 +32,7 @@ def meta_llama_3_8b_model_loader(self):
 
 def meta_llama_3_8b_model_generation(self, batch_input):
 
-    encoded_batch        = self.tokenizer(batch_input, return_tensors="pt", padding=True).to(self.model.device)
+    encoded_batch        = self.tokenizer(batch_input, return_tensors="pt", padding=True, truncation=True, max_length=2500).to(self.model.device)
     generated_ids        = self.model.generate(**encoded_batch, max_new_tokens=self.max_new_tokens, pad_token_id=self.tokenizer.eos_token_id)
     generated_ids        = generated_ids[:, encoded_batch.input_ids.shape[-1]:]
     decoded_batch_output = self.tokenizer.batch_decode(generated_ids, skip_special_tokens=True)

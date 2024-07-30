@@ -43,6 +43,11 @@ def do_model_prediction(dataset, model, batch_size):
     model_predictions = []
     for i in trange(0, len(dataset.data_plain), batch_size, leave=False):
         batch_inputs  = dataset.data_plain[i:i+batch_size]
+
+        #if i == 224:
+        #    import pdb; pdb.set_trace()
+        #    model.generate([batch_inputs[0]])
+
         with torch.no_grad():
             batch_outputs = model.generate(batch_inputs)
         model_predictions.extend(batch_outputs)

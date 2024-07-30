@@ -13,7 +13,9 @@ EVAL_LANG=[English,Chinese,Indonesian,Vietnamese,Spanish,Malay,Filipino]
 export CUDA_VISIBLE_DEVICES=$GPU
 echo "Using GPU: ""$CUDA_VISIBLE_DEVICES"
 
-export HF_HOME=/data/projects/13003565/wangb1/hf_cache
+# export HF_HOME=/data/projects/13003565/wangb1/hf_cache
+# export HF_HOME=/mnt/home/wang_bin/hf_cache
+
 
 python src/evaluate.py \
     --dataset_name $DATASET \

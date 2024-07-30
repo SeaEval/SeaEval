@@ -23,6 +23,12 @@ import logging
 # Newest models
 from model_src.meta_llama_3_8b_instruct import meta_llama_3_8b_instruct_model_loader, meta_llama_3_8b_instruct_model_generation
 from model_src.meta_llama_3_70b_instruct import meta_llama_3_70b_instruct_model_loader, meta_llama_3_70b_instruct_model_generation
+from model_src.meta_llama_3_8b import meta_llama_3_8b_model_loader, meta_llama_3_8b_model_generation
+from model_src.meta_llama_3_70b import meta_llama_3_70b_model_loader, meta_llama_3_70b_model_generation
+from model_src.qwen2_7b_instruct import qwen2_7b_instruct_model_loader, qwen2_7b_instruct_model_generation
+from model_src.qwen2_72b_instruct import qwen2_72b_instruct_model_loader, qwen2_72b_instruct_model_generation
+from model_src.meta_llama_3_1_8b import meta_llama_3_1_8b_model_loader, meta_llama_3_1_8b_model_generation
+from model_src.meta_llama_3_1_8b_instruct import meta_llama_3_1_8b_instruct_model_loader, meta_llama_3_1_8b_instruct_model_generation
 
 
 # Update:
@@ -37,8 +43,8 @@ from model_src.sailor_4b_chat import sailor_4b_chat_model_loader, sailor_4b_chat
 from model_src.sailor_1_8b_chat import sailor_1_8b_chat_model_loader, sailor_1_8b_chat_model_generation
 from model_src.sailor_0_5b_chat import sailor_0_5b_chat_model_loader, sailor_0_5b_chat_model_generation
 from model_src.random import random_model_loader, random_model_generation
-from model_src.meta_llama_3_8b import meta_llama_3_8b_model_loader, meta_llama_3_8b_model_generation
-from model_src.meta_llama_3_70b import meta_llama_3_70b_model_loader, meta_llama_3_70b_model_generation
+
+
 from model_src.mt0_xxl import mt0_xxl_model_loader, mt0_xxl_model_generation
 from model_src.flan_t5_small import flan_t5_small_model_loader, flan_t5_small_model_generation
 from model_src.flan_t5_base import flan_t5_base_model_loader, flan_t5_base_model_generation
@@ -98,9 +104,15 @@ class Model(object):
         if self.model_name == 'random': random_model_loader(self)
         elif self.model_name == 'Meta-Llama-3-8B-Instruct': meta_llama_3_8b_instruct_model_loader(self)
         elif self.model_name == 'Meta-Llama-3-70B-Instruct': meta_llama_3_70b_instruct_model_loader(self)
+        elif self.model_name == 'Meta-Llama-3-8B': meta_llama_3_8b_model_loader(self)
+        elif self.model_name == 'Meta-Llama-3-70B': meta_llama_3_70b_model_loader(self)
+        elif self.model_name == 'Qwen2-7B-Instruct': qwen2_7b_instruct_model_loader(self)
+        elif self.model_name == 'Qwen2-72B-Instruct': qwen2_72b_instruct_model_loader(self)
+        elif self.model_name == 'Meta-Llama-3.1-8B-Instruct': meta_llama_3_1_8b_instruct_model_loader(self)
+        elif self.model_name == 'Meta-Llama-3.1-8B': meta_llama_3_1_8b_model_loader(self)
         
 
-
+        # OLD
         elif self.model_name == 'mistral_7b_instruct_v0_2_demo': mistral_7b_instruct_v0_2_demo_model_loader(self)
         elif self.model_name == 'mistral_7b_instruct_v0_2': mistral_7b_instruct_v0_2_model_loader(self)
         elif self.model_name == 'sailor_0_5b_chat': sailor_0_5b_chat_model_loader(self)
@@ -111,10 +123,7 @@ class Model(object):
         elif self.model_name == 'sailor_4b': sailor_4b_model_loader(self)
         elif self.model_name == 'sailor_1_8b': sailor_1_8b_model_loader(self)
         elif self.model_name == 'sailor_0_5b': sailor_0_5b_model_loader(self)
-        elif self.model_name == 'meta_llama_3_8b': meta_llama_3_8b_model_loader(self)
-        elif self.model_name == 'meta_llama_3_70b': meta_llama_3_70b_model_loader(self)
-        # elif self.model_name == 'meta_llama_3_8b_instruct': meta_llama_3_8b_instruct_model_loader(self)
-        # elif self.model_name == 'meta_llama_3_70b_instruct': meta_llama_3_70b_instruct_model_loader(self)
+        
         elif self.model_name == 'mt0_xxl': mt0_xxl_model_loader(self)
         elif self.model_name == 'flan_t5_small': flan_t5_small_model_loader(self)
         elif self.model_name == 'flan_t5_base': flan_t5_base_model_loader(self)
@@ -156,6 +165,15 @@ class Model(object):
         if self.model_name == 'random': return random_model_generation(self, batch_input)
         elif self.model_name == 'Meta-Llama-3-8B-Instruct': return meta_llama_3_8b_instruct_model_generation(self, batch_input)
         elif self.model_name == 'Meta-Llama-3-70B-Instruct': return meta_llama_3_70b_instruct_model_generation(self, batch_input)
+        elif self.model_name == 'Meta-Llama-3-8B': return meta_llama_3_8b_model_generation(self, batch_input)
+        elif self.model_name == 'Meta-Llama-3-70B': return meta_llama_3_70b_model_generation(self, batch_input)
+        elif self.model_name == 'Qwen2-7B-Instruct': return qwen2_7b_instruct_model_generation(self, batch_input)
+        elif self.model_name == 'Qwen2-72B-Instruct': return qwen2_72b_instruct_model_generation(self, batch_input)
+        elif self.model_name == 'Meta-Llama-3.1-8B-Instruct': return meta_llama_3_1_8b_instruct_model_generation(self, batch_input)
+        elif self.model_name == 'Meta-Llama-3.1-8B': return meta_llama_3_1_8b_model_generation(self, batch_input)
+
+
+        # OLD
 
         elif self.model_name == 'mistral_7b_instruct_v0_2_demo': return mistral_7b_instruct_v0_2_demo_model_generation(self, batch_input)
         elif self.model_name == 'mistral_7b_instruct_v0_2': return mistral_7b_instruct_v0_2_model_generation(self, batch_input)
@@ -167,12 +185,7 @@ class Model(object):
         elif self.model_name == 'sailor_1_8b_chat': return sailor_1_8b_chat_model_generation(self, batch_input)
         elif self.model_name == 'sailor_4b_chat': return sailor_4b_chat_model_generation(self, batch_input)
         elif self.model_name == 'sailor_7b_chat': return sailor_7b_chat_model_generation(self, batch_input)
-        elif self.model_name == 'meta_llama_3_8b': return meta_llama_3_8b_model_generation(self, batch_input)
-        elif self.model_name == 'meta_llama_3_70b': return meta_llama_3_70b_model_generation(self, batch_input)
 
-        #elif self.model_name == 'meta_llama_3_8b_instruct': return meta_llama_3_8b_instruct_model_generation(self, batch_input)
-        #elif self.model_name == 'meta_llama_3_70b_instruct': return meta_llama_3_70b_instruct_model_generation(self, batch_input)
-        
         elif self.model_name == 'mt0_xxl': return mt0_xxl_model_generation(self, batch_input)
         elif self.model_name == 'flan_t5_small': return flan_t5_small_model_generation(self, batch_input)
         elif self.model_name == 'flan_t5_base': return flan_t5_base_model_generation(self, batch_input)
@@ -198,7 +211,6 @@ class Model(object):
         elif self.model_name == 'gemma_7b_it': return gemma_7b_it_model_generation(self, batch_input)
         elif self.model_name == 'qwen_1_5_7b': return qwen_1_5_7b_model_generation(self, batch_input)
         elif self.model_name == 'qwen_1_5_7b_chat': return qwen_1_5_7b_chat_model_generation(self, batch_input)
-
 
         elif self.model_name == 'sea_mistral_highest_acc_inst_7b': return sea_mistral_highest_acc_inst_7b_model_generation(self, batch_input)
         elif self.model_name == 'LLaMA_3_Merlion_8B': return LLaMA_3_Merlion_8B_model_generation(self, batch_input)

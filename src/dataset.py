@@ -30,6 +30,7 @@ from dataset_src.cross_mmlu import cross_mmlu_dataset
 from dataset_src.cross_logiqa import cross_logiqa_dataset
 
 from dataset_src.sg_eval import sg_eval_dataset
+from dataset_src.sg_eval_v1_cleaned import sg_eval_v1_cleaned_dataset
 from dataset_src.cn_eval import cn_eval_dataset
 from dataset_src.us_eval import us_eval_dataset
 from dataset_src.ph_eval import ph_eval_dataset
@@ -68,8 +69,6 @@ from dataset_src.mrpc import mrpc_dataset
 
 from dataset_src.open_sg_qa import open_sg_qa_dataset
 from dataset_src.sing2eng import sing2eng_dataset
-from dataset_src.c_eval_full import c_eval_full_dataset
-from dataset_src.cmmlu_full import cmmlu_full_dataset
 
 
 
@@ -107,10 +106,11 @@ class Dataset(object):
         elif self.dataset_name == 'cross_mmlu': full_data   = load_dataset('SeaEval/cross_mmlu', split='test')
         elif self.dataset_name == 'cross_logiqa': full_data = load_dataset('SeaEval/cross_logiqa', split='test')
         
-        elif self.dataset_name == 'sg_eval': full_data = load_dataset('SeaEval/sg_eval_v1', split='test')
-        elif self.dataset_name == 'cn_eval': full_data = load_dataset('SeaEval/cn_eval', split='test')
-        elif self.dataset_name == 'us_eval': full_data = load_dataset('SeaEval/us_eval', split='test')
-        elif self.dataset_name == 'ph_eval': full_data = load_dataset('SeaEval/ph_eval', split='test')
+        elif self.dataset_name == 'sg_eval': full_data            = load_dataset('SeaEval/sg_eval_v1', split='test')
+        elif self.dataset_name == 'sg_eval_v1_cleaned': full_data = load_dataset('SeaEval/sg_eval_v1_cleaned', split='test')
+        elif self.dataset_name == 'cn_eval': full_data            = load_dataset('SeaEval/cn_eval', split='test')
+        elif self.dataset_name == 'us_eval': full_data            = load_dataset('SeaEval/us_eval', split='test')
+        elif self.dataset_name == 'ph_eval': full_data            = load_dataset('SeaEval/ph_eval', split='test')
 
         elif self.dataset_name == 'flores_ind2eng': full_data = load_dataset('SeaEval/flores_ind2eng', split='test')
         elif self.dataset_name == 'flores_vie2eng': full_data = load_dataset('SeaEval/flores_vie2eng', split='test')
@@ -167,6 +167,10 @@ class Dataset(object):
 
         elif self.dataset_name == 'sg_eval':
             self.dataset_processor = sg_eval_dataset(self.raw_data, self.eval_mode, self.number_of_sample)
+            self.raw_data, self.data_plain = self.dataset_processor.prepare_model_input()
+
+        elif self.dataset_name == 'sg_eval_v1_cleaned':
+            self.dataset_processor = sg_eval_v1_cleaned_dataset(self.raw_data, self.eval_mode, self.number_of_sample)
             self.raw_data, self.data_plain = self.dataset_processor.prepare_model_input()
 
         elif self.dataset_name == 'cn_eval':
