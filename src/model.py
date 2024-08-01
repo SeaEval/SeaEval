@@ -29,6 +29,7 @@ from model_src.qwen2_7b_instruct import qwen2_7b_instruct_model_loader, qwen2_7b
 from model_src.qwen2_72b_instruct import qwen2_72b_instruct_model_loader, qwen2_72b_instruct_model_generation
 from model_src.meta_llama_3_1_8b import meta_llama_3_1_8b_model_loader, meta_llama_3_1_8b_model_generation
 from model_src.meta_llama_3_1_8b_instruct import meta_llama_3_1_8b_instruct_model_loader, meta_llama_3_1_8b_instruct_model_generation
+from model_src.llama3_8b_cpt_sea_lionv2_instruct import llama3_8b_cpt_sea_lionv2_instruct_model_loader, llama3_8b_cpt_sea_lionv2_instruct_model_generation
 
 
 # Update:
@@ -110,7 +111,8 @@ class Model(object):
         elif self.model_name == 'Qwen2-72B-Instruct': qwen2_72b_instruct_model_loader(self)
         elif self.model_name == 'Meta-Llama-3.1-8B-Instruct': meta_llama_3_1_8b_instruct_model_loader(self)
         elif self.model_name == 'Meta-Llama-3.1-8B': meta_llama_3_1_8b_model_loader(self)
-        
+        elif self.model_name == 'llama3-8b-cpt-sea-lionv2-instruct': llama3_8b_cpt_sea_lionv2_instruct_model_loader(self)
+
 
         # OLD
         elif self.model_name == 'mistral_7b_instruct_v0_2_demo': mistral_7b_instruct_v0_2_demo_model_loader(self)
@@ -171,6 +173,7 @@ class Model(object):
         elif self.model_name == 'Qwen2-72B-Instruct': return qwen2_72b_instruct_model_generation(self, batch_input)
         elif self.model_name == 'Meta-Llama-3.1-8B-Instruct': return meta_llama_3_1_8b_instruct_model_generation(self, batch_input)
         elif self.model_name == 'Meta-Llama-3.1-8B': return meta_llama_3_1_8b_model_generation(self, batch_input)
+        elif self.model_name == 'llama3-8b-cpt-sea-lionv2-instruct': return llama3_8b_cpt_sea_lionv2_instruct_model_generation(self, batch_input)
 
 
         # OLD

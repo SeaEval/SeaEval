@@ -141,9 +141,7 @@ class Dataset(object):
         elif self.dataset_name == 'wnli': full_data = load_dataset('SeaEval/wnli', split='test')
         elif self.dataset_name == 'rte': full_data  = load_dataset('SeaEval/rte', split='test')
         elif self.dataset_name == 'mrpc': full_data = load_dataset('SeaEval/mrpc', split='test')
-        
-        #full_data = load_dataset('SeaEval/SeaEval_datasets', self.dataset_name, split='test')
-        
+       
         full_data = [sample for sample in full_data]
         self.raw_data = full_data
 
