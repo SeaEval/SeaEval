@@ -1,16 +1,16 @@
 
+
+
 ##### 
-MODEL_NAME=Meta-Llama-3.1-8B-Instruct
-GPU=6
+MODEL_NAME=gemma-2-9b-it
+GPU=5
 BATCH_SIZE=2
 EVAL_MODE=zero_shot
-OVERWRITE=False
+OVERWRITE=True
 NUMBER_OF_SAMPLES=-1
 #####
 
 mkdir -p log/$MODEL_NAME
-
-OVERWRITE=True
 
 DATASET=sg_eval_v1_cleaned
 

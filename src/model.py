@@ -30,7 +30,9 @@ from model_src.qwen2_72b_instruct import qwen2_72b_instruct_model_loader, qwen2_
 from model_src.meta_llama_3_1_8b import meta_llama_3_1_8b_model_loader, meta_llama_3_1_8b_model_generation
 from model_src.meta_llama_3_1_8b_instruct import meta_llama_3_1_8b_instruct_model_loader, meta_llama_3_1_8b_instruct_model_generation
 from model_src.llama3_8b_cpt_sea_lionv2_instruct import llama3_8b_cpt_sea_lionv2_instruct_model_loader, llama3_8b_cpt_sea_lionv2_instruct_model_generation
-
+from model_src.llama3_8b_cpt_sea_lionv2_base import llama3_8b_cpt_sea_lionv2_base_model_loader, llama3_8b_cpt_sea_lionv2_base_model_generation
+from model_src.seallms_v3_7b_chat import seallms_v3_7b_chat_model_loader, seallms_v3_7b_chat_model_generation
+from model_src.gemma_2_9b_it import gemma_2_9b_it_model_loader, gemma_2_9b_it_model_generation
 
 # Update:
 from model_src.mistral_7b_instruct_v0_2_demo import mistral_7b_instruct_v0_2_demo_model_loader, mistral_7b_instruct_v0_2_demo_model_generation
@@ -112,6 +114,9 @@ class Model(object):
         elif self.model_name == 'Meta-Llama-3.1-8B-Instruct': meta_llama_3_1_8b_instruct_model_loader(self)
         elif self.model_name == 'Meta-Llama-3.1-8B': meta_llama_3_1_8b_model_loader(self)
         elif self.model_name == 'llama3-8b-cpt-sea-lionv2-instruct': llama3_8b_cpt_sea_lionv2_instruct_model_loader(self)
+        elif self.model_name == 'llama3-8b-cpt-sea-lionv2-base': llama3_8b_cpt_sea_lionv2_base_model_loader(self)
+        elif self.model_name == 'SeaLLMs-v3-7B-Chat': seallms_v3_7b_chat_model_loader(self)
+        elif self.model_name == 'gemma-2-9b-it': gemma_2_9b_it_model_loader(self)
 
 
         # OLD
@@ -174,6 +179,9 @@ class Model(object):
         elif self.model_name == 'Meta-Llama-3.1-8B-Instruct': return meta_llama_3_1_8b_instruct_model_generation(self, batch_input)
         elif self.model_name == 'Meta-Llama-3.1-8B': return meta_llama_3_1_8b_model_generation(self, batch_input)
         elif self.model_name == 'llama3-8b-cpt-sea-lionv2-instruct': return llama3_8b_cpt_sea_lionv2_instruct_model_generation(self, batch_input)
+        elif self.model_name == 'llama3-8b-cpt-sea-lionv2-base': return llama3_8b_cpt_sea_lionv2_base_model_generation(self, batch_input)
+        elif self.model_name == 'SeaLLMs-v3-7B-Chat': return seallms_v3_7b_chat_model_generation(self, batch_input)
+        elif self.model_name == 'gemma-2-9b-it': return gemma_2_9b_it_model_generation(self, batch_input)
 
 
         # OLD
