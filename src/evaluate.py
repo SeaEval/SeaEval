@@ -26,7 +26,13 @@ from dataset import Dataset
 from model   import Model
 
 import nltk
-nltk.download('punkt')
+
+#nltk.data.path = ['/home/users/astar/ares/wangb1/scratch/nltk_data']
+#print(nltk.data.path)
+nltk.download('punkt', download_dir='/home/users/astar/ares/wangb1/scratch/nltk_data')
+nltk.download('punkt_tab', download_dir='/home/users/astar/ares/wangb1/scratch/nltk_data')
+#nltk.download('punkt_tab')
+#nltk.download('punkt')
 
 
 # =  =  =  =  =  =  =  =  =  =  =  Logging Setup  =  =  =  =  =  =  =  =  =  =  =  =  = 
@@ -43,10 +49,6 @@ def do_model_prediction(dataset, model, batch_size):
     model_predictions = []
     for i in trange(0, len(dataset.data_plain), batch_size, leave=False):
         batch_inputs  = dataset.data_plain[i:i+batch_size]
-
-        #if i == 224:
-        #    import pdb; pdb.set_trace()
-        #    model.generate([batch_inputs[0]])
 
         with torch.no_grad():
             batch_outputs = model.generate(batch_inputs)
@@ -74,10 +76,20 @@ def main(
     logger.info("Overwrite: {}".format(overwrite))
     logger.info("")
 
+    # If the final score log exists, skip the evaluation
+    if os.path.exists('log/{}/{}_{}_score.json'.format(model_name, dataset_name, eval_mode)):
+        logger.info("Evaluation has been done before. Skip the evaluation.")
+        logger.info("\n\n\n\n\n")
+        return
+
     # Load dataset and model
     dataset = Dataset(dataset_name, support_langs=eval_lang, eval_mode=eval_mode, number_of_sample=number_of_samples)
 
+
+
+    # If the middle result exists, skip the model prediction
     if overwrite or not os.path.exists('log/{}/{}_{}.json'.format(model_name, dataset_name, eval_mode)):
+
         # Infer with model
         model   = Model(model_name)
         model_predictions = do_model_prediction(dataset, model, batch_size)
@@ -90,10 +102,11 @@ def main(
                 json.dump(data_with_model_predictions, f, indent=4, ensure_ascii=False)
             except:
                 json.dump(data_with_model_predictions, f, indent=4, ensure_ascii=True)
-    
+
+    # Load the result with predictions
     data_with_model_predictions = json.load(open('log/{}/{}_{}.json'.format(model_name, dataset_name, eval_mode), 'r'))
 
-    # Metric evaluation
+    # Evaluation with specific metrics
     results, data_with_model_prediction = dataset.dataset_processor.compute_score(data_with_model_predictions)
 
     # Print the result with metrics

@@ -21,28 +21,29 @@ import transformers
 import openai
 from openai import AzureOpenAI
 
+import os
 
 
-def gpt_35_turbo_1106_model_loader(self):
+def gpt4o_0513_model_loader(self):
 
     self.client = AzureOpenAI(
-        azure_endpoint = 'xxxx', 
-        api_key='xxxx',  
+        azure_endpoint = 'https://aoai-i2r-test-001.openai.azure.com/', 
+        api_key=os.getenv("AZURE_OPENAI_KEY"),  
         api_version="2024-02-15-preview"
         )
 
 
 
-def gpt_35_turbo_1106_model_generation(self, batch_input):
+def gpt4o_0513_model_generation(self, batch_input):
 
     if len(batch_input) > 1:
         raise ValueError("Only single input is supported for this model.")
 
-    message_text = [{"role":"system","content":"You are a helpful AI assistant."},{"role":"user","content": batch_input[0]}]
+    message_text = [{"role":"system","content": "You are a helpful AI assistant."},{"role":"user", "content": batch_input[0]}]
 
     try:
         completion = self.client.chat.completions.create(
-            model="GPT35-for-everyone",
+            model="gpt-4o-0513-pre",
             messages = message_text,
             temperature=0.7,
             max_tokens=500,

@@ -1,8 +1,11 @@
 
-
+import os
 import re
 import random
 from collections import Counter
+
+import transformers
+from openai import OpenAI
 
 index_to_letter = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
 
@@ -131,3 +134,83 @@ def heuristic_align(choices, model_prediction):
         else:
             return random.choice(choices)
 
+
+
+
+def model_judge_align(choices, model_prediction):
+
+    # if nothing in model_prediction, return random choice
+    if len(model_prediction.strip()) == 0:
+        return random.choice(choices)
+    
+    # Load tokenizer
+    tokenizer = transformers.AutoTokenizer.from_pretrained("meta-llama/Meta-Llama-3-70B-Instruct", device_map="auto", use_fast=False, padding_side='left')
+    tokenizer.pad_token = tokenizer.eos_token
+
+    # Judgement model
+    # port = random.choice([os.environ.get('VLLM_PORT', 5000)])
+    port = os.environ.get('MY_VLLM_PORT_JUDGE', 5000)
+
+    print(port)
+    print("\n"*100)
+    
+
+    openai_api_key = "EMPTY"
+    openai_api_base = f"http://localhost:{port}/v1"
+    client = OpenAI(
+        api_key=openai_api_key,
+        base_url=openai_api_base,
+    )
+    models = client.models.list()
+    model = models.data[0].id
+    
+    # Generation
+    model_prediction = model_prediction.strip()
+
+    PROMPT_TEMPLATE = """\
+        [Model Prediction]
+        My answer is: {model_prediction}
+
+        [Choices]
+        {choices}
+
+        [Task]
+        The model has one answer to some multiple choice question. Please indicate which choice is chosen by the model from the model prediction. 
+        Your response should be formatted as follows:
+        Explanation: (Provide a concise explanation of your reasoning.")
+        The model selected: (A/B/C/D/E/F/G/H/I/J/...) """
+
+    evaluation_prompt = PROMPT_TEMPLATE.format(model_prediction=model_prediction, choices="\n".join(choices))
+    messages = [
+        {"role": "user", "content": evaluation_prompt},
+    ]
+
+    templated_sample = tokenizer.apply_chat_template(
+        messages,
+        add_generation_prompt=True,
+        return_tensors="pt",
+        tokenize=False,
+    )
+
+    completion = client.completions.create(
+    model      = model,
+    prompt     = templated_sample,
+    max_tokens = 512,
+    n          = 1,
+        )
+    
+    output = completion.choices[0].text.strip()
+
+    # print(model_prediction)
+    # print(output)
+
+    try:
+        final_answer = output.split('The model selected:')[-1]
+        final_answer = final_answer.strip()
+        final_answer = next((char for char in final_answer if char.isalpha()), None)
+        final_answer = choices[index_to_letter.index(final_answer.upper())]
+        return final_answer
+    
+    except:
+        return random.choice(choices)
+        

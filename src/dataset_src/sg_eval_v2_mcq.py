@@ -17,20 +17,16 @@ import logging
 
 from dataset_src.eval_methods.mcq_question_match import multichoice_question
 
+
 prompt_template = [
-    'Read the provided content (if exists) and respond to the question by selecting the most probable answer. Simply select the choice, no explanations required.\n\nQuestion:\n{}\n\nChoices:\n{}',
-    'Based on the content (if provided), please directly choose the correct answer for the multiple-choice question. Simply select the choice, no explanations required.\nQuestion:\n{}\nChoices:\n{}',
-    'Respond to the multiple-choice question with the correct answer based on the provided content. Simply select the choice, no explanations required.\nQuestion:\n{}\nChoices:\n{}',
-    'Answer the following multi-choices question by selecting the correct option. Simply select the choice, no explanations required.\n\nQuestion:\n{}\n\nChoices:\n{}',
-    'As an expert, your task is to solve the following multiple-choice question by selecting the correct response from the options provided. Simply select the choice, no explanations required.\n\nQuestion:\n{}\n\nChoices:\n{}'
+    'Please carefully read the following question and select the most appropriate answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\n{}\n\nChoices:\n{}',
+    'Read the following question carefully and select the correct answer from the choices. Simply select the choice, no explanations required.\nQuestion:\n{}\nChoices:\n{}',
+    'Please select the most appropriate option to answer the question from your perspective as a resident of Singapore. Simply select the choice, no explanations required.\nQuestion:\n{}\nChoices:\n{}',
+    'Please answer the following Singapore-related questions by selecting the most probable answer from the choices. Simply select the choice, no explanations required.\n\nQuestion:\n{}\n\nChoices:\n{}',
+    'As a person living in Singapore, try your best to answer the question by selecting the most appropriate option. Simply select the choice, no explanations required.\n\nQuestion:\n{}\n\nChoices:\n{}'
     ]
 
-#prompt_template = [
-#    'Question:\n{}\nChoices:\n{}',
-#    ]
-
-
-class mmlu_dataset(object):
+class sg_eval_v2_mcq_dataset(object):
 
     def __init__(self, raw_data, eval_mode="zero_shot", number_of_samples=-1):
         
@@ -39,8 +35,8 @@ class mmlu_dataset(object):
             raw_data = raw_data[:number_of_samples]
 
         self.raw_data  = raw_data
-        self.eval_mode = eval_mode
         self.prompt    = prompt_template
+        self.eval_mode = eval_mode
 
         logging.info('Number of samples: {}'.format(len(self.raw_data)))
 
@@ -55,17 +51,12 @@ class mmlu_dataset(object):
                 prompt_template = random.choice(self.prompt)
                 input = prompt_template.format(sample['question'], "\n".join(sample['choices']))
                 data_plain.append(input)
-        
-        elif self.eval_mode=='zero_shot_np':
-            data_plain = []
-            for sample in self.filtered_data:
-                prompt_template = 'Question:\n{}\nChoices:\n{}'
-                input = prompt_template.format(sample['question'], "\n".join(sample['choices']))
-                data_plain.append(input)
 
         elif self.eval_mode=='five_shot':
             data_plain = []
             for sample in self.filtered_data:
+
+                # Get six samples to avoid possible duplications
                 five_plus_one_samples = random.sample(self.filtered_data, 6)
 
                 count = 0
@@ -81,7 +72,7 @@ class mmlu_dataset(object):
                 data_plain.append(input)
 
         print('\n=  =  =  Dataset Sample  =  =  =')
-        print(random.sample(data_plain,1)[0])
+        print(random.sample(data_plain, 1)[0])
         print('=  =  =  =  =  =  =  =  =  =  =  =\n')
         
         return self.filtered_data, data_plain
@@ -91,8 +82,8 @@ class mmlu_dataset(object):
 
         data_with_model_predictions = []
         for sample in self.filtered_data:
-            new_sample = sample.copy()
-            new_sample['model_input'] = data_plain.pop(0)
+            new_sample                     = sample.copy()
+            new_sample['model_input']      = data_plain.pop(0)
             new_sample['model_prediction'] = model_predictions.pop(0)
             data_with_model_predictions.append(new_sample)
 
@@ -105,7 +96,7 @@ class mmlu_dataset(object):
             for item in data_with_model_predictions:
                 item['model_prediction'] = item['model_prediction'].split('\n')[0]
 
-        return multichoice_question(data_with_model_predictions, category=True)
+        return multichoice_question(data_with_model_predictions, category=False)
 
 
 

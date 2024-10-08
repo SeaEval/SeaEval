@@ -28,13 +28,26 @@ from model_src.meta_llama_3_70b import meta_llama_3_70b_model_loader, meta_llama
 from model_src.qwen2_7b_instruct import qwen2_7b_instruct_model_loader, qwen2_7b_instruct_model_generation
 from model_src.qwen2_72b_instruct import qwen2_72b_instruct_model_loader, qwen2_72b_instruct_model_generation
 from model_src.meta_llama_3_1_8b import meta_llama_3_1_8b_model_loader, meta_llama_3_1_8b_model_generation
+from model_src.meta_llama_3_1_70b import meta_llama_3_1_70b_model_loader, meta_llama_3_1_70b_model_generation
 from model_src.meta_llama_3_1_8b_instruct import meta_llama_3_1_8b_instruct_model_loader, meta_llama_3_1_8b_instruct_model_generation
+from model_src.meta_llama_3_1_70b_instruct import meta_llama_3_1_70b_instruct_model_loader, meta_llama_3_1_70b_instruct_model_generation
 from model_src.llama3_8b_cpt_sea_lionv2_instruct import llama3_8b_cpt_sea_lionv2_instruct_model_loader, llama3_8b_cpt_sea_lionv2_instruct_model_generation
 from model_src.llama3_8b_cpt_sea_lionv2_base import llama3_8b_cpt_sea_lionv2_base_model_loader, llama3_8b_cpt_sea_lionv2_base_model_generation
 from model_src.seallms_v3_7b_chat import seallms_v3_7b_chat_model_loader, seallms_v3_7b_chat_model_generation
 from model_src.gemma_2_9b_it import gemma_2_9b_it_model_loader, gemma_2_9b_it_model_generation
+from model_src.gemma_2_2b_it import gemma_2_2b_it_model_loader, gemma_2_2b_it_model_generation
+from model_src.gpt4o_0513 import gpt4o_0513_model_loader, gpt4o_0513_model_generation
+from model_src.qwen2_5_instruct import qwen2_5_instruct_model_loader, qwen2_5_instruct_model_generation
 
-# Update:
+from model_src.sg_llama3_70b_inst import sg_llama3_70b_inst_model_loader, sg_llama3_70b_inst_model_generation
+from model_src.cross_openhermes_llama3_8b_4096_inst import cross_openhermes_llama3_8b_4096_inst_model_loader, cross_openhermes_llama3_8b_4096_inst_model_generation
+from model_src.cross_openhermes_llama3_8b_4096_2_inst import cross_openhermes_llama3_8b_4096_2_inst_model_loader, cross_openhermes_llama3_8b_4096_2_inst_model_generation
+from model_src.cross_openhermes_llama3_70b_4096_inst import cross_openhermes_llama3_70b_4096_inst_model_loader, cross_openhermes_llama3_70b_4096_inst_model_generation
+from model_src.cross_openhermes_llama3_70b_4096_inst_2 import cross_openhermes_llama3_70b_4096_inst_2_model_loader, cross_openhermes_llama3_70b_4096_inst_2_model_generation
+from model_src.sg_llama3_8192_8b import sg_llama3_8192_8b_model_loader, sg_llama3_8192_8b_model_generation
+
+
+# TO - Update:
 from model_src.mistral_7b_instruct_v0_2_demo import mistral_7b_instruct_v0_2_demo_model_loader, mistral_7b_instruct_v0_2_demo_model_generation
 from model_src.mistral_7b_instruct_v0_2 import mistral_7b_instruct_v0_2_model_loader, mistral_7b_instruct_v0_2_model_generation
 from model_src.sailor_7b import sailor_7b_model_loader, sailor_7b_model_generation
@@ -46,7 +59,6 @@ from model_src.sailor_4b_chat import sailor_4b_chat_model_loader, sailor_4b_chat
 from model_src.sailor_1_8b_chat import sailor_1_8b_chat_model_loader, sailor_1_8b_chat_model_generation
 from model_src.sailor_0_5b_chat import sailor_0_5b_chat_model_loader, sailor_0_5b_chat_model_generation
 from model_src.random import random_model_loader, random_model_generation
-
 
 from model_src.mt0_xxl import mt0_xxl_model_loader, mt0_xxl_model_generation
 from model_src.flan_t5_small import flan_t5_small_model_loader, flan_t5_small_model_generation
@@ -74,7 +86,6 @@ from model_src.gemma_7b_it import gemma_7b_it_model_loader, gemma_7b_it_model_ge
 from model_src.qwen_1_5_7b import qwen_1_5_7b_model_loader, qwen_1_5_7b_model_generation
 from model_src.qwen_1_5_7b_chat import qwen_1_5_7b_chat_model_loader, qwen_1_5_7b_chat_model_generation
 
-from model_src.sea_mistral_highest_acc_inst_7b import sea_mistral_highest_acc_inst_7b_model_loader, sea_mistral_highest_acc_inst_7b_model_generation
 from model_src.LLaMA_3_Merlion_8B import LLaMA_3_Merlion_8B_model_loader, LLaMA_3_Merlion_8B_model_generation
 from model_src.LLaMA_3_Merlion_8B_v1_1 import LLaMA_3_Merlion_8B_v1_1_model_loader, LLaMA_3_Merlion_8B_v1_1_model_generation
 
@@ -91,7 +102,7 @@ logging.basicConfig(
 
 class Model(object):
 
-    def __init__(self, model_name_or_path, max_new_tokens=128):
+    def __init__(self, model_name_or_path, max_new_tokens=512):
         
         self.model_name     = model_name_or_path
         self.max_new_tokens = max_new_tokens
@@ -111,13 +122,31 @@ class Model(object):
         elif self.model_name == 'Meta-Llama-3-70B': meta_llama_3_70b_model_loader(self)
         elif self.model_name == 'Qwen2-7B-Instruct': qwen2_7b_instruct_model_loader(self)
         elif self.model_name == 'Qwen2-72B-Instruct': qwen2_72b_instruct_model_loader(self)
-        elif self.model_name == 'Meta-Llama-3.1-8B-Instruct': meta_llama_3_1_8b_instruct_model_loader(self)
         elif self.model_name == 'Meta-Llama-3.1-8B': meta_llama_3_1_8b_model_loader(self)
+        elif self.model_name == 'Meta-Llama-3.1-70B': meta_llama_3_1_70b_model_loader(self)
+        elif self.model_name == 'Meta-Llama-3.1-8B-Instruct': meta_llama_3_1_8b_instruct_model_loader(self)
+        elif self.model_name == 'Meta-Llama-3.1-70B-Instruct': meta_llama_3_1_70b_instruct_model_loader(self)
         elif self.model_name == 'llama3-8b-cpt-sea-lionv2-instruct': llama3_8b_cpt_sea_lionv2_instruct_model_loader(self)
         elif self.model_name == 'llama3-8b-cpt-sea-lionv2-base': llama3_8b_cpt_sea_lionv2_base_model_loader(self)
         elif self.model_name == 'SeaLLMs-v3-7B-Chat': seallms_v3_7b_chat_model_loader(self)
         elif self.model_name == 'gemma-2-9b-it': gemma_2_9b_it_model_loader(self)
+        elif self.model_name == 'gemma-2-2b-it': gemma_2_2b_it_model_loader(self)
+        elif self.model_name == 'GPT4o_0513': gpt4o_0513_model_loader(self)
+        elif self.model_name == 'Qwen2_5_0_5B_Instruct': qwen2_5_instruct_model_loader(self)
+        elif self.model_name == 'Qwen2_5_1_5B_Instruct': qwen2_5_instruct_model_loader(self)
+        elif self.model_name == 'Qwen2_5_3B_Instruct': qwen2_5_instruct_model_loader(self)
+        elif self.model_name == 'Qwen2_5_7B_Instruct': qwen2_5_instruct_model_loader(self)
+        elif self.model_name == 'Qwen2_5_14B_Instruct': qwen2_5_instruct_model_loader(self)
+        elif self.model_name == 'Qwen2_5_32B_Instruct': qwen2_5_instruct_model_loader(self)
+        elif self.model_name == 'Qwen2_5_72B_Instruct': qwen2_5_instruct_model_loader(self)
 
+        elif self.model_name == 'sg_llama3_70b_inst': sg_llama3_70b_inst_model_loader(self)
+        elif self.model_name == 'cross_openhermes_llama3_8b_4096_inst': cross_openhermes_llama3_8b_4096_inst_model_loader(self)
+        elif self.model_name == 'cross_openhermes_llama3_8b_4096_2_inst': cross_openhermes_llama3_8b_4096_2_inst_model_loader(self)
+        elif self.model_name == 'cross_openhermes_llama3_70b_4096_inst': cross_openhermes_llama3_70b_4096_inst_model_loader(self)
+        elif self.model_name == 'cross_openhermes_llama3_70b_4096_inst_2': cross_openhermes_llama3_70b_4096_inst_2_model_loader(self)
+        elif self.model_name == 'sg_llama3_8192_8b': sg_llama3_8192_8b_model_loader(self)
+        
 
         # OLD
         elif self.model_name == 'mistral_7b_instruct_v0_2_demo': mistral_7b_instruct_v0_2_demo_model_loader(self)
@@ -157,7 +186,6 @@ class Model(object):
         elif self.model_name == 'qwen_1_5_7b': qwen_1_5_7b_model_loader(self)
         elif self.model_name == 'qwen_1_5_7b_chat': qwen_1_5_7b_chat_model_loader(self)
 
-        elif self.model_name == 'sea_mistral_highest_acc_inst_7b': sea_mistral_highest_acc_inst_7b_model_loader(self)
         elif self.model_name == 'LLaMA_3_Merlion_8B': LLaMA_3_Merlion_8B_model_loader(self)
         elif self.model_name == 'LLaMA_3_Merlion_8B_v1_1': LLaMA_3_Merlion_8B_v1_1_model_loader(self)
         
@@ -176,12 +204,30 @@ class Model(object):
         elif self.model_name == 'Meta-Llama-3-70B': return meta_llama_3_70b_model_generation(self, batch_input)
         elif self.model_name == 'Qwen2-7B-Instruct': return qwen2_7b_instruct_model_generation(self, batch_input)
         elif self.model_name == 'Qwen2-72B-Instruct': return qwen2_72b_instruct_model_generation(self, batch_input)
-        elif self.model_name == 'Meta-Llama-3.1-8B-Instruct': return meta_llama_3_1_8b_instruct_model_generation(self, batch_input)
         elif self.model_name == 'Meta-Llama-3.1-8B': return meta_llama_3_1_8b_model_generation(self, batch_input)
+        elif self.model_name == 'Meta-Llama-3.1-70B': return meta_llama_3_1_70b_model_generation(self, batch_input)
+        elif self.model_name == 'Meta-Llama-3.1-8B-Instruct': return meta_llama_3_1_8b_instruct_model_generation(self, batch_input)
+        elif self.model_name == 'Meta-Llama-3.1-70B-Instruct': return meta_llama_3_1_70b_instruct_model_generation(self, batch_input)
         elif self.model_name == 'llama3-8b-cpt-sea-lionv2-instruct': return llama3_8b_cpt_sea_lionv2_instruct_model_generation(self, batch_input)
         elif self.model_name == 'llama3-8b-cpt-sea-lionv2-base': return llama3_8b_cpt_sea_lionv2_base_model_generation(self, batch_input)
         elif self.model_name == 'SeaLLMs-v3-7B-Chat': return seallms_v3_7b_chat_model_generation(self, batch_input)
         elif self.model_name == 'gemma-2-9b-it': return gemma_2_9b_it_model_generation(self, batch_input)
+        elif self.model_name == 'gemma-2-2b-it': return gemma_2_2b_it_model_generation(self, batch_input)
+        elif self.model_name == 'GPT4o_0513': return gpt4o_0513_model_generation(self, batch_input)
+        elif self.model_name == 'Qwen2_5_0_5B_Instruct': return qwen2_5_instruct_model_generation(self, batch_input)
+        elif self.model_name == 'Qwen2_5_1_5B_Instruct': return qwen2_5_instruct_model_generation(self, batch_input)
+        elif self.model_name == 'Qwen2_5_3B_Instruct': return qwen2_5_instruct_model_generation(self, batch_input)
+        elif self.model_name == 'Qwen2_5_7B_Instruct': return qwen2_5_instruct_model_generation(self, batch_input)
+        elif self.model_name == 'Qwen2_5_14B_Instruct': return qwen2_5_instruct_model_generation(self, batch_input)
+        elif self.model_name == 'Qwen2_5_32B_Instruct': return qwen2_5_instruct_model_generation(self, batch_input)
+        elif self.model_name == 'Qwen2_5_72B_Instruct': return qwen2_5_instruct_model_generation(self, batch_input)
+
+        elif self.model_name == 'sg_llama3_70b_inst': return sg_llama3_70b_inst_model_generation(self, batch_input)
+        elif self.model_name == 'cross_openhermes_llama3_8b_4096_inst': return cross_openhermes_llama3_8b_4096_inst_model_generation(self, batch_input)
+        elif self.model_name == 'cross_openhermes_llama3_8b_4096_2_inst': return cross_openhermes_llama3_8b_4096_2_inst_model_generation(self, batch_input)
+        elif self.model_name == 'cross_openhermes_llama3_70b_4096_inst': return cross_openhermes_llama3_70b_4096_inst_model_generation(self, batch_input)
+        elif self.model_name == 'cross_openhermes_llama3_70b_4096_inst_2': return cross_openhermes_llama3_70b_4096_inst_2_model_generation(self, batch_input)
+        elif self.model_name == 'sg_llama3_8192_8b': return sg_llama3_8192_8b_model_generation(self, batch_input)
 
 
         # OLD
@@ -223,7 +269,6 @@ class Model(object):
         elif self.model_name == 'qwen_1_5_7b': return qwen_1_5_7b_model_generation(self, batch_input)
         elif self.model_name == 'qwen_1_5_7b_chat': return qwen_1_5_7b_chat_model_generation(self, batch_input)
 
-        elif self.model_name == 'sea_mistral_highest_acc_inst_7b': return sea_mistral_highest_acc_inst_7b_model_generation(self, batch_input)
         elif self.model_name == 'LLaMA_3_Merlion_8B': return LLaMA_3_Merlion_8B_model_generation(self, batch_input)
         elif self.model_name == 'LLaMA_3_Merlion_8B_v1_1': return LLaMA_3_Merlion_8B_v1_1_model_generation(self, batch_input)
 

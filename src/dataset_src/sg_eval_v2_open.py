@@ -15,22 +15,14 @@
 import random
 import logging
 
-from dataset_src.eval_methods.mcq_question_match import multichoice_question
+from dataset_src.eval_methods.open_ended_question_match import open_ended_question
+
 
 prompt_template = [
-    'Read the provided content (if exists) and respond to the question by selecting the most probable answer. Simply select the choice, no explanations required.\n\nQuestion:\n{}\n\nChoices:\n{}',
-    'Based on the content (if provided), please directly choose the correct answer for the multiple-choice question. Simply select the choice, no explanations required.\nQuestion:\n{}\nChoices:\n{}',
-    'Respond to the multiple-choice question with the correct answer based on the provided content. Simply select the choice, no explanations required.\nQuestion:\n{}\nChoices:\n{}',
-    'Answer the following multi-choices question by selecting the correct option. Simply select the choice, no explanations required.\n\nQuestion:\n{}\n\nChoices:\n{}',
-    'As an expert, your task is to solve the following multiple-choice question by selecting the correct response from the options provided. Simply select the choice, no explanations required.\n\nQuestion:\n{}\n\nChoices:\n{}'
+    'You are a helpful AI assistant. Please answer the Singapore-related question in concise manner and strictly within 100 words. Put keywords and bullet points if necessary. \n\nQuestion: {}',
     ]
 
-#prompt_template = [
-#    'Question:\n{}\nChoices:\n{}',
-#    ]
-
-
-class mmlu_dataset(object):
+class sg_eval_v2_open_dataset(object):
 
     def __init__(self, raw_data, eval_mode="zero_shot", number_of_samples=-1):
         
@@ -39,8 +31,8 @@ class mmlu_dataset(object):
             raw_data = raw_data[:number_of_samples]
 
         self.raw_data  = raw_data
-        self.eval_mode = eval_mode
         self.prompt    = prompt_template
+        self.eval_mode = eval_mode
 
         logging.info('Number of samples: {}'.format(len(self.raw_data)))
 
@@ -53,37 +45,32 @@ class mmlu_dataset(object):
             data_plain = []
             for sample in self.filtered_data:
                 prompt_template = random.choice(self.prompt)
-                input = prompt_template.format(sample['question'], "\n".join(sample['choices']))
-                data_plain.append(input)
-        
-        elif self.eval_mode=='zero_shot_np':
-            data_plain = []
-            for sample in self.filtered_data:
-                prompt_template = 'Question:\n{}\nChoices:\n{}'
-                input = prompt_template.format(sample['question'], "\n".join(sample['choices']))
+                input = prompt_template.format(sample['question'])
                 data_plain.append(input)
 
         elif self.eval_mode=='five_shot':
             data_plain = []
             for sample in self.filtered_data:
+
+                # Get six samples to avoid possible duplications
                 five_plus_one_samples = random.sample(self.filtered_data, 6)
 
                 count = 0
                 input = ''
                 for shot_sample in five_plus_one_samples:
                     if sample['question'] != shot_sample['question']: # Filter out the sample with the same context
-                        input += 'Question:\n{}\n\nChoices:\n{}\n\nAnswer:\n{}\n\n'.format(shot_sample['question'], "\n".join(shot_sample['choices']), shot_sample['answer'])
+                        input += 'Question:\n{}\n\nAnswer:\n{}\n\n'.format(shot_sample['question'], shot_sample['post_edited_answer'])
                         count += 1
                     if count == 5:
                         break
-                
-                input += 'Question:\n{}\n\nChoices:\n{}\n\nAnswer:\n'.format(sample['question'], "\n".join(sample['choices']))
+
+                input += 'Question:\n{}\n\nAnswer:\n'.format(sample['question'])
                 data_plain.append(input)
 
         print('\n=  =  =  Dataset Sample  =  =  =')
-        print(random.sample(data_plain,1)[0])
+        print(random.sample(data_plain, 1)[0])
         print('=  =  =  =  =  =  =  =  =  =  =  =\n')
-        
+
         return self.filtered_data, data_plain
 
 
@@ -91,8 +78,8 @@ class mmlu_dataset(object):
 
         data_with_model_predictions = []
         for sample in self.filtered_data:
-            new_sample = sample.copy()
-            new_sample['model_input'] = data_plain.pop(0)
+            new_sample                     = sample.copy()
+            new_sample['model_input']      = data_plain.pop(0)
             new_sample['model_prediction'] = model_predictions.pop(0)
             data_with_model_predictions.append(new_sample)
 
@@ -103,11 +90,8 @@ class mmlu_dataset(object):
 
         if self.eval_mode == 'five_shot':
             for item in data_with_model_predictions:
-                item['model_prediction'] = item['model_prediction'].split('\n')[0]
+                item['model_prediction'] = item['model_prediction']
 
-        return multichoice_question(data_with_model_predictions, category=True)
-
-
-
+        return open_ended_question(data_with_model_predictions, category=False)
 
 

@@ -18,9 +18,9 @@ import logging
 import torch
 import transformers
 
-model_path = 'meta-llama/Meta-Llama-3-8B'
+model_path = 'meta-llama/Meta-Llama-3.1-70B'
 
-def meta_llama_3_8b_model_loader(self):
+def meta_llama_3_1_70b_model_loader(self):
 
     self.tokenizer           = transformers.AutoTokenizer.from_pretrained(model_path, padding_side='left', truncation_side='left')
     self.tokenizer.pad_token = self.tokenizer.eos_token
@@ -30,7 +30,7 @@ def meta_llama_3_8b_model_loader(self):
     logging.info(f"Model loaded from {model_path} in {self.model.device} mode with torch_dtype={torch.float16}.")
 
 
-def meta_llama_3_8b_model_generation(self, batch_input):
+def meta_llama_3_1_70b_model_generation(self, batch_input):
 
     encoded_batch        = self.tokenizer(batch_input, return_tensors="pt", padding=True, truncation=True, max_length=2500).to(self.model.device)
     generated_ids        = self.model.generate(**encoded_batch, max_new_tokens=self.max_new_tokens, pad_token_id=self.tokenizer.eos_token_id)

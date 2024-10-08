@@ -29,6 +29,11 @@ class qqp_dataset(object):
 
     def __init__(self, raw_data, eval_mode="zero_shot", number_of_samples=-1):
         
+        # take too long to evaluate all samples
+        if number_of_samples > 2000:
+            logging.info('Setting number_of_samples to 2000 for QQP dataset.')
+            number_of_samples = 2000
+        
         if number_of_samples != -1:
             random.Random(42).shuffle(raw_data)
             raw_data = raw_data[:number_of_samples]

@@ -1,5 +1,8 @@
 
 from .multichoice_align import heuristic_align
+from .multichoice_align import model_judge_align
+
+from tqdm import tqdm
 
 def multichoice_question(data_with_model_prediction, category):
     """ Compute the score of the model on the given data."""
@@ -7,11 +10,12 @@ def multichoice_question(data_with_model_prediction, category):
     # for sample in data_with_model_prediction:
     #   sample['model_prediction_align'] = heuristic_align(sample['choices'], sample['model_prediction'])
 
-    # import pdb; pdb.set_trace()
-
     accuracy = []
-    for sample in data_with_model_prediction:
-        sample['model_prediction_align'] = heuristic_align(sample['choices'], sample['model_prediction'])
+    for sample in tqdm(data_with_model_prediction):
+        # sample['model_prediction_align'] = heuristic_align(sample['choices'], sample['model_prediction'])
+        sample['model_prediction_align'] = model_judge_align(sample['choices'], sample['model_prediction'])
+
+
         if sample['model_prediction_align'] == sample['answer']:
             accuracy.append(1)
         else:

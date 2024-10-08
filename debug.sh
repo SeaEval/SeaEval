@@ -1,12 +1,22 @@
+#export no_proxy=localhost,127.0.0.1,10.104.0.0/21
+#export https_proxy=http://10.104.4.124:10104
+#export http_proxy=http://10.104.4.124:10104
 
+
+export HF_ENDPOINT=https://hf-mirror.com
+export HF_HOME=~/scratch/huggingface
+export NLTK_DATA="/home/users/astar/ares/wangb1/scratch/nltk_data"
 
 
 ##### 
-MODEL_NAME=gemma-2-9b-it
-GPU=5
-BATCH_SIZE=2
+
+
+MODEL_NAME=cross_openhermes_llama3_8b_4096_2_inst
+
+GPU=3
+BATCH_SIZE=4
 EVAL_MODE=zero_shot
-OVERWRITE=True
+OVERWRITE=False
 NUMBER_OF_SAMPLES=-1
 #####
 
@@ -14,23 +24,6 @@ mkdir -p log/$MODEL_NAME
 
 DATASET=sg_eval_v1_cleaned
 
-# DATASET=sg_eval
-# DATASET=samsum
-
 bash eval.sh $DATASET $MODEL_NAME $BATCH_SIZE $EVAL_MODE $OVERWRITE $NUMBER_OF_SAMPLES $GPU 
 
-
-# = = = = = = = = =
-# EVAL_MODE=five_shot
-# Meta-Llama-3-8B
-# Meta-Llama-3-70B
-# Meta-Llama-3.1-8B
-
-
-# = = = = = = = = =
-# EVAL_MODE=zero_shot
-# Meta-Llama-3-8B-Instruct
-# Meta-Llama-3-70B-Instruct
-# Qwen2-7B-Instruct
-# Qwen2-72B-Instruct
-# Meta-Llama-3.1-8B-Instruct
+# bash debug1.sh 2>&1 | tee debug1.log

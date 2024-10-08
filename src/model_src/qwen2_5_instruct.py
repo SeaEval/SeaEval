@@ -18,9 +18,24 @@ import logging
 import torch
 import transformers
 
-model_path = 'Qwen/Qwen2-7B-Instruct'
 
-def qwen2_7b_instruct_model_loader(self):
+def qwen2_5_instruct_model_loader(self):
+
+    if self.model_name == "Qwen2_5_0_5B_Instruct":
+        model_path = 'Qwen/Qwen2.5-0.5B-Instruct'
+    elif self.model_name == "Qwen2_5_1_5B_Instruct":
+        model_path = 'Qwen/Qwen2.5-1.5B-Instruct'
+    elif self.model_name == "Qwen2_5_3B_Instruct":
+        model_path = 'Qwen/Qwen2.5-3B-Instruct'
+    elif self.model_name == "Qwen2_5_7B_Instruct":
+        model_path = 'Qwen/Qwen2.5-7B-Instruct'
+    elif self.model_name == "Qwen2_5_14B_Instruct":
+        model_path = 'Qwen/Qwen2.5-14B-Instruct'
+    elif self.model_name == "Qwen2_5_32B_Instruct":
+        model_path = 'Qwen/Qwen2.5-32B-Instruct'
+    elif self.model_name == "Qwen2_5_72B_Instruct":
+        model_path = 'Qwen/Qwen2.5-72B-Instruct'
+
 
     self.tokenizer = transformers.AutoTokenizer.from_pretrained(model_path, padding_side='left', truncation_side='left')
     self.tokenizer.pad_token = self.tokenizer.eos_token
@@ -29,7 +44,7 @@ def qwen2_7b_instruct_model_loader(self):
     logging.info(f"Model loaded from {model_path} in {self.model.device} mode with torch_dtype={torch.float16}.")
 
 
-def qwen2_7b_instruct_model_generation(self, batch_input):
+def qwen2_5_instruct_model_generation(self, batch_input):
 
     batch_input_templated = []
     for one_input in batch_input:

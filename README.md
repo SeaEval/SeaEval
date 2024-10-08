@@ -25,6 +25,7 @@
 
 ## Change log 
 
+- **Aug 2024**: It is non-trivial to evaluate the generated text with the reference. For multiple choice questions, we changed the evaluation metric for the text generation tasks to Model-as-judge.
 - **July 2024**: We are building SeaEval v2! With mixed prompts templates and more diverse datasets. v1 moved to [v1-branch](https://github.com/SeaEval/SeaEval/tree/SeaEval_v0.1).
 
 
@@ -36,6 +37,11 @@ pip install -r requirements.txt
 ```
 
 ## ⏩ Quick Start
+
+```shell
+# Host the judgement model on port 5000, this is a more accurate matching method for MCQs.
+bash host_model_judge_llama_3_70b_instruct.sh
+```
 
 The example is for a `Llama-3-8B-Instruct` model on `mmlu` dataset.
 ```shell
