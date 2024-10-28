@@ -11,10 +11,11 @@ export NLTK_DATA="/home/users/astar/ares/wangb1/scratch/nltk_data"
 ##### 
 
 
-MODEL_NAME=cross_openhermes_llama3_8b_4096_2_inst
+# MODEL_NAME=Gemma-2-9b-it-sg-ultrachat-sft
+MODEL_NAME=llama-own-4096-2-sg-ultrachat-sft
 
 GPU=3
-BATCH_SIZE=4
+BATCH_SIZE=2
 EVAL_MODE=zero_shot
 OVERWRITE=False
 NUMBER_OF_SAMPLES=-1

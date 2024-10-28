@@ -12,33 +12,32 @@
 # ----------			---	----------------------------------------------------------
 # transformers==4.38.1
 
+
 import logging
+
 import torch
 import transformers
 
-# model_path = '/home/users/astar/ares/wangb1/scratch/others/for_huangxin/cross_openhermes_llama3_8b_4096_inst'
+model_path = 'aisingapore/llama3-8b-cpt-SEA-Lionv2.1-instruct'
 
-def cross_openhermes_llama3_8b_4096_inst_model_loader(self):
-
-    model_path = '/home/others/for_huangxin/{}'.format(self.model_name)
+def llama3_8b_cpt_sea_lionv2_1_instruct_model_loader(self):
 
     self.tokenizer           = transformers.AutoTokenizer.from_pretrained(model_path, padding_side='left', truncation_side='left')
     self.tokenizer.pad_token = self.tokenizer.eos_token
 
-    self.model               = transformers.AutoModelForCausalLM.from_pretrained(model_path, device_map="auto", torch_dtype=torch.float16)
+    self.model = transformers.AutoModelForCausalLM.from_pretrained(model_path, device_map="auto", torch_dtype=torch.float16)
     self.model.eval()
     logging.info(f"Model loaded from {model_path} in {self.model.device} mode with torch_dtype={torch.float16}.")
 
 
-def cross_openhermes_llama3_8b_4096_inst_model_generation(self, batch_input):
+def llama3_8b_cpt_sea_lionv2_1_instruct_model_generation(self, batch_input):
 
     batch_input_templated = []
     for sample in batch_input:    
-        #messages = [
-        #                {"role": "user", "content": sample}
-        #            ]
-        #sample_templated = self.tokenizer.apply_chat_template(messages, return_tensors="pt", tokenize=False, add_generation_prompt=True)
-        sample_templated = '<|im_start|> {} <|im_end|>'.format(sample)
+        messages = [
+                        {"role": "user", "content": sample}
+                    ]
+        sample_templated = self.tokenizer.apply_chat_template(messages, return_tensors="pt", tokenize=False, add_generation_prompt=True)
         batch_input_templated.append(sample_templated)
     batch_input = batch_input_templated
 

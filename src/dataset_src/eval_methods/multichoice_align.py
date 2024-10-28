@@ -151,10 +151,6 @@ def model_judge_align(choices, model_prediction):
     # port = random.choice([os.environ.get('VLLM_PORT', 5000)])
     port = os.environ.get('MY_VLLM_PORT_JUDGE', 5000)
 
-    print(port)
-    print("\n"*100)
-    
-
     openai_api_key = "EMPTY"
     openai_api_base = f"http://localhost:{port}/v1"
     client = OpenAI(

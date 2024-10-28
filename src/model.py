@@ -32,6 +32,7 @@ from model_src.meta_llama_3_1_70b import meta_llama_3_1_70b_model_loader, meta_l
 from model_src.meta_llama_3_1_8b_instruct import meta_llama_3_1_8b_instruct_model_loader, meta_llama_3_1_8b_instruct_model_generation
 from model_src.meta_llama_3_1_70b_instruct import meta_llama_3_1_70b_instruct_model_loader, meta_llama_3_1_70b_instruct_model_generation
 from model_src.llama3_8b_cpt_sea_lionv2_instruct import llama3_8b_cpt_sea_lionv2_instruct_model_loader, llama3_8b_cpt_sea_lionv2_instruct_model_generation
+from model_src.llama3_8b_cpt_sea_lionv2_1_instruct import llama3_8b_cpt_sea_lionv2_1_instruct_model_loader, llama3_8b_cpt_sea_lionv2_1_instruct_model_generation
 from model_src.llama3_8b_cpt_sea_lionv2_base import llama3_8b_cpt_sea_lionv2_base_model_loader, llama3_8b_cpt_sea_lionv2_base_model_generation
 from model_src.seallms_v3_7b_chat import seallms_v3_7b_chat_model_loader, seallms_v3_7b_chat_model_generation
 from model_src.gemma_2_9b_it import gemma_2_9b_it_model_loader, gemma_2_9b_it_model_generation
@@ -45,6 +46,10 @@ from model_src.cross_openhermes_llama3_8b_4096_2_inst import cross_openhermes_ll
 from model_src.cross_openhermes_llama3_70b_4096_inst import cross_openhermes_llama3_70b_4096_inst_model_loader, cross_openhermes_llama3_70b_4096_inst_model_generation
 from model_src.cross_openhermes_llama3_70b_4096_inst_2 import cross_openhermes_llama3_70b_4096_inst_2_model_loader, cross_openhermes_llama3_70b_4096_inst_2_model_generation
 from model_src.sg_llama3_8192_8b import sg_llama3_8192_8b_model_loader, sg_llama3_8192_8b_model_generation
+from model_src.gemma_2_9b_it_sg_ultrachat_sft import gemma_2_9b_it_sg_ultrachat_sft_model_loader, gemma_2_9b_it_sg_ultrachat_sft_model_generation
+from model_src.llama_own_4096_2_sg_ultrachat_sft import llama_own_4096_2_sg_ultrachat_sft_model_loader, llama_own_4096_2_sg_ultrachat_sft_model_generation
+
+
 
 
 # TO - Update:
@@ -127,6 +132,8 @@ class Model(object):
         elif self.model_name == 'Meta-Llama-3.1-8B-Instruct': meta_llama_3_1_8b_instruct_model_loader(self)
         elif self.model_name == 'Meta-Llama-3.1-70B-Instruct': meta_llama_3_1_70b_instruct_model_loader(self)
         elif self.model_name == 'llama3-8b-cpt-sea-lionv2-instruct': llama3_8b_cpt_sea_lionv2_instruct_model_loader(self)
+        elif self.model_name == 'llama3-8b-cpt-sea-lionv2.1-instruct': llama3_8b_cpt_sea_lionv2_1_instruct_model_loader(self)
+        
         elif self.model_name == 'llama3-8b-cpt-sea-lionv2-base': llama3_8b_cpt_sea_lionv2_base_model_loader(self)
         elif self.model_name == 'SeaLLMs-v3-7B-Chat': seallms_v3_7b_chat_model_loader(self)
         elif self.model_name == 'gemma-2-9b-it': gemma_2_9b_it_model_loader(self)
@@ -146,6 +153,9 @@ class Model(object):
         elif self.model_name == 'cross_openhermes_llama3_70b_4096_inst': cross_openhermes_llama3_70b_4096_inst_model_loader(self)
         elif self.model_name == 'cross_openhermes_llama3_70b_4096_inst_2': cross_openhermes_llama3_70b_4096_inst_2_model_loader(self)
         elif self.model_name == 'sg_llama3_8192_8b': sg_llama3_8192_8b_model_loader(self)
+        elif 'cross_openhermes_llama3_8b' in self.model_name: cross_openhermes_llama3_8b_4096_inst_model_loader(self)
+        elif self.model_name == 'Gemma-2-9b-it-sg-ultrachat-sft': gemma_2_9b_it_sg_ultrachat_sft_model_loader(self)
+        elif self.model_name == 'llama-own-4096-2-sg-ultrachat-sft': llama_own_4096_2_sg_ultrachat_sft_model_loader(self)
         
 
         # OLD
@@ -209,6 +219,7 @@ class Model(object):
         elif self.model_name == 'Meta-Llama-3.1-8B-Instruct': return meta_llama_3_1_8b_instruct_model_generation(self, batch_input)
         elif self.model_name == 'Meta-Llama-3.1-70B-Instruct': return meta_llama_3_1_70b_instruct_model_generation(self, batch_input)
         elif self.model_name == 'llama3-8b-cpt-sea-lionv2-instruct': return llama3_8b_cpt_sea_lionv2_instruct_model_generation(self, batch_input)
+        elif self.model_name == 'llama3-8b-cpt-sea-lionv2.1-instruct': return llama3_8b_cpt_sea_lionv2_1_instruct_model_generation(self, batch_input)
         elif self.model_name == 'llama3-8b-cpt-sea-lionv2-base': return llama3_8b_cpt_sea_lionv2_base_model_generation(self, batch_input)
         elif self.model_name == 'SeaLLMs-v3-7B-Chat': return seallms_v3_7b_chat_model_generation(self, batch_input)
         elif self.model_name == 'gemma-2-9b-it': return gemma_2_9b_it_model_generation(self, batch_input)
@@ -228,6 +239,9 @@ class Model(object):
         elif self.model_name == 'cross_openhermes_llama3_70b_4096_inst': return cross_openhermes_llama3_70b_4096_inst_model_generation(self, batch_input)
         elif self.model_name == 'cross_openhermes_llama3_70b_4096_inst_2': return cross_openhermes_llama3_70b_4096_inst_2_model_generation(self, batch_input)
         elif self.model_name == 'sg_llama3_8192_8b': return sg_llama3_8192_8b_model_generation(self, batch_input)
+        elif 'cross_openhermes_llama3_8b' in self.model_name: return cross_openhermes_llama3_8b_4096_inst_model_generation(self, batch_input)
+        elif self.model_name == 'Gemma-2-9b-it-sg-ultrachat-sft': return gemma_2_9b_it_sg_ultrachat_sft_model_generation(self, batch_input)
+        elif self.model_name == 'llama-own-4096-2-sg-ultrachat-sft': return llama_own_4096_2_sg_ultrachat_sft_model_generation(self, batch_input)
 
 
         # OLD

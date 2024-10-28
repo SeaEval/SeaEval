@@ -44,8 +44,11 @@ DATASETS_TO_CHECK = [
 
 
 MODEL_NAME_TO_CHECK = os.listdir('log')
+# sort by model names
+MODEL_NAME_TO_CHECK.sort()
 
 for MODEL_NAME in MODEL_NAME_TO_CHECK:
+    print(f"Checking {MODEL_NAME}")
 
     if MODEL_NAME in [
                         'Meta-Llama-3.1-70B',
