@@ -6,6 +6,9 @@ from collections import Counter
 
 import transformers
 from openai import OpenAI
+from multiprocessing import Pool
+from tqdm import tqdm
+
 
 index_to_letter = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
 
@@ -135,9 +138,9 @@ def heuristic_align(choices, model_prediction):
             return random.choice(choices)
 
 
+def model_judge_align(args):
 
-
-def model_judge_align(choices, model_prediction):
+    choices, model_prediction = args
 
     # if nothing in model_prediction, return random choice
     if len(model_prediction.strip()) == 0:
@@ -209,4 +212,24 @@ def model_judge_align(choices, model_prediction):
     
     except:
         return random.choice(choices)
-        
+
+
+
+
+def model_judge_align_batch(choices_list, model_prediction_list):
+
+    if len(choices_list) != len(model_prediction_list):
+        raise ValueError("Choices list and model prediction list must have the same length.")
+    
+    num_processes = min(8, len(choices_list))
+    
+    with Pool(processes=num_processes) as pool:
+        results = list(
+            tqdm(
+                pool.imap(model_judge_align, zip(choices_list, model_prediction_list)),
+                total=len(choices_list),
+                desc="Processing"
+            )
+        )
+    
+    return results

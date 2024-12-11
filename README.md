@@ -25,6 +25,7 @@
 
 ## Change log 
 
+- **Dec 2024**: Add Model-as-judge to inference in a batch manner for MCQ questions. Speech up to 5 times for model-as-judge period.
 - **Aug 2024**: It is non-trivial to evaluate the generated text with the reference. For multiple choice questions, we changed the evaluation metric for the text generation tasks to Model-as-judge.
 - **July 2024**: We are building SeaEval v2! With mixed prompts templates and more diverse datasets. v1 moved to [v1-branch](https://github.com/SeaEval/SeaEval/tree/SeaEval_v0.1).
 

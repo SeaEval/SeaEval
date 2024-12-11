@@ -38,7 +38,7 @@ export AZURE_OPENAI_KEY=a989ad2489a640e6995e63b13d85ca6d
 ##### 
 # MODEL_NAME=cross_openhermes_llama3_8b_8192_inst
 GPU=1
-BATCH_SIZE=4
+BATCH_SIZE=1
 EVAL_MODE=zero_shot
 #EVAL_MODE=five_shot
 OVERWRITE=False

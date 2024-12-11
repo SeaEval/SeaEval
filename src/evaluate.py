@@ -77,7 +77,7 @@ def main(
     logger.info("")
 
     # If the final score log exists, skip the evaluation
-    if os.path.exists('log/{}/{}_{}_score.json'.format(model_name, dataset_name, eval_mode)):
+    if not overwrite and os.path.exists('log/{}/{}_{}_score.json'.format(model_name, dataset_name, eval_mode)):
         logger.info("Evaluation has been done before. Skip the evaluation.")
         logger.info("\n\n\n\n\n")
         return

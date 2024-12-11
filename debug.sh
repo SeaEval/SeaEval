@@ -22,7 +22,7 @@ MODEL_NAME=merged_llama3_8b_sg_inst_avg_diff_run2
 
 #####
 GPU=1
-BATCH_SIZE=1
+BATCH_SIZE=4
 EVAL_MODE=zero_shot
 OVERWRITE=True
 NUMBER_OF_SAMPLES=-1
@@ -32,6 +32,9 @@ mkdir -p log/$MODEL_NAME
 
 DATASET=cross_xquad
 DATASET=cross_mmlu_no_prompt
+DATASET=sg_eval_v2_mcq
+DATASET=cross_logiqa_no_prompt
+DATASET=sg_eval_v2_mcq
 
 
 

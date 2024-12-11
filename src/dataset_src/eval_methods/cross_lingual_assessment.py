@@ -3,7 +3,7 @@ import logging
 import itertools
 
 from .multichoice_align import heuristic_align
-from .multichoice_align import model_judge_align
+from .multichoice_align import model_judge_align, model_judge_align_batch
 
 from tqdm import tqdm
 
@@ -22,11 +22,19 @@ def cross_lingual_assessment(data_with_model_prediction):
 
     # Add align prediction to data_with_model_prediction
     for sample_set in tqdm(data_with_model_prediction):
+
+
+        choices_list                = [sample_set[sample]['choices'] for sample in sample_set if sample != 'id']
+        model_prediction_list       = [sample_set[sample]['model_prediction'] for sample in sample_set if sample != 'id']
+        model_prediction_align_list = model_judge_align_batch(choices_list, model_prediction_list)
+
         for sample in sample_set:
             if sample == 'id':
                 continue
+            sample_set[sample]['model_prediction_align'] = model_prediction_align_list.pop(0)
+
             # sample_set[sample]['model_prediction_align'] = heuristic_align(sample_set[sample]['choices'], sample_set[sample]['model_prediction'])
-            sample_set[sample]['model_prediction_align'] = model_judge_align(sample_set[sample]['choices'], sample_set[sample]['model_prediction'])
+            #sample_set[sample]['model_prediction_align'] = model_judge_align(sample_set[sample]['choices'], sample_set[sample]['model_prediction'])
 
     # Check if the model prediction is with in the choices
     for sample_set in data_with_model_prediction:
