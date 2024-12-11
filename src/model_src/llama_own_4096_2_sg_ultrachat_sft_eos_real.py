@@ -16,11 +16,14 @@ import logging
 import torch
 import transformers
 
-model_path = '/home/users/astar/ares/wangb1/scratch/others/for_huangxin/llama-own-4096-2-sg-ultrachat-sft'
-tokenizer_model_path = '/home/users/astar/ares/wangb1/scratch/others/for_huangxin/cross_openhermes_llama3_70b_4096_inst_2'
+model_path           = '/home/users/astar/ares/wangb1/scratch/others/for_huangxin/llama-own-4096-2-sg-ultrachat-sft-eos-real/checkpoint-4400'
+tokenizer_model_path = '/home/users/astar/ares/wangb1/scratch/others/for_huangxin/llama-own-4096-2-sg-ultrachat-sft-eos-real/checkpoint-4400'
 
 
-def llama_own_4096_2_sg_ultrachat_sft_model_loader(self):
+model_path           = '/home/others/for_huangxin/llama-own-4096-2-sg-ultrachat-sft-eos-real/checkpoint-4400'
+tokenizer_model_path = '/home/others/for_huangxin/llama-own-4096-2-sg-ultrachat-sft-eos-real/checkpoint-4400'
+
+def llama_own_4096_2_sg_ultrachat_sft_eos_real_model_loader(self):
 
     self.tokenizer           = transformers.AutoTokenizer.from_pretrained(tokenizer_model_path, padding_side='left', truncation_side='left')
     self.tokenizer.pad_token = self.tokenizer.eos_token
@@ -30,7 +33,7 @@ def llama_own_4096_2_sg_ultrachat_sft_model_loader(self):
     logging.info(f"Model loaded from {model_path} in {self.model.device} mode with torch_dtype={torch.float16}.")
 
 
-def llama_own_4096_2_sg_ultrachat_sft_model_generation(self, batch_input):
+def llama_own_4096_2_sg_ultrachat_sft_eos_real_model_generation(self, batch_input):
 
     batch_input_templated = []
     for sample in batch_input:    
@@ -44,10 +47,8 @@ def llama_own_4096_2_sg_ultrachat_sft_model_generation(self, batch_input):
     batch_input = batch_input_templated
 
     encoded_batch        = self.tokenizer(batch_input, return_tensors="pt", padding=True, truncation=True).to(self.model.device)
-    generated_ids        = self.model.generate(**encoded_batch, do_sample=False, max_new_tokens=self.max_new_tokens, pad_token_id=self.tokenizer.eos_token_id)
+    generated_ids        = self.model.generate(**encoded_batch, do_sample=False, max_new_tokens=self.max_new_tokens, pad_token_id=self.tokenizer.eos_token_id, eos_token_id=128001)
     generated_ids        = generated_ids[:, encoded_batch.input_ids.shape[-1]:]
     decoded_batch_output = self.tokenizer.batch_decode(generated_ids, skip_special_tokens=True)
-
-    breakpoint()
 
     return decoded_batch_output

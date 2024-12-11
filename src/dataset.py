@@ -26,12 +26,16 @@ import logging
 from datasets import load_dataset, load_from_disk
 
 from dataset_src.cross_xquad import cross_xquad_dataset
+from dataset_src.cross_xquad_no_prompt import cross_xquad_no_prompt_dataset
 from dataset_src.cross_mmlu import cross_mmlu_dataset
+from dataset_src.cross_mmlu_no_prompt import cross_mmlu_no_prompt_dataset
 from dataset_src.cross_logiqa import cross_logiqa_dataset
+from dataset_src.cross_logiqa_no_prompt import cross_logiqa_no_prompt_dataset
 
 from dataset_src.sg_eval import sg_eval_dataset
 from dataset_src.sg_eval_v1_cleaned import sg_eval_v1_cleaned_dataset
 from dataset_src.sg_eval_v2_mcq import sg_eval_v2_mcq_dataset
+from dataset_src.sg_eval_v2_mcq_no_prompt import sg_eval_v2_mcq_no_prompt_dataset
 from dataset_src.sg_eval_v2_open import sg_eval_v2_open_dataset
 from dataset_src.cn_eval import cn_eval_dataset
 from dataset_src.us_eval import us_eval_dataset
@@ -43,12 +47,14 @@ from dataset_src.flores_zho2eng import flores_zho2eng_dataset
 from dataset_src.flores_zsm2eng import flores_zsm2eng_dataset
 
 from dataset_src.mmlu import mmlu_dataset
+from dataset_src.mmlu_no_prompt import mmlu_no_prompt_dataset
 
 from dataset_src.c_eval import c_eval_dataset
 from dataset_src.cmmlu import cmmlu_dataset
 from dataset_src.zbench import zbench_dataset
 
 from dataset_src.indommlu import indommlu_dataset
+from dataset_src.indommlu_no_prompt import indommlu_no_prompt_dataset
 from dataset_src.ind_emotion import ind_emotion_dataset
 
 from dataset_src.ocnli import ocnli_dataset
@@ -102,17 +108,22 @@ class Dataset(object):
         logger.info("Loading dataset: {}".format(self.dataset_name))
 
         # Load from HuggingFace
-        if   self.dataset_name == 'cross_xquad': full_data  = load_dataset('SeaEval/cross_xquad', split='test')
-        elif self.dataset_name == 'cross_mmlu': full_data   = load_dataset('SeaEval/cross_mmlu', split='test')
-        elif self.dataset_name == 'cross_logiqa': full_data = load_dataset('SeaEval/cross_logiqa', split='test')
+        if   self.dataset_name == 'cross_xquad': full_data            = load_dataset('SeaEval/cross_xquad', split='test')
+        elif self.dataset_name == 'cross_xquad_no_prompt': full_data  = load_dataset('SeaEval/cross_xquad', split='test')
+        elif self.dataset_name == 'cross_mmlu': full_data             = load_dataset('SeaEval/cross_mmlu', split='test')
+        elif self.dataset_name == 'cross_mmlu_no_prompt': full_data   = load_dataset('SeaEval/cross_mmlu', split='test')
+        elif self.dataset_name == 'cross_logiqa': full_data           = load_dataset('SeaEval/cross_logiqa', split='test')
+        elif self.dataset_name == 'cross_logiqa_no_prompt': full_data = load_dataset('SeaEval/cross_logiqa', split='test')
         
-        elif self.dataset_name == 'sg_eval': full_data            = load_dataset('SeaEval/sg_eval_v1', split='test')
-        elif self.dataset_name == 'sg_eval_v1_cleaned': full_data = load_dataset('SeaEval/sg_eval_v1_cleaned', split='test')
-        elif self.dataset_name == 'sg_eval_v2_mcq': full_data     = load_from_disk('data/SG-Eval-v2-Final-Raw/mcq')
-        elif self.dataset_name == 'sg_eval_v2_open': full_data    = load_from_disk('data/SG-Eval-v2-Final-Raw/open')
-        elif self.dataset_name == 'cn_eval': full_data            = load_dataset('SeaEval/cn_eval', split='test')
-        elif self.dataset_name == 'us_eval': full_data            = load_dataset('SeaEval/us_eval', split='test')
-        elif self.dataset_name == 'ph_eval': full_data            = load_dataset('SeaEval/ph_eval', split='test')
+        elif self.dataset_name == 'sg_eval': full_data                  = load_dataset('SeaEval/sg_eval_v1', split='test')
+        elif self.dataset_name == 'sg_eval_v1_cleaned': full_data       = load_dataset('SeaEval/sg_eval_v1_cleaned', split='test')
+        elif self.dataset_name == 'sg_eval_v2_mcq': full_data           = load_from_disk('data/SG-Eval-v2-Final-Raw/mcq')
+        elif self.dataset_name == 'sg_eval_v2_mcq_no_prompt': full_data = load_from_disk('data/SG-Eval-v2-Final-Raw/mcq')
+
+        elif self.dataset_name == 'sg_eval_v2_open': full_data          = load_from_disk('data/SG-Eval-v2-Final-Raw/open')
+        elif self.dataset_name == 'cn_eval': full_data                  = load_dataset('SeaEval/cn_eval', split='test')
+        elif self.dataset_name == 'us_eval': full_data                  = load_dataset('SeaEval/us_eval', split='test')
+        elif self.dataset_name == 'ph_eval': full_data                  = load_dataset('SeaEval/ph_eval', split='test')
 
         elif self.dataset_name == 'flores_ind2eng': full_data = load_dataset('SeaEval/flores_ind2eng', split='test')
         elif self.dataset_name == 'flores_vie2eng': full_data = load_dataset('SeaEval/flores_vie2eng', split='test')
@@ -120,12 +131,15 @@ class Dataset(object):
         elif self.dataset_name == 'flores_zsm2eng': full_data = load_dataset('SeaEval/flores_zsm2eng', split='test')
 
         elif self.dataset_name == 'mmlu': full_data = load_dataset('SeaEval/mmlu', split='test')
+        elif self.dataset_name == 'mmlu_no_prompt': full_data = load_dataset('SeaEval/mmlu', split='test')
+        
         
         elif self.dataset_name == 'c_eval': full_data = load_dataset('SeaEval/c_eval', split='test')
         elif self.dataset_name == 'cmmlu': full_data  = load_dataset('SeaEval/cmmlu', split='test')
         elif self.dataset_name == 'zbench': full_data = load_dataset('SeaEval/zbench', split='test')
 
         elif self.dataset_name == 'indommlu': full_data    = load_dataset('SeaEval/indommlu', split='test')
+        elif self.dataset_name == 'indommlu_no_prompt': full_data    = load_dataset('SeaEval/indommlu', split='test')
         elif self.dataset_name == 'ind_emotion': full_data = load_dataset('SeaEval/ind_emotion', split='test')
 
         elif self.dataset_name == 'ocnli': full_data = load_dataset('SeaEval/ocnli', split='test')
@@ -157,12 +171,24 @@ class Dataset(object):
             self.dataset_processor = cross_xquad_dataset(self.raw_data, self.eval_mode, self.support_langs, self.number_of_sample)
             self.raw_data, self.data_plain = self.dataset_processor.prepare_model_input()
 
+        elif self.dataset_name == 'cross_xquad_no_prompt':
+            self.dataset_processor = cross_xquad_no_prompt_dataset(self.raw_data, self.eval_mode, self.support_langs, self.number_of_sample)
+            self.raw_data, self.data_plain = self.dataset_processor.prepare_model_input()
+
         elif self.dataset_name == 'cross_mmlu':
             self.dataset_processor = cross_mmlu_dataset(self.raw_data, self.eval_mode, self.support_langs, self.number_of_sample)
             self.raw_data, self.data_plain = self.dataset_processor.prepare_model_input()
 
+        elif self.dataset_name == 'cross_mmlu_no_prompt':
+            self.dataset_processor = cross_mmlu_no_prompt_dataset(self.raw_data, self.eval_mode, self.support_langs, self.number_of_sample)
+            self.raw_data, self.data_plain = self.dataset_processor.prepare_model_input()
+
         elif self.dataset_name == 'cross_logiqa':
             self.dataset_processor = cross_logiqa_dataset(self.raw_data, self.eval_mode, self.support_langs, self.number_of_sample)
+            self.raw_data, self.data_plain = self.dataset_processor.prepare_model_input()
+
+        elif self.dataset_name == 'cross_logiqa_no_prompt':
+            self.dataset_processor = cross_logiqa_no_prompt_dataset(self.raw_data, self.eval_mode, self.support_langs, self.number_of_sample)
             self.raw_data, self.data_plain = self.dataset_processor.prepare_model_input()
 
         elif self.dataset_name == 'sg_eval':
@@ -175,6 +201,10 @@ class Dataset(object):
 
         elif self.dataset_name == 'sg_eval_v2_mcq':
             self.dataset_processor = sg_eval_v2_mcq_dataset(self.raw_data, self.eval_mode, self.number_of_sample)
+            self.raw_data, self.data_plain = self.dataset_processor.prepare_model_input()
+
+        elif self.dataset_name == 'sg_eval_v2_mcq_no_prompt':
+            self.dataset_processor = sg_eval_v2_mcq_no_prompt_dataset(self.raw_data, self.eval_mode, self.number_of_sample)
             self.raw_data, self.data_plain = self.dataset_processor.prepare_model_input()
 
         elif self.dataset_name == 'sg_eval_v2_open':
@@ -213,6 +243,10 @@ class Dataset(object):
             self.dataset_processor = mmlu_dataset(self.raw_data, self.eval_mode, self.number_of_sample)
             self.raw_data, self.data_plain = self.dataset_processor.prepare_model_input()
 
+        elif self.dataset_name == 'mmlu_no_prompt':
+            self.dataset_processor = mmlu_no_prompt_dataset(self.raw_data, self.eval_mode, self.number_of_sample)
+            self.raw_data, self.data_plain = self.dataset_processor.prepare_model_input()
+
         elif self.dataset_name == 'c_eval':
             self.dataset_processor = c_eval_dataset(self.raw_data, self.eval_mode, self.number_of_sample)
             self.raw_data, self.data_plain = self.dataset_processor.prepare_model_input()
@@ -227,6 +261,10 @@ class Dataset(object):
 
         elif self.dataset_name == 'indommlu':
             self.dataset_processor = indommlu_dataset(self.raw_data, self.eval_mode, self.number_of_sample)
+            self.raw_data, self.data_plain = self.dataset_processor.prepare_model_input()
+
+        elif self.dataset_name == 'indommlu_no_prompt':
+            self.dataset_processor = indommlu_no_prompt_dataset(self.raw_data, self.eval_mode, self.number_of_sample)
             self.raw_data, self.data_plain = self.dataset_processor.prepare_model_input()
 
         elif self.dataset_name == 'ind_emotion':
@@ -284,12 +322,6 @@ class Dataset(object):
         elif self.dataset_name == 'mrpc':
             self.dataset_processor = mrpc_dataset(self.raw_data, self.eval_mode, self.number_of_sample)
             self.raw_data, self.data_plain = self.dataset_processor.prepare_model_input()
-
-
-
-
-
-
 
         elif self.dataset_name == 'open_sg_qa':
             self.dataset_processor = open_sg_qa_dataset(self.raw_data, self.prompt_index, self.eval_mode)
