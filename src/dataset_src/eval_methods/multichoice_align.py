@@ -140,15 +140,12 @@ def heuristic_align(choices, model_prediction):
 
 def model_judge_align(args):
 
-    choices, model_prediction = args
+    choices, model_prediction, tokenizer = args
 
     # if nothing in model_prediction, return random choice
     if len(model_prediction.strip()) == 0:
         return random.choice(choices)
     
-    # Load tokenizer
-    tokenizer = transformers.AutoTokenizer.from_pretrained("meta-llama/Meta-Llama-3-70B-Instruct", device_map="auto", use_fast=False, padding_side='left')
-    tokenizer.pad_token = tokenizer.eos_token
 
     # Judgement model
     # port = random.choice([os.environ.get('VLLM_PORT', 5000)])
@@ -222,11 +219,22 @@ def model_judge_align_batch(choices_list, model_prediction_list):
         raise ValueError("Choices list and model prediction list must have the same length.")
     
     num_processes = min(8, len(choices_list))
+
+
+    if os.path.exists('/project/SeaEval/src/dataset_src/eval_methods/tokenizer'):
+        tokenizer_path = '/project/SeaEval/src/dataset_src/eval_methods/tokenizer'
+    else:
+        tokenizer_path = 'meta-llama/Meta-Llama-3-70B-Instruct'
+
+    # Load tokenizer
+    tokenizer = transformers.AutoTokenizer.from_pretrained(tokenizer_path, device_map="auto", use_fast=False, padding_side='left')
+    tokenizer.pad_token = tokenizer.eos_token
     
     with Pool(processes=num_processes) as pool:
+
         results = list(
             tqdm(
-                pool.imap(model_judge_align, zip(choices_list, model_prediction_list)),
+                pool.imap(model_judge_align, zip(choices_list, model_prediction_list, [tokenizer]*len(choices_list))),
                 total=len(choices_list),
                 desc="Processing"
             )

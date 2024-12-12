@@ -14,15 +14,20 @@ export NLTK_DATA="/home/users/astar/ares/wangb1/scratch/nltk_data"
 # MODEL_NAME=gemma2-9b-cpt-sea-lionv3-instruct
 MODEL_NAME=llama3-8b-cpt-sea-lionv2.1-instruct
 MODEL_NAME=merged_llama3_8b_sg_inst_avg_diff
-MODEL_NAME=Meta-Llama-3.1-8B-Instruct_run2
-MODEL_NAME=Sailor2-8B-Chat
-
 MODEL_NAME=merged_llama3_8b_sg_inst_avg_diff_run2
+MODEL_NAME=llama3-8b-cpt-sea-lionv2.1-instruct
+MODEL_NAME=Meta-Llama-3.1-8B-Instruct_run2
+MODEL_NAME=Qwen2_5_7B_Instruct
+MODEL_NAME=gemma-2-9b-it
+MODEL_NAME=SeaLLMs-v3-7B-Chat
+MODEL_NAME=Meta-Llama-3-8B-Instruct
+MODEL_NAME=cross_openhermes_llama3_8b_12288_inst
 
+MODEL_NAME=Sailor2-8B-Chat
 
 #####
 GPU=1
-BATCH_SIZE=4
+BATCH_SIZE=16
 EVAL_MODE=zero_shot
 OVERWRITE=True
 NUMBER_OF_SAMPLES=-1
@@ -31,11 +36,14 @@ NUMBER_OF_SAMPLES=-1
 mkdir -p log/$MODEL_NAME
 
 DATASET=cross_xquad
-DATASET=cross_mmlu_no_prompt
-DATASET=sg_eval_v2_mcq
 DATASET=cross_logiqa_no_prompt
-DATASET=sg_eval_v2_mcq
+DATASET=indommlu_no_prompt
+DATASET=cross_mmlu_no_prompt
 
+DATASET=flores_ind2eng
+DATASET=flores_vie2eng
+DATASET=flores_zho2eng
+DATASET=flores_zsm2eng
 
 
 bash eval.sh $DATASET $MODEL_NAME $BATCH_SIZE $EVAL_MODE $OVERWRITE $NUMBER_OF_SAMPLES $GPU 

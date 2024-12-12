@@ -32,17 +32,21 @@ def meta_llama_3_8b_instruct_model_loader(self):
 
 def meta_llama_3_8b_instruct_model_generation(self, batch_input):
 
+    terminators = [
+       self.tokenizer.eos_token_id,
+       self.tokenizer.convert_tokens_to_ids("<|eot_id|>")
+    ]
+
     batch_input_templated = []
     for sample in batch_input:    
         messages = [
                         {"role": "user", "content": sample}
                     ]
-        sample_templated = self.tokenizer.apply_chat_template(messages, return_tensors="pt", tokenize=False, add_generation_prompt=True)
-        batch_input_templated.append(sample_templated)
-    batch_input = batch_input_templated
+        batch_input_templated.append(messages)
 
-    encoded_batch        = self.tokenizer(batch_input, return_tensors="pt", padding=True, truncation=True).to(self.model.device)
-    generated_ids        = self.model.generate(**encoded_batch, do_sample=False, max_new_tokens=self.max_new_tokens, pad_token_id=self.tokenizer.eos_token_id)
+    encoded_batch = self.tokenizer.apply_chat_template(batch_input_templated, return_tensors="pt", add_generation_prompt=True, padding=True, truncation=True, return_dict=True).to(self.model.device)
+
+    generated_ids        = self.model.generate(**encoded_batch, eos_token_id=terminators, do_sample=False, temperature=1, max_new_tokens=2048, pad_token_id=self.tokenizer.eos_token_id)
     generated_ids        = generated_ids[:, encoded_batch.input_ids.shape[-1]:]
     decoded_batch_output = self.tokenizer.batch_decode(generated_ids, skip_special_tokens=True)
 

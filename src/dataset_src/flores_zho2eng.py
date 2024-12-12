@@ -14,15 +14,23 @@
 
 import random
 import logging
+import re
 
 from dataset_src.eval_methods.translation_bleu import translation_bleu
 
 prompt_template = [
-    'Translate the following sentence from Chinese to English. Direct output the translation only, nothing else.\n\nSentence in Chinese:\n{}',
-    'Please translate the provided Chinese text into English. Direct output the translated content only.\nSentence in Chinese:\n{}',
-    'Translate the Chinese text provided into English and provide only the translated content. Please direct output the translation. Nothing else.\nSentence in Chinese:\n{}',
-    'Given the sentence below, perform machine translation from Chinese to English. Direct output the translated content only.\n\nSentence in Chinese:\n{}',
-    'Please translate the sentence: \"{}\" from Chinese to English. Direct output the translated content only.'
+    """Translate the following sentence from Chinese to English. I will give one example. Please follow exact same format.
+    
+    Example:
+    **Source in Chinese**:
+    空气污染是一个严重的问题，影响了全世界数百万人的健康。
+    **Translation in English**:
+    Air pollution is a serious problem that affects the health of millions of people worldwide.
+
+    Provided:    
+    **Source in Chinese**:
+    {}
+    """,
     ]
 
 class flores_zho2eng_dataset(object):
@@ -93,12 +101,18 @@ class flores_zho2eng_dataset(object):
             for item in data_with_model_predictions:
                 item['model_prediction'] = item['model_prediction'].split('\n')[0]
 
-        # as it's a translation task, we only take the content before the first '\n'
-        for item in data_with_model_predictions:
-            item['model_prediction'] = item['model_prediction'].strip().split('\n')[0]
+        # As this is a translation task, we only take the desired output from the model prediction.'
+        for item in data_with_model_predictions: # Add this for Sailor2-8B-Chat
+            text = item['model_prediction']
+            text = text.replace('*', '')
+
+            if "Translation in English:" in text:
+                text = text.split("Translation in English:")[1].strip()
+            text = text.split('\n')[0]
+            text = re.sub(r'\s*\(.*?\)', '', text).strip()
+            item['model_prediction'] = text
 
         return translation_bleu(data_with_model_predictions)
-
 
 
 

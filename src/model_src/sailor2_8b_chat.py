@@ -1,18 +1,3 @@
-#!/usr/bin/env python
-# -*- coding:utf-8 -*-
-###
-# Created Date: Friday, February 23rd 2024, 10:15:43 am
-# Author: Bin Wang
-# -----
-# Copyright (c) Bin Wang @ bwang28c@gmail.com
-# 
-# -----
-# HISTORY:
-# Date&Time 			By	Comments
-# ----------			---	----------------------------------------------------------
-# transformers==4.38.1
-
-
 import logging
 
 import torch
@@ -47,19 +32,9 @@ def sailor2_8b_chat_model_generation(self, batch_input):
 
         batch_input_templated.append(messages)
 
-        # one_input_templated = self.tokenizer.apply_chat_template(
-        #     messages,
-        #     return_tensors="pt",
-        #     tokenize=True,
-        #     add_generation_prompt=False,
-        # )
-        # batch_input_templated.append(one_input_templated)
-    #batch_input = batch_input_templated
-
     encoded_batch = self.tokenizer.apply_chat_template(batch_input_templated, return_tensors="pt", add_generation_prompt=True, padding=True, truncation=True, return_dict=True).to(self.model.device)
 
-    #encoded_batch        = self.tokenizer(batch_input, return_tensors="pt", padding=True, truncation=True).to(self.model.device)
-    generated_ids        = self.model.generate(**encoded_batch, max_new_tokens=self.max_new_tokens, pad_token_id=self.tokenizer.eos_token_id)
+    generated_ids        = self.model.generate(**encoded_batch, do_sample=False, max_new_tokens=self.max_new_tokens, pad_token_id=self.tokenizer.eos_token_id)
     generated_ids        = generated_ids[:, encoded_batch['input_ids'].shape[-1]:]
     decoded_batch_output = self.tokenizer.batch_decode(generated_ids, skip_special_tokens=True)
 

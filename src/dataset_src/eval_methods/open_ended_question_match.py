@@ -80,7 +80,6 @@ def model_judge(question, reference, prediction):
         score         = float(output.split()[-1])
         success       = 1
     except:
-        breakpoint()
         justification = ""
         score         = 0.0
         success       = 0

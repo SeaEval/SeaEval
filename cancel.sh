@@ -1,7 +1,9 @@
 
 
 
-for index in {5688..5718}
+for index in {14688..14734}
 do
-    qdel $index.pbs111
+    echo $index
+    qdel ${index}.pbs111
+
 done

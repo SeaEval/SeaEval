@@ -32,10 +32,6 @@ def cross_openhermes_llama3_8b_4096_2_inst_model_generation(self, batch_input):
 
     batch_input_templated = []
     for sample in batch_input:    
-        #messages = [
-        #                {"role": "user", "content": sample}
-        #            ]
-        #sample_templated = self.tokenizer.apply_chat_template(messages, return_tensors="pt", tokenize=False, add_generation_prompt=True)
         sample_templated = '<|im_start|> {} <|im_end|>'.format(sample)
         batch_input_templated.append(sample_templated)
     batch_input = batch_input_templated

@@ -61,7 +61,7 @@ def qwen2_5_instruct_model_generation(self, batch_input):
         batch_input_templated.append(one_input_templated)
     batch_input = batch_input_templated
 
-    encoded_batch      = self.tokenizer(batch_input, return_tensors="pt", padding=True, truncation=True).to(self.model.device)
+    encoded_batch        = self.tokenizer(batch_input, return_tensors="pt", padding=True, truncation=True).to(self.model.device)
     generated_ids        = self.model.generate(**encoded_batch, max_new_tokens=self.max_new_tokens, pad_token_id=self.tokenizer.eos_token_id)
     generated_ids        = generated_ids[:, encoded_batch['input_ids'].shape[-1]:]
     decoded_batch_output = self.tokenizer.batch_decode(generated_ids, skip_special_tokens=True)

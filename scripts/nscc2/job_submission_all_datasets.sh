@@ -1,29 +1,43 @@
 
 
-
-
-MODEL_NAME=llama3-8b-cpt-sea-lionv2.1-instruct
 MODEL_NAME=Gemma-2-9b-it-sg-ultrachat-sft
 MODEL_NAME=llama-own-4096-2-sg-ultrachat-sft-eos-real
-MODEL_NAME=gemma2-9b-cpt-sea-lionv3-instruct
-MODEL_NAME=llama3-8b-cpt-sea-lionv2.1-instruct
 MODEL_NAME=GPT4o_0513
 
 MODEL_NAME=merged_llama3_8b_sg_inst_avg_diff
-MODEL_NAME=Meta-Llama-3.1-8B-Instruct_run2
-
-MODEL_NAME=Sailor2-8B-Chat
 
 MODEL_NAME=merged_llama3_8b_sg_inst_avg_diff_run2
 
+MODEL_NAME=gemma2-9b-cpt-sea-lionv3-instruct
 
-qsub -v DATASET_NAME=cross_mmlu_no_prompt,MODEL_NAME=$MODEL_NAME scripts/nscc2/job_submission.sh
-qsub -v DATASET_NAME=cross_logiqa_no_prompt,MODEL_NAME=$MODEL_NAME scripts/nscc2/job_submission.sh
-qsub -v DATASET_NAME=cross_xquad_no_prompt,MODEL_NAME=$MODEL_NAME scripts/nscc2/job_submission.sh
+MODEL_NAME=Meta-Llama-3.1-8B-Instruct_run2
+
+MODEL_NAME=llama3-8b-cpt-sea-lionv2.1-instruct
+
+MODEL_NAME=Qwen2_5_7B_Instruct
+
+MODEL_NAME=gemma-2-9b-it
+
+MODEL_NAME=SeaLLMs-v3-7B-Chat
+
+
+MODEL_NAME=Sailor2-8B-Chat
+
+MODEL_NAME=cross_openhermes_llama3_8b_12288_inst
+
+
+MODEL_NAME=Meta-Llama-3-8B-Instruct
+
+
+echo "MODEL_NAME: $MODEL_NAME"
+
+# qsub -v DATASET_NAME=cross_mmlu_no_prompt,MODEL_NAME=$MODEL_NAME scripts/nscc2/job_submission.sh
+# qsub -v DATASET_NAME=cross_logiqa_no_prompt,MODEL_NAME=$MODEL_NAME scripts/nscc2/job_submission.sh
+# qsub -v DATASET_NAME=cross_xquad_no_prompt,MODEL_NAME=$MODEL_NAME scripts/nscc2/job_submission.sh
 
 qsub -v DATASET_NAME=mmlu_no_prompt,MODEL_NAME=$MODEL_NAME scripts/nscc2/job_submission.sh
 qsub -v DATASET_NAME=indommlu_no_prompt,MODEL_NAME=$MODEL_NAME scripts/nscc2/job_submission.sh
-qsub -v DATASET_NAME=sg_eval_v2_mcq_no_prompt,MODEL_NAME=$MODEL_NAME scripts/nscc2/job_submission.sh
+# qsub -v DATASET_NAME=sg_eval_v2_mcq_no_prompt,MODEL_NAME=$MODEL_NAME scripts/nscc2/job_submission.sh
 
 # qsub -v DATASET_NAME=mmlu,MODEL_NAME=$MODEL_NAME scripts/nscc2/job_submission.sh
 # qsub -v DATASET_NAME=indommlu,MODEL_NAME=$MODEL_NAME scripts/nscc2/job_submission.sh

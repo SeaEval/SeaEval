@@ -23,7 +23,6 @@ def cross_lingual_assessment(data_with_model_prediction):
     # Add align prediction to data_with_model_prediction
     for sample_set in tqdm(data_with_model_prediction):
 
-
         choices_list                = [sample_set[sample]['choices'] for sample in sample_set if sample != 'id']
         model_prediction_list       = [sample_set[sample]['model_prediction'] for sample in sample_set if sample != 'id']
         model_prediction_align_list = model_judge_align_batch(choices_list, model_prediction_list)
