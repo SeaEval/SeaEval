@@ -51,6 +51,7 @@ from dataset_src.mmlu_no_prompt import mmlu_no_prompt_dataset
 
 from dataset_src.c_eval import c_eval_dataset
 from dataset_src.cmmlu import cmmlu_dataset
+from dataset_src.cmmlu_no_prompt import cmmlu_no_prompt_dataset
 from dataset_src.zbench import zbench_dataset
 
 from dataset_src.indommlu import indommlu_dataset
@@ -136,6 +137,8 @@ class Dataset(object):
         
         elif self.dataset_name == 'c_eval': full_data = load_dataset('SeaEval/c_eval', split='test')
         elif self.dataset_name == 'cmmlu': full_data  = load_dataset('SeaEval/cmmlu', split='test')
+        elif self.dataset_name == 'cmmlu_no_prompt': full_data  = load_dataset('SeaEval/cmmlu', split='test')
+
         elif self.dataset_name == 'zbench': full_data = load_dataset('SeaEval/zbench', split='test')
 
         elif self.dataset_name == 'indommlu': full_data    = load_dataset('SeaEval/indommlu', split='test')
@@ -253,6 +256,10 @@ class Dataset(object):
 
         elif self.dataset_name == 'cmmlu':
             self.dataset_processor = cmmlu_dataset(self.raw_data, self.eval_mode, self.number_of_sample)
+            self.raw_data, self.data_plain = self.dataset_processor.prepare_model_input()
+
+        elif self.dataset_name == 'cmmlu_no_prompt':
+            self.dataset_processor = cmmlu_no_prompt_dataset(self.raw_data, self.eval_mode, self.number_of_sample)
             self.raw_data, self.data_plain = self.dataset_processor.prepare_model_input()
 
         elif self.dataset_name == 'zbench':

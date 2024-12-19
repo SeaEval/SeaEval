@@ -16,14 +16,20 @@ MODEL_NAME=llama3-8b-cpt-sea-lionv2.1-instruct
 MODEL_NAME=merged_llama3_8b_sg_inst_avg_diff
 MODEL_NAME=merged_llama3_8b_sg_inst_avg_diff_run2
 MODEL_NAME=llama3-8b-cpt-sea-lionv2.1-instruct
-MODEL_NAME=Meta-Llama-3.1-8B-Instruct_run2
 MODEL_NAME=Qwen2_5_7B_Instruct
 MODEL_NAME=gemma-2-9b-it
 MODEL_NAME=SeaLLMs-v3-7B-Chat
-MODEL_NAME=Meta-Llama-3-8B-Instruct
 MODEL_NAME=cross_openhermes_llama3_8b_12288_inst
-
 MODEL_NAME=Sailor2-8B-Chat
+MODEL_NAME=Meta-Llama-3-8B-Instruct
+MODEL_NAME=Meta-Llama-3.1-8B-Instruct
+
+MODEL_NAME=Qwen2-7B-Instruct
+MODEL_NAME=Qwen2_5_0_5B_Instruct
+
+MODEL_NAME=gemma-2-2b-it
+
+MODEL_NAME=llama3-8b-cpt-sea-lionv2-instruct
 
 #####
 GPU=1
@@ -39,11 +45,8 @@ DATASET=cross_xquad
 DATASET=cross_logiqa_no_prompt
 DATASET=indommlu_no_prompt
 DATASET=cross_mmlu_no_prompt
+DATASET=cmmlu_no_prompt
 
-DATASET=flores_ind2eng
-DATASET=flores_vie2eng
-DATASET=flores_zho2eng
-DATASET=flores_zsm2eng
 
 
 bash eval.sh $DATASET $MODEL_NAME $BATCH_SIZE $EVAL_MODE $OVERWRITE $NUMBER_OF_SAMPLES $GPU 

@@ -4,16 +4,14 @@ import json
 
 
 DATASETS_TO_CHECK = [
-    'sg_eval_v2_open',
-    'sg_eval_v2_mcq',
-    'sg_eval_v2_mcq_no_prompt',
-    'cross_mmlu',
     'cross_mmlu_no_prompt',
-    'cross_logiqa',
     'cross_logiqa_no_prompt',
-    'cross_xquad',
     'cross_xquad_no_prompt',
-    'sg_eval',
+    'mmlu_no_prompt',
+    'indommlu_no_prompt',
+    'sg_eval_v2_mcq_no_prompt',
+    'cmmlu_no_prompt',
+    'sg_eval_v2_open',
     'cn_eval',
     'us_eval',
     'ph_eval',
@@ -21,14 +19,8 @@ DATASETS_TO_CHECK = [
     'flores_vie2eng',
     'flores_zho2eng',
     'flores_zsm2eng',
-    'cmmlu',
     'c_eval',
-    'mmlu',
-    'mmlu_no_prompt',
-    'sg_eval_v1_cleaned',
     'zbench',
-    'indommlu',
-    'indommlu_no_prompt',
     'ind_emotion',
     'ocnli',
     'c3',
@@ -54,6 +46,9 @@ MODEL_NAME_TO_CHECK = os.listdir('log')
 MODEL_NAME_TO_CHECK.sort()
 
 for MODEL_NAME in MODEL_NAME_TO_CHECK:
+
+    if MODEL_NAME == 'old_log':
+        continue
     print(f"Checking {MODEL_NAME}")
 
     if MODEL_NAME in [

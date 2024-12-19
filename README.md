@@ -71,12 +71,8 @@ bash eval.sh $DATASET $MODEL_NAME $BATCH_SIZE $EVAL_MODE $OVERWRITE $NUMBER_OF_S
 #    ...
 
 ```
-The example is how to get started. To evaluate on the full datasets, please refer to [Examples](./examples/).
 
-```shell
-# Run the evaluation script for all datasets
-bash demo.sh
-```
+A full list of dataset names can be found [here](scripts/nscc2/job_submission_all_datasets.sh).
 
 
 
