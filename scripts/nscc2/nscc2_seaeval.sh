@@ -1,11 +1,14 @@
 
 
-export CUDA_VISIBLE_DEVICES=0
+# === Start of the script ===
+# ========================================
+# This part is initializing the VLLM server as the model judge
+# It serves on the fist GPU
 
+export CUDA_VISIBLE_DEVICES=0
 export no_proxy=localhost,127.0.0.1,10.104.0.0/21
 export https_proxy=http://10.104.4.124:10104
 export http_proxy=http://10.104.4.124:10104
-
 export HF_ENDPOINT=https://hf-mirror.com
 export HF_HOME=$HF_HOME
 
@@ -33,14 +36,16 @@ echo "Started server on port $MY_VLLM_PORT_JUDGE"
 
 sleep 120
 
-export AZURE_OPENAI_KEY=a989ad2489a640e6995e63b13d85ca6d
+
+# ========================================
+# This part is for model inference
+
+export AZURE_OPENAI_KEY=xxx
  
 ##### 
-# MODEL_NAME=cross_openhermes_llama3_8b_8192_inst
 GPU=1
-BATCH_SIZE=8
+BATCH_SIZE=2
 EVAL_MODE=zero_shot
-#EVAL_MODE=five_shot
 OVERWRITE=False
 NUMBER_OF_SAMPLES=-1
 #####

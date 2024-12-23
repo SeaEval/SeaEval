@@ -14,8 +14,8 @@
 
 # HF
 HF_ENDPOINT=https://hf-mirror.com
-HF_HOME=/project/huggingface_cache
-NLTK_DATA="/project/nltk_data"
+HF_HOME=/project/cache/huggingface_cache
+NLTK_DATA="/project/cache/nltk_data"
 
 
 enroot start \

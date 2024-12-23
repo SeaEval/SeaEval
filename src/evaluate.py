@@ -29,8 +29,8 @@ import nltk
 
 #nltk.data.path = ['/home/users/astar/ares/wangb1/scratch/nltk_data']
 #print(nltk.data.path)
-nltk.download('punkt', download_dir='/project/nltk_data')
-nltk.download('punkt_tab', download_dir='/project/nltk_data')
+nltk.download('punkt', download_dir='/project/cache/nltk_data')
+nltk.download('punkt_tab', download_dir='/project/cache/nltk_data')
 #nltk.download('punkt_tab')
 #nltk.download('punkt')
 

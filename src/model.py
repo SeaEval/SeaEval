@@ -116,6 +116,32 @@ class Model(object):
             from model_src.meta_llama_3_8b_instruct import meta_llama_3_8b_instruct_model_loader
             meta_llama_3_8b_instruct_model_loader(self)
 
+        elif self.model_name == 'Meta-Llama-3.1-8B-Instruct':
+            from model_src.meta_llama_3_1_8b_instruct_run2 import meta_llama_3_1_8b_instruct_run2_model_loader
+            meta_llama_3_1_8b_instruct_run2_model_loader(self)
+
+        elif self.model_name == 'merged_llama3_8b_sg_inst_avg_diff':
+            from model_src.merged_llama3_8b_sg_inst_avg_diff_run2 import merged_llama3_8b_sg_inst_avg_diff_run2_model_loader
+            merged_llama3_8b_sg_inst_avg_diff_run2_model_loader(self)
+
+        elif self.model_name == 'cross_openhermes_llama3_8b_12288_inst':
+            from model_src.cross_openhermes_llama3_8b_12288_inst import cross_openhermes_llama3_8b_12288_inst_model_loader
+            cross_openhermes_llama3_8b_12288_inst_model_loader(self)
+
+        elif self.model_name == 'Sailor2-8B-Chat':
+            from model_src.sailor2_8b_chat import sailor2_8b_chat_model_loader
+            sailor2_8b_chat_model_loader(self)
+
+        elif self.model_name == 'llama3.1-70b-cpt-sea-lionv3-instruct':
+            from model_src.llama3_1_70b_cpt_sea_lionv3_instruct import llama3_1_70b_cpt_sea_lionv3_instruct_model_loader
+            llama3_1_70b_cpt_sea_lionv3_instruct_model_loader(self)
+
+        elif self.model_name == 'llama3.1-8b-cpt-sea-lionv3-instruct':
+            from model_src.llama3_1_8b_cpt_sea_lionv3_instruct import llama3_1_8b_cpt_sea_lionv3_instruct_model_loader
+            llama3_1_8b_cpt_sea_lionv3_instruct_model_loader(self)
+
+
+
         elif self.model_name == 'Meta-Llama-3-70B-Instruct': meta_llama_3_70b_instruct_model_loader(self)
         elif self.model_name == 'Meta-Llama-3-8B': meta_llama_3_8b_model_loader(self)
         elif self.model_name == 'Meta-Llama-3-70B': meta_llama_3_70b_model_loader(self)
@@ -124,9 +150,9 @@ class Model(object):
         elif self.model_name == 'Meta-Llama-3.1-8B': meta_llama_3_1_8b_model_loader(self)
         elif self.model_name == 'Meta-Llama-3.1-70B': meta_llama_3_1_70b_model_loader(self)
 
-        elif self.model_name == 'Meta-Llama-3.1-8B-Instruct':
-            from model_src.meta_llama_3_1_8b_instruct_run2 import meta_llama_3_1_8b_instruct_run2_model_loader
-            meta_llama_3_1_8b_instruct_run2_model_loader(self)
+
+
+
 
 
         elif self.model_name == 'Meta-Llama-3.1-70B-Instruct': meta_llama_3_1_70b_instruct_model_loader(self)
@@ -147,32 +173,7 @@ class Model(object):
         elif self.model_name == 'gemma2-9b-cpt-sea-lionv3-instruct': gemma2_9b_cpt_sea_lionv3_instruct_model_loader(self)
 
 
-        elif self.model_name == 'merged_llama3_8b_sg_inst_avg_diff':
-            from model_src.merged_llama3_8b_sg_inst_avg_diff_run2 import merged_llama3_8b_sg_inst_avg_diff_run2_model_loader
-            merged_llama3_8b_sg_inst_avg_diff_run2_model_loader(self)
 
-
-        elif self.model_name == 'cross_openhermes_llama3_8b_12288_inst':
-            from model_src.cross_openhermes_llama3_8b_12288_inst import cross_openhermes_llama3_8b_12288_inst_model_loader
-            cross_openhermes_llama3_8b_12288_inst_model_loader(self)
-
-
-        elif self.model_name == 'Sailor2-8B-Chat':
-            from model_src.sailor2_8b_chat import sailor2_8b_chat_model_loader
-            sailor2_8b_chat_model_loader(self)
-
-
-        #elif self.model_name == 'sg_llama3_70b_inst': sg_llama3_70b_inst_model_loader(self)
-        #elif self.model_name == 'cross_openhermes_llama3_8b_4096_inst': cross_openhermes_llama3_8b_4096_inst_model_loader(self)
-        #elif self.model_name == 'cross_openhermes_llama3_8b_4096_2_inst': cross_openhermes_llama3_8b_4096_2_inst_model_loader(self)
-        #elif self.model_name == 'cross_openhermes_llama3_70b_4096_inst': cross_openhermes_llama3_70b_4096_inst_model_loader(self)
-        #elif self.model_name == 'cross_openhermes_llama3_70b_4096_inst_2': cross_openhermes_llama3_70b_4096_inst_2_model_loader(self)
-        #elif self.model_name == 'sg_llama3_8192_8b': sg_llama3_8192_8b_model_loader(self)
-        #elif 'cross_openhermes_llama3_8b' in self.model_name: cross_openhermes_llama3_8b_4096_inst_model_loader(self)
-        #elif self.model_name == 'Gemma-2-9b-it-sg-ultrachat-sft': gemma_2_9b_it_sg_ultrachat_sft_model_loader(self)
-        #elif self.model_name == 'llama-own-4096-2-sg-ultrachat-sft-eos-real': llama_own_4096_2_sg_ultrachat_sft_eos_real_model_loader(self)
-
-        
 
         # OLD
         elif self.model_name == 'mistral_7b_instruct_v0_2_demo': mistral_7b_instruct_v0_2_demo_model_loader(self)
@@ -228,7 +229,36 @@ class Model(object):
         elif self.model_name == 'Meta-Llama-3-8B-Instruct': 
             from model_src.meta_llama_3_8b_instruct import meta_llama_3_8b_instruct_model_generation
             return meta_llama_3_8b_instruct_model_generation(self, batch_input)
+
+        elif self.model_name == 'merged_llama3_8b_sg_inst_avg_diff': 
+            from model_src.merged_llama3_8b_sg_inst_avg_diff_run2 import merged_llama3_8b_sg_inst_avg_diff_run2_model_generation
+            return merged_llama3_8b_sg_inst_avg_diff_run2_model_generation(self, batch_input) 
+
+        elif self.model_name == 'Sailor2-8B-Chat':
+            from model_src.sailor2_8b_chat import sailor2_8b_chat_model_generation
+            return sailor2_8b_chat_model_generation(self, batch_input)
+
+        elif self.model_name == 'Meta-Llama-3.1-8B-Instruct':
+            from model_src.meta_llama_3_1_8b_instruct_run2 import meta_llama_3_1_8b_instruct_run2_model_generation
+            return meta_llama_3_1_8b_instruct_run2_model_generation(self, batch_input)
+
+        elif self.model_name == 'merged_llama3_8b_sg_inst_avg_diff': 
+            from model_src.merged_llama3_8b_sg_inst_avg_diff_run2 import merged_llama3_8b_sg_inst_avg_diff_run2_model_generation
+            return merged_llama3_8b_sg_inst_avg_diff_run2_model_generation(self, batch_input) 
         
+        elif self.model_name == 'cross_openhermes_llama3_8b_12288_inst':
+            from model_src.cross_openhermes_llama3_8b_12288_inst import cross_openhermes_llama3_8b_12288_inst_model_generation
+            return cross_openhermes_llama3_8b_12288_inst_model_generation(self, batch_input) 
+
+        elif self.model_name == 'llama3.1-70b-cpt-sea-lionv3-instruct':
+            from model_src.llama3_1_70b_cpt_sea_lionv3_instruct import llama3_1_70b_cpt_sea_lionv3_instruct_model_generation
+            return llama3_1_70b_cpt_sea_lionv3_instruct_model_generation(self, batch_input) 
+        
+        elif self.model_name == 'llama3.1-8b-cpt-sea-lionv3-instruct':
+            from model_src.llama3_1_8b_cpt_sea_lionv3_instruct import llama3_1_8b_cpt_sea_lionv3_instruct_model_generation
+            return llama3_1_8b_cpt_sea_lionv3_instruct_model_generation(self, batch_input)
+
+
         elif self.model_name == 'Meta-Llama-3-70B-Instruct': return meta_llama_3_70b_instruct_model_generation(self, batch_input)
         elif self.model_name == 'Meta-Llama-3-8B': return meta_llama_3_8b_model_generation(self, batch_input)
         elif self.model_name == 'Meta-Llama-3-70B': return meta_llama_3_70b_model_generation(self, batch_input)
@@ -255,25 +285,6 @@ class Model(object):
 
 
 
-        elif self.model_name == 'merged_llama3_8b_sg_inst_avg_diff': 
-            from model_src.merged_llama3_8b_sg_inst_avg_diff_run2 import merged_llama3_8b_sg_inst_avg_diff_run2_model_generation
-            return merged_llama3_8b_sg_inst_avg_diff_run2_model_generation(self, batch_input) 
-
-        elif self.model_name == 'Sailor2-8B-Chat':
-            from model_src.sailor2_8b_chat import sailor2_8b_chat_model_generation
-            return sailor2_8b_chat_model_generation(self, batch_input)
-
-        elif self.model_name == 'Meta-Llama-3.1-8B-Instruct':
-            from model_src.meta_llama_3_1_8b_instruct_run2 import meta_llama_3_1_8b_instruct_run2_model_generation
-            return meta_llama_3_1_8b_instruct_run2_model_generation(self, batch_input)
-
-        elif self.model_name == 'merged_llama3_8b_sg_inst_avg_diff': 
-            from model_src.merged_llama3_8b_sg_inst_avg_diff_run2 import merged_llama3_8b_sg_inst_avg_diff_run2_model_generation
-            return merged_llama3_8b_sg_inst_avg_diff_run2_model_generation(self, batch_input) 
-        
-        elif self.model_name == 'cross_openhermes_llama3_8b_12288_inst':
-            from model_src.cross_openhermes_llama3_8b_12288_inst import cross_openhermes_llama3_8b_12288_inst_model_generation
-            return cross_openhermes_llama3_8b_12288_inst_model_generation(self, batch_input) 
 
 
 
