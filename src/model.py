@@ -120,7 +120,7 @@ class Model(object):
             from model_src.meta_llama_3_1_8b_instruct_run2 import meta_llama_3_1_8b_instruct_run2_model_loader
             meta_llama_3_1_8b_instruct_run2_model_loader(self)
 
-        elif self.model_name == 'merged_llama3_8b_sg_inst_avg_diff':
+        elif self.model_name == 'meralion-merged-llama3-8b-sg-inst-avg-diff':
             from model_src.merged_llama3_8b_sg_inst_avg_diff_run2 import merged_llama3_8b_sg_inst_avg_diff_run2_model_loader
             merged_llama3_8b_sg_inst_avg_diff_run2_model_loader(self)
 
@@ -230,10 +230,6 @@ class Model(object):
             from model_src.meta_llama_3_8b_instruct import meta_llama_3_8b_instruct_model_generation
             return meta_llama_3_8b_instruct_model_generation(self, batch_input)
 
-        elif self.model_name == 'merged_llama3_8b_sg_inst_avg_diff': 
-            from model_src.merged_llama3_8b_sg_inst_avg_diff_run2 import merged_llama3_8b_sg_inst_avg_diff_run2_model_generation
-            return merged_llama3_8b_sg_inst_avg_diff_run2_model_generation(self, batch_input) 
-
         elif self.model_name == 'Sailor2-8B-Chat':
             from model_src.sailor2_8b_chat import sailor2_8b_chat_model_generation
             return sailor2_8b_chat_model_generation(self, batch_input)
@@ -242,7 +238,7 @@ class Model(object):
             from model_src.meta_llama_3_1_8b_instruct_run2 import meta_llama_3_1_8b_instruct_run2_model_generation
             return meta_llama_3_1_8b_instruct_run2_model_generation(self, batch_input)
 
-        elif self.model_name == 'merged_llama3_8b_sg_inst_avg_diff': 
+        elif self.model_name == 'meralion-merged-llama3-8b-sg-inst-avg-diff': 
             from model_src.merged_llama3_8b_sg_inst_avg_diff_run2 import merged_llama3_8b_sg_inst_avg_diff_run2_model_generation
             return merged_llama3_8b_sg_inst_avg_diff_run2_model_generation(self, batch_input) 
         

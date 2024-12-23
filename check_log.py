@@ -20,7 +20,6 @@ DATASETS_TO_CHECK = [
     'flores_zho2eng',
     'flores_zsm2eng',
     'c_eval',
-    'zbench',
     'ind_emotion',
     'ocnli',
     'c3',

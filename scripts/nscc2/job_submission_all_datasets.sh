@@ -50,7 +50,7 @@ qsub -v DATASET_NAME=flores_zsm2eng,MODEL_NAME=$MODEL_NAME scripts/nscc2/job_sub
 qsub -v DATASET_NAME=cn_eval,MODEL_NAME=$MODEL_NAME scripts/nscc2/job_submission.sh
 qsub -v DATASET_NAME=us_eval,MODEL_NAME=$MODEL_NAME scripts/nscc2/job_submission.sh
 qsub -v DATASET_NAME=ph_eval,MODEL_NAME=$MODEL_NAME scripts/nscc2/job_submission.sh
-qsub -v DATASET_NAME=zbench,MODEL_NAME=$MODEL_NAME scripts/nscc2/job_submission.sh
+
 qsub -v DATASET_NAME=ocnli,MODEL_NAME=$MODEL_NAME scripts/nscc2/job_submission.sh
 qsub -v DATASET_NAME=c3,MODEL_NAME=$MODEL_NAME scripts/nscc2/job_submission.sh
 qsub -v DATASET_NAME=dream,MODEL_NAME=$MODEL_NAME scripts/nscc2/job_submission.sh
