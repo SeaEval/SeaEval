@@ -22,6 +22,8 @@ MODEL_NAME=llama3-8b-cpt-sea-lionv2-instruct
 MODEL_NAME=Meta-Llama-3.1-70B-Instruct
 MODEL_NAME=llama3.1-70b-cpt-sea-lionv3-instruct
 MODEL_NAME=llama3.1-8b-cpt-sea-lionv3-instruct
+MODEL_NAME=Sailor2-20B-Chat
+MODEL_NAME=Meta-Llama-3-70B-Instruct
 
 
 

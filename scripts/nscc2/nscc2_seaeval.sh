@@ -34,7 +34,7 @@ python -m vllm.entrypoints.openai.api_server \
         
 echo "Started server on port $MY_VLLM_PORT_JUDGE"
 
-sleep 120
+sleep 160
 
 
 # ========================================
@@ -43,7 +43,7 @@ sleep 120
 export AZURE_OPENAI_KEY=xxx
  
 ##### 
-GPU=1
+GPU=1,2
 BATCH_SIZE=2
 EVAL_MODE=zero_shot
 OVERWRITE=False

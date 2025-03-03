@@ -1,6 +1,6 @@
 #!/bin/bash
 #PBS -N wb_seaeval
-#PBS -l select=1:ncpus=32:ngpus=2:mem=1887gb:container_engine=enroot
+#PBS -l select=1:ncpus=32:ngpus=3:mem=1887gb:container_engine=enroot
 #PBS -l walltime=120:00:00
 #PBS -j oe
 #PBS -k oed
